@@ -1,0 +1,252 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Use of high-risk medications in the elderly: percentage of Medicare members 66 years of age and older who received at least one high-risk medication.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of Medicare members 66 years of age and older who received at least one high-risk medication.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related National Quality Measures Clearinghouse (NQMC) summary of the National Committee for Quality Assurance (NCQA) measure &lt;a href=&quot;/content.aspx?id=49752&quot; title=&quot;Measure Summary&quot; target=&quot;_blank&quot;&gt;Use of high-risk medications in the elderly: percentage of Medicare members 66 years of age and older who received at least two different high-risk medications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This patient safety measure addresses medication management to prevent the harms associated with certain medications in the elderly. It identifies high-risk medications that should be avoided in the elderly population. Certain medications are associated with increased risk of harms from drug side-effects and drug toxicity, and pose a concern for patient safety (McLeod et al., 1997; Murray, 2000; Roose &amp;amp; Spatz, 1999). There is clinical consensus that these drugs pose increased risks in the elderly (Graal &amp;amp; Wolffenbuttel, 1999; Zhan et al., 2001; Fick et al., 2003). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The National Committee for Quality Assurance (NCQA) used the 2012 American Geriatrics Society (AGS)&amp;nbsp;Updated Beers Criteria for Potentially Inappropriate Medication Use in Older Adults as a clinical foundation for this measure. The development of the 2012 Updated Beers Criteria was based on an extensive literature review and discussion by a panel of experts in geriatric care and pharmacotherapy. The Updated Beers Criteria is intended as a tool that both identifies and describes drugs and drug-disease interactions that should generally be avoided in people 65 years of age and older, because these drugs pose unnecessary risk for older adults (AGS 2012 Beers Criteria Update Expert Panel, 2012). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Appropriate use of prescription drugs in the elderly, including proper drug selection, has been identified as an important quality of care issue, and explicit criteria defining inappropriate drug use as an important tool in the evaluation of prescribing to populations (Graal &amp;amp; Wolffenbuttel, 1999; Zhan et al., 2001). Studies link prescription drug use by the elderly with adverse drug events that contribute to hospitalization, increased length of hospital stay, increased duration of illness, nursing home placement and falls and fractures that are further associated with physical, functional and social decline in the elderly (Fu, Liu, &amp;amp; Christensen, 2004; Bates, 1999).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reducing prescriptions of high-risk drugs in the elderly also represents an opportunity to reduce the costs associated with the harm from medications (e.g., hospitalizations from drug toxicity) and to encourage clinicians to consider safer, alternative medications. Reducing unnecessary prescribing will also help to reduce cost, given that the elderly population represents one-third of all prescription drug expenditures in the United States (U.S.), but comprises only 13 percent of the population (Families USA, 2000).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Geriatrics Society 2012 Beers Criteria Update Expert Panel. American Geriatrics Society updated Beers Criteria for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2012 Apr;60(4):616-31. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22376048&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bates DW. Frequency, consequences and prevention of adverse drug events. J Qual Clin Pract. 1999 Mar;19(1):13-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10096718&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Families USA. Cost overdose: growth in drug spending for the elderly, 1992-2010. Washington (DC): Families USA; 2000. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fick DM, Cooper JW, Wade WE, Waller JL, Maclean JR, Beers MH. Updating the Beers criteria for potentially inappropriate medication use in older adults: results of a US consensus panel of experts. Arch Intern Med. 2003 Dec 8-22;163(22):2716-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14662625&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fu AZ, Liu GG, Christensen DB. Inappropriate medication use and health outcomes in the elderly. J Am Geriatr Soc. 2004 Nov;52(11):1934-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15507075&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Graal MB, Wolffenbuttel BH. The use of sulphonylureas in the elderly. Drugs Aging. 1999 Dec;15(6):471-81. [74 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10641958&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McLeod PJ, Huang AR, Tamblyn RM, Gayton DC. Defining inappropriate practices in prescribing for elderly people: a national consensus panel. CMAJ. 1997 Feb 1;156(3):385-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9033421&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Murray JB. Cardiac disorders and antidepressant medications. J Psychol. 2000 Mar;134(2):162-8. [42 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10766108&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Roose SP, Spatz E. Treatment of depression in patients with heart disease. J Clin Psychiatry. 1999;60 Suppl 2:34-7. [37 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10513857&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Zhan C, Sangl J, Bierman AS, Miller MR, Friedman B, Wickizer SW, Meyer GS. Potentially inappropriate medication use in the community-dwelling elderly: findings from the 1996 Medical Expenditure Panel Survey. JAMA. 2001 Dec 12;286(22):2823-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11735757&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Medication safety; high-risk medications; elderly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Medicare members age 66 years and older as of December 31 of the measurement year (see the &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members who received at least one high-risk medication during the measurement year (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Prescription drug use by the elderly can often result in adverse drug events that contribute to hospitalization, increased duration of illness, nursing home placement, falls and fractures. Despite widely accepted medical consensus that certain drugs increase the risk of harm to the elderly (Fick et al., 2003), these drugs continue to be prescribed. Because older adults are more likely to take multiple medications for multiple conditions, they are also at higher risk of potentially harmful drug-disease interactions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Health care costs linked to prescriptions of potentially inappropriate medications in the elderly average $7.2 billion a year (Fu et al., 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Almost 40 percent of adults 65 and older report being on five or more medications (National Center for Health Statistics NCHS], 2014). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Approximately 15 percent of adverse drug events occur in the elderly; 28 percent of hospitalizations of older adults are due to inappropriate use of medications (Pretorius et al., 2013; American Geriatrics Society [AGS], 2011). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Avoiding the use of high-risk drugs is an important, simple and effective strategy in reducing medication-related problems and adverse drug events in older adults (AGS, 2012). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Geriatrics Society (AGS). American Geriatrics Society updated Beers criteria for potentially inappropriate medication use in older adults. New York (NY): American Geriatrics Society (AGS); 2012. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Geriatrics Society (AGS). Medication management for older adults. New York (NY): American Geriatrics Society (AGS); 2011. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fick DM, Cooper JW, Wade WE, Waller JL, Maclean JR, Beers MH. Updating the Beers criteria for potentially inappropriate medication use in older adults: results of a US consensus panel of experts. Arch Intern Med. 2003 Dec 8-22;163(22):2716-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14662625&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fu AZ, Jiang JZ, Reeves JH, Fincham JE, Liu GG, Perri M 3rd. Potentially inappropriate medication use and healthcare expenditures in the US community-dwelling elderly. Med Care. 2007 May;45(5):472-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17446834&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Health Statistics. Health, United States, 2013: with special feature on prescription drugs. Hyattsville (MD): Centers for Disease Control and Prevention, National Center for Health Statistics; 2014 May. 497 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). The state of health care quality 2015. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. 205 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pretorius RW, Gataric G, Swedlund SK, Miller JR. Reducing the risk of adverse drug events in older adults. Am Fam Physician. 2013 Mar 1;87(5):331-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23547549&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA's) Committee on Performance Measurement and Board of Directors. Where applicable, measures also are assessed for construct validity using the Pearson correlation test. All measures undergo formal reliability testing of the performance measure score using beta-binomial statistical analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Mar 16. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 66 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medicare members age 66 years and older as of December 31 of the measurement year&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Members must have been continuously enrolled during the measurement year. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Allowable Gap&lt;/em&gt;: No more than one gap in enrollment of up to 45 days during the measurement year. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Members who received at least one high-risk medication during the measurement year&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A high-risk medication is defined as any of the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A dispensed prescription for a medication in Table DAE-A (refer to Table DAE-A in the original measure documentation for a list of high-risk medications) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dispensed prescriptions that meet days supply criteria within a medication class in Table DAE-B (refer to Table DAE-B in the original measure documentation for a list of high-risk medications with days supply criteria) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A dispensed prescription that meets average daily dose criteria in Table DAE-C (refer to Table DAE-C in the original measure documentation for a list of high-risk medications with average daily dose criteria) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Calculating Days Supply&lt;/em&gt;: Calculate the days supply during the measurement year for medication classes in Table DAE-B. The intent is to sum the days supply for all medications (listed in the Prescription column) within a medication class (listed in the Description column). Sum the days supply and subtract any days supply that extends beyond December 31 of the measurement year. Medications dispensed in the year prior to the measurement year with a days supply that extends into the measurement year count toward the total days supply. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Calculating Average Daily Dose&lt;/em&gt;: Calculate the average daily dose for medications in Table DAE-C. Multiply the quantity of pills dispensed by the dose of each pill and divide by days supply. To calculate daily dose for elixirs and concentrates, multiply the volume dispensed by dose and divide by days supply. Do not round when calculating average daily dose. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Pharmacy data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Use of high-risk medications in the elderly (DAE): at least one high-risk medication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="HEDIS 2016: Health Plan Collection" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Effectiveness of Care" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Overuse/Appropriateness" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Jan 6&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;&gt;National Committee for Quality Measurement (NCQA) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). The state of health care quality 2015. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct. 205 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical update. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct 1. 12 p.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the National Committee for Quality Assurance (NCQA) at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on June 6, 2006. The information was not verified by the measure developer. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on January 31, 2007. The updated information was not verified by the measure developer. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on April 21, 2008. The information was verified by the measure developer on May 30, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 20, 2009. The information was verified by the measure developer on May 29, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on January 30, 2010 and on May 31, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 1, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on September 14, 2012, April 30, 2013, January 23, 2014, February 11, 2015, and again on February 9, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Content adapted and reproduced with permission from the National Committee for Quality Assurance (NCQA). HEDIS&amp;reg; is a registered trademark of NCQA. HEDIS measures and specifications were developed by and are owned and copyrighted by NCQA. HEDIS measures and specifications are not clinical guidelines and do not establish a standard of medical care. NCQA makes no representations, warranties, or endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measures or specifications. Limited proprietary coding is contained in the measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. NCQA disclaims all liability for use or accuracy of any coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Anyone desiring to use or reproduce the measure abstracts without modification for a non-commercial purpose may do so without obtaining any approval from NCQA. All commercial uses of the measure abstracts must be approved by NCQA and are subject to a license at the discretion of NCQA. To purchase copies of the full measures and specifications, which contain additional distribution and use restrictions, contact NCQA Customer Support at 888-275-7585 or visit &lt;a href=&quot;https://www.ncqa.org/publications&quot; title=&quot;National Committee for Quality Assurance (NCQA) Web site&quot;&gt;www.ncqa.org/publications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

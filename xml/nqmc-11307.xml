@@ -1,0 +1,241 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Coronary artery bypass graft (CABG): hospital 30-day, all-cause risk-standardized mortality rate (RSMR) following isolated CABG surgery.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 procedure-specific measure updates and specifications report: hospital-level 30-day risk-standardized mortality measure. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 46 p.  [9 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure estimates a hospital-level, 30-day risk-standardized mortality rate (RSMR) for patients discharged from the hospital following isolated coronary artery bypass graft (CABG) surgery. Mortality is defined as death from any cause within 30 days of the procedure date. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) annually reports the measure for individuals who are 65 years and older and are Medicare Fee-for-Service (FFS) beneficiaries hospitalized in non-federal short-term acute care hospitals (including Indian Health Services hospitals) and critical access hospitals.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Outcome measures can focus attention on a broad set of healthcare activities that affect patients' well-being. Moreover, improving patient outcomes is the ultimate goal of quality improvement, so outcomes are a direct measure of success in quality improvement. Two statutes direct the Department of Health and Human Services to develop outcomes measures. The Deficit Reduction Act (DRA) of 2005 mandated that the Secretary of Health and Human Services publicly report quality measures that include measures of hospital outcomes and efficiency under the Hospital Inpatient Quality Reporting (IQR) Program (formerly the Reporting Hospital Quality Data for Annual Payment Update Program). In addition, the Affordable Care Act of 2010 promotes the further development and use of outcomes measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The goal of outcomes measurement is to evaluate patient outcomes after accounting for patients' conditions at the time of hospital admission (hospital case-mix). This mortality measure was developed to identify hospitals that perform better or worse than would be expected based on their patient case-mix, and therefore to promote hospital quality improvement and better inform consumers about quality of care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research &amp; Evaluation (CORE). Hospital-level 30-day all-cause mortality following coronary artery bypass graft surgery: updated measure methodology report. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2014 Jun 6. 101 p.  [8 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Coronary artery bypass graft (CABG); 30-day mortality rate&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure cohort consists of admissions for Medicare Fee-for-Service (FFS) beneficiaries aged 65 years or older and discharged from non-federal acute care hospitals and critical access hospitals, having a qualifying isolated coronary artery bypass graft (CABG) surgery during the index admission. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the denominator is the number of deaths expected based on the nation's performance with that hospital's case mix.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the measure cohort.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;2017 Procedure-specific Measure Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measure&lt;/em&gt; for more details. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure counts death from any cause within 30 days of the procedure date.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the numerator of the ratio is the number of deaths within 30 days predicted based on the hospital's performance with its observed case mix.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the outcome.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;2017 Procedure-specific Measure Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measure&lt;/em&gt; for more details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Coronary artery bypass graft (CABG) is a priority area for outcomes measure development because it is a common procedure associated with considerable morbidity, mortality, and health care spending. In 2007, there were 114,028 hospitalizations for CABG surgery and 137,721 hospitalizations for combined surgeries for CABG and valve procedures (&quot;CABG plus valve&quot; surgeries) among Medicare Fee-for-Service (FFS) patients in the United States (Drye et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CABG surgeries are costly procedures that account for the majority of major cardiac surgeries performed nationally. In fiscal year 2009, isolated CABG surgeries accounted for almost half (47.6%) of all cardiac surgery hospital admissions in Massachusetts (Massachusetts Data Analysis Center, 2011). In 2008, the average Medicare payment was $30,546 for CABG without valve and $47,669 for CABG plus valve surgeries (Pennsylvania Health Care Cost Containment Council [PCH4], 2011). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mortality rates following CABG surgery vary across hospitals. The unadjusted mean hospital mortality rate in the January 2009 to September 2011 sample of Medicare FFS patients undergoing isolated CABG surgery is 3.7% and ranges from 0% to 100% with a median of 2.9% (25th and 75th percentiles are 1.5% and 4.8%, respectively). The variation persists after risk adjustment. The mean risk-standardized mortality rate (RSMR) is 3.3% with a range from 1.5% to 9.3%. The median risk-standardized mortality rate is 3.1% (25th and 75th percentiles are 2.7% and 3.7%, respectively). Similarly, published data also demonstrate variation in mortality rates. The observed operative (i.e., in-hospital or within 30-days of surgery) all-cause, hospital-level mortality rate was 1.81% and ranged from 0.0% to 5.6% among patients who were discharged after CABG surgery (without any other major heart surgery) in New York in 2008 (New York State Department of Health, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Drye E, Krumholz H, Vellanky S, Wang Y. Probing new conditions and procedures for new measure development. New Haven (CT): Yale New Haven Health Systems Corporation; Center for Outcomes Research and Evaluation; 2009. 7 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Massachusetts Data Analysis Center. Adult coronary artery bypass graft surgery in the commonwealth of Massachusetts. Fiscal year 2009 report (October 1, 2008 through September 20, 2009). Hospital and surgeon risk-standardized 30-day mortality rates. Boston (MA): Massachusetts Department of Public Health; 2011 Jan. 77 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;New York State Department of Health. Adult cardiac surgery in New York State 2006-2008. Albany (NY): New York State Department of Health; 2010 Dec. 54 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pennsylvania Health Care Cost Containment Council (PCH4). Cardiac surgery in Pennsylvania 2008-2009. Harrisburg (PA): Pennsylvania Health Care Cost Containment Council (PCH4); 2011 May. 60 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research &amp; Evaluation (CORE). Hospital-level 30-day all-cause mortality following coronary artery bypass graft surgery: updated measure methodology report. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2014 Jun 6. 101 p.  [8 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Assessment of Updated Model&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The coronary artery bypass graft (CABG) surgery mortality measure estimates hospital-specific 30-day all-cause risk-standardized mortality rates (RSMRs) using a hierarchical logistic regression model. Refer to Section 2 for a summary of the measure methodology and model risk-adjustment variables. Refer to prior methodology and technical reports for further details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) evaluated and validated the performance of the model using the July 2013 to June 2016 data for the 2017 public reporting period. They also evaluated the stability of the risk-adjustment model over the three-year measurement period by examining the model variable frequencies, model coefficients, and the performance of the risk-adjustment model in each year. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS assessed logistic regression model performance in terms of discriminant ability for each year of data and for the three-year combined period. They computed two summary statistics to assess model performance: the predictive ability and the area under the receiver operating characteristic (ROC) curve (c-statistic). CMS also computed between-hospital variance for each year of data and for the three-year combined period. If there were no systematic differences between hospitals, the between-hospital variance would be zero.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of these analyses are presented in Section 4.2 of the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;CABG Surgery Mortality 2017 Model Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Frequency of CABG Surgery Model Variables&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS examined the change in the frequencies of clinical and demographic variables. Frequencies of model variables were stable over the measurement period. The largest changes in the frequencies (those greater than 2% absolute change) include: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;An increase in Renal failure (27.6% to 29.7%) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decreases in Angina; old myocardial infarction (42.4% to 37.7%) and Unstable angina and other acute ischemic heart disease (42.3% to 35.7%) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;CABG Surgery Model Parameters and Performance &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Table 4.2.2 in the original measure documentation shows hierarchical logistic regression model variable coefficients by individual year and for the combined three-year dataset. Table 4.2.3 in the original measure documentation shows the risk-adjusted odds ratios (ORs) and 95% confidence intervals for the CABG surgery mortality model by individual year and for the combined three-year dataset. Overall, the variable effect sizes were relatively constant across years. In addition, model performance was stable over the three-year time period; the c-statistic increased slightly from 0.77 to 0.78.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 procedure-specific measure updates and specifications report: hospital-level 30-day risk-standardized mortality measure. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 46 p.  [9 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 65 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges between July 1, 2013 and June 30, 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;An &lt;em&gt;index admission &lt;/em&gt;is the hospitalization to which the mortality outcome is attributed and includes admissions for patients:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Having a qualifying isolated coronary artery bypass graft (CABG) surgery* during the index admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Enrolled in Medicare Fee-for-Service (FFS) Part A and Part B for the 12 months prior to the date of admission, and enrolled in Part A during the index admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Aged 65 or over &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Isolated CABG surgeries are defined as those CABG procedures performed &lt;em&gt;without &lt;/em&gt;the following concomitant valve or other major cardiac, vascular, or thoracic procedures:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Valve procedures; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Atrial and/or ventricular septal defects; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Congenital anomalies; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other open cardiac procedures; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heart transplants; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Aorta or other non-cardiac arterial bypass procedures; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Head, neck, intracranial vascular procedures; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other chest and thoracic procedures. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*International Classification of Diseases, Tenth Revision, Procedure Coding System (ICD-10-PCS) codes used to identify eligible CABG procedures in claims for discharges on or after October 1, 2015 are listed in the original measure documentation. International Classification of Diseases, Ninth Revision (ICD-9) code lists for discharges prior to October 1, 2015 can be found in the &lt;em&gt;&lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?cid=1228774398696&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Procedure-specific Mortality Measures Updates and Specifications Report&lt;/a&gt;&lt;/em&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The CABG surgery mortality measure excludes index admissions for patients: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With inconsistent or unknown vital status or other unreliable demographic (age and gender) data &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discharged against medical advice &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With subsequent qualifying CABG procedures during the measurement period &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The measure counts death from any cause within 30 days of the procedure date.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the numerator of the ratio is the number of deaths within 30 days predicted based on the hospital's performance with its observed case mix.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the outcome.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;&lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic/Page/QnetTier3&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;2017 Procedure-specific Measure Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measure&lt;/a&gt;&lt;/em&gt; for more details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Death" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Risk-Adjustment Variables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In order to account for differences in case mix among hospitals, the measure adjusts for variables (for example, age, sex, comorbid diseases, and indicators of patient frailty) that are clinically relevant and have relationships with the outcome. For each patient, risk-adjustment variables are obtained from inpatient, outpatient, and physician Medicare administrative claims data extending 12 months prior to, and including, the index admission. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure adjusts for case mix differences among hospitals based on the clinical status of the patient at the time of the index admission. Accordingly, only comorbidities that convey information about the patient at that time or in the 12 months prior, and not complications that arise during the course of the hospitalization, are included in the risk adjustment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure does not adjust for socioeconomic status (SES) because the association between SES and health outcomes can be due, in part, to differences in the quality of health care that groups of patients with varying SES receive. The intent is for the measure to adjust for patient demographic and clinical characteristics while illuminating important quality differences. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to Appendix D of the original measure documentation for the list of comorbidity risk-adjustment variables and the list of complications that are excluded from risk adjustment if they occur only during the index admission. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital-level 30-day RSMR following CABG surgery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Hospital Inpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Mortality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="Yale-New Haven Health Services Corporation/Center for Outcomes Research and Evaluation under contract to Centers for Medicare &amp; Medicaid Services - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was developed by a team of clinical and statistical experts: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;Arnar Geirsson, MD, Yale School of Medicine&#xD;&#xA;    &lt;li&gt;David Shahian, MD, Harvard Medical School, Massachusetts General Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joseph Agostini, MD, Aetna &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tanya Alteras, MPP, National Partnership for Women and Families &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mary Barton, MD, MPP, National Committee for Quality Assurance &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Carol Beehler, RN, NEA-BC, Pricewaterhouse Coopers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Todd Michael Dewey, MD, Southwest Cardiothoracic Surgeons &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lee Fleisher, MD, University of Pennsylvania School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul Kurlansky, MD, Florida Heart Research Institute, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Frederick Masoudi, MD, MSPN, University of Colorado-Denver &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Christine McCarty, MD, Cardiovascular Surgical Institute &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joseph Parker, PhD, State of California: Office of Statewide Health Planning and Development &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kenneth Sands, MD, MPH, Beth Israel Deaconess Medical Center &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ed Savage, MD, Cleveland Clinical Florida &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stephen Schmaltz, PhD, The Joint Commission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Shemin, MD, UCLA Medical Center &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alan Speir, MD, Inova Fairfax Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Angela Merrill, PhD, Mathematica Policy Research, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sandi Nelson, MPP, Mathematica Policy Research, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Marian Wrobel, PhD, Mathematica Policy Research, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mai Hubbard, PhD, Mathematica Policy Research, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Eric Schone, PhD, Mathematica Policy Research, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sharon-Lise Normand, PhD, Harvard Medical School &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jennifer Mattera, MPH, Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Susannah Bernheim, MD, MHS, Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lein Han, PhD, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Karen Nakano, MD, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Michael Rapp, MD, CMS &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Nov 12&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Cardiology" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Inpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2018 Apr&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital compare: a quality tool provided by Medicare. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2017 Oct 3]. This is available from the &lt;a href=&quot;https://www.medicare.gov/hospitalcompare/search.html?&quot; title=&quot;Medicare Web site&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 Medicare hospital quality chartbook. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2017. Available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/OutcomeMeasures.html&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 procedure-specific mortality measure updates and specifications report: supplemental ICD-10 code lists for use with claims for discharges on or after October 1, 2015. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2017. Available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on July 20, 2015. The information was verified by the measure developer on September 23, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on October 17, 2017. The information was verified by the measure developer on November 9, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 procedure-specific measure updates and specifications report: hospital-level 30-day risk-standardized mortality measure. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 46 p.  [9 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

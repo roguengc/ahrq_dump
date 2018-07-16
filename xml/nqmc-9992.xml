@@ -1,0 +1,226 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Stroke: percentage of SAH and ICH stroke patients for whom a severity measurement is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of arrival at the hospital ED for patients who do not undergo surgical intervention.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) stroke patients for whom a severity measurement (i.e., Hunt and Hess Scale for SAH patients or ICH Score for ICH patients) is performed prior to surgical intervention (e.g., clipping, coiling, or any surgical intervention) in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of arrival at the hospital emergency department for patients who do not undergo surgical intervention.&lt;/p&gt;&#xA;&lt;p&gt;This measure represents the overall rate. The following rates are also reported:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Hunt and Hess Scale performed for SAH patients &lt;/li&gt;&#xA;    &lt;li&gt;ICH Score performed for ICH patients &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) are medical emergencies requiring rapid diagnosis and assessment. Early deterioration is common in the first few hours after onset, and associated with increased mortality rates of greater than 75% compared to 30-day mortality rates of 35% to 52%. More than half of all deaths from these conditions occur within the first two days. According to the American Heart Association/American Stroke Association, the severity of SAHs should be documented with the Hunt and Hess Scale, and the severity of ICHs should be documented with ICH score to capture the clinical state of the patient. The severity of initial neurological injury should be determined and documented in the emergency department because it is a useful predictor of outcome and helpful in planning future care with family and physicians. For both severity methodologies, higher scores are associated with increased mortality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Broderick J, Connolly S, Feldmann E, Hanley D, Kase C, Krieger D, Mayberg M, Morgenstern L, Ogilvy CS, Vespa P, Zuccarello M, American Heart Association, American Stroke Association Stroke Council, High Blood Pressure Research Council, Quality of Care and Outcomes in Research Interdisciplinary Working Group. Guidelines for the management of spontaneous intracerebral hemorrhage in adults: 2007 update. Stroke. 2007 Jun;38(6):2001-23. [204 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17478736&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Connolly ES, Rabinstein AA, Carhuapoma JR, Derdeyn CP, Dion J, Higashida RT, Hoh BL, Kirkness CJ, Naidech AM, Ogilvy CS, Patel AB, Thompson BG, Vespa P, American Heart Association Stroke Council, Council on Cardiovascular Radiology and Intervention, Council on Cardiovascular Nursing, Council on Cardiovascular Surgery and Anesthesia, Council on Clinical Cardiology. Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2012 Jun;43(6):1711-37. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22556195&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hunt WE, Hess RM. Surgical risk as related to time of intervention in the repair of intracranial aneurysms. J Neurosurg. 1968 Jan;28(1):14-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=5635959&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hunt WE, Kosnik EJ. Timing and perioperative care in intracranial aneurysm surgery. Clin Neurosurg. 1974;21:79-89. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4608645&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leifer D, Bravata DM, Connors JJ, Hinchey JA, Jauch EC, Johnston SC, Latchaw R, Likosky W, Ogilvy C, Qureshi AI, Summers D, Sung GY, Williams LS, Zorowitz R, American Heart Association Special Writing Group of the Stroke Council, Atherosclerotic Peripheral Vascular Disease Working Group, Council on Cardiovascular Surgery and Anesthesia, Council on Cardiovascular Nursing. Metrics for measuring quality of care in comprehensive stroke centers: detailed follow-up to Brain Attack Coalition comprehensive stroke center recommendations: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2011 Mar;42(3):849-77. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21233469&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Matchett SC, Castaldo J, Wasser TE, Baker K, Mathiesen C, Rodgers J. Predicting mortality after intracerebral hemorrhage: comparison of scoring systems and influence of withdrawal of care. J Stroke Cerebrovasc Dis. 2006 Jul-Aug;15(4):144-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17904067&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Morgenstern LB, Hemphill JC 3rd, Anderson C, Becker K, Broderick JP, Connolly ES Jr, Greenberg SM, Huang JN, MacDonald RL, Messe SR, Mitchell PH, Selim M, Tamargo RJ, American Heart Association Stroke Council and Council on Cardiovascular Nursing. Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2010 Sep;41(9):2108-29. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20651276&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rosen DS, Macdonald RL. Subarachnoid hemorrhage grading scales: a systematic review. Neurocrit Care. 2005;2(2):110-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16159052&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stroke; subarachnoid hemorrhage (SAH); intracerebral hemorrhage (ICH); severity measurement; Hunt and Hess Scale; ICH Score; surgery&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) stroke patients who arrive at the hospital emergency department (ED) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) stroke patients for whom a severity measurement is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of hospital arrival for patients who do not undergo surgical intervention&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Discharges with International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) Principal Diagnosis Code for hemorrhagic stroke as defined in the appendices of the original measure documentation with or without aneurysm repair procedure (ICD-9-CM Principal or Other Procedure Code as defined in the appendices of the original measure documentation) or surgical intervention procedure (ICD-9-CM Principal or Other Procedure Code as defined in the appendices of the original measure documentation)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Patients less than 18 years of age &lt;/li&gt;&#xA;    &lt;li&gt;Patients who have a length of stay greater than 120 days &lt;/li&gt;&#xA;    &lt;li&gt;Patients with &lt;em&gt;Comfort Measures Only&lt;/em&gt; (as defined in the Data Elements) documented on the day of or day after hospital arrival &lt;/li&gt;&#xA;    &lt;li&gt;Non-surgical patients discharged within 6 hours of arrival at the hospital &lt;/li&gt;&#xA;    &lt;li&gt;Patients with admitting diagnosis of traumatic brain injury (TBI), unruptured arteriovenous malformation (AVM), and non-traumatic subdural hematoma (ICD-9-CM Other Diagnosis Codes as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;The number of subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) stroke patients for whom a severity measurement is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of hospital arrival for patients who do not undergo surgical intervention&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Hunt and Hess Scale &lt;/li&gt;&#xA;    &lt;li&gt;Intracerebral Hemorrhage (ICH) Score &lt;/li&gt;&#xA;    &lt;li&gt;Comprehensive Stroke (CSTK) Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xA;    &lt;li&gt;CSTK-03: Severity Measurement Performed for SAH and ICH Patients (Overall Rate) Flowchart &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The CSTK-03 measure is reported as an overall rate which includes subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH) stroke patients for whom a severity measurement is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of hospital arrival for patients who do not undergo surgical intervention. &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;CSTK-03a&lt;/strong&gt;: The number of SAH patients for whom a Hunt and Hess Scale is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of hospital arrival for patients who do not undergo surgical intervention. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;CSTK-03b&lt;/strong&gt;: The number of ICH stroke patients for whom an ICH Score is performed prior to surgical intervention in patients undergoing surgical intervention and documented in the medical record, OR documented within 6 hours of hospital arrival for patients who do not undergo surgical intervention. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;CSTK-03a and CSTK-03b are subsets of the overall rate, and stratified by the type of stroke patient.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data Reported As&lt;/strong&gt;: Aggregate rate generated from count data reported as a proportion. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CSTK-03: severity measurement performed for SAH and ICH patients (overall rate).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Advanced Certification in Disease-specific Care Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Comprehensive Stroke Standardized Performance Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's corporate sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with The Joint Commission's conflict of interest policies, copies of which are available upon written request The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is reviewed and updated by the developing organization every 6 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jul&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://www.jointcommission.org/assets/1/6/CSTK_Manual_Mar2015.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org/default.aspx&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 19, 2015. The information was verified by the measure developer on June 22, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 6, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

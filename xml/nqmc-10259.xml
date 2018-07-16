@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Distal symmetric polyneuropathy (DSP): percentage of patients age 18 years and older with a diagnosis of DSP who were queried at least once annually about falls within the past 12 months and the response was documented.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Neurology (AAN). Distal symmetric polyneuropathy: performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 May 30. 40 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients age 18 years and older with a diagnosis of distal symmetric polyneuropathy (DSP) who were queried at least once annually about falls within the past 12 months and the response was documented.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Diabetic peripheral neuropathy causes loss of distal strength and sensation with interruption of both afferent and efferent pathways. The postural instability associated with diabetic peripheral neuropathy is most apparent in unipedal stance and balance &amp;ndash; both of which are critical in gait and activities of daily living such as changing clothes and climbing stairs. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;No associated co-morbidities explained the high rate of falls among the elderly with peripheral neuropathy suggesting there is a risk factor for falls among the elderly with peripheral neuropathy (Cavanagh, Ulbrecht, &amp;amp; Caputo, 1996). Fall risk assessment and plan of care tools reduce the risk of falls among older adults in the community (Thurman, Stevens, &amp;amp; Rao, 2008; National Collaborating Centre for Nursing and Supportive Care, 2004). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;An increased risk of falls is also probable among patients with Parkinson disease, peripheral neuropathy, lower extremity weakness or sensory loss, and substantial loss of vision (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All of the patients with any fall risk factors described above should asked about falls during the past year (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;After a comprehensive standard neurologic examination, including an evaluation of cognition and vision, if further assessment of the extent of fall risk is needed, other screening measures to be considered include the Get-Up-And-Go Test or Timed Up-and-Go Test, an assessment of ability to stand unassisted from a sitting position, and the Tinetti Mobility Scale (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An increased risk of falls is established among persons with diagnoses of stroke, dementia, disorders of gait and balance, and those who use assistive devices to ambulate (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;As for screening measures that may predict or further assess fall risk, a history of recent falls is an established predictor of future falls (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional screening instruments of probable value include the Get-Up-And-Go Test or Timed Up-and-Go Test, an assessment of ability to stand from a sitting position, and the Tinetti Mobility Scale (Thurman, Stevens, &amp;amp; Rao, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other screening instruments of possible utility are described in appendix e-4 (American Geriatrics Society, British Geriatrics Society, and American Academy of Orthopaedic Surgeons Panel on Falls Prevention, 2001). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Direct interventions customized to the identified risk factors, coupled with an appropriate exercise program should follow the multifactorial fall risk assessment (American Geriatrics Society, British Geriatrics Society, and American Academy of Orthopaedic Surgeons Panel on Falls Prevention, 2001). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A strategy to reduce the risk of falls should include multifactorial assessment of known fall risk factors and management of the risk factors identified (American Geriatrics Society, British Geriatrics Society, and American Academy of Orthopaedic Surgeons Panel on Falls Prevention, 2001). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Neurology (AAN). Distal symmetric polyneuropathy: performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 May 30. 40 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Geriatrics Society, British Geriatrics Society, American Academy of Orthopaedic Surgeons. Guideline for the prevention of falls in older persons. J Am Geriatr Soc. 2001 May;49(5):664-72. [93 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cavanagh PR, Ulbrecht JS, Caputo GM. Biomechanical aspects of diabetic foot disease: aetiology, treatment, and prevention. Diabet Med. 1996;13 Suppl 1:S17-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8741823&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Collaborating Centre for Nursing and Supportive Care. Falls: the assessment and prevention of falls in older people. London (UK): National Institute for Clinical Excellence (NICE); 2004 Nov. 29 p.&amp;nbsp;(Clinical guideline; no. 21).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thurman DJ, Stevens JA, Rao JK, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter: Assessing patients in a neurology practice for risk of falls  (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology. 2008 Feb 5;70(6):473-9. [64 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18250292&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Distal symmetric polyneuropathy (DSP); falls&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients age 18 years and older with a diagnosis of distal symmetric polyneuropathy (DSP) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were queried at least once annually about falls within the past 12 months (see the related &quot;Numerator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Prevalence and Incidence&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;DSP is the most common variety of neuropathy and a type of diabetic neuropathy (Ziegler, 2008; England et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peripheral neuropathy is estimated to affect more than 20 million Americans (The Neuropathy Association, 2010). The overall prevalence is approximately 2,400 (2.4%) per 100,000 population, but in individuals older than 55 years, the prevalence rises to approximately 8,000 (8%) per 100,000 (Martyn &amp;amp; Hughes, 1997; England &amp;amp; Asbury, 2004). Older people are among the top spenders on healthcare. They make up 13% of the U.S. population in 2002, yet they consumed 63% of health care expenses (Shaw et al., 2003). Improving the effectiveness of diagnosis and optimizing patient outcomes will become increasingly important as the population of the United States ages. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neuropathies affect up to 50% of patients with diabetes (Lin &amp;amp; Quan, 2010). DSP affects at least one in four diabetic patients (Ziegler, 2008). Diabetes is one of the five major chronic conditions that affect 25% of the U.S. community population (Stanton, 2006) and amounted to more than $62.3 billion health care costs in 1996 (Druss et al., 2001). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The incidence of DSP is 2% per year (Shaw et al., 2003). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Mortality and Morbidity&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Neuropathies also cause great morbidity because the symptoms severely decrease patients' quality of life. The secondary complications of neuropathy such as falls, foot ulcers, cardiac arrhythmias, and ileus are significant and can lead to fractures, amputations, and even death in patients with diabetes (Lin &amp;amp; Quan, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pain associated with diabetic neuropathy exerts a substantial impact on the quality of life, particularly by causing considerable interference in sleep and enjoyment of life (Galer, Gianas, &amp;amp; Jensen, 2000). Despite this significant impact, 25% and 39% of the diabetic patients, respectively, had no treatment for their pain in two surveys (Daousi et al., 2004; Chan et al., 1990). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Another complication in diabetic neuropathy is the development of foot ulcers, and some reports have estimated that this occurs in approximately 2.5% of patients with diabetes (Lin &amp;amp; Quan, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Office Visits and Hospital Stays&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The distal symmetric sensory or distal sensorimotor polyneuropathy represents the most relevant clinical manifestation, affecting 30% of the hospital-based population and 25% of community-based samples of diabetic patients (Shaw et al., 2003). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Family Caregiving&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients describe pain-related interference in multiple health related quality of life (HR-QOL) and functional domains, as well as reduced ability to work and reduced mobility due to their pain. The substantial costs to society of DSP derive from direct medical costs, loss of the ability to work, loss of caregivers' ability to work and possibly greater need for institutionalization or other living assistance (Shojana et al., 2004). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Cost&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A 1999 survey found that 8% to 9% of Medicare recipients have peripheral neuropathy as their primary or secondary diagnosis. The annual cost to Medicare exceeds $3.5 billion (The Neuropathy Association, 2010) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;DSP is often difficult to diagnose reliably. It is often misdiagnosed or erroneously associated as the side effect of another disease like kidney failure (The Neuropathy Association, 2010). Undiagnosed and untreated neuropathy may lead to disability and poor quality of life. Neuropathy needs to be diagnosed early to prevent complications, such as neuropathic pain or the diabetic foot. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Since DSP is the major contributory factor for diabetic foot ulcers and the lower-limb amputation rates in diabetic subjects are 15 times higher than in the non-diabetic population, an early detection of DSP by screening and appropriate diagnosis is of utmost importance. (Boulton et al., 2004). This is even more imperative because many patients with DSP are asymptomatic or have only mild symptoms. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neuropathic pain is often more difficult to treat than many other types of chronic pain. Patients with neuropathic pain have great medical co-morbidity burden than age- and sex-adjusted controls (Shojana et al., 2004). Data collected between 1988 and 1995 (derived from the Centers for Disease Control and Prevention's population-based Behavioral Risk Factor Surveillance System [BRFSS], as well as the National Health and Nutrition Examination [NHANES] surveys) reveal significant quality gaps in the treatment of diabetes and in screening for diabetes-related complications (Lin &amp;amp; Quan, 2010). Diabetics also do not receive appropriate screening measures: only 55% obtain annual foot examinations (Deeb et al., 1988). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Disparities &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;There is currently no consistent data that shows disparities between minorities and whites for diabetes-related neuropathy and peripheral vascular disease (Carter, Pugh, &amp;amp; Monterrosa, 1996). DSP is more common in older adults. Older people are among the top spenders on healthcare. They make up 13% of the US population in 2002, yet they consumed 63% of health care expenses (Shaw et al., 2003). Improving the effectiveness of diagnosis and optimizing patient outcomes will become increasingly important as the population of the United States ages. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;No definite racial predilection has been demonstrated for diabetic neuropathy. However, members of minority groups (e.g., Hispanics, African Americans) have more secondary complications from diabetic neuropathy, such as lower-extremity amputations, than whites (Carter, Pugh, &amp;amp; Monterrosa, 1996; Dorsey et al., 2009). They also have more hospitalizations for neuropathic complications. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Men with type 2 diabetes may develop diabetic polyneuropathy earlier than women, and neuropathic pain causes more morbidity in women than in men (Aaberg et al., 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Aaberg ML, Burch DM, Hud ZR, Zacharias MP. Gender differences in the onset of diabetic neuropathy. J Diabetes Complications. 2008 Mar-Apr;22(2):83-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18280437&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Neurology (AAN). Distal symmetric polyneuropathy: performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 May 30. 40 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Boulton AJ, Malik RA, Arezzo JC, Sosenko JM. Diabetic somatic neuropathies. Diabetes Care. 2004 Jun;27(6):1458-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15161806&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Carter JS, Pugh JA, Monterrosa A. Non-insulin-dependent diabetes mellitus in minorities in the United States. Ann Intern Med. 1996 Aug 1;125(3):221-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8686981&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chan AW, MacFarlane IA, Bowsher DR, Wells JC, Bessex C, Griffiths K. Chronic pain in patients with diabetes mellitus: comparison with non-diabetic population. Pain Clin. 1990;3:147-59.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Daousi C, MacFarlane IA, Woodward A, Nurmikko TJ, Bundred PE, Benbow SJ. Chronic painful peripheral neuropathy in an urban community: a controlled comparison of people with and without diabetes. Diabet Med. 2004 Sep;21(9):976-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15317601&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Deeb LC, Pettijohn FP, Shirah JK, Freeman G. Interventions among primary-care practitioners to improve care for preventable complications of diabetes. Diabetes Care. 1988 Mar;11(3):275-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3416683&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dorsey RR, Eberhardt MS, Gregg EW, Geiss LS. Control of risk factors among people with diagnosed diabetes, by lower extremity disease status. Prev Chronic Dis. 2009 Oct;6(4):A114. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19754990&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Druss BG, Marcus SC, Olfson M, Tanielian T, Elinson L, Pincus HA. Comparing the national economic burden of five chronic conditions. Health Aff (Millwood). 2001 Nov-Dec;20(6):233-41. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11816664&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;England JD, Asbury AK. Peripheral neuropathy. Lancet. 2004 Jun 26;363(9427):2151-61. [97 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15220040&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;England JD, Gronseth GS, Franklin G, Carter GT, Kinsella LJ, Cohen JA, Asbury AK, Szigeti K, Lupski JR, Latov N, Lewis RA, Low PA, Fisher MA, Herrmann DN, Howard JF Jr, Lauria G, Miller RG, Polydefkis M, Sumner AJ. Practice Parameter: evaluation of distal symmetric polyneuropathy: role of autonomic testing, nerve biopsy, and skin biopsy (an evidence-based review). Neurology. 2009 Jan 13;72(2):177-84. [56 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19056667&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Galer BS, Gianas A, Jensen MP. Painful diabetic polyneuropathy: epidemiology, pain description, and quality of life. Diabetes Res Clin Pract. 2000 Feb;47(2):123-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10670912&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lin HC, Quan D. Diabetic neuropathy. [internet]. [accessed 2010 Dec 16]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Martyn CN, Hughes RA. Epidemiology of peripheral neuropathy. J Neurol Neurosurg Psychiatry. 1997 Apr;62(4):310-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9120441&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shaw JE, Zimmet PZ, Gries FA, Ziegler D. Epidemiology of diabetic neuropathy. In: Gries FA, Cameron NE, Low PA. Textbook of diabetic neuropathy. 2003. p. 64-82.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shojania KG, Ranji SR, Shaw LK, Charo LN, Lai JC, Rushakoff RJ, McDonald KM, Owens DK. Closing the quality gap: a critical analysis of quality improvement strategies. Volume 2: diabetes mellitus care. Technical review 9 (Contract no. 290-02-0017 to the Stanford University-UCSF Evidence-based Practice Center) AHRQ Pub no. 04-0051-2. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2004 Sep. 229 p.  [68 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stanton MA. The high concentration of US health care expenditures. Older people are much more likely to be among the top-spending profiles. Vol 19. 2006. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Neuropathy Association. About peripheral neuropathy: facts. [internet]. [accessed 2010 Dec 17]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ziegler D. Treatment of diabetic neuropathy and neuropathic pain: how far have we come?. Diabetes Care. 2008 Feb;31 Suppl 2:S255-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18227494&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measures in the set are being made available without any prior testing. The American Academy of Neurology (AAN) welcomes the opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Neurology (AAN). Distal symmetric polyneuropathy: performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 May 30. 40 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Assisted Living Facilities" />
+      <FieldValue Value="Home Care" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients age 18 years and older with a diagnosis of distal symmetric polyneuropathy (DSP)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes and Current Procedural Terminology (CPT) Evaluation and Management (E/M) service codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Documentation of a medical reason for not querying the patient about falls within the past 12 months (e.g., patient is cognitively impaired and unable to communicate, patient is non-ambulatory) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of a patient reason for not querying the patient about falls within the past 12 months (e.g., patient declines to answer the query about falls) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who were queried at least once annually about falls within the past 12 months &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Participants are encouraged to use validated assessments. An example of this is the multifactorial falls risk assessment, which is to be performed once a year as part of an exam. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for reporting instructions and additional information. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #6: querying about falls for patients with DSP.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Distal Symmetric Polyneuropathy Quality Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Neurology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Neurology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Work Group Members Distal Symmetric Polyneuropathy&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Co-Chairs&lt;/em&gt;: John D. England, MD, FAAN; Gary M. Franklin, MD, MPH, FAAN&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Quality Measurement and Reporting Subcommittee Facilitator&lt;/em&gt;: Richard M. Dubinsky, MD, MS&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Neurology&lt;/em&gt;: Gil Wolfe, MD; William David, MD; Jeffrey Cohen, MD; Jonathan Goldstein, MD; Victoria Lawson, MD; Amanda Peltier, MD; Benn Smith, MD; Mazen Dimachkie, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Diabetes Association&lt;/em&gt;: Susan Kirkman, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The Neuropathy Association&lt;/em&gt;: Thomas Brannagan, MD; Natacha T. Pires, MBBS&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Physical Medicine and Rehabilitation&lt;/em&gt;: Stephen Kishner, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Association of Neuromuscular &amp;amp; Electrodiagnostic Medicine&lt;/em&gt;: Pushpa Narayanaswami, MBBS, DM; Catherine French, MAPL&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Humana&lt;/em&gt;: Charles Stemple, DO&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;UnitedHealthcare&lt;/em&gt;: Edwin Dasso, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Neurology Staff&lt;/em&gt;: Gina Gjorvad; Rebecca J. Swain-Eng, MS; Sarah Tonn, MPH&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Methodologist&lt;/em&gt;: Rebecca Kresowik&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.aan.com/uploadedFiles/Website_Library_Assets/Documents/3.Practice_Management/2.Quality_Improvement/1.Quality_Measures/1.All_Measures/2012-05-30%20AAN%20DSP%20Quality%20Measurement%20Set%20FINAL.pdf&quot; title=&quot;American Academy of Neurology (AAN) Web site&quot;&gt;American Academy of Neurology (AAN) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact AAN at 201 Chicago Avenue, Minneapolis, MN 55415; Phone: 800-879-1960; Fax: 612-454-2746; Web site: &lt;a href=&quot;http://www.aan.com&quot; title=&quot;AAN Web site&quot;&gt;www.aan.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 26, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Neurology (AAN). Distal symmetric polyneuropathy: performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 May 30. 40 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

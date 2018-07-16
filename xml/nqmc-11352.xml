@@ -1,0 +1,226 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Acute myocardial infarction (AMI): percentage of ED patients with AMI and ST-segment elevation on the ECG closest to arrival time receiving fibrinolytic therapy during the ED stay and having a time from ED arrival to fibrinolysis of 30 minutes or less.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of emergency department (ED) patients 18 years and older with acute myocardial infarction (AMI) and ST-segment elevation on the electrocardiogram (ECG) closest to ED arrival time receiving fibrinolytic therapy during the ED stay and having a time from ED arrival to fibrinolysis of 30 minutes or less.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure rate for fibrinolytic agent received within 30 minutes of ED arrival should be analyzed in conjunction with the ED median time to fibrinolysis measure (OP-1). These measures, used together, will assist in understanding the number of AMI patients who are receiving fibrinolysis within 30 minutes of ED arrival and will identify the ED's median time to fibrinolysis and potential opportunities for improvement to increase the rate of patients receiving fibrinolysis in 30 minutes or less. See the related National Quality Measures Clearinghouse (NQMC) summary of the CMS OP-1 measure &lt;a href=&quot;/summaries/summary/51192&quot; title=&quot;Measure Summary&quot; target=&quot;_blank'&quot;&gt;Acute myocardial infarction (AMI): median time from ED arrival to administration of fibrinolytic therapy in ED patients with ST-segment elevation on the ECG performed closest to ED arrival and prior to transfer&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Time to fibrinolytic therapy is a strong predictor of outcome in patients with an acute myocardial infarction (AMI). Nearly 2 lives per 1,000 patients are lost per hour of delay (Fibrinolytic Therapy Trialists' [FTT] Collaborative Group, 1994). National guidelines recommend that fibrinolytic therapy be given within 30 minutes of hospital arrival in patients with ST-segment elevation myocardial infarction (Antman et al., 2008). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Antman EM, Hand M, Armstrong PW, Bates ER, Green LA, Halasyamani LK, Hochman JS, Krumholz HM, Lamas GA, Mullany CJ, Pearle DL, Sloan MA, Smith SC Jr, Anbe DT, Kushner FG, Ornato JP, Pearle DL, Sloan MA, Jacobs AK, Adams CD, Anderson JL, Buller CE, Creager MA, Ettinger SM, Halperin JL, Hunt SA, Lytle BW, Nishimura R, Page RL, Riegel B, Tarkington LG, Yancy CW, Canadian Cardiovascular Society, American Academy of Family Physicians, American College of Cardiology, American Heart Association. 2007 focused update of the ACC/AHA 2004 guidelines for the management of patients with ST-elevation myocardial infarction: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2008 Jan 15;51(2):210-47. [90 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18191746&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fibrinolytic Therapy Trialists' (FFT) Collaborative Group. Indications for fibrinolytic therapy in suspected acute myocardial infarction: collaborative overview of early mortality and major morbidity results from all randomised trials of more than 1000 patients. Lancet. 1994 Feb 5;343(8893):311-22. [58 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7905143&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Krumholz HM, Anderson JL, Bachelder BL, Fesmire FM, Fihn SD, Foody JM, Ho PM, Kosiborod MN, Masoudi FA, Nallamothu BK, American College of Cardiology/American Heart Association Task Force on Performance Measures, American Academy of Family Physicians, American College of Emergency Physicians, American Association of Cardiovascular and Pulmonary Rehabilitation, Society for Cardiovascular Angiography and Interventions, Society of Hospital Medicine. ACC/AHA 2008 performance measures for adults with ST-elevation and non-ST-elevation myocardial infarction: a report of the American College of Cardiology/American Heart Association Task Force on Performance Measures (Writing Committee to Develop Performance Measures for ST-Elevation and Non-ST-Elevation Myocardial Infarction). J Am Coll Cardiol. 2008 Dec 9;52(4):2046-99.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;O'Gara PT, Kushner FG, Ascheim DD, Casey DE Jr, Chung MK, de Lemos JA, Ettinger SM, Fang JC, Fesmire FM, Franklin BA, Granger CB, Krumholz HM, Linderbaum JA, Morrow DA, Newby LK, Ornato JP, Ou N, Radford MJ, Tamis-Holland JE, Tommaso JE, Tracy CM, Woo YJ, Zhao DX, CF/AHA Task Force. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2013 Jan 29;127(4):529-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23247303&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute myocardial infarction (AMI); ST-segment elevation; fibrinolytic therapy; electrocardiogram (ECG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Emergency department (ED) acute myocardial infarction (AMI) patients with ST-segment elevation on electrocardiogram (ECG) who received fibrinolytic therapy&lt;/p&gt;&#xA;&lt;p&gt;Included populations:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;An &lt;em&gt;Evaluation and Management (E/M) Code&lt;/em&gt; for ED encounter (as defined in Appendix A, OP Table 1.0 of the original measure documentation), and &lt;/li&gt;&#xA;    &lt;li&gt;Patients discharged/transferred to a short-term general hospital for inpatient care, or to a federal healthcare facility, and &lt;/li&gt;&#xA;    &lt;li&gt;An &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code&lt;/em&gt; for AMI (as defined in Appendix A, OP Table 1.1 of the original measure documentation), and &lt;/li&gt;&#xA;    &lt;li&gt;ST-segment elevation on the ECG performed closest to ED arrival, and &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Fibrinolytic Administration&lt;/em&gt; (as defined in the Data Dictionary) &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Emergency department (ED) acute myocardial infarction (AMI) patients whose time from ED arrival to fibrinolysis is 30 minutes or less&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is being collected by hospitals paid under the Outpatient Prospective Payment System; about 4,000 hospitals across the nation. The measure has been collected since April 1, 2008. In 2014, validity testing of critical data elements was performed on this measure for the measure period of January 1, 2012 to December 31, 2012.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Larbi F. Personal communication: CMS hospital outpatient department quality measures. 2014 Jul 24. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Encounter dates: January 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Emergency department (ED) acute myocardial infarction (AMI) patients with ST-segment elevation on electrocardiogram (ECG) who received fibrinolytic therapy&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Included populations:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;An &lt;em&gt;Evaluation and Management (E/M) Code&lt;/em&gt; for ED encounter (as defined in Appendix A, OP Table 1.0 of the original measure documentation), and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged/transferred to a short-term general hospital for inpatient care, or to a federal healthcare facility, and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code&lt;/em&gt; for AMI (as defined in Appendix A, OP Table 1.1 of the original measure documentation), and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ST-segment elevation on the ECG performed closest to ED arrival, and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Fibrinolytic Administration&lt;/em&gt; (as defined in the Data Dictionary) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients less than 18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who did not receive &lt;em&gt;Fibrinolytic Administration&lt;/em&gt; within 30 minutes and had a &lt;em&gt;Reason for Delay in Fibrinolytic Therapy&lt;/em&gt; (as defined in the Data Dictionary) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Emergency department (ED) acute myocardial infarction (AMI) patients whose time from ED arrival to fibrinolysis is 30 minutes or less&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A software application designed for the collection and analysis of quality improvement data, the CMS Abstraction and Reporting Tool (CART), is available from the &lt;a href=&quot;http://www.qualitynet.org&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Acute Myocardial Infarction (AMI) Hospital Outpatient Population Algorithm OP-1 through OP-5 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Algorithm Narrative for OP-1 through OP-5: AMI Hospital Outpatient Population &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;OP-2: Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival Algorithm &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Algorithm Narrative for OP-2: Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;OP-2: hospital outpatient acute myocardial infarction: fibrinolytic therapy received within 30 minutes of ED arrival.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Hospital Outpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Acute Myocardial Infarction (AMI)" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States Department of Health and Human Services&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure was developed by the Centers for Medicare &amp;amp; Medicaid Services (CMS) Contractor at the time, the Oklahoma Foundation for Medical Quality Contractor. The measure continues to be maintained by CMS and its current measure maintenance contractor, Mathematica Policy Research, in conjunction with a multi-disciplinary Technical Expert Panel.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2018 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Twice yearly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 9.0a. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2016 Jan 1. various p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1196289981244&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 20, 2009. The information was verified by the measure developer on May 8, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 20, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 19, 2012. The information was verified by the measure developer on August 2, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on May 7, 2014. The information was verified by the measure developer on July 3, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 22, 2015. The information was verified by the measure developer on January 28, 2016.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on January 16, 2018. The information was verified by the measure developer on February 7, 2018.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Hospital Outpatient Quality Reporting Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services. Users of the Hospital OQR Specifications Manual must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

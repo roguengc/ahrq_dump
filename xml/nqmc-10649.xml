@@ -1,0 +1,254 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Patients' and families' experiences: percentage of veterans who die in an inpatient Veterans Affairs (VA) facility (intensive care, acute care, hospice unit, nursing home care unit or community living center) for whom a Bereaved Family Survey (BFS) is completed.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Department of Veterans Affairs PROMISE Center. National Quality Measures Clearinghouse (NQMC) measure submission form: Bereaved Family Survey. 2015 Oct 15. &amp;nbsp;21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Veterans Affairs Center for Health Equity Research and Promotion. Bereaved Family Survey. Washington (DC): U.S. Department of Veterans Affairs; 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Bereaved Family Survey (BFS) assesses families' (next-of-kin) perceptions of the end-of-life care (care delivered in the last 30 days of life) provided to veterans who die in an inpatient Veterans Affairs Medical Center (VAMC) (intensive care, acute care, hospice unit, nursing home care unit or community living center).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A growing body of research has underscored the degree to which end-of-life care in the United States needs to be improved (Hanson, Danis, &amp;amp; Garrett, 1997; Institute of Medicine [IOM], 2014; Teno et al., 2004). The challenges of end-of-life care are particularly significant in the U.S. Department of Veterans Affairs (VA) health care system because the VA provides care for an increasingly older population with multiple comorbid conditions (Edes, Shreve, &amp;amp; Casarett, 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The VA has addressed this challenge through the Comprehensive End of Life Care Initiative (2009-2015), with the goal of honoring veterans' preferences for care by expanding the access to and quality of hospice and palliative care (Edes, Shreve, &amp;amp; Casarett, 2007). The Initiative supported the establishment and training of palliative care teams in all VA inpatient facilities and the building or remodeling of specialized hospice and palliative care units. It also provided an infrastructure for ongoing support and quality improvement. The Performance Reporting and Outcomes Measurement to Improve the Standard of care at End-of-life (PROMISE Center) is part of that infrastructure. Its goals are to: identify and reduce unwanted variation in the quality of end-of-life care throughout the VA; and 2) define and disseminate processes of care (&quot;Best Practices&quot;) that contribute to improved outcomes for Veterans near the end of life and their families. The primary outcome for the Center's work in the Bereaved Family Survey (BFS).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The BFS uses a well-established and validated approach to assessing the quality of end-of-life care, that is, by surveying family members' perceptions of care (Casarett et al., &quot;Important aspects,&quot; 2008; Casarett et al., &quot;A nationwide,&quot; 2008; Finlay, Shreve, &amp;amp; Casarett, 2008). This strategy provides several advantages. Persons with serious illness who are approaching death may not be capable of responding to questionnaires due to debility, fatigue, cognitive impairment and/or inability to communicate. Family members answer on behalf of these patients to provide detailed information on the care at time of the patient's death. In hospice and palliative care, post-death interviews and surveys with bereaved family members are common (Hanson, Danis, &amp;amp; Garrett, 1997; Connor et al., 2005). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Amos Bailey F, Ritchie C, Furman C, Rosenfeld K, Shreve S, Shea JA. Important aspects of end-of-life care among veterans: implications for measurement and quality improvement. J Pain Symptom Manage. 2008 Feb;35(2):115-25. [42 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18053680&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Bailey FA, Ritchie CS, Furman CD, Rosenfeld K, Shreve S, Shea J. A nationwide VA palliative care quality measure: the family assessment of treatment at the end of life. J Palliat Med. 2008 Jan-Feb;11(1):68-75. [21 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18370895&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Connor SR, Teno J, Spence C, Smith N. Family evaluation of hospice care: results from voluntary submission of data via website. J Pain Symptom Manage. 2005 Jul;30(1):9-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16043002&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Department of Veterans Affairs PROMISE Center. National Quality Measures Clearinghouse (NQMC) measure submission form: Bereaved Family Survey. 2015 Oct 15. &amp;nbsp;21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Edes T, Shreve S, Casarett D. Increasing access and quality in Department of Veterans Affairs care at the end of life: a lesson in change. J Am Geriatr Soc. 2007 Oct;55(10):1645-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17908063&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Finlay E, Shreve S, Casarett D. Nationwide Veterans Affairs quality measure for cancer: the family assessment of  treatment at end of life. J Clin Oncol. 2008 Aug 10;26(23):3838-44. [61 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18688050&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hanson LC, Danis M, Garrett J. What is wrong with end-of-life care? Opinions of bereaved family members. J Am Geriatr Soc. 1997 Nov;45(11):1339-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9361659&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine (IOM). Dying in America: improving quality and honoring individual preferences near the end of life. Washington (DC): The National Academies Press; 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Teno JM, Clarridge BR, Casey V, Welch LC, Wetle T, Shield R, Mor V. Family perspectives on end-of-life care at the last place of care. JAMA. 2004 Jan 7;291(1):88-93. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14709580&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quality of end-of-life care; experience/satisfaction with care&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Veterans who die in an inpatient Veterans Affairs (VA) facility (intensive care, acute care, hospice unit, nursing home care unit, or community living center) for whom a survey is completed (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Proportion of responses that received the optimal rating among completed surveys&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Approximately 2% of all veterans die every year. Of those, 20% are enrolled in the Veterans Affairs (VA) health system, and 5% die in VA facilities (Edes, Shreve, &amp;amp; Casarett, 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Most VA decedents included are disabled, frail elderly, and terminally ill, and a significant percentage also qualify as either mentally ill, medically uninsured, poverty population, homeless, or urban population as well (Edes, Shreve, &amp;amp; Casarett, 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Problems in end-of-life care have become increasingly well documented. There is substantial evidence that physical symptoms such as pain, nausea, constipation, and dyspnea are very common among patients near the end of life. Moreover, clinicians are often unable to recognize these symptoms and manage them adequately. Other studies have found that providers do not communicate with patients about their health care preferences, and that providers' treatment decisions are not always consistent with those preferences. For example, many patients receive aggressive life-sustaining treatment that is not consistent with their preferences (Hanson, Danis, &amp;amp; Garrett, 1997; Institute of Medicine [IOM], 2014; Lynn et al., 1997). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Amos Bailey F, Ritchie C, Furman C, Rosenfeld K, Shreve S, Shea JA. Important aspects of end-of-life care among veterans: implications for measurement and quality improvement. J Pain Symptom Manage. 2008 Feb;35(2):115-25. [42 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18053680&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Department of Veterans Affairs PROMISE Center. National Quality Measures Clearinghouse (NQMC) measure submission form: Bereaved Family Survey. 2015 Oct 15. &amp;nbsp;21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Edes T, Shreve S, Casarett D. Increasing access and quality in Department of Veterans Affairs care at the end of life: a lesson in change. J Am Geriatr Soc. 2007 Oct;55(10):1645-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17908063&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hanson LC, Danis M, Garrett J. What is wrong with end-of-life care? Opinions of bereaved family members. J Am Geriatr Soc. 1997 Nov;45(11):1339-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9361659&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine (IOM). Dying in America: improving quality and honoring individual preferences near the end of life. Washington (DC): The National Academies Press; 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lynn J, Teno JM, Phillips RS, Wu AW, Desbiens N, Harrold J, Claessens MT, Wenger N, Kreling B, Connors AF Jr. Perceptions by family members of the dying experience of older and seriously ill patients. SUPPORT Investigators. Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments. Ann Intern Med. 1997 Jan 15;126(2):97-106. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9005760&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Consensus Project for Quality Palliative Care. Clinical Practice Guidelines for Quality Palliative Care 3rd edition 2013. [internet]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Bereaved Family Survey (BFS) was developed based on interviews with over 1,000 family members, and pilot testing has included an additional 1,000 family members. The 17 closed-ended survey items were selected from among the items in the Family Assessment of Treatment at End-of-life (a Veterans Affairs [VA]-specific instrument developed with support from a VA HSRD Merit Award) based on their psychometric characteristics and homogeneity as measured by the Cronbach's alpha, psychometric characteristics, and discriminant validity (Casarett et al., &quot;Important aspects,&quot; 2008; Casarett et al., &quot;A nationwide,&quot; 2008). The BFS was predominantly administered by phone survey from fiscal year (FY)2010-2012, and transitioned to mail survey in FY2013. Both modes of BFS administration have been extensively studied and validated (Smith et al., 2015; Thorpe et al., 2016).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The entire BFS is used for quality improvement and the BFS Performance Measure (BFS-PM) also is used for accountability in the Veterans Health Administration. The BFS-PM is defined as the percentage of respondents who rate the overall care of the Veteran in the last 30 days of life as &quot;Excellent&quot; (versus: Very Good, Good, Fair, Poor). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As of 2015, the BFS has been administered to over 120,000 family members of deceased veterans in all 146 VA Medical Centers (VAMCs) nationwide with a response rate of 54%. Data collection has provided the following evidence of its reliability and validity. &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Nonresponse bias&lt;/em&gt;: Currently, several predictors of response have been found and include patient characteristics (non-Hispanic white, older age with a spouse as BFS respondent) as well as clinical care indicators (presence of a do not resuscitate [DNR] order, receipt of a palliative consult, chaplain contact or bereavement contact, and death outside of an acute setting). After adjusting for nonresponse, the mean change in the BFS-PM score for all facilities is -2 percentage points, with a range of -10% to 11%. Twenty-one facilities did not change their BFS-PM scores (Smith et al., 2015). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Survey psychometric characteristics&lt;/em&gt;: The BFS contains 19 items; 16 forced-choice items focus on specific aspects of care. One item, which is the basis for the BFS-PM, asks respondents for a global rating of care in the last month of life. All items use Likert scale response options whose scores are dichotomized as 1 for the best possible response and 0 for all other responses. Two additional open-ended questions solicit comments on the aspects of care. All items, except for the pain management item (mean 22, standard deviation 41) are slightly skewed with a predominance of higher scores (mean 70, standard deviation 44). The average missing rate for each item is 2%. Cronbach's alpha for the survey items is 0.85, indicating good homogeneity that is sufficient for between-group comparisons (e.g., comparisons among facilities). Recent evidence identified three factors (respectful care and communication, benefits, and emotional/spiritual support) (Thorpe et al., 2016). This analysis also demonstrated strong support for the validity of the mailed version of the BFS and measurement invariance between the phone and mail BFS versions (Thorpe et al., 2016). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reliability&lt;/em&gt;: As is typical of surveys of bereaved family members, this survey has not undergone testing of retest reliability. However, available evidence indicates that families' perceptions of care are stable over time. That is, there are no significant differences in the respondent's rating of the care for each BFS item over the last five years. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Validity&lt;/em&gt;: The most important test of the survey's usefulness is its discriminant validity. That is, its ability to distinguish among groups that should, in theory, have different scores. Testing of the BFS has identified the following evidence of its discriminant validity:&#xD;&#xA;    &lt;ol style=&quot;list-style-type: upper-alpha;&quot;&gt;&#xD;&#xA;        &lt;li&gt;The use of a palliative care consult is associated with a higher BFS-PM score compared to usual care (mean 64 vs. 51; p&amp;lt;0.001) (Casarett et al., &quot;Do palliative,&quot; 2008). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Death in an inpatient hospice unit is associated with a higher BFS-PM score than death on an acute care ward or community living center (mean 68 vs. 55; p&amp;lt;0.001) (Ersek et al., 2015). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Presence of a DNR order at death is associated with a higher BFS-PM score than no DNR at death (Finlay, Shreve, &amp;amp; Casarett, 2008; Thorpe et al., 2016). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Family or veteran contact with a chaplain is associated with a higher spiritual support score compared to those who did not have contact with a chaplain (Finlay, Shreve, &amp;amp; Casarett, 2008; Thorpe et al., 2016). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;A bereavement contact with a family member after the veteran's death is associated with higher emotional support after death scores compared to family members who did not receive a bereavement contact (Finlay, Shreve, &amp;amp; Casarett, 2008; Thorpe et al., 2016). &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Amos Bailey F, Ritchie C, Furman C, Rosenfeld K, Shreve S, Shea JA. Important aspects of end-of-life care among veterans: implications for measurement and quality improvement. J Pain Symptom Manage. 2008 Feb;35(2):115-25. [42 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18053680&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Bailey FA, Ritchie C, Furman C, Rosenfeld K, Shreve S, Chen Z, Shea JA. Do palliative consultations improve patient outcomes?. J Am Geriatr Soc. 2008 Apr;56(4):593-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18205757&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Casarett D, Pickard A, Bailey FA, Ritchie CS, Furman CD, Rosenfeld K, Shreve S, Shea J. A nationwide VA palliative care quality measure: the family assessment of treatment at the end of life. J Palliat Med. 2008 Jan-Feb;11(1):68-75. [21 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18370895&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Department of Veterans Affairs PROMISE Center. National Quality Measures Clearinghouse (NQMC) measure submission form: Bereaved Family Survey. 2015 Oct 15. &amp;nbsp;21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ersek M, Thorpe J, Kim H, Thomasson A, Smith D. Exploring end-of-life care in Veterans Affairs community living centers. J Am Geriatr Soc. 2015 Apr;63(4):644-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25809839&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Finlay E, Shreve S, Casarett D. Nationwide Veterans Affairs quality measure for cancer: the family assessment of  treatment at end of life. J Clin Oncol. 2008 Aug 10;26(23):3838-44. [61 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18688050&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith D, Kuzla N, Thorpe J, Scott L, Ersek M. Exploring nonresponse bias in the Department of Veterans Affairs' Bereaved Family Survey. J Palliat Med. 2015 Oct;18(10):858-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26172910&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sudore RL, Casarett D, Smith D, Richardson DM, Ersek M. Family involvement at the end-of-life and receipt of quality care. J Pain Symptom Manage. 2014 Dec;48(6):1108-16. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24793077&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thorpe JM, Smith D, Kuzla N, Scott L, Ersek M. Does mode of survey administration matter?  Using measurement invariance to validate the mail and phone versions of the Bereaved Family Survey. J Pain Symptom Manage. 2016 Mar;51(3):546-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26620233&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Rural Health Care" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Veterans who die in an inpatient Veterans Affairs (VA) facility (intensive care, acute care, hospice/palliative care unit, nursing home care unit [also known as community living center]) for whom a survey is completed*&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*'Completed' surveys are defined as those with at least 12 of the 17 structured items completed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Deaths within 24 hours of admission (unless the veteran had a previous hospitalization of at least 24 hours in the last month of life) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Veterans for whom a family member knowledgeable about their care cannot be identified (determined by the family member's report) or contacted (no current contacts listed or no valid addresses on file) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Proportion of responses that received the optimal rating among completed surveys &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bereaved Family Survey (BFS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Provisions are made to conduct a subset analysis by site of death (e.g., acute care vs. long term care), diagnosis (e.g., cancer vs. non-cancer) and use of a palliative consult.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="71" OrdBy="570" ID="613" Name="Prescriptive Standard" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Varies by year. Currently, the benchmark is set at Bereaved Family Survey Performance Measure (BFS-PM) score whereby 10% of Veterans Integrated Service Networks (VISNs) scores fall below the benchmark. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="9" OrdBy="580" ID="614" Name="Evidence for Prescriptive Standard" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Paddock SM. Statistical benchmarks for health care provider performance assessment: a comparison of standard approaches to a hierarchical Bayesian histogram-based method. Health Res Educ Trust. 2014 Jun;49(3):1056-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24461071&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bereaved Family Survey (BFS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Department of Veterans Affairs PROMISE Center - Government Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Department of Veterans Affairs PROMISE Center - Government Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Department of Veterans Affairs Hospice and Palliative Care program&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Department of Veteran's Affairs, PROMISE (Performance Reporting and Outcomes Measurement to Improve the Standard of care at End-of-life) Center&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 7&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was adapted from the following source: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Family Assessment of Treatment at End-of-life (F.A.T.E.) survey (developed by David Casarett, Department of Veterans Affairs) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ongoing&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Casarett D. Bereaved Family Survey. Philadelphia (PA): PROMISE Center, Center for Health Equity Research and Promotion; 2012 Oct. 5 p. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bereaved Family Survey available from the &lt;a href=&quot;http://www.cherp.research.va.gov/PROMISE/The_PROMISE_Survey.asp&quot; title=&quot;U.S. Department of Veterans Affairs (VA): Center for Health Equity Research and Promotion&quot; target=&quot;_blank&quot;&gt;U.S. Department of Veterans Affairs (VA) Center for Health Equity Research and Promotion Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the &lt;a href=&quot;http://www.cherp.research.va.gov/PROMISE/index.asp&quot; title=&quot;U.S. Department of Veterans Affairs (VA): PROMISE Center Web site&quot; target=&quot;_blank&quot;&gt;U.S. Department of Veterans Affairs (VA) PROMISE Center Web site&lt;/a&gt; OR contact Dawn Gilbert at Phone: 877-503-5817; E-mail: &lt;a href=&quot;mailto:dawn.gilbert2@va.gov&quot;&gt;dawn.gilbert2@va.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 22, 2009. The information was verified by the measure developer on June 10, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 31, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reviewed and edited by the measure developer on November 17, 2011 and again on October 26, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 14, 2016. The information was verified by the measure developer on May 15, 2016. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 23, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Department of Veterans Affairs PROMISE Center. National Quality Measures Clearinghouse (NQMC) measure submission form: Bereaved Family Survey. 2015 Oct 15. &amp;nbsp;21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Veterans Affairs Center for Health Equity Research and Promotion. Bereaved Family Survey. Washington (DC): U.S. Department of Veterans Affairs; 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

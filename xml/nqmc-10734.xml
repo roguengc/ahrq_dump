@@ -1,0 +1,272 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Long-stay nursing home care: percent of residents who lose too much weight.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of long-stay residents who had a weight loss of 5% or more in the last month or 10% or more in the last two quarters who were not on a physician prescribed weight-loss regimen noted in a Minimum Data Set (MDS) assessment during the selected quarter.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unintended and excessive weight loss is a significant problem among long-stay nursing home residents. Weight loss of 5% or more in one month or 10% or more over six months is usually considered unhealthy (Thomas et al., 2000), and prior studies suggest that weight loss is associated with increased mortality (Murden &amp;amp; Ainslie, 1994; Ryan et al., 1995; Sullivan et al., 2002; Stack et al., 2013; Keller et al., 2015). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Excessive, rapid weight loss may be a sign of depression, medical or dental problems that make eating difficult, end of life, or resident refusal to eat. At the same time, it may be a sign of problems with nutritional care within the nursing home. To help prevent unintended weight loss, it is important that the resident's diet be balanced and nutritious, and that staff spend enough time feeding residents who cannot feed themselves. Empirical evidence indicates that organizational factors (structures) and care processes influence the nutritional intake and risk of weight loss for the elderly (Sanders, 1990; Van Ort &amp;amp; Phillips, 1995; Lange-Alberts &amp;amp; Shott, 1994; Kayser-Jones &amp;amp; Schell, 1997; Amella, 1999; Simmons et al., 2001; Altus, Engelman, &amp;amp; Matthews, 2002; Pelletier, 2004; Milne et al., 2005; Simmons et al., 2003; Beattie et al., 2014). Higher staffing levels and staff training, positive relationships and better communication between staff and residents, and a quieter and more private dining environment may increase residents' food consumption and improve their nutritional status (Sanders, 1990; Van Ort et al., 1995; Lange-Alberts et al., 1994; Kayser-Jones et al., 1997; Amella, 1999; Simmons et al., 2001; Altus, Engelman, &amp;amp; Matthews, 2002; Pelletier, 2004; Beattie et al., 2014). Some nutrition and dining programs may potentially reduce the risk of weight loss for nursing home residents. For example, a Cochrane meta-analysis found that supplementation produces small but consistent weight gain in older people (Milne et al., 2005). Another study found that facilities with verbal prompting and social interaction during meals had lower rates of weight loss (Simmons et al., 2003). Appropriate management of clinical conditions for people at higher risk for weight loss, e.g., those with depression, is also a potentially effective way to prevent unintended weight loss (Fawcett &amp;amp; Barkin, 1998; Malone, 2005; Rigler et al., 2001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A review study demonstrated that weight loss is the most objective and reproducible marker of nutritious status for nursing home residents (Bell et al., 2013). By monitoring and publicly reporting nursing facility performance in preventing weight loss, nursing facilities will have incentives to focus on monitoring and maintaining residents' weight and nutritional status. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nutritional issues have been identified as a priority area for practice change and research in long-term care (Keller et al., 2015; Morley et al., 2014; Rolland et al., 2011). In long-term care, the primary cause of malnutrition is poor food and fluid intake (Keller et al., 2014, Bell et al., 2013). Nursing home residents often have chronic diseases and functional impairments that may impair proper nutrition and hydration (Morley, 2007; Sloane et al., 2008; Bourdel-Marchasson, 2010) and require interventions by facility staff (Morley, 2007). Between 40% and 60% of nursing home residents have swallowing disorders, often related to dementia (Kayser-Jones &amp;amp; Pengilly, 1999). Various chronic illnesses are associated with malnutrition, including cancer, diabetes, depression, and chronic obstructive pulmonary disease (COPD) (Huffman, 2002). Medications, oral health problems (such as missing teeth), dysphagia, and dementia can complicate nutrition and hydration. Medications may cause nausea, anxiety, constipation, and lack of appetite. Depression has been identified as the &quot;most common reversible illness&quot; associated with malnutrition (Sloane et al., 2008). Dehydration is a major factor in weight loss in about 10% of nursing home residents (Kaldy et al., 2000; Feinsod et al., 2004; Smith, 2006). A review study demonstrated that weight loss is the most objective and reproducible marker of nutritious status for nursing home residents (Bell et al., 2013). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Using Minimum Data Set (MDS) 2.0 data for April to June 2009, the national prevalence of too much weight loss in nursing homes was 9.2%, ranging from a low of an average of 7.0% in Alaska to a high of an average of 11.4% in North Carolina (Centers for Medicare &amp;amp; Medicaid Services [CMS], n.d.). The national percentage of too much weight loss fluctuated somewhat between 2003 and 2009, with a modest downward trend (American Health Care Association, 2009). RTI analysis of MDS 3.0 in Q3 2014 shows that 5.7% of the long-stay residents experienced a weight loss of 5% or more in the past 30 days or 10% or more in the past 6 months.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Elderly individuals with excessive and rapid weight loss are at higher risk for functional decline, hip fracture (Langlois et al., 1996; Langlois et al., 2001; Ensrud et al., 2003) and mortality (Ryan et al., 1995; Covinsky et al., 1999; Kiely &amp;amp; Flacker, 2000; Sullivan et al., 2002; Wedick et al., 2002; Keller &amp;amp; Ostbye, 2005; Amador et al., 2006; Stack et al., 2013). Detecting and preventing weight loss is central to ensure appropriate nutritional intake. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Altus DE, Engelman KK, Mathews RM. Using family-style meals to increase participation and communication in persons with dementia. J Gerontol Nurs. 2002 Sep;28(9):47-53. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12240521&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Amador LF, Al Snih S, Markides KS, Goodwin JS. Weight change and mortality among older Mexican Americans. Aging (Milano). 2006 Jun;18(3):196-204. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16804365&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Amella EJ. Factors influencing the proportion of food consumed by nursing home residents with dementia. J Am Geriatr Soc. 1999 Jul;47(7):879-85. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10404936&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Beattie E, O'Reilly M, Strange E, Franklin S, Isenring E. How much do residential aged care staff members know about the nutritional needs of residents?. Int J Older People Nurs. 2014 Mar;9(1):54-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23398776&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bell CL, Tamura BK, Masaki KH, Amella EJ. Prevalence and measures of nutritional compromise among nursing home patients: weight loss, low body mass index, malnutrition, and feeding dependency, a systematic review of the literature. J Am Med Dir Assoc. 2013 Feb;14(2):94-100. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23246236&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bourdel-Marchasson I. How to improve nutritional support in geriatric institutions. J Am Med Dir Assoc. 2010 Jan;11(1):13-20. [74 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20129210&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). CMS MDS quality measure/indicator report. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Covinsky KE, Martin GE, Beyth RJ, Justice AC, Sehgal AR, Landefeld CS. The relationship between clinical assessments of nutritional status and adverse outcomes in older hospitalized medical patients. J Am Geriatr Soc. 1999 May;47(5):532-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10323645&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ensrud KE, Ewing SK, Stone KL, Cauley JA, Bowman PJ, Cummings SR. Intentional and unintentional weight loss increase bone loss and hip fracture risk in older women. J Am Geriatr Soc. 2003 Dec;51(12):1740-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14687352&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fawcett J, Barkin RL. Review of the results from clinical studies on the efficacy, safety and tolerability of mirtazapine for the treatment of patients with major depression. J Affect Disord. 1998 Dec;51(3):267-85. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10333982&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Feinsod FM, Levenson SA, Rapp K, Rapp MP, Beechinor E, Liebmann L. Dehydration in frail, older residents in long-term care facilities. J Am Med Dir Assoc. 2004 Mar-Apr;5(2 Suppl):S35-41. [38 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14984609&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Huffman GB. Evaluating and treating unintentional weight loss in the elderly. Am Fam Physician. 2002 Feb 15;65(4):640-50. [43 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11871682&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kayser-Jones J, Pengilly K. Dysphagia among nursing home residents. Geriatr Nurs. 1999 Mar-Apr;20(2):77-82; quiz 84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10382421&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kayser-Jones J, Schell E. The mealtime experience of a cognitively impaired elder: ineffective and effective strategies. J Gerontol Nurs. 1997 Jul;23(7):33-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9287604&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Keller H, Beck AM, Namasivayam A, International-Dining in Nursing home Experts (I-DINE) Consortium. Improving food and fluid intake for older adults living in long-term care: a research agenda. J Am Med Dir Assoc. 2015 Feb;16(2):93-100. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25481747&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Keller HH, Ostbye T. Body Mass Index (BMI), BMI change and mortality in community-dwelling seniors without dementia. J Nutr Health Aging. 2005 Sep-Oct;9(5):316-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16222397&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kiely DK, Flacker JM. Resident characteristics associated with mortality in long-term care nursing homes: is there a gender difference. J Am Med Dir Assoc. 2000 Jan-Feb;1(1):8-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12818041&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lange-Alberts ME, Shott S. Nutritional intake. Use of touch and verbal cuing. J Gerontol Nurs. 1994 Feb;20(2):36-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8106722&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Langlois JA, Harris T, Looker AC, Madans J. Weight change between age 50 years and old age is associated with risk of hip fracture in white women aged 67 years and older. Arch Intern Med. 1996 May 13;156(9):989-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8624179&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Langlois JA, Mussolino ME, Visser M, Looker AC, Harris T, Madans J. Weight loss from maximum body weight among middle-aged and older white women and  the risk of hip fracture: the NHANES I epidemiologic follow-up study. Osteoporos Int. 2001;12(9):763-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11605743&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Malone M. Medications associated with weight gain. Ann Pharmacother. 2005 Dec;39(12):2046-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16278256&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Morley JE, Caplan G, Cesari M, Dong B, Flaherty JH, Grossberg GT, Holmerova I, Katz PR, Koopmans R, Little MO, Martin F, Orrell M, Ouslander J, Rantz M, Resnick B, Rolland Y, Tolson D, Woo J, Vellas B. International survey of nursing home research priorities. J Am Med Dir Assoc. 2014 May;15(5):309-12. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24703926&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Morley JE. Weight loss in the nursing home. J Am Med Dir Assoc. 2007 May;8(4):201-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17498601&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Murden RA, Ainslie NK. Recent weight loss is related to short-term mortality in nursing homes. J Gen Intern Med. 1994 Nov;9(11):648-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7853074&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents who lose too much weight (long stay). Washington (DC): National Quality Forum (NQF); 2015. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pelletier CA. What do certified nurse assistants actually know about dysphagia and feeding nursing home residents?. Am J Speech Lang Pathol. 2004 May;13(2):99-113. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15198630&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rigler SK, Webb MJ, Redford L, Brown EF, Zhou J, Wallace D. Weight outcomes among antidepressant users in nursing facilities. J Am Geriatr Soc. 2001 Jan;49(1):49-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11207842&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rolland Y, Aquino JP, Andrieu S, Beard J, Benetos A, Berrut G, Coll-Planas L, Dartigues JF, Dong B, Forette F, Franco A, Franzoni S, Hornez T, Metais P, Ruault G, Stephan E, Swagerty D, Tolson D, Volicer L, Vellas B, Morley J. Identification of the main domains for quality of care and clinical research in nursing homes. J Nutr Health Aging. 2011 May;15(5):410-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21528170&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ryan C, Bryant E, Eleazer P, Rhodes A, Guest K. Unintentional weight loss in long-term care: predictor of mortality in the elderly. South Med J. 1995 Jul;88(7):721-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7597475&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sanders HN. Feeding dependent eaters among geriatric patients. J Nutr Elder. 1990;9(3):69-74. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2144022&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Simmons SF, Alessi C, Schnelle JF. An intervention to increase fluid intake in nursing home residents: prompting and preference compliance. J Am Geriatr Soc. 2001 Jul;49(7):926-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11527484&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Simmons SF, Garcia ET, Cadogan MP, Al-Samarrai NR, Levy-Storms LF, Osterweil D, Schnelle JF. The minimum data set weight-loss quality indicator: does it reflect differences in care processes related to weight loss?. J Am Geriatr Soc. 2003 Oct;51(10):1410-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14511161&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Simmons SF, Osterweil D, Schnelle JF. Improving food intake in nursing home residents with feeding assistance: a staffing analysis. J Gerontol A Biol Sci Med Sci. 2001 Dec;56(12):M790-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11723156&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sloane PD, Ivey J, Helton M, Barrick AL, Cerna A. Nutritional issues in long-term care. J Am Med Dir Assoc. 2008 Sep;9(7):476-85. [68 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18755420&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith PA. Nutrition, hydration, and dysphagia in long-term care: Differing opinions on the  effects of aspiration. J Am Med Dir Assoc. 2006 Nov;7(9):545-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17095418&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stack S, Chertow GM, Johansen KL, Si Y, Tamura MK. Pre-ESRD changes in body weight and survival in nursing home residents starting dialysis. Clin J Am Soc Nephrol. 2013 Oct;8(10):1734-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24009221&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sullivan DH, Morley JE, Johnson LE, Barber A, Olson JS, Stevens MR, Yamashita BD, Reinhart SP, Trotter JP, Olave XE. The GAIN (Geriatric Anorexia Nutrition) registry: the impact of appetite and weight on mortality in a long-term care population. J Nutr Health Aging. 2002;6(4):275-81. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12486448&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thomas DR, Ashmen W, Morley JE, Evans WJ. Nutritional management in long-term care: development of a clinical guideline. Council for Nutritional Strategies in Long-Term Care. J Gerontol A Biol Sci Med Sci. 2000 Dec;55(12):M725-34. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11129394&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Van Ort S, Phillips LR. Nursing intervention to promote functional feeding. J Gerontol Nurs. 1995 Oct;21(10):6-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7594252&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wedick NM, Barrett-Connor E, Knoke JD, Wingard DL. The relationship between weight loss and all-cause mortality in older men and women with and without diabetes mellitus: the Rancho Bernardo study. J Am Geriatr Soc. 2002 Nov;50(11):1810-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12410899&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Nursing home; long-stay; weight loss&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Long-stay nursing home residents with a selected target assessment, except those with exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Long-stay nursing home residents with a selected target assessment which indicates a weight loss of 5% or more in the last month or 10% or more in the last 6 months who were not on a physician prescribed weight-loss regimen (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Race&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;At the resident level, the developer compared the scores of this quality measure among different racial/ethnic groups. The lowest rate of weight loss was found among Hispanic residents (4.7%), and the highest rate was among white residents (5.8%). Differences in the rate of weight loss by racial/ethnic group were found to be statistically significant (p less than 0.0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analyses at the facility level examined differences in the percent of residents who experienced a weight loss of 5% or more of the baseline weight in the last 30 days or 10% or more of the baseline weight in the last 6 months across two groups: facilities with proportions of white residents that were greater than or equal to the median proportion (87.5%) among facilities with sufficient sample size to meet minimum public reporting requirements, and facilities with fewer white residents than the median. The developer cross-tabulated racial composition (above/below median) with quality measure (QM) score (above/below median) and ran a 2-way Chi-square test for statistical dependence (with one degree of freedom). The results showed that the QM score was not statistically significantly different between the two groups of nursing homes (5.7% compared to 5.8%, p=0.06). A follow-up nonparametric test on the median-split data did not find a statistically significant relationship between facility-level racial composition and median facility scores on QM# 0689 (chi-square = 3.7, p =0.05).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Socioeconomic Status&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To examine the potential for a relationship between socioeconomic disparity and weight loss, the developer examined the performance of this measure in facilities stratified by the proportion of residents who are Medicaid eligible, a proxy measure of low socioeconomic status. For this analysis, facilities were stratified into two groups: facilities with greater than 75% of residents who are Medicaid eligible and facilities with less than 75% of residents who are Medicaid eligible (75% of facilities have 75% or more of residents included in this measure who are Medicaid eligible). In Quarter 3 2014, no statistically significant difference was detected between the two groups (5.7% vs. 5.7%, F [1, 15145] = 0.0, p = 0.96). Thus, there is no disparity in this measure by socioeconomic status, as stratified by the proportion of residents who are Medicaid eligible. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents who lose too much weight (long stay). Washington (DC): National Quality Forum (NQF); 2015. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarterly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Long-stay* nursing home residents with a selected target assessment, except those with exclusions&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Long-stay&lt;/strong&gt;: An episode with cumulative days in facility (CDIF) greater than or equal to 101 days as of the end of the target period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Target assessment is an Omnibus Budget Reconciliation Act (OBRA) admission assessment &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt;&lt;/em&gt; a prospective payment system (PPS) 5-day or readmission/return assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Weight loss item is missing on target assessment &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Long-stay nursing home residents with a selected target assessment which indicates a weight loss of 5% or more in the last month or 10% or more in the last 6 months who were not on a physician prescribed weight-loss regimen&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent of residents who lose too much weight (long-stay).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Nursing Home Quality Initiative Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Long-stay Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RTI International - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest exist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Dec 10&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Nursing Home Compare" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual and (every three years) endorsement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarter 2 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the CMS Web site at &lt;a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the &lt;a href=&quot;http://www.medicare.gov/nursinghomecompare/search.html&quot; title=&quot;Nursing Home Compare&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The NQMC summary was completed by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 28, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

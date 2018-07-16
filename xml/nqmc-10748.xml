@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Failure to rescue: percentage of patients who died with a complication in the hospital.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Failure to rescue in-hospital mortality measure specifications. Philadelphia (PA): The Children's Hospital of Philadelphia Research Institute; 2015 Aug. 56 p.  [33 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients who died with a complication in the hospital.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence to date suggests that complication measures are less sensitive to hospital characteristics, after adjusting for severity of illness, than mortality based measures. This is an underlying assumption of failure to rescue (FTR) theory&amp;mdash;complications are undesirable outcome measures because they reflect underlying patient severity and diagnosis coding more than they reflect hospital care. Instead, a hospital's quality is put to the test when a patient develops a complication, and whether a patient is salvaged after a complication will be a function of the care delivered by the hospital and its knowledge base, depth, and facilities. Thus, &quot;good&quot; hospitals will rescue patients by identifying complications quickly and treating them aggressively, resulting in lower FTR. Although many &quot;failures,&quot; just like deaths, are often not preventable, we have argued that FTR may be a better measure for comparing hospital quality because of better severity adjustment properties, and because of its focus on hospital actions. By studying a population of patients who, by definition, have already developed a complication, the specifics of severity of illness adjustment becomes less important in failure rate analyses, because all patients have experienced complications and thus are more uniformly ill.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ghaferi AA, Birkmeyer JD, Dimick JB. Variation in hospital mortality associated with inpatient surgery. N Engl J Med. 2009 Oct 1;361(14):1368-75. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19797283&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hartz AJ, Krakauer H, Kuhn EM, Young M, Jacobsen SJ, Gay G, Muenz L, Katzoff M, Bailey RC, Rimm AA. Hospital characteristics and mortality rates. N Engl J Med. 1989 Dec 21;321(25):1720-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2594031&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sheetz KH, Waits SA, Krell RW, Campbell DA, Englesbe MJ, Ghaferi AA. Improving mortality following emergent surgery in older patients requires focus on complication rescue. Ann Surg. 2013 Oct;258(4):614-7; discussion 617-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23979275&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Rosenbaum PR. A spurious correlation between hospital mortality and complication rates: the importance of severity adjustment. Med Care. 1997 Oct;35(10 Suppl):OS77-92. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9339779&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In-hospital mortality; general, orthopedic or vascular surgery; complications&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;General surgery, orthopedic and vascular patients with complications plus patients who died in the hospital without complications (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who died with a complication plus patients who died without documented complications. Death is defined as death in the hospital. See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Split half sample reliability had a correlation of 0.39, similar to in-hospital mortality (0.36).&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Marginal and partial coefficients in logit models using detailed patient characteristics and hospital characteristics shown to be associated with better outcomes in previous studies (Silber et al., 2007; Aiken et al., 2002). The marginal results use one hospital characteristic at a time along with all patient characteristics. &quot;Partial&quot; regression results, using all hospital and patient variables simultaneously have the disadvantage that correlation between hospital characteristics can cause difficulty in interpreting the effects of individual hospital variables. The following hospital characteristics have been shown to be associated with better outcomes: (1) teaching hospital status (member of the American Council of Teaching Hospitals); (2) high technology status (does the hospital perform open heart surgery or perform organ transplantation); (3) hospital size greater than 200/250 beds; (4) bed-to-nurse ratio (where nurses are the sum of registered nurse [RN] plus licensed practical nurse [LPN] full-time equivalent [FTE] positions); and (5) nursing skill mix (the ratio of RN/[RN+LPN]) (Silber et al., 2007; Silber et al., 1995; Silber et al., 1997; Silber et al., 2000; Silber et al., 2002; Aiken et al., 2002; Aiken et al., 2003). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The relative contribution of patient-to-hospital characteristics that predicted each outcome of interest, as provided by the omega statistic (Silber et al., 2007; Silber, Rosenbaum, &amp;amp; Ross, 1995). The omega statistic computes a ratio of the squared sum of the log odds for model patent variables divided by a similar quantity calculated for the model hospital variables. All else being equal, outcome measures that have lower omega ratios may be more desirable quality indicators, since the lower the omega, the greater the hospital's impact on outcome relative to the patient's impact. This is especially important if modeling patient severity is difficult (as with claims data) so that the lower the omega suggests the higher relative influence of hospital characteristics as compared to patient characteristics. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Aiken LH, Clarke SP, Cheung RB, Sloane DM, Silber JH. Educational levels of hospital nurses and surgical patient mortality. JAMA. 2003 Sep 24;290(12):1617-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14506121&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Aiken LH, Clarke SP, Sloane DM, Sochalski J, Silber JH. Hospital nurse staffing and patient mortality, nurse burnout, and job dissatisfaction. JAMA. 2002 Oct 23-30;288(16):1987-93. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12387650&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber J, Rosenbaum P, Ross R. Comparing the contributions of groups of predictors: which outcomes vary with hospital rather than patient characteristics?. J Am Stat Assoc. 1995;90:7-18.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Kennedy SK, Even-Shoshan O, Chen W, Koziol LF, Showan AM, Longnecker DE. Anesthesiologist direction and patient outcomes. Anesthesiology. 2000 Jul;93(1):152-63. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10861159&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Kennedy SK, Even-Shoshan O, Chen W, Mosher RE, Showan AM, Longnecker DE. Anesthesiologist board certification and patient outcomes. Anesthesiology. 2002 May;96(5):1044-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11981141&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Romano PS, Rosen AK, Wang Y, Even-Shoshan O, Volpp KG. Failure-to-rescue: comparing definitions to measure quality of care. Med Care. 2007 Oct;45(10):918-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17890988&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Rosenbaum PR, Schwartz JS, Ross RN, Williams SV. Evaluation of the complication rate as a measure of quality of care in coronary artery bypass graft surgery. JAMA. 1995 Jul 26;274(4):317-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7609261&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silber JH, Rosenbaum PR, Williams SV, Ross RN, Schwartz JS. The relationship between choice of outcome measure and hospital rank in general surgical procedures: implications for quality assessment. Int J Qual Health Care. 1997 Jun;9(3):193-200. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9209916&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 18 to 90 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Typically, at least one year of data has been searched to identify cases.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;General surgery, orthopedic and vascular patients with complications plus patients who died in the hospital without complications&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Include adult patients admitted for one of the procedures in the general surgery, orthopedic or vascular diagnosis-related groups (DRGs). Refer to Appendix A in the original measure documentation for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients over age 90, under age 18&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who died with a complication plus patients who died without documented complications. Death is defined as death in the hospital.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Failure to rescue (FTR) is defined as the probability of death following a complication. All patients in an FTR analysis have developed a complication or died without a documented complication&amp;nbsp;(by definition). Refer to the original measure documentation for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Complicated patient has at least one of the complications defined in Appendix B of the original measure documentation. Complications are defined using the secondary International Classification of Diseases, Ninth Revision (ICD-9) diagnosis and procedure codes and the diagnosis-related group (DRG) code of the current admission. International Classification of Diseases, Tenth Revision (ICD-10) codes are provided in Appendix D of the original measure documentation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comorbidities are defined in Appendix C of the original measure documentation using secondary ICD-9 diagnosis codes of the current admission and primary or secondary ICD-9 diagnosis codes of previous admissions or encounters&amp;nbsp;within 90 days of the admission date of the current admission. ICD-10 codes are provided in Appendix E of the original measure documentation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When Current Procedural Terminology (CPT) codes are available, the definition of complications and comorbidities are augmented to include them. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="State/Province public health data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Death" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Risk Adjustment: Model was developed using logistic regression analysis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Associated Data Elements: Age in years, sex, race, comorbidities, diagnosis-related groups (DRGs) (combined with and without complications) and procedure codes within DRGs, transfer status.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Failure to rescue (FTR) is adjusted using a logistic regression model where y is a failure and the total N is composed of patients who develop a complication and patients who died without a documented complication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Failure to rescue in-hospital mortality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Failure to Rescue Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Children's Hospital of Philadelphia - Hospital/Medical Center" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Children's Hospital of Philadelphia - Hospital/Medical Center" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Children's Hospital of Philadelphia&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Jeffrey H. Silber, MD, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Children's Hospital of Philadelphia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The University of Pennsylvania &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Dec 10&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Aug 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Failure to rescue in-hospital mortality measure specifications. Philadelphia (PA): The Children's Hospital of Philadelphia Research Institute; 2015 May. 24 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://cor.research.chop.edu/sites/default/files/sites/default/files/FTR_InHospital_August_2015.pdf&quot; title=&quot;CHOP Research Institute Web site&quot;&gt;The Children's Hospital of Philadelphia (CHOP) Research Institute Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Jeffery H. Silber at The Children's Hospital of Philadelphia (CHOP), 3535 Market Street, Suite 1029, Philadelphia, PA 19104; Phone: 215-590-5635; Fax: 215-590-2378; E-mail: &lt;a href=&quot;mailto:silber@email.chop.edu&quot;&gt;silber@email.chop.edu&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.research.chop.edu/programs/cor&quot; title=&quot;CHOP Research Institute Web site&quot;&gt;www.research.chop.edu/programs/cor&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 1, 2014. The information was verified by the measure developer on April 9, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on July 2, 2015. The information was verified by the measure developer on July 22, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 18, 2016. The information was verified by the measure developer on May 24, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Failure to rescue in-hospital mortality measure specifications. Philadelphia (PA): The Children's Hospital of Philadelphia Research Institute; 2015 Aug. 56 p.  [33 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

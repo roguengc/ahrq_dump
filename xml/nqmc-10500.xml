@@ -1,0 +1,248 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Childhood immunization status: percentage of children 2 years of age who had four diphtheria, tetanus, and acellular pertussis (DTaP); three polio (IPV); one measles, mumps, and rubella (MMR); three haemophilus influenza type B (HiB); three hepatitis B (HepB); one chicken pox (VZV); four pneumococcal conjugate (PCV); one hepatitis A (HepA); two or three rotavirus (RV); and two influenza (flu) vaccines by their second birthday.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children who turn two years of age during the measurement year who had four diphtheria, tetanus, and acellular pertussis (DTaP); three polio (IPV); one measles, mumps, and rubella (MMR); three haemophilus influenza type B (HiB); three hepatitis B (HepB); one chicken pox (VZV); four pneumococcal conjugate (PCV); one hepatitis A (HepA); two or three rotavirus (RV); and two influenza (flu) vaccines by their second birthday.&lt;/p&gt;&#xA;&lt;p&gt;The Childhood Immunization Status (CIS) measure calculates a rate for each vaccine and nine separate combination rates. This measure summary represents the overall rate (combination #10).&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note from the National Quality Measures Clearinghouse (NQMC)&lt;/strong&gt;: For this measure, there are both Administrative and Hybrid Specifications. This NQMC measure summary is based on the Administrative specification. Refer to the original measure documentation for details pertaining to the Hybrid specification. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A basic method for prevention of illness is immunization. Childhood immunizations help prevent serious illnesses such as polio, tetanus and hepatitis. Vaccines are a proven way to help a child stay healthy and avoid the potentially harmful effects of childhood diseases like mumps and measles. Even preventing &quot;mild&quot; diseases saves hundreds of lost school days and work days, and millions of dollars. &lt;/p&gt;&#xA;&lt;p&gt;This measure follows the Centers for Disease Control and Prevention (CDC) Advisory Committee on Immunization Practices (ACIP) guidelines for immunizations (Kroger et al., 2006).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kroger AT, Atkinson WL, Marcuse EK, Pickering LK, Advisory Committee on Immunization Practices (ACIP) Centers for Disease. General recommendations on immunization: recommendations of the Advisory Committee on Immunization Practices (ACIP) [published errata appear in MMWR Morb Mortal Wkly Rep 2007 Mar 23;56(11):256]. MMWR Recomm Rep. 2006 Dec 1;55(RR-15):1-48. [202 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17136024&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Immunization; diphtheria; tetanus; acellular pertussis; polio; measles; mumps; rubella; haemophilus influenza type B; hepatitis B; varicella zoster virus (chicken pox); pneumococcal conjugate; hepatitis A; rotavirus; influenza; children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children who turn two years of age during the measurement year (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children who had four diphtheria, tetanus, and acellular pertussis (DTaP) vaccinations; three polio (IPV) vaccinations; one measles, mumps, and rubella (MMR) vaccination; three haemophilus influenza type B (HiB) vaccinations; three hepatitis B (HepB) vaccinations; one chicken pox (VZV) vaccination; four pneumococcal conjugate (PCV) vaccinations; one hepatitis A (HepA) vaccination; two or three rotavirus (RV) vaccinations; and two influenza vaccinations by their second birthday (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Childhood vaccines protect children from a number of serious and potentially life-threatening diseases such as diphtheria, measles, meningitis, polio, tetanus and whooping cough, at a time in their lives when they are most vulnerable to disease (Mayo Clinic, 2014; Institute of Medicine [IOM], 2013). Approximately 300 children in the United States (U.S.) die each year from vaccine-preventable diseases (U.S. Department of Health and Human Services [DHHS] &amp;amp; Office of Disease Prevention and Health Promotion [ODPHP], 2013). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;It is estimated that for each group of children vaccinated, 14 million cases of disease are prevented, direct health care costs are reduced by $9.9 billion and indirect costs are reduced by $33.4 billion (DHHS &amp;amp; ODPHP, 2013). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Vaccines are considered one of the most successful and cost-effective public health interventions and are responsible for dramatically reducing pediatric morbidity and mortality in the U.S. (DHHS &amp;amp; ODPHP, 2013; Centers for Disease Control and Prevention [CDC], 2012). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although U.S. childhood immunization rates are generally high, some areas remain vulnerable to outbreaks of infection, such as measles (IOM, 2013). In 2013, 159 measles case were reported in the U.S. &amp;ndash; 37 percent in children younger than 5 years (Malani, 2013). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Immunizations are essential for disease prevention in the U.S. and are a critical aspect of preventive care for children. Vaccination coverage must be maintained in order to prevent a resurgence of vaccine-preventable diseases (Diekema, 2012). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Protect your child at every age. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2012&amp;nbsp;[accessed 2014 Jun 19]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Diekema DS. Improving childhood vaccination rates. N Engl J Med. 2012 Feb 2;366(5):391-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22296072&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine (IOM). The childhood immunization schedule and safety: stakeholder concerns, scientific evidence, and future studies. Report brief. [internet]. Washington (DC): Institute of Medicine (IOM); 2013 Jan&amp;nbsp;[accessed 2014 Jun 19]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Malani P. Vaccination rates for US children remain generally high, but measles outbreaks underscore shortfalls in some regions. [internet]. Chicago (IL): American Medical Association (AMA); 2013 Sep 16.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mayo Clinic. Infant and toddler health. Childhood vaccines: tough questions, straight answers. Do vaccines cause autism? Is it OK to skip certain vaccines? Get the facts on these and other common questions. [internet]. Scottsdale (AZ): Mayo Clinic; 2014&amp;nbsp;[accessed 2014 Jun 19]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). The state of health care quality 2015. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. 205 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS), Office of Disease Prevention and Health Promotion (ODPHP). Healthy People 2020: immunization and infectious diseases. [internet]. Washington (DC): U.S. Department of Health and Human Services (DHHS); 2013&amp;nbsp;[accessed 2014 Jun 19]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA's) Committee on Performance Measurement and Board of Directors. Where applicable, measures also are assessed for construct validity using the Pearson correlation test. All measures undergo formal reliability testing of the performance measure score using beta-binomial statistical analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Mar 16. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children who turned two years of age during the measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Children who turn two years of age during the measurement year&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children must have been continuously enrolled for 12 months prior to the child's second birthday. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Allowable Gap&lt;/em&gt;: No more than one gap in enrollment of up to 45 days during the 12 months prior to the child's second birthday. To determine continuous enrollment for a Medicaid beneficiary for whom enrollment is verified monthly, the member may not have more than a 1-month gap in coverage. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclude children who had a contraindication for a specific vaccine from the denominator for all antigen rates and the combination rates. The denominator for all rates must be the same. (&lt;em&gt;Optional&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exclude contraindicated children only if administrative data do not indicate that the contraindicated immunization was rendered in its entirety. (&lt;em&gt;Optional&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Any of the following on or before the member's second birthday meet optional exclusion criteria:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Any Particular Vaccine&lt;/em&gt;: Anaphylactic reaction to the vaccine or its components (Anaphylactic Reaction Due To Vaccination Value Set) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Diphtheria, Tetanus, and Acellular Pertussis (DTaP)&lt;/em&gt;: Encephalopathy (Encephalopathy Due To Vaccination Value Set) &lt;strong&gt;&lt;em&gt;with&lt;/em&gt;&lt;/strong&gt; a vaccine adverse-effect code (Vaccine Causing Adverse Effect Value Set) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Measles, Mumps, and Rubella (MMR), Chicken Pox (VZV), and Influenza&lt;/em&gt;: Immunodeficiency (Disorders of the Immune System Value Set) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;MMR, VZV, and Influenza&lt;/em&gt;: HIV (HIV Value Set) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;MMR, VZV, and Influenza&lt;/em&gt;: Lymphoreticular cancer, multiple myeloma or leukemia (Malignant Neoplasm of Lymphatic Tissue Value Set) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;MMR, VZV, and Influenza&lt;/em&gt;: Anaphylactic reaction to neomycin &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Polio (IPV)&lt;/em&gt;: Anaphylactic reaction to streptomycin, polymyxin B or neomycin &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Hepatitis B&lt;/em&gt;: Anaphylactic reaction to common baker's yeast &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/catalog/category/view/s/hedis-2016/id/58/&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase HEDIS Volume 2, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Children who had four diphtheria, tetanus, and acellular pertussis (DTaP); three polio (IPV); one measles, mumps, and rubella (MMR); three haemophilus influenza type B (HiB); three hepatitis B (HepB); one chicken pox (VZV); four pneumococcal conjugate (PCV); one hepatitis A (HepA); two or three rotavirus (RV); and two influenza vaccinations by their second birthday&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For MMR, HepB, VZV and HepA, count any of the following: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence of the antigen or combination vaccine, &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documented history of the illness, &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A seropositive test result for each antigen &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For DTaP, IPV, HiB, PCV, RV and influenza, count &lt;em&gt;only&lt;/em&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evidence of the antigen or combination vaccine &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For combination vaccinations that require more than one antigen (i.e., DTaP and MMR), the organization must find evidence of all the antigens. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;DTaP&lt;/strong&gt;&lt;/em&gt;: At least four DTaP vaccinations (DTaP Vaccine Administered Value Set), with different dates of service on or before the child's second birthday.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;IPV&lt;/strong&gt;&lt;/em&gt;: At least three IPV vaccinations (Inactivated Polio Vaccine [IPV] Administered Value Set), with different dates of service on or before the child's second birthday.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;MMR&lt;/strong&gt;&lt;/em&gt;: Any of the following on or before the child's second birthday meet criteria: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least one MMR vaccination (MMR Vaccine Administered Value Set). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At least one measles and rubella vaccination (Measles/Rubella Vaccine Administered Value Set) &lt;em&gt;&lt;strong&gt;and&lt;/strong&gt;&lt;/em&gt; at least one mumps vaccination&amp;nbsp;&lt;em&gt;or&lt;/em&gt; history of the illness (Mumps Vaccine Administered Value Set; Mumps Value Set) on the same date of service or on different dates of service. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At least one measles vaccination &lt;em&gt;or&lt;/em&gt; history of the illness (Measles Vaccine Administered Value Set; Measles Value Set) &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; at least one mumps vaccination &lt;em&gt;or&lt;/em&gt; history of the illness (Mumps Vaccine Administered Value Set; Mumps Value Set) &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; at least one rubella vaccination &lt;em&gt;or&lt;/em&gt; history of the illness (Rubella Vaccine Administered Value Set; Rubella Value Set) on the same date of service or on different dates of service. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;HiB&lt;/strong&gt;&lt;/em&gt;: At least three HiB vaccinations (Haemophilis Influenzae Type B [HiB] Vaccine Administered Value Set), with different dates of service on or before the child's second birthday.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;HepB&lt;/strong&gt;&lt;/em&gt;: Any of the following on or before the child's second birthday meet criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least three hepatitis B vaccination (Hepatitis B Vaccine Administered Value Set), with different dates of service.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;One of the three vaccinations can be a newborn hepatitis B vaccination (Newborn Hepatitis B Vaccine Administered Value Set) during the eight-day period that begins on the date of birth and ends seven days after the date of birth. For example, if the member's date of birth is December 1, the newborn hepatitis B vaccination must be on or between December 1 and December 8. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History of hepatitis illness (Hepatitis B Value Set). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;VZV&lt;/strong&gt;&lt;/em&gt;: Either of the following on or before the child's second birthday meet criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least one VZV vaccination (Varicella Zoster [VZV] Vaccine Administered Value Set), with a date of service on or before the child's second birthday. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History of varicella zoster (e.g., chicken pox) illness (Varicella Zoster Value Set). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;PCV&lt;/strong&gt;&lt;/em&gt;: At least four pneumococcal conjugate vaccinations (Pneumococcal Conjugate Vaccine Administered Value Set), with different dates of service on or before the child's second birthday.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;HepA&lt;/strong&gt;&lt;/em&gt;: Either of the following on or before the child's second birthday meet criteria: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least one HepA vaccination (Hepatitis A Vaccine Administered Value Set), with a date of service on or before the child's second birthday. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;History of HepA illness (Hepatitis A Value Set). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;RV&lt;/strong&gt;&lt;/em&gt;: Any of the following on or before the child's second birthday meet criteria:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;At least two doses of the two-dose rotavirus vaccine (Rotavirus Vaccine [2 Dose Schedule] Administered Value Set) on different dates of service. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At least three doses of the three-dose rotavirus vaccine (Rotavirus Vaccine [3 Dose Schedule] Administered Value Set) on different dates of service. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At least one dose of the two-dose rotavirus vaccine (Rotavirus Vaccine [2 Dose Schedule] Administered Value Set) &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; at least two doses of the three-dose rotavirus vaccine (Rotavirus Vaccine [3 Dose Schedule] Administered Value Set), all on different dates of service. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Influenza&lt;/strong&gt;&lt;/em&gt;: At least two influenza vaccinations (Influenza Vaccine Administered Value Set), with different dates of service on or before the child's second birthday.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;&lt;em&gt;DTaP, IPV, HiB, PCV and RV&lt;/em&gt;&lt;/strong&gt;: Do not count any vaccination administered prior to 42 days after birth. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;&lt;strong&gt;Influenza&lt;/strong&gt;&lt;/em&gt;: Do not count a vaccination administered prior to six months (180 days) after birth. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/catalog/category/view/s/hedis-2016/id/58/&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase HEDIS Volume 2, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is disaggregated based on different definitions of the numerator. This measure calculates a rate for each vaccine and nine separate combination rates.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vaccines: &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;strong&gt;&lt;/strong&gt;Diphtheria, tetanus, and acellular pertussis (DTaP) &lt;/li&gt;&#xA;    &lt;li&gt;Polio (IPV) &lt;/li&gt;&#xA;    &lt;li&gt;Measles, mumps, and rubella (MMR) &lt;/li&gt;&#xA;    &lt;li&gt;H influenza type B (HiB) &lt;/li&gt;&#xA;    &lt;li&gt;Hepatitis B (HepB) &lt;/li&gt;&#xA;    &lt;li&gt;Chicken pox (VZV) &lt;/li&gt;&#xA;    &lt;li&gt;Pneumococcal conjugate (PCV) &lt;/li&gt;&#xA;    &lt;li&gt;Hepatitis A (HepA) &lt;/li&gt;&#xA;    &lt;li&gt;Rotavirus (RV) &lt;/li&gt;&#xA;    &lt;li&gt;Influenza &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Combination Rates&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Combination 2: DTaP, IPV, MMR, HiB, HepB, VZV &lt;/li&gt;&#xA;    &lt;li&gt;Combination 3: DTaP, IPV, MMR, HiB, HepB, VZV, PCV &lt;/li&gt;&#xA;    &lt;li&gt;Combination 4: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, HepA &lt;/li&gt;&#xA;    &lt;li&gt;Combination 5: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, RV &lt;/li&gt;&#xA;    &lt;li&gt;Combination 6: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, Influenza &lt;/li&gt;&#xA;    &lt;li&gt;Combination 7: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, HepA, RV &lt;/li&gt;&#xA;    &lt;li&gt;Combination 8: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, HepA, Influenza &lt;/li&gt;&#xA;    &lt;li&gt;Combination 9: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, RV, Influenza &lt;/li&gt;&#xA;    &lt;li&gt;Combination 10: DTaP, IPV, MMR, HiB, HepB, VZV, PCV, HepA, RV, Influenza &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure requires that separate rates be reported for commercial and Medicaid product lines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Childhood immunization status (CIS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="HEDIS 2016: Health Plan Collection" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Effectiveness of Care" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Prevention and Screening" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Dec 23&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;&gt;National Committee for Quality Measurement (NCQA) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="The following are available:&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). The state of health care quality 2015. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct. 205 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical update. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct 1. 12 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the National Committee for Quality Assurance (NCQA) at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 15, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 16, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 29, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on May 8, 2012, March 27, 2013, January 17, 2014, January 14, 2015, and again on January 4, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Content adapted and reproduced with permission from the National Committee for Quality Assurance (NCQA). HEDIS&amp;reg; is a registered trademark of NCQA. HEDIS measures and specifications were developed by and are owned and copyrighted by NCQA. HEDIS measures and specifications are not clinical guidelines and do not establish a standard of medical care. NCQA makes no representations, warranties, or endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measures or specifications. Limited proprietary coding is contained in the measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. NCQA disclaims all liability for use or accuracy of any coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Anyone desiring to use or reproduce the measure abstracts without modification for a non-commercial purpose may do so without obtaining any approval from NCQA. All commercial uses of the measure abstracts must be approved by NCQA and are subject to a license at the discretion of NCQA. To purchase copies of the full measures and specifications, which contain additional distribution and use restrictions, contact NCQA Customer Support at 888-275-7585 or visit &lt;a href=&quot;https://www.ncqa.org/publications&quot; title=&quot;National Committee for Quality Assurance (NCQA) Web site&quot;&gt;www.ncqa.org/publications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

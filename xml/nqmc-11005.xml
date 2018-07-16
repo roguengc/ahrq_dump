@@ -1,0 +1,250 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Palliative and end-of-life care: percentage of hospice or palliative care patients who were screened for dyspnea during the hospice admission evaluation/palliative care initial encounter.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). Palliative and end-of-life care 2015-2016: technical report. Washington (DC): National Quality Forum (NQF); 2016 Dec 23. 209 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Carolinas Center for Medical Excellence (CCME). Specifications for recommended quality measures. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure assesses the percentage of hospice or palliative care patients who were screened for dyspnea during the hospice admission evaluation/palliative care initial encounter.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This quality measure should be paired with the &lt;a href=&quot;/content.aspx?id=50650&quot; title=&quot;Measure Summary&quot; target=&quot;_blank&quot;&gt;Dyspnea Treatment&lt;/a&gt; quality measure to ensure that all patients who report dyspnea are clinically considered for treatment. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure addresses dyspnea for patients with high severity of illness and risk of death, including seriously and incurably ill patients enrolled in hospice or hospital-based palliative care. Research on care of patients nearing the end of life shows they experience high rates of physical, emotional, and spiritual causes of distress (&quot;A controlled trial,&quot; 1995; Gade et al., 2008). The National Priorities Partnership has identified palliative and end-of-life care as one of its national priorities. A goal of this priority is to ensure that all patients with life-limiting illness have access to effective treatment for symptoms such as pain and shortness of breath. In 2009, 1.56 million people with life-limiting illness received hospice care (&quot;NHPCO facts and figures,&quot; 2010). In 2008, 58.5% of United States (U.S.) hospitals with 50 or more beds had some form of palliative care service, and national trends show a steady expansion of these services (&quot;Palliative care programs,&quot; 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dyspnea is a common symptom in serious illness, more common than pain for patients with chronic obstructive lung disease, lung cancer, cystic fibrosis, and restrictive lung diseases such as pulmonary fibrosis (Luce &amp;amp; Luce, 2001). Unlike pain, dyspnea severity is associated with the risk of death (Olajide et al., 2007). Between 50% and 70% of patients with advanced lung cancer experience dyspnea near the end of life. As detailed in a recent systematic review, opioids, oxygen and non-pharmacologic nursing interventions demonstrate efficacy in randomized controlled trials of treatment for dyspnea in cancer and in other serious illness (Ben-Aharon, et al., 2008; Lorenz et al., 2008). Unfortunately, dyspnea is often persistent and under-treated in advanced cancer and other end-stage diseases (Roberts, Thorne, &amp;amp; Pearson, 1993).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;A controlled trial to improve care for seriously ill hospitalized patients. The study to understand prognoses and preferences for outcomes and risks of treatments (SUPPORT). The SUPPORT Principal Investigators. JAMA. 1995 Nov 22-29;274(20):1591-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7474243&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ben-Aharon I, Gafter-Gvili A, Paul M, Leibovici L, Stemmer SM. Interventions for alleviating cancer-related dyspnea: a systematic review. J Clin Oncol. 2008 May 10;26(14):2396-404. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18467732&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gade G, Venohr I, Conner D, McGrady K, Beane J, Richardson RH, Williams MP, Liberson M, Blum M, Della Penna R. Impact of an inpatient palliative care team: a randomized control trial. J Palliat Med. 2008 Mar;11(2):180-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18333732&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorenz KA, Lynn J, Dy SM, Shugarman LR, Wilkinson A, Mularski RA, Morton SC, Hughes RG, Hilton LK, Maglione M, Rhodes SL, Rolon C, Sun VC, Shekelle PG. Evidence for improving palliative care at the end of life: a systematic review. Ann Intern Med. 2008 Jan 15;148(2):147-59. [152 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18195339&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Luce JM, Luce JA. Perspectives on care at the close of life. Management of dyspnea in patients with far-advanced lung disease: &quot;once I lose it, it's kind of hard to catch it... &quot;. JAMA. 2001 Mar 14;285(10):1331-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11255389&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;NHPCO facts and figures: hospice care in America. [internet]. Alexandria (VA): National Hospice and Palliative Care Organization; 2010 Sep.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Olajide O, Hanson L, Usher BM, Qaqish BF, Schwartz R, Bernard S. Validation of the palliative performance scale in the acute tertiary care hospital setting. J Palliat Med. 2007 Feb;10(1):111-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17298259&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Palliative care programs continue rapid growth in U.S. hospitals becoming standard practice throughout the country. [internet]. New York (NY): Center to Advance Palliative Care; 2010 Apr 6.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Roberts DK, Thorne SE, Pearson C. The experience of dyspnea in late-stage cancer. Patients' and nurses' perspectives. Cancer Nurs. 1993 Aug;16(4):310-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7691396&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of North Carolina - Chapel Hill. National Quality Forum (NQF) measure submission and evaluation worksheet 5.0: Hospice and palliative care - dyspnea screening. 2008 Oct 24. &amp;nbsp;15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Palliative care; end-of-life care; dyspnea screening&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients enrolled in hospice OR patients receiving hospital-based palliative care for 1 or more days (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who are screened for the presence or absence of dyspnea and its severity during the hospice admission evaluation/initial encounter for palliative care (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dyspnea is prevalent and undertreated for many populations of seriously ill patients, including those patients nearing the end of life. Screening for dyspnea is necessary to determine its presence and severity, and forms the basis for treatment decision-making. Unlike pain, structured clinical assessment of the symptom is less well-defined, yet similar to pain, effective treatment is available to alleviate symptom distress. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Prevalence of dyspnea in advanced cancer ranges from 50% to 70%. Among chronic obstructive pulmonary disease (COPD) patients with advanced illness enrolled in the SUPPORT Study, dyspnea which was moderate to severe at least half of the time was present for at least 65% of patients throughout the 6 months preceding death. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Effective treatment for dyspnea is available, but not consistently administered. Evidence-based treatments include pharmacologic interventions such as opioids and inhaled bronchodilators, and non-pharmacologic interventions including oxygen for hypoxic patients, pulmonary rehabilitation and exercise in COPD, and drainage of pleural effusion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Limited research has explored the nature of health disparities in the experience of dyspnea or in dyspnea management. One observational study of dyspnea in cancer patients provides evidence that dyspnea and other symptoms, in addition to minority race/ethnicity, independently predict worsened survival.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bausewein C, Booth S, Gysels M, Higginson I. Non-pharmacological interventions for breathlessness in advanced stages of malignant and non-malignant diseases. Cochrane Database Syst Rev. 2008;(2):CD005623. [166 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18425927&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ben-Aharon I, Gafter-Gvili A, Paul M, Leibovici L, Stemmer SM. Interventions for alleviating cancer-related dyspnea: a systematic review. J Clin Oncol. 2008 May 10;26(14):2396-404. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18467732&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Currow DC, Ward AM, Abernethy AP. Advances in the pharmacological management of breathlessness. Curr Opin Support Palliat Care. 2009 Jun;3(2):103-6. [29 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19333124&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Lorenz KA, Naeim A, Sanati H, Walling A, Asch SM. Evidence-based recommendations for cancer fatigue, anorexia, depression, and dyspnea. J Clin Oncol. 2008 Aug 10;26(23):3886-95. [60 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18688057&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorenz KA, Lynn J, Dy SM, Shugarman LR, Wilkinson A, Mularski RA, Morton SC, Hughes RG, Hilton LK, Maglione M, Rhodes SL, Rolon C, Sun VC, Shekelle PG. Evidence for improving palliative care at the end of life: a systematic review. Ann Intern Med. 2008 Jan 15;148(2):147-59. [152 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18195339&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Luce JM, Luce JA. Perspectives on care at the close of life. Management of dyspnea in patients with far-advanced lung disease: &quot;once I lose it, it's kind of hard to catch it... &quot;. JAMA. 2001 Mar 14;285(10):1331-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11255389&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Roberts DK, Thorne SE, Pearson C. The experience of dyspnea in late-stage cancer. Patients' and nurses' perspectives. Cancer Nurs. 1993 Aug;16(4):310-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7691396&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tammemagi CM, Neslund-Dudas C, Simoff M, Kvale P. Lung carcinoma symptoms--an independent predictor of survival and an important mediator of African-American disparity in survival. Cancer. 2004 Oct 1;101(7):1655-63. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15378496&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of North Carolina - Chapel Hill. National Quality Forum (NQF) measure submission and evaluation worksheet 5.0: Hospice and palliative care - dyspnea screening. 2008 Oct 24. &amp;nbsp;15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Two research nurse abstractors independently recorded quality measures data on a random subset of 20 seriously ill patients. Abstractors used the pre-defined operational definitions and a structured chart abstraction tool to record numerator and denominator data separately. Patients were a subsample of 460 seriously ill patients without specialty palliative care admitted to an acute care hospital for at least 1 day to four inpatient services from February 2008 to November 2009. Records eligible for sampling included all seriously ill adult patients admitted to medical and surgical intensive care, medically complex patients aged 65 and older admitted to an acute care of the elderly unit, and medical oncology patients with Stage IV carcinoma. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Inter-rater reliability between the two abstractors was assessed using kappa statistics. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. The nurse abstractors achieved excellent inter-rater reliability for this measure: Kappa=0.91. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Hospice: The total patient sample size was 126. Fourteen hospices, located in seven different states, representing both free-standing and hospital based providers were recruited to participate. Each hospice was asked to contribute data from nine patient records to the study. Nine hospices were asked to collect data on their most recent nine discharges; five hospices were asked to collect data on their most recent nine admissions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Palliative Care: The total patient sample size was 562. Chart abstractions were completed for 102 consecutive seriously ill patients with specialty palliative care consultation, and a random sample of 460 seriously ill patients without specialty palliative care admitted to an acute care hospital for at least 1 day to four inpatient services with high proportions of seriously ill patients from February 2008 to November 2009. Records eligible for sampling included all patients admitted to medical and surgical intensive care, medically complex patients aged 65 and older admitted to a geriatric evaluation unit, and medical oncology patients with Stage IV carcinoma. Because palliative care domains become even more relevant closer to death, patients dying in hospital were oversampled to ensure a final ratio of 1 decedent to 1 live discharge. Consistent with oversampling of decedent records, 55% of these patients died in hospital. The age of the patients ranged from 16 to 99 years, with the mean age 61. Patients were predominantly Caucasian (65%), with smaller subgroups who were African American (24%) and Hispanic/Latino (4%). The most common life-limiting diagnoses were infections (37%), cancer (34%), pulmonary (29%), and neurologic diseases (21%). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Hospice sample: Face validity was tested using formal expert panel review. The PEACE project team convened a 14-member technical expert panel (TEP) of nationally recognized experts with extensive experience in the following areas: medical or nursing expertise in hospice and palliative care, methods and instrumentation, and quality improvement. Using criteria provided by the Carolinas Center for Medical Excellence (CCME) study team, TEP members rated each potential quality measure from 1 (low) to 5 (high) on four criteria: importance, scientific soundness, feasibility and usability. The rating criteria mirrored those used by the National Quality Forum and the Centers for Medicare &amp;amp; Medicaid Services (CMS) Measures Management System. To identify the measures with the most favorable ratings, a summary measure was created. For each quality measure, the average TEP rating was calculated for each criterion and then an overall average measure rating (AMR) was tabulated, weighting each the criteria equally.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Palliative Care sample: Face validity of PEACE quality measures for hospital-based specialty palliative care was addressed using stakeholder review and feedback. Investigators prepared data reports in a summary format with detailed operational definitions, and led a 1-hour discussion with nursing and physician leaders from each service group &amp;ndash; medical intensive care unit (MICU), surgical intensive care unit (SICU), acute care for the elderly (geriatrics), oncology, and palliative care. The discussion included feedback of quality measure data, response to questions and critiques, and eliciting stakeholder feedback about the validity and actionability of this data for the care of their patients. Stakeholders were specifically asked to comment on the accuracy of the data as a reflection of current care practices, and their highest priority area for future quality improvement. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Construct validity was tested by comparing the PEACE quality measures for patients seen by specialty interdisciplinary palliative care consultants to those not receiving specialty palliative care services.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. Hospice sample: Completed ratings were received from 13 of the 14 TEP members. The 75th percentile cut-point translated into an AMR=3.73 (on a scale of 1 to 5 where 5 is highest). This process resulted in the identification of 23 measures with the highest TEP ratings for importance, scientific soundness, feasibility and usability. Dyspnea treatment had an overall rating of greater than 4 (&quot;high importance&quot;) while screening for dyspnea was added as an antecedent measure. Pilot testing in the hospice sample revealed that only 78% of 126 hospice patients were screened for dyspnea, and only 45% of those who screened positive were given treatment for dyspnea within 24 hours. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Palliative Care sample: Face Validity: Stakeholder discussions provided broad endorsement of face validity, with some considerations for specific patient populations. Medical oncologists endorsed the face validity of these quality measures, but favored quality measures endorsed by oncology professional organizations. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Construct Validity: Screening for dyspnea was nearly universal for all seriously ill patients, but was more consistently done by specialty palliative care providers (100% vs 95%, p=0.016). Patients with dyspnea were likely to receive some form of treatment within 24 hours, with or without the addition of specialty palliative care (96% vs 93%, p=NS).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Identification of Meaningful Differences in Performance&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Hospice: The total patient sample size was 126. Fourteen hospices, located in seven different states, representing both free-standing and hospital based providers, were recruited to participate. Each hospice was asked to contribute data from nine patient records to the study. Nine hospices were asked to collect data on their most recent nine discharges; five hospices were asked to collect data on their most recent nine admissions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A common structured data collection tool was developed for use by all hospices, regardless of whether the patient record was an admission or discharge record. Instructions embedded in the tool indicated the data items appropriate to each type of record. Hospices were instructed not to institute new data collection procedures for the data collection pilot. If a data item could not be found, they were told to mark the item as &quot;unable to determine.&quot; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A data dictionary containing item-specific instructions and notes related to the patient data collection tool was distributed to each hospice center. Technical assistance was provided by email and phone to staff during the data collection period. Questions, and responses, that arose during data collection were immediately distributed to all hospices participating in the data pilot.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Palliative Care: The total patient sample size was 562. Chart abstractions were completed for 102 consecutive seriously ill patients with specialty palliative care consultation, and a random sample of 460 seriously ill patients without specialty palliative care admitted to an acute care hospital for at least 1 day to four inpatient services with high proportions of seriously ill patients from February 2008 to November 2009. Records eligible for sampling included all patients admitted to medical and surgical intensive care, medically complex patients aged 65 and older admitted to a geriatric evaluation unit, and medical oncology patients with Stage IV carcinoma. Because palliative care domains become even more relevant closer to death, patients dying in hospital were oversampled to ensure a final ratio of 1 decedent to 1 live discharge. Consistent with oversampling of decedent records, 55% of these patients died in hospital. The age of the patients ranged from 16 to 99 years, with the mean age 61. Patients were predominantly Caucasian (65%), with smaller subgroups who were African American (24%) and Hispanic/Latino (4%). The most common life-limiting diagnoses were infections (37%), cancer (34%), pulmonary (29%), and neurologic diseases (21%). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Construct validity was tested by comparing the PEACE quality measures for patients seen by specialty interdisciplinary palliative care consultants to those not receiving specialty palliative care services. Percentage of patients with and without specialty palliative care for whom the quality measure was met was compared for difference using the chi-square statistic. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;. Hospice sample: 78% met quality measure &lt;br /&gt;&#xD;&#xA;Seriously ill patients with palliative care sample: 100% met quality measure &lt;br /&gt;&#xD;&#xA;Seriously ill patients without palliative care: 95% met quality measure (p=0.016)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schenck AP, Rokoske FS, Durham DD, Cagle JG, Hanson LC. The PEACE Project: identification of quality measures for hospice and palliative  care. J Palliat Med. 2010 Dec;13(12):1451-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21155640&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of North Carolina - Chapel Hill. National Quality Forum (NQF) measure submission and evaluation worksheet 5.0: Hospice and palliative care - dyspnea screening. 2008 Oct 24. &amp;nbsp;15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospices" />
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult &amp;amp; elderly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients enrolled in hospice OR patients receiving hospital-based palliative care for 1 or more days&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This quality measure is intended for patients with serious illness who are enrolled in hospice care OR receive specialty palliative care in an acute hospital setting. Conditions may include, but are not limited to: cancer, heart disease, pulmonary disease, dementia and other progressive neurodegenerative diseases, stroke, HIV/AIDS, and advanced renal or hepatic failure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with length of stay less than 1 day in palliative care&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Calculation of length of stay: discharge date is identical to date of initial encounter&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who are screened for the presence or absence of dyspnea and its severity during the hospice admission evaluation/initial encounter for palliative care&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Screening may be completed using verbal, numeric, visual analog, or rating scales designed for use with non-verbal patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient Data Collection Tool for Recommended Quality Measures&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospice and palliative care -- dyspnea screening.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Palliative Care and End-of-Life Care" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="University of North Carolina at Chapel Hill - Academic Institution" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Carolinas Center for Medical Excellence - Nonprofit Organization" />
+      <FieldValue Value="University of North Carolina at Chapel Hill - Academic Institution" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;The Carolinas Center for Medical Excellence (CCME) PEACE Project Technical Expert Panel (TEP)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PEACE project team convened a 14-member TEP of nationally recognized experts with extensive experience in the following areas: medical or nursing expertise in hospice and palliative care, methods and instrumentation, and quality improvement. Using criteria provided by the CCME study team, TEP members rated each potential quality measure on four criteria: importance, scientific soundness, feasibility and usability. &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mary Ersek, PhD, RN, Research Associate Professor, Swedish Medical Center - Pain Research Department, Seattle, WA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Betty R. Ferrell, PhD, FAAN, Research Scientist, City of Hope National Medical Center, Duarte, CA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sean Morrison, MD, Mount Sinai Medical Center, NY, NY &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Payne, MD, Director, Duke Institute on Care at the End of Life, Duke Divinity School, Durham, NC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chris Feudtner, MD, PHD, MPH, Children's Hospital of Philadelphia, Philadelphia, PA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Karen Steinhauser, PhD, Research Health Scientists, Center for Health Services Research in Primary Care, Durham VA Medical Center and Duke University, Durham, NC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joan M. Teno, MD, Professor of Community Health and Medicine, Center for Gerontology and Health Care Research, Brown University, Providence, RI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Melanie Merriman, PhD, MBA, Touchstone Consulting, North Bay Village, FL &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sydney Dy, MD, MSc, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Casarett, MA, MD, Assistant Professor, Division of Geriatrics, Institute on Aging and Center for Bioethics, University of Pennsylvania School of Medicine and NHPCO Board of Directors &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Judi Lund-Person, Vice President, Division of Quality, National Hospice and Palliative Care Organization, Washington, DC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jean Kutner, MD, MSPH, Associate Professor, University of Colorado Health Sciences Center, Denver, CO &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lin Simon, Analyst, National Hospice and Palliative Care Organization, Washington, DC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Karen Pace, NAHC &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Oct 26&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;3 years or as required&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates the following previous versions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Carolinas Center for Medical Excellence (CCME). Specifications for recommended quality measures. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 8 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;University of North Carolina &amp;ndash; Chapel Hill. National Quality Forum (NQF) measure submission and evaluation worksheet 5.0: Hospice and palliative care &amp;ndash; dyspnea screening. 2008 Oct 24. 15 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/files/specifications-for-recommended-quality-measures&quot;&gt;University of North Carolina (UNC) School of Medicine Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Laura Hanson, MD, MPH at the University of North Carolina - Chapel Hill, 725 Martin Luther King Jr Blvd, CB 7590, Chapel Hill, North Carolina, 27599-7590; Phone: 919-843-4096; Email: &lt;a href=&quot;mailto:lhanson@med.unc.edu&quot;&gt;lhanson@med.unc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Assessment instruments for end of life care, by domain. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 7 p. This document is available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/files/assessment-instruments-for-end-of-life-care&quot; title=&quot;University of North Carolina (UNC) School of Medicine Web site&quot;&gt;University of North Carolina (UNC) School of Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Organizational readiness screen. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 4 p. This document is available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/files/organizational-readiness-screen&quot; title=&quot;UNC School of Medicine Web site&quot;&gt;UNC School of Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient data collection tool for recommended quality measures. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 7 p. This document is available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/files/patient-data-collection-tool&quot; title=&quot;UNC School of Medicine Web site&quot;&gt;UNC School of Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&quot;Read this first&quot;: getting started with PEACE quality measures. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 3 p. This document is available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/resources/1PEACEProjectReadThisFirst_REV2.pdf&quot; title=&quot;UNC School of Medicine Web site&quot;&gt;UNC School of Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recommended quality measures and data collection, by domain. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 3 p. This document is available from the &lt;a href=&quot;https://www.med.unc.edu/pcare/files/recommended-quality-measures-and-data-collection&quot; title=&quot;UNC School of Medicine Web site&quot;&gt;UNC School of Medicine Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Laura Hanson, MD, MPH at the University of North Carolina - Chapel Hill, 725 Martin Luther King Jr Blvd, CB 7590, Chapel Hill, North Carolina, 27599-7590; Phone: 919-843-4096; Email: &lt;a href=&quot;mailto:lhanson@med.unc.edu&quot;&gt;lhanson@med.unc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on July 19, 2013. The information was verified by the measure developer on September 5, 2013. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 7, 2017. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). Palliative and end-of-life care 2015-2016: technical report. Washington (DC): National Quality Forum (NQF); 2016 Dec 23. 209 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Carolinas Center for Medical Excellence (CCME). Specifications for recommended quality measures. Cary (NC): The Carolinas Center for Medical Excellence (CCME); 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

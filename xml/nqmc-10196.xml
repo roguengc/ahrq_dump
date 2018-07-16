@@ -1,0 +1,227 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Major depressive disorder (MDD): percentage of patients aged 18 years and older with a diagnosis of MDD who received patient education at least once during the measurement period, regarding the minimum specified criteria.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Washington (DC): American Psychiatric Association (APA); 2013 Jan. 53 p.  [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of major depressive disorder (MDD) who received patient education at least once during the measurement period, regarding, at a minimum: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The symptoms and treatment of major depressive disorder, including somatic symptoms, potential side effects, suicidal thoughts and behaviors, and the importance of treatment adherence &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Its effects on functioning (including relationships, work, etc.) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The effect of healthy behaviors on depression, such as exercise, good sleep hygiene, good nutrition, and decreased use of tobacco, alcohol, and other potentially deleterious substances &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient education regarding the symptoms and treatment of major depressive disorder (MDD), its effects on functioning (including relationships, work, etc.) and the effect of healthy behaviors on depression can greatly aid in a patient's understanding of their depression and their adherence to treatment. Patient education allows patients to become more knowledgeable and engaged with their treatment. Psychoeducational strategies should be incorporated into structured and organized treatment protocols, which entail systematic monitoring of treatment adherence and response and self-management strategies.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;One of the key factors in nonadherence to MDD treatment is failure of patients to receive explanation of diagnosis and causes of illness. Ongoing patient education, whether verbal or written, is very important in improving treatment adherence for patients with MDD. At regular patient visits, clinicians should reinforce patient education, the need for continued MDD treatment, possible treatment modification, and assessment of adherence. In addition, clinicians should educate patients and their families to self-assess for symptoms and risk for recurrent MDD episodes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim &lt;/span&gt;from the referenced clinical guidelines. Only selected portions of the clinical guidelines are quoted here; for more details, please refer to the full guideline&lt;/strong&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Education about the symptoms and treatment of major depressive disorder should be provided in language that is readily understandable to the patient (American Psychiatric Association [APA], 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;With the patient's permission, family members and others involved in the patient's day-to-day life may also benefit from education about the illness, its effects on functioning (including family and other interpersonal relationships), and its treatment (APA, 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Education about major depressive disorder should address the need for a full acute course of treatment, the risk of relapse, the early recognition of recurrent symptoms, and the need to seek treatment as early as possible to reduce the risk of complications or a full-blown episode of major depression (APA, 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient education also includes general promotion of healthy behaviors such as exercise, good sleep hygiene, good nutrition, and decreased use of tobacco, alcohol, and other potentially deleterious substances (APA, 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Educational tools such as books, pamphlets, and trusted web sites can augment the face-to-face education provided by the clinician (APA, 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Psychoeducation should be provided for individuals with depression at all levels of severity and in all care settings and should be provided both verbally and with written educational materials (Management of MDD Working Group, 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There should be education on the nature of depression and its treatment options (Management of MDD Working Group, 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Education should incorporate principles of self-management and may include information and goals related to: Nutrition, Exercise, Bibliotherapy, Sleep hygiene, Tobacco use, Caffeine use, Alcohol use and abuse, and Pleasurable activities (Management of MDD Working Group, 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Psychoeducational strategies should be incorporated into structured and organized treatment protocols, which entail structured systematic monitoring of treatment adherence and response and self-management strategies (Management of MDD Working Group, 2009).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Washington (DC): American Psychiatric Association (APA); 2013 Jan. 53 p.  [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA). Practice guideline for the treatment of patients with major depressive disorder. 3rd ed. Arlington (VA): American Psychiatric Association (APA); 2010 Oct. 152 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Management of MDD Working Group. VA/DoD clinical practice guideline for management of major depressive disorder (MDD). Washington (DC): Department of Veteran Affairs, Department of Defense; 2009 May. 203 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Major depressive disorder (MDD); patient education&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of major depressive disorder (MDD) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who received patient education at least once during the measurement period, regarding, at a minimum: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The symptoms and treatment of major depressive disorder, including somatic symptoms, potential side effects, suicidal thoughts and behaviors, and the importance of treatment adherence &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Its effects on functioning (including relationships, work, etc.) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The effect of healthy behaviors on depression, such as exercise, good sleep hygiene, good nutrition, and decreased use of tobacco, alcohol, and other potentially deleterious substances &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Prevalence and Incidence&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Major depressive disorder affects approximately 14.8 million American adults, or about 6.7 percent of the U.S. population aged 18 and older in a given year (National Institute of Mental Health [NIMH], 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;While major depressive disorder can develop at any age, the median age at onset is 32 (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major depressive disorder is more prevalent in women than in men (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Depressive disorders are more common among persons with chronic conditions (e.g., obesity, cardiovascular disease, diabetes, asthma, arthritis, and cancer) and among those with unhealthy behaviors (e.g., smoking, physical inactivity, and binge drinking) (Centers for Disease Control and Prevention [CDC], 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Disability&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Major depressive disorder is the leading cause of disability in the U.S. for ages 15 to 44 (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Suicide&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Research has shown that more than 90% of people who kill themselves have depression or another diagnosable mental or substance abuse disorder (Conwell &amp;amp; Brent, 1995). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Depression is the cause of over two-thirds of the 30,000 reported suicides in the U.S. each year (Depression and Bipolar Support Alliance, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The suicide rate for older adults is more than 50% higher than the rate for the nation as a whole. Up to two-thirds of older adult suicides are attributed to untreated or misdiagnosed depression (Depression and Bipolar Support Alliance, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Disparities&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-Hispanic blacks, Hispanics, and non-Hispanic persons of other races are more likely to report major depression than non-Hispanic whites, based on responses to the Patient Health Questionnaire 8 (PHQ-8), which covers eight of the nine criteria from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) for diagnosis of major depressive disorder (CDC, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For individuals who experienced a depressive disorder in the past year, 63.7% of Latinos, 68.7% of Asians, and 58.8% of African Americans, compared with 40.2% of non-Latino whites, did not access any mental health treatment in the past year (Alegr&amp;iacute;a et al., 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Special Populations: Geriatrics&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The rate of depression in adults older than 65 years of age ranges from 7% to 36% in medical outpatient clinics and increases to 40% in the hospitalized elderly (Institute for Clinical Systems Improvement [ICSI], 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comorbidities are more common in the elderly. The highest rates of depression are found in those with strokes (30% to 60%), coronary artery disease (up to 44%), cancer (up to 40%), Parkinson's disease (40%), and Alzheimer's disease (20% to 40%) (ICSI, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Similar to other groups, the elderly with depression are more likely than younger patients to underreport depressive symptoms (ICSI, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alegría M, Chatterji P, Wells K, Cao Z, Chen CN, Takeuchi D, Jackson J, Meng XL. Disparity in depression treatment among racial and ethnic minority populations in the United States. Psychiatr Serv. 2008 Nov;59(11):1264-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18971402&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Washington (DC): American Psychiatric Association (APA); 2013 Jan. 53 p.  [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Current depression among adults---United States, 2006 and 2008. MMWR Morb Mortal Wkly Rep. 2010 Oct 1;59(38):1229-35. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20881934&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Conwell Y, Brent D. Suicide and aging. I: Patterns of psychiatric diagnosis. Int Psychogeriatr. 1995 Summer;7(2):149-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8829424&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Depression and Bipolar Support Alliance. Depression statistics. [internet]. Chicago (IL): Depression and Bipolar Support Alliance; [accessed 2010 Nov 22]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute for Clinical Systems Improvement (ICSI). Major depression in adults in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2010 May. 99 p.  [246 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Institute of Mental Health (NIMH). The numbers count: mental disorders in America. [internet]. Chicago (IL): National Institute of Mental Health (NIMH); [accessed 2010 Nov 22]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is being made available without any prior testing. The Physician Consortium for Performance Improvement (PCPI) recognizes the importance of testing all of its measures and encourages testing of the Adult Major Depressive Disorder measurement set by organizations or individuals positioned to do so. The Measure Testing Protocol was approved by the PCPI in 2010 and is available on the PCPI Web site (see Position Papers at &lt;a href=&quot;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement.page&quot; title=&quot;AMA-PCPI Web site&quot;&gt;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement.page&lt;/a&gt;); interested parties are encouraged to review this document.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Washington (DC): American Psychiatric Association (APA); 2013 Jan. 53 p.  [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="37" OrdBy="200" ID="579" Name="National Guideline Clearinghouse Link" Type="xref">
+      <FieldValue Value="&lt;a href=&quot;http://www.guideline.gov/content.aspx?id=24158&quot; target=&quot;_blank&quot;&gt;Practice guideline for the treatment of patients with major depressive disorder, third edition.&lt;/a&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Behavioral Health Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older with a diagnosis of major depressive disorder (MDD)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Documentation of patient reason(s) for not receiving patient education (e.g., patient unable or unwilling to receive patient education, other patient reasons)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who received patient education* at least once during the measurement period, regarding, at a minimum: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The symptoms and treatment of major depressive disorder, including somatic symptoms, potential side effects, suicidal thoughts and behaviors, and the importance of treatment adherence &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Its effects on functioning (including relationships, work, etc.) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The effect of healthy behaviors on depression, such as exercise, good sleep hygiene, good nutrition, and decreased use of tobacco, alcohol, and other potentially deleterious substances &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Patient education can include educational tools such as books, pamphlets, DVDs and other audiovisual materials, or trusted Web sites, and can be provided at face-to-face encounters or via teleconference or web conference. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #3: patient education.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Adult Major Depressive Disorder Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Psychiatric Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Psychiatric Association - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: Richard Hellman, MD, FACP, FACE (&lt;em&gt;Co-chair&lt;/em&gt;) (endocrinology, methodology); John S. McIntyre, MD, DFAPA, FACPsych (&lt;em&gt;Co-chair&lt;/em&gt;) (psychiatry, methodology); Alan A. Axelson, MD (psychiatry); Stanley Borg, DO (family medicine); Andrea Bostrom, PhD, PMHCNS-BC (nursing, psychiatric nursing); Gwendolen Buhr, MD, MHS, CMD (geriatrics); Katherine A. Burson, MS, OTR/L, CPRP (occupational therapy); Mirean Coleman, MSW, LICSW, CT (social work); Thomas J. Craig, MD, MPH, DLFAPA, FACPM (psychiatry); Allen Doederlein (patient representative); William E. Golden, MD, FACP (internal medicine); Molly Finnerty, MD (psychiatry, methodology); Jerry Halverson, MD (psychiatry, methodology); Paul R. Keith, MD (health plan representative); Clifford K. Moy, MD (psychiatry); John M. Oldham, MD (psychiatry); Shaunte R. Pohl, PharmD, BCPS (pharmaceutical science); Mark A. Reinecke, PhD (psychology); Leslie H. Secrest, MD (psychiatry); Carl A. Sirio, MD (critical care medicine, methodology); Sharon S. Sweede, MD (family medicine); Roberta Waite, EdD, APRN, CNS-BC (psychiatric nursing, methodology) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Work Group Staff&lt;/em&gt;: Robert Plovnick, MD, MS (American Psychiatric Association); Robert Kunkle, MA; Samantha Shugarman (American Psychiatric Association); Mark Antman, DDS, MBA (American Medical Association); Katherine Ast, MSW, LCSW (American Medical Association); Keri Christensen, MS (American Medical Association); Kendra Hanley, MS (American Medical Association); Karen Kmetik, PhD (American Medical Association); Molly Siegel, MS (American Medical Association); David Marc Small, MS, MPP (American Medical Association); Kimberly Smuk, BS, RHIA (American Medical Association); Samantha Tierney, MPH (American Medical Association); Greg Wozniak, PhD (American Medical Association) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Adult Major Depressive Disorder Work Group had any disqualifying material interests under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy. A summary of non-disqualifying interests disclosed on Work Group members' Material Interest Disclosure Statements (not including information concerning family member interests) is provided in the original measure documentation. Completed Material Interest Disclosure Statements are available upon request.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Physician Consortium for Performance Improvement (PCPI) stipulates a regular review of measures every 3 years or when there is a major change in scientific evidence, results from testing or other issues noted that materially affect the integrity of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Psychiatric Association (APA) at 1000 Wilson Boulevard, Suite 1825, Arlington, VA 22209; Phone: 888-357-7924; E-mail: &lt;a href=&quot;mailto:apa@psych.org&quot;&gt;apa@psych.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://psychiatry.org/&quot; title=&quot;APA Web site&quot;&gt;psychiatry.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on October 8, 2015. The information was verified by the measure developer on November 25, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Washington (DC): American Psychiatric Association (APA); 2013 Jan. 53 p.  [32 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,237 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Inpatient perinatal care: percent of live-born neonates less than 2,500 grams that have a temperature documented within 15 minutes after their arrival to a Level 2 or higher nursery.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure describes the percent of live-born neonates less than 2,500 grams that have a temperature documented within 15 minutes after their arrival to a Level 2 or higher nursery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure addresses a key gap in inpatient perinatal care. Evidence that thermal management (such as hot water bottles and incubators) improves survival of newborn and premature infants exists from as early as the late 19th century (Garrison, 1923; Holt, 1902; Baker, 2000; Pierce, 1875; Currier, 1891; Fischer, 1915; Holt &amp;amp; Macintosh, 1940). Modern studies have confirmed and extended these findings, including potential methods to maintain temperature for infants in the delivery room (Silverman, Fertig, &amp;amp; Berger, 1958; Sinclair, 2007; Watkinson, 2006). Laptook et al. confirmed the association of temperature loss with poor outcomes in 5,277 infants, 401 to 1,499 grams, born at any of 15 academic medical centers participating in the National Institute of Child Health and Development (NICHD) Neonatal Research Network (Laptook, Salhab, &amp;amp; Bhaskar 2007). A formal item selection process looking at potential measures for infants under 1,500 grams identified neonatal temperature as an independent contributor to a composite quality of care measure (Profit et al., 2011).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Chart review data were collected from three diverse hospitals in New York City. All three hospitals had a range of birthweights and a range of temperatures, both when the developer considered the actual measured temperature and when they adjusted those that were not taken rectally to create a &quot;corrected&quot; core temperature. See Figures 1 and 2 in the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Temperature predicted in-hospital mortality after controlling for covariates, whether the developer dichotomized at the 35.5&amp;deg; threshold that local physicians proposed or they considered each degree of temperature as a continuous variable. Crossing the threshold into hypothermia more than doubled the odds of death, controlling for other variables in the model. The relationship between temperature and survival is monotonic: an increase of each 1&amp;deg; Celsius up to 37&amp;deg; reduced odds of death by more than 35% in the model using a continuous variable (22% for 1&amp;deg; Fahrenheit). Defining hypothermia as admission temperature below 36.0 would estimate an increase in the risk of mortality by 84%, p=0.19.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Risk ratio (RR) is a more informative way to express the results than an odds ratio especially when the underlying risk is large, as in this study (Profit et al., 2011). Regression risk analysis estimates the adjusted risk ratio (ARR) and adjusted risk difference: hypothermia (35.5&amp;deg; C) results in an ARR of 1.48 (95% confidence interval 1.03 to 2.30), indicating a 48% increase in risk, from a baseline risk of 8.9% among those who were euthermic to an exposed risk of 13.1% among those who were hypothermic, controlling for the covariates in the sample. Considering temperature as a continuous variable reveals that increasing the temperature from 34.0 to 35.0 increases the relative chance of survival by 24%, from 35.0 to 36.0 by 26%, and from 36.0 to 37.0 by 27%, resulting in absolute risk reductions of 2.8%, 2.4%, and 2.0% respectively. A core body temperature increase from 34.0 to 37.0 is associated with a relative decrease in mortality of 98% and an absolute decrease in mortality of 7.2%, controlling for other factors in the model. The decrease from 36.0 to 35.5 is associated with a 12% increase in the adjusted mortality risk from 9.4% to 10.5%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The work confirmed findings in the literature that insurance status and race (Miller, Lee, &amp;amp; Gould, 2011) are associated with outcomes. Anecdotal reports from among the participating hospitals confirm reports in the literature that attention to thermal management can improve temperature outcomes (Billimoria et al., 2013). See the appendix of the original measure documentation for a more complete literature review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is both an independent metric related to a desirable process of care that was put forth and endorsed by the systematic Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) process, including the recommendations of a multidisciplinary national Expert Panel using a RAND/University of California at Los Angeles (UCLA) modified Delphi process. This is demonstrated in the analysis of statewide data from the New York State neonatal database described elsewhere in this application (7,553 infants). One specific finding of note is that 12.5% of admission temperatures were taken more than 15 minutes after arrival at the nursery, with 82.6% taken between arrival and 15 minutes after arrival (2.5% of admissions used a temperature from less than 15 minutes before arrival as their admission temperature, while another 2.9% used a temperature from even earlier). These data show both the normative value of 15 minutes as a time limit (since 83% are taken in that window) and important variance from the standard, both with delayed temperatures and temperatures that preceded transport to the nursery being offered. Chi square offers p less than .0001 testing the hypothesis that the distribution of temperatures into strata (cold, very cool, cool, euthermic, and too warm) from these different time periods are equal. Given that infants' temperatures are labile and responsive to environment, the fact that only half as many of the delayed temperatures fall into the cold category when compared to the timely temperatures may reflect that infants' temperatures rise the longer that they are in the nursery. So if delay raises temperature and we have no measure to assess delay, then the incentive would be to delay temperature taking of babies who are potentially cold until they have been in a warm environment for longer. Hence this measure provides a critical check. As further evidence of its independent value and validation, comparing the group of infants that had their temperatures taken within 15 minutes after arrival versus those whose temperature was delayed past 15 minutes, we see the percent who were euthermic (normal) increase in the delayed group from 36.6% to 45.6%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Not only is this measure's importance supported by theory and expert opinion, it is empirically validated by these data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This history, these data, and the absence of currently recommended measures that address adequately this issue all motivate the work of the Mount Sinai CAPQuaM to develop a measure of quality of care based upon the temperature upon admission to the NICU.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baker JP. The incubator and the medical discovery of the premature infant. J Perinatol. 2000 Jul-Aug;20(5):321-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10920793&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Billimoria Z, Chawla S, Bajaj M, Natarajan G. Improving admission temperature in extremely low birth weight infants: a hospital-based multi-intervention quality improvement project. J Perinat Med. 2013 Jul;41(4):455-60. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23334053&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Currier A. Diseases of the newborn. Philadelphia (PA): FA Davis; 1891. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fischer L. Diseases of infancy and childhood. Philadelphia (PA): FA Davis; 1915. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Garrison F. History of pediatrics in Abt IA. Philadelphia (PA): WB Saunders; 1923. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Holt E, Macintosh R. Holt's diseases of infants and children. New York (NY): Appleton; 1940. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Holt LE. The care of premature and delicate infants. In: The diseases of infancy and childhood. Second Edition revised and enlarged. New York (NY): D. Appleton; 1902. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Laptook AR, Salhab W, Bhaskar B, Neonatal Research Network. Admission temperature of low birth weight infants: predictors and associated morbidities. Pediatrics. 2007 Mar;119(3):e643-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17296783&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miller SS, Lee HC, Gould JB. Hypothermia in very low birth weight infants: distribution, risk factors and outcomes. J Perinatol. 2011 Apr;31 Suppl 1:S49-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21448204&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pierce RV. The people's common sense medical adviser in plain English. Buffalo (NY): World's Dispensary Printing Office; 1875. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Profit J, Gould JB, Zupancic JA, Stark AR, Wall KM, Kowalkowski MA, Mei M, Pietz K, Thomas EJ, Petersen LA. Formal selection of measures for a composite index of NICU quality of care: Baby-MONITOR. J Perinatol. 2011 Nov;31(11):702-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21350429&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Silverman WA, Fertig JW, Berger AP. The influence of the thermal environment upon the survival of newly born premature infants. Pediatrics. 1958 Nov;22(5):876-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=13600915&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sinclair JC. Servo-control for maintaining abdominal skin temperature at 36C in low birth weight infants. Cochrane Database Syst Rev. 2007;1:CD001074.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Watkinson M. Temperature control of premature infants in the delivery room. Clin Perinatol. 2006 Mar;33(1):43-53, vi. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16533632&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Inpatient perinatal care; temperature documentation; live-born low birthweight neonates; level 2 nursery&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Live-born neonates with birthweight of less than 2,500 grams admitted to a Level 2 or higher nursery within 24 hours of birth (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Live-born neonates with a birthweight of less than 2,500 grams who have their temperature taken within 15 minutes of arrival to the nursery and for whom this temperature is documented in the medical record (see the related &quot;Numerator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Evidence for Importance of the Measure to Medicaid and/or Children's Health Insurance Program (CHIP)&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;In New York State, about half of low birthweight (LBW) babies are insured by Medicaid. Hypothermia is not only associated with neonatal mortality, but there is evidence that intraventricular hemorrhage (IVH) can also be a consequence of hypothermia. IVH is a significant cause of disability, developmental delay, and, when serious, is a common cause for LBW infants to develop into children with special health care needs. This has broad impact on Medicaid, Medicaid expenses, and early intervention services, including Early and Periodic Screening, Diagnostic and Treatment (EPSDT) services. Hypothermia, through death and disability, may have a long tail that impacts families and programs associated with Medicaid. Furthermore, the Medicaid population is disproportionately black and in the testing data, black infants were disproportionately hypothermic.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Research Evidence&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Key findings from a study of 7,553 neonates (from 61 nurseries) in New York State are the following: temperature was variable within weight categories, and blacks were disproportionately cool compared with Hispanic or non-Hispanic others, who were disproportionately cool compared with non-Hispanic whites, whether or not they were stratified by birthweight category. Deaths were disproportionate among those who were cool, in a graded fashion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The distribution of mean temperature by nursery ranged from 35.7 to 38.2, with a median of 36.3, a standard error of 0.36, and an interquartile range of 0.4. Twenty-five percent of these nurseries had a mean temperature below 36.1. It is concluded that temperatures do vary across nurseries, further reinforcing the sense that this topic is an important measure of performance.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The basis for the scientific soundness of this measure lies in the use of a hybrid of administrative/encounter and medical records data. Though they have their limitations, these data types have been shown in multiple studies to be a reliable source of information for population level quality measurement. One such study found that quality measures that could be calculated using administrative data showed higher rates of performance than indicated by a review of the medical record alone, and that claims data is more accurate for identifying services with a high likelihood of documentation due to reimbursement.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The key constructs underlying these measures are date and time of birth, time of arrival to the Level 2 or higher nursery, and the taking of the first temperature.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer's feasibility study, designed to determine the ability and ease of collecting related data, showed that date and time are self-evident and that there is mild but manageable variation in how time is reported. This should not impair the calculation of a neonate's age or the relationship of the time of measurement to the time of birth or to the time of arrival to the neonatal intensive-care unit (NICU) as is required in the measure set.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The validity of the measure stems not only from the use of a formal process that was highly engaged with stakeholders and the literature in order to generate potential measures, but from empirical data analysis of both the Mount Sinai Data Warehouse and the New York State Department of Health Inpatient Neonatal database which has data on virtually all children admitted to Level 2 or higher nurseries in the state.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Testing (using Mount Sinai data) of International Classification of Diseases, Ninth Revision (ICD-9) codes as a way to identify low birth weight (LBW) infants found that 99 infants out of 677 who were identified with the ICD-9 specifications listed in Table 1 of the original measure documentation. Section I, had birthweights of over 2,500. The ICD-9 codes for this cohort that were 2,500 grams or above is listed in Table 2.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Of the 99 infants, 5 had recorded birthweights of 2,500 grams, consistent with the ICD-9 codes used. The developer has indicated in the specifications that the various ICD-9 codes, such as 764.00, 764.10, and 765.10 that represent poor fetal growth without a specified weight need to have their eligibility for the measure confirmed with an actual birthweight.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The key constructs underlying our measures are:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Date and time of birth, date and time of arrival to the Level 2 or higher nursery, and time when the first temperature was taken. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Testing with data from the New York State Neonatal database supports various aspects of this measure. The data include reports from 20 Level 2 nurseries, 27 Level 3 nurseries, and 14 Regional Perinatal Centers that contributed 20 or more infants for the reporting year assessed. Included in the data are all inborn infants from these hospitals with a birthweight of 400 to 2,499 grams whose admission temperature was 29&amp;deg; Celsius or higher. Excluded were those with anencephaly or those who expired within 48 hours without receiving respiratory support beyond oxygen in the NICU. N=7,553. The number of infants ranged from 21 to 370 per hospital and 86.7% were admitted to Level 3 or higher hospitals.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer investigated time of first temperature among infants admitted to the neonatal intensive care unit within 24 hours of birth. Overall, it was found that temperatures taken after 15 minutes of arrival were significantly more likely to be euthermic and less likely to be cool or cold, consistent with expected findings.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data analysis confirms that there is variability in the time at which temperatures are taken. Statewide, 86.8% of LBW infants have their temperature taken within 15 minutes of arrival to the nursery. Age of neonate at time that the first temperature was taken was also investigated. It was found that 10.8% of LBW infants (n=815) did not have documentation of a temperature within the first hour of life. The systematic variation&amp;mdash;including the racial differences noted above&amp;mdash;and the apparent structural variation seen across the Level 2, 3, and 4 nurseries reinforce the decision to prioritize these proposed measures of timing as important process of care measures, with failure of the 60 minute measure representing a meaningful failure that jeopardizes patient safety. Data regarding age of neonate and temperature can be seen in Table 3 of the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Temperatures measured after 60 minutes of life were higher than those measured within the first hour (p less than .0001). The findings have important implications. The temperature difference reminds [us] that temperature in LBW infants is largely a factor of environment, and that the potentially chaotic environment surrounding delivery and transport immediately following delivery is very different from the potentially more controlled environment of the nursery an hour or more after birth. So the earlier and later temperatures are actually measuring different constructs. Failure to measure a timely temperature after birth forgoes the opportunity to identify and manage early cold stress. Further, if temperature is a quality indicator as proposed, the higher later temperatures may become an incentive to not enter early cool temperatures into the permanent medical record.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer also employed a multitude of experts and diverse stakeholders&amp;mdash;clinicians, scientists, payers, purchasers, and consumers&amp;mdash;as another means of establishing validity and believes this to be central to validity in the context of measuring quality amidst uncertainty. They obtained feedback on the face validity of the constructs, the development of the Boundary Guidelines, and the measure's testing. The use of Expert Panels has been demonstrated to be useful in measure development and evaluation, and practitioners have been identified as a resource for researchers in developing and revising measures, since they are on the frontlines working with the populations who often become research participants. Involving practitioners can assist researchers in the creation of measures that are appropriate and easily administered.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Throughout development, the Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) brought together stakeholders to ensure their iterative engagement in advancing quality measures that are understandable, salient and actionable. CAPQuaM employed a 360&amp;deg; method, designed to involve key stakeholders in meaningful ways. The development process for this measure cultivated formal input from:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Medical literature (both peer reviewed and gray, including state websites); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relevant clinicians; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Organizational stakeholders (consortium partners, as well as advisory board members, see below); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Multidisciplinary, geographically diverse Expert Panel including clinicians and academicians; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CAPQuaM's scientific team. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Clinical criteria regarding reporting approaches, including consideration of inclusion and exclusion criteria, the value of temperature measurement, and specific and meaningful temperature cutoffs were developed using a modified version of the RAND/University of California, Los Angeles (UCLA) modified Delphi panels. CAPQuaM sought recommendations from major clinical societies and other stakeholders to identify academic and clinician Expert Panel participants with a variety of backgrounds, clinical and regional settings, and expertise. The product of this process was participation by a broad group of experts in the development of clinically detailed scenarios leading to the measures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The route to measure specification included development of relevant scenarios and issues for formal processing by an Expert Panel who participated in a two-round RAND/UCLA modified Delphi panel that culminated in a day-long in-person meeting hosted at the Joint Commission and moderated by a pediatrician and an obstetrician-gynecologist. The output from that panel meeting was summarized in the form of a Boundary Guideline that was then used to guide the measure specification and prioritization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer's feasibility work indicates that the time the temperature is assessed, rather than simply the time that it is recorded, is documented in the medical record, generally an electronic medical record (EMR). This is a critical aspect of the validity of time data.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Intensive Care Units" />
+      <FieldValue Value="Other" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Newborn&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Live-born neonates with birthweight of less than 2,500 grams (as identified from either the medical record or by International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] principal or other diagnosis codes) admitted to a Level 2 or higher nursery within 24 hours of birth&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Children identified as having received Level 2 care either via medical record review and/or via revenue code 172, 173, or 174 shall be eligible for the denominator. For codes 76400, 76410, 76420, 76490, 76500, birthweights should be verified from the medical record prior to including in measure. Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Neonates who do not survive until the time limit of the measure (15 minutes after arrival to the Level 2 or higher nursery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates with anencephaly ICD-9-CM 740 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates with Comfort care (requires all of the features below): Died within 48 hours of birth AND received no respiratory support after arrival to the Level 2 or higher nursery other than blow by oxygen (i.e., did not receive continuous positive airway pressure [CPAP], intubation, or cardiopulmonary resuscitation [CPR]) after arrival at Level 2 or higher nursery) Neonates for whom the hospital provides documentation that at the time of arrival to the neonatal intensive-care unit (NICU) and before the temperature was taken the infant had been identified as meeting written institutional criteria for the initiation of therapeutic hypothermia and such therapy was begun or planned (optional exclusion). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Live-born neonates with a birthweight of less than 2,500 grams (as identified by International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] principal or other diagnosis codes) who have their temperature taken within 15 minutes of arrival to the nursery and for whom this temperature is documented in the medical record&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;General Data Elements for Stratification and Reporting:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Birthweight &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;5 minute Apgar &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Race/ethnicity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Insurance type (public, commercial, none, other) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Benefit category (Health Maintenance Organization [HMO], Preferred Provider Organization [PPO], Medicaid Primary Care Management Plan, Fee for Service, Other) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mother's state and county of residence and or ZIP code &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medicaid or Children's Health Insurance Program (CHIP) benefit/qualifying category &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Born inside or outside of a medical facility&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-roman;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;Location of birth&#xD;&#xA;        &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;            &lt;li&gt;Operating room (e.g., for Cesarean section or double set up delivery) &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Birthing room (birthing room is referring to a birthing or delivery room on a labor and delivery suite that is not an operating room) &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Other &lt;/li&gt;&#xD;&#xA;        &lt;/ol&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Location of birth unavailable:&#xD;&#xA;        &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;            &lt;li&gt;If delivery occurred by Cesarean section then put location of birth as operating room &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If this was a twin or multiple gestation delivery put location of birth as operating room &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Otherwise put location of birth as birthing room/ delivery room &lt;/li&gt;&#xD;&#xA;        &lt;/ol&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CAPQuaM PQMP PERINATAL II: timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Inpatient Perinatal Care" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.capquam.org/docs/Perinatal/Perinatal%20Measure%201%20FINAL%20COMBINED.pdf&quot; title=&quot;CAPQuaM Web site&quot;&gt;Collaboration for the Advancement of Pediatric Quality Measures (CAPQuaM) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Dr. Lawrence Kleinman, Director of Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) at the Icahn School of Medicine at Mount Sinai, Department of Population Health and Policy at 1 Gustave L. Levy Place, Box 1077, New York, NY 10029; Phone: 212-659-9567; E-mail: &lt;a href=&quot;mailto:Lawrence.Kleinman@mountsinai.org&quot;&gt;Lawrence.Kleinman@mountsinai.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.capquam.org/&quot; title=&quot;CAPQuaM Web site&quot;&gt;www.capquam.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on July 14, 2015. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Users may download and use the measure(s) with attribution that these are Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) measures part of the CHIPRA Pediatric Quality Measures Program (PQMP) and the CAPQuaM measure developers are willing to make themselves available for consultation on a case by case basis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures upon arrival in Level 2 or higher nurseries for low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

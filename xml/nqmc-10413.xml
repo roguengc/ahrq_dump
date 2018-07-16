@@ -1,0 +1,237 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Home health care: percentage of home health stays in which patients who had an acute inpatient hospitalization discharge within 5 days before the start of their home health stay were admitted to an acute care hospital during the 30 days following the start of the home health stay.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 9 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Home Health Quality Measures – Outcomes. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Mar. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of home health stays in which patients who had an acute inpatient hospitalization within 5 days before the start of their home health stay were admitted to an acute care hospital during the 30 days following the start of the home health stay. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Rates of rehospitalization remain substantial with 13.3 percent of home health patients experiencing an unplanned rehospitalization in the first 30 days of care. Currently, home health agencies focus on measures of acute care hospitalization (applied to all home health patients) as a measure of their effectiveness. The &lt;em&gt;Rehospitalization During the First 30 Days of Home Health&lt;/em&gt; measure will allow home health agencies to further target patients who entered home health after a hospitalization. The Centers for Medicare &amp;amp; Medicaid Services (CMS) has provided support to the Quality Improvement Organizations (QIOs) to address the high rates of rehospitalization. There are other national initiatives to address hospital readmissions, including work by the Institute for Healthcare Improvement, the National Priority Partnership and others. As described in the Evidence Submission Form, there are interventions that may be effective in reducing hospital readmission, including care transition models and telehealth. Thus, continued reporting is beneficial as hospital readmission is a national priority across sites of care and for which there is evidence of how to impact the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Home health; rehospitalization&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of home health stays that begin during the 12-month observation period for patients who had an acute inpatient hospitalization discharge within the five days prior to the start of the home health stay (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of home health stays for patients who have a Medicare claim for an admission to an acute care hospital in the 30 days following the start of the home health stay (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital readmissions are a national priority for Medicare recipients, based on evidence that 20% of all Medicare beneficiaries who were hospitalized had a return hospital stay within 30 days. In 2004, this cost the Medicare program $17.4 billion (Jencks, Williams, &amp;amp; Coleman, 2009). Within home health care, an analysis of Medicare claims shows that 13.3 percent of home health patients are re-hospitalized within 30 days of the start of home health care. There is limited research on the extent to which these hospital readmissions are avoidable within home health care: one study reporting on patients with heart failure found that more than 40% of the 30 day rehospitalizations may have been avoidable (Madigan et al., 2012). In addition, there is evidence from studies of Medicare patients in general that there are interventions to reduce the need for hospital care amongst a substantial proportion of these Medicare beneficiaries (Jencks, Williams, &amp;amp; Coleman, 2009; Schade et al., 2009). Moreover, there are a number of national initiatives, both governmental (e.g., Quality Improvement Organizations, National Priorities Partnership, and the Centers for Medicare &amp;amp; Medicaid Services [CMS]) and through private foundations (e.g., Institute for Healthcare Improvement), addressing this issue. Thus, there is room for improvement and this is a national priority issue.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jencks SF, Williams MV, Coleman EA. Rehospitalizations among patients in the Medicare fee-for-service program. N Engl J Med. 2009 Apr 2;360(14):1418-28. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19339721&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Madigan EA, Gordon NH, Fortinsky RH, Koroukian SM, Pina I, Riggs JS. Rehospitalization in a national population of home health care patients with heart failure. Health Res Educ Trust. 2012 Dec;47(6):2316-38. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22524242&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schade CP, Esslinger E, Anderson D, Sun Y, Knowles B. Impact of a national campaign on hospital readmissions in home care patients. Int J Qual Health Care. 2009 Jun;21(3):176-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19324927&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As a measure of internal consistency, the measure developer conducted a split-half reliability test using 100 percent of each home health agency's patients. Stays for each home health agency were randomly divided into two 50 percent samples, and simulations were run on each 50 percent sample to group the agency into either the &quot;better than expected&quot;, &quot;same as expected&quot;, or &quot;worse than expected&quot; category. Finally, the results between the two samples for each home health agency were compared to assess how consistently the home health agency was grouped into either the &quot;better than expected&quot;, &quot;same as expected&quot;, or &quot;worse than expected&quot; category. The measure developer restricted this analysis to home health agencies with at least 40 valid stays, so that each 50 percent sample had at least 20 stays (which is the minimum number of stays required to protect patient confidentiality in public reporting).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the split-half test, using each home health agency's 50 percent samples to produce two simulations and groupings, the majority of the home health agencies were grouped into the same performance category. Refer to the figure in the original measure documentation, which depicts the results of the split-half test; as represented by the numbers and percentages along the diagonal (i.e., upper-left to bottom-right), 3,953 (80 percent) were grouped into the same performance category as a result of the split-half test. Four-hundred and thirty-eight (9 percent) agencies shifted between the &quot;better than expected&quot; and &quot;same as expected&quot; categories, and 554 (11 percent) agencies shifted between the &quot;worse than expected&quot; and &quot;same as expected&quot; categories. Only 8 agencies shifted between the &quot;better than expected&quot; and &quot;worse than expected&quot; categories.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Critical Data Elements &amp;ndash; Method&lt;/span&gt;. Review of 2010 Medicare Comprehensive Error Rate Testing (CERT) Report. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As the Centers for Medicare and Medicaid Services (CMS) audits a sample of claims for acute inpatient hospitalizations as part of annual payment error calculations, additional validity testing of measure elements has not been conducted. The annual payment error calculation for 2010 involved a sample of Medicare claims that were then compared to medical records and included 2,454 claims for acute inpatient hospitalizations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Empirical Validity Testing &amp;ndash; Method&lt;/span&gt;. The measure developer assessed the convergent validity of the measure, which refers to the extent to which measures that are designed to assess the same construct are related to each other. To evaluate the convergent validity of the measure, the measure developer compared the mean performance rates of home health agencies in the &quot;better than expected&quot; category on four measures of home health quality derived from Outcome and Assessment Information Set (OASIS) assessments, compared to the performance of agencies who were not identified as &quot;better than expected&quot; (i.e., home health agencies in the &quot;same as expected&quot; plus &quot;worse than expected&quot; categories). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Critical Data Elements &amp;ndash; Results&lt;/span&gt;. Of the sampled claims, the hospital had no record of seeing the patient in only one case. It is possible that an extremely small fraction of claims represent care that did not occur, but this problem is clearly not widespread. For acute inpatient hospital claims reviewed, 9.5 percent had some type of payment error. Payment error analysis can also shed light on cases where the patient was hospitalized, but the hospitalization was not medically necessary. Payment errors include insufficient documentation, meaning the reviewers can't determine if the treatment (including hospital admission) was medically necessary, and medical necessity errors. In some cases, the reviewers determined that the patient's medical condition did not require admission to an acute inpatient hospital. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Empirical Validity Testing &amp;ndash; Results&lt;/span&gt;. Refer to the table in the original measure documentation, which compares the mean performance rates between home health agencies in the &quot;better than expected&quot; category and other home health agencies (i.e., home health agencies in the &quot;same as expected&quot; plus &quot;worse than expected&quot; categories) on four measures of home health quality derived from OASIS assessments.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Home Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;12-month observation period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of home health stays that begin during the 12-month observation period for patients who had an acute inpatient hospitalization discharge within the five days prior to the start of the home health stay. A home health stay is a sequence of home health payment episodes separated from other home health payment episodes by at least 60 days.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Home health stays that begin with a Low Utilization Payment Adjustment (LUPA) claim &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health stays for patients who aren't continuously enrolled in fee-for-service Medicare for the 6 months before or 30 days after the start of the home health stay or until death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health stays in which the patient receives service from multiple agencies during the first 30 days or receives services in another care setting between leaving the hospital and starting home health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health stays occurring within five days of non-qualifying inpatients hospitalizations, which includes admissions for the treatment of cancer, psychiatric disease, or rehabilitations, and inpatient stays ending in patient discharge against medical advice &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of home health stays for patients who have a Medicare claim for an admission to an acute care hospital in the 30 days following the start of the home health stay&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Inpatient claims for planned hospitalizations are excluded from the rehospitalization measure numerator. Planned hospitalizations are defined using the same criteria as the Hospital-Wide All-Cause Unplanned Readmission Measure as of January 2013.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Outcome" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Outcome and Assessment Information Set (OASIS) for Home Care&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure developer used a multinomial logistic model to account for beneficiary factors that may affect rates of hospitalization but are outside of the home health agency's control. Because these measures evaluate two different but related outcomes, one multinomial logistic framework models the three disjoint outcomes: no acute care use (no event), emergency department use without hospital readmission, and rehospitalization. A multinomial logistic model allows for the same risk factors to affect the possible outcomes in different ways while also constraining predicted probabilities of all three events to sum to one hundred percent. The risk adjustment model uses six months of claims prior to the start of home health care to obtain information about the beneficiary. The measure developer identified a set of 404 covariates that consisted of statistically significant predictors of acute care rehospitalization or emergency use without hospital readmission. The Centers for Medicare and Medicaid Services (CMS) published the risk adjustment model specifications on the Home Health Quality Initiative page in December 2013. The five beneficiary-level risk factors included in the multinomial logistic regression model are as follows:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Prior care setting &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age and sex interactions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Health status &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medicare enrollment status &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional interaction terms &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;A description of the development of the CMS Home Health Care (CMS-HCC) model can be found on the &lt;a href=&quot;https://www.cms.gov/HealthCareFinancingReview/Downloads/04Summerpg119.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;CMS Web site&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Rehospitalization during the first 30 days of home health.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Outcome and Assessment Information Set (OASIS)" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Outcome-Based Quality Improvement (OBQI) Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Acumen LLC, under contract to Centers for Medicare and Medicaid Services - Nonprofit Research Organization" />
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Workgroup/Expert Panel Involved in Measure Development&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The Technical Expert Panel (TEP) reviewed the measure specifications and public comments received on the Rehospitalization During the First 30 Days of Home Health measure, and provided recommendations on measure development. The TEP included the following members:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mary Carr, RN, MPH, Associate Director for Regulatory Affairs, National Association for Home Care &amp;amp; Hospice &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard H. Fortinsky, PhD, Professor and Physicians Health Services Chair in Geriatrics and Gerontology, Center on Aging, University of Connecticut Health Center &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barbara Gage, PhD, Deputy Director of Aging, Disability, and Long-term Care, Post-Acute Care Research Lead, Research Triangle Institute &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Margherita C. Labson, RN, MSHSA, CPHQ, CCM, CGB, Executive Director Home Care Program, The Joint Commission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Steven Landers, MD, MPH, Director, Cleveland Clinic Center for Home Care and Community Rehabilitation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bruce Leff, MD, Professor of Medicine, Johns Hopkins University School of Medicine Joint appointment, Department of Health Policy and Management, Johns Hopkins University Bloomberg School of Public Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barbara A. McCann, BSW, MA, Chief Industry Officer, Interim HealthCare, Sunrise FL &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dana B. Mukamel, PhD, Professor, Department of Medicine, Senior Fellow, Health Policy Research Institute, University of California, Irvine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jennifer S. Mensik, PhD, RN, NEA-BC, FACHE, UCLA Health System &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert J. Rosati PhD, Vice President of Clinical Informatics Center for Home Care Policy and Research Visiting Nurse Service of New York &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Judith A. Sangl, ScD, Health Scientist Administrator, Agency for Healthcare Research and Quality (AHRQ) Center for Patient Safety and Quality Improvement (CQuIPS) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Nov 3&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Home Health Compare" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;: This measure has been updated. The National Quality Measures Clearinghouse is working to update this summary.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIQualityMeasures.html&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CMS at 7500 Security Boulevard, Baltimore, MD 21244; Web site: &lt;a href=&quot;https://www.cms.gov/&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Home health claims-based utilization measures: risk adjustment methodology. Burlingame (CA): Acumen, LLC; 2012 Aug. 20 p. This document is available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/Downloads/ClaimsBasedUtilizationMeasuresRiskAdjustmentMethodology.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 19, 2015. The information was verified by the measure developer on January 4, 2016. The information was reaffirmed by the measure developer on April 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 9 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: rehospitalization during the first 30 days of home health. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Home Health Quality Measures – Outcomes. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Mar. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

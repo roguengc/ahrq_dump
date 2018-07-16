@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Optimizing patient exposure to ionizing radiation: percentage of total CT studies performed for all patients, regardless of age, that are reported to a radiation dose index registry and that include at a minimum selected data elements.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Board of Medical Specialties (ABMS), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American College of Radiology (ACR). Optimizing patient exposure to ionizing radiation performance measurement set. Reston (VA): American College of Radiology; 2016 Jan. 51 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Structure" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measure:  Process" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of total computed tomography (CT) studies performed for all patients, regardless of age, that are reported to a radiation dose index registry and that include at a minimum selected data elements.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Clinical registries have become an important tool in efforts to improve quality of care. Registries provide a structured mechanism to monitor clinical practice patterns, evaluate healthcare effectiveness and safety, and evaluate patient outcomes (Gliklich &amp;amp; Dreyer, 2007; Engelberg Center for Health Care Reform at Brookings Institution, 2010; Bufalino et al., 2011). Clinical registries like the ADHERE, Get with the Guidelines and the Advanced Cardiovascular Imaging Consortium registries, have been associated with performance improvement by registry participants (Engelberg Center for Health Care Reform at Brookings Institution, 2010; Fonarow et al., 2005; LaBresh et al., 2004; Raff et al., 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Establishing diagnostic reference levels is vital to helping clinicians determine optimal radiation dosage to produce acceptable image quality. A data registry such as the American College of Radiology (ACR) Dose Index Registry (DIR) allows facilities to compare their computed tomography (CT) dose indices to regional and national values enabling imaging providers and the imaging community to measure the effectiveness of dose lowering efforts over time.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reference levels are based on actual patient doses for specific procedures measured at a number of representative clinical facilities. The levels are set at approximately the 75th percentile of these measured data, meaning that the procedures are performed at most institutions with doses at or below the reference level. Consequently, reference levels are suggested action levels at which a facility should review its methods and determine if acceptable image quality can be achieved at lower doses (ACR, 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A prospective, controlled, nonrandomized study using a cardiac computed tomography angiography registry found that consistent application of dose-reduction techniques was associated with a reduction in estimated radiation doses without impairment of image quality (Raff et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;During the follow-up period, patients' estimated median radiation dose was reduced by 53% and effective dose from 21 mSv to 10 mSv as compared with the control period (Raff et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following clinical recommendation statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The goal in medical imaging is to obtain image quality consistent with the medical imaging task. Diagnostic reference levels are used to manage the radiation dose to the patient. The medical radiation exposure must be controlled, avoiding unnecessary radiation that does not contribute to the clinical objective of the procedure. By the same token, a dose significantly lower than the reference level may also be cause for concern, since it may indicate that adequate image quality is not being achieved. The specific purpose of the reference level is to provide a benchmark for comparison, not to define a maximum or minimum exposure limit (ACR, 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For CT, the diagnostic reference levels are based on the volume CT dose index (CTDIvol) (ACR, 2008).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Board of Medical Specialties (ABMS), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American College of Radiology (ACR). Optimizing patient exposure to ionizing radiation performance measurement set. Reston (VA): American College of Radiology; 2016 Jan. 51 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR). ACR practice guideline for diagnostic reference levels in medical x-ray imaging. Reston (VA): American College of Radiology (ACR); 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bufalino VJ, Masoudi FA, Stranne SK, Horton K, Albert NM, Beam C, Bonow RO, Davenport RL, Girgus M, Fonarow GC, Krumholz HM, Legnini MW, Lewis WR, Nichol G, Peterson ED, Rumsfeld JS, Schwamm LH, Shahian DM, Spertus JA, Woodard PK, Yancy CW, American Heart Association Advocacy Coordinating Committee. The American Heart Association's recommendations for expanding the applications of existing and future clinical registries: a policy statement from the American  Heart Association. Circulation. 2011 May 17;123(19):2167-79. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21482960&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Engelberg Center for Health Care Reform at Brookings Institution. How registries can help performance measurement improve care. Washington (DC): The Brookings Institution; 2010 Jun. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fonarow GC, Yancy CW, Heywood JT, ADHERE Scientific Advisory Committee, Study Group, and Investigators. Adherence to heart failure quality-of-care indicators in US hospitals: analysis of the ADHERE Registry. Arch Intern Med. 2005 Jul 11;165(13):1469-77. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16009861&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gliklich RE, Dreyer NA, editor(s). Registries for evaluating patient outcomes: a user's guide. (Prepared by outcome DEcIDE Center). Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2007 Apr. 219 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;LaBresh KA, Ellrodt AG, Gliklich R, Liljestrand J, Peto R. Get with the guidelines for cardiovascular secondary prevention: pilot results. Arch Intern Med. 2004 Jan 26;164(2):203-9. [29 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14744845&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Raff GL, Chinnaiyan KM, Share DA, Goraya TY, Kazerooni EA, Moscucci M, Gentry RE, Abidov A, Advanced Cardiovascular Imaging Consortium Co-Investigators. Radiation dose from cardiac computed tomography before and after implementation of radiation dose-reduction techniques. JAMA. 2009 Jun 10;301(22):2340-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19509381&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ionizing radiation; computed tomography (CT); radiation dose index registry&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All computed tomography (CT) studies performed for all patients, regardless of age &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Computed tomography (CT) studies performed that are reported to a radiation dose index registry AND that include at a minimum all of the following data elements: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Manufacturer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Study description &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Manufacturer's model name &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's weight &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's size &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's sex &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exposure time &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;X-ray tube current &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kilovoltage (kV) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mean volume computed tomography dose index (CTDIvol) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dose-length product (DLP) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The use of medical imaging has resulted in revolutionary advances in the practice of medicine. The increased sophistication and clinical efficacy of imaging have resulted in its considerable growth. Consequently, the evolution of imaging has resulted in a significant increase in the population's cumulative exposure to ionizing radiation and a potential increase in adverse effects including cancer (Amis, Butler, &amp;amp; American College of Radiology [ACR], 2010; Amis et al., 2007). Although experts may not agree on the extent of the risks of cancer from medical imaging, there is uniform agreement that care should be taken to weigh the medical necessity of a given level of radiation exposure against the risks, and that steps should be taken to eliminate avoidable exposure to radiation (Amis et al., 2007; Center for Devices and Radiological Health [CDRH], 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;High Impact Topic Area&lt;/span&gt;&lt;br /&gt;&#xD;&#xA;This topic was chosen for measure development because of the high costs associated with imaging studies and because these medical procedures are a significant source of radiation exposure. The following objective data support the degree of increase in the use of imaging studies and emphasize the importance in taking steps to help eliminate avoidable exposure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Prevalence and Incidence&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The average per capita exposure to ionizing radiation from imaging exams increased by about 600% from 1980 to 2006 in the United States (U.S.) (Mettler et al., 2009; National Council on Radiation Protection and Measurements [NCRP], 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The largest contributor to this dramatic increase in population radiation exposure is computed tomography (CT). In 1980 fewer than 3 million CT scans were performed; in 2006, there were about 380 million radiologic procedures (including 67 million CT scans) and 18 million nuclear medicine procedures performed in the U.S. (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The imaging study with the single highest radiation burden, accounting for 22% of cumulative effective dose, is myocardial perfusion imaging (Fazel et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2006, an estimated 19 million head, 10.6 million chest and 21.2 million abdominal and pelvic CT scans were performed accounting for 28%, 15.9%, and 31.7%, respectively, of the total number of CT scans in the U.S. (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Currently, approximately 11% of CT examinations are performed on children, which could account for more than 7 million pediatric CT examinations per year in the U.S. (Mettler et al., 2000; Frush &amp;amp; Applegate, 2004; Linton, Mettler, &amp;amp; NCRP, 2003). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The prevalence of CT or magnetic resonance imaging (MRI) use during emergency department (ED) visits for injury-related conditions increased from 6% in 1998 to 15% in 2007 (Korley, Pham, &amp;amp; Kirsch, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;While CT utilization has decreased steadily since 2003 in pediatric facilities across North America (Townsend et al., 2010) the use of CT in children who visit the ED increased from 0.33 to 1.65 from 1995 to 2008 and occurred primarily at non-pediatric focused facilities (Larson et al., 2011). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Costs&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;From 2000 through 2006, total Medicare expenditures for physician imaging services increased from $6.7 billion to about $14 billion, an increase of 13% per year on average (U.S. Government Accountability Office [GAO], 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2005 imaging services represented an estimated 14% of 2005 spending included in the sustainable growth rate (SGR) calculation, but represented 27% of the total increase in such spending between 2004 and 2005. The majority of the growth occurred for advanced imaging (GAO, 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2006, advanced imaging, including CT and MRI, accounted for 54% of total Medicare imaging expenditures, up from 43% in 2000. This translates to an increase in Medicare spending on advanced imaging from about $3 billion in 2000 to about $7.6 billion in 2006 (GAO, 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Disparities&lt;/em&gt; &lt;br /&gt;&#xD;&#xA;There is variation according to age, sex, and health care market in the proportion and mean dose of patients undergoing medical imaging procedures. One study concluded that the proportion of subjects undergoing at least one imaging procedure was higher in older patients, rising from 49.5% of those who were 18 to 34 years old to 85.9% of those who were 60 to 64 years old. The study also found that women underwent procedures significantly more often than men, with a total of 78.7% of women undergoing at least one procedure during the study period, as compared with 57.9% of men (Fazel et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;One retrospective cross-sectional study describing radiation dose associated with some of the most common types of diagnostic CT found variable radiation doses. The study found variability in the following exams: 1) routine chest exam without contrast, the CT effective doses ranged from 2 mSv to 24 mSv; 2) routine abdomen-pelvis, no contrast - CT effective dose ranged from 3 mSv to 43 mSv; 3) routine head exam - CT effective dose ranging from 0.3 mSv to 6 mSv (Smith-Bindman et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A central database established for collecting dose indices as a function of patient qualities (i.e., gender, age, size, etc.) and exam type (i.e., lateral lumbar spine, pelvis CT, etc.), would allow the relative range of radiation dose indices to be analyzed and compared against established benchmarks.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Board of Medical Specialties (ABMS), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American College of Radiology (ACR). Optimizing patient exposure to ionizing radiation performance measurement set. Reston (VA): American College of Radiology; 2016 Jan. 51 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Amis ES Jr, Butler PF, American College of Radiology. ACR white paper on radiation dose in medicine: three years later. J Am Coll Radiol. 2010 Nov;7(11):865-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21040868&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Amis ES Jr, Butler PF, Applegate KE, Birnbaum SB, Brateman LF, Hevezi JM, Mettler FA, Morin RL, Pentecost MJ, Smith GG, Strauss KJ, Zeman RK, American College of Radiology. American College of Radiology white paper on radiation dose in medicine. J Am Coll Radiol. 2007 May;4(5):272-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17467608&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Center for Devices and Radiological Health (CDRH). Initiative to reduce unnecessary radiation exposure from medical imaging. Silver Spring (MD): U.S. Food and Drug Administration, Center for Devices and Radiological Health; 2010 Feb. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fazel R, Krumholz HM, Wang Y, Ross JS, Chen J, Ting HH, Shah ND, Nasir K, Einstein AJ, Nallamothu BK. Exposure to low-dose ionizing radiation from medical imaging procedures. N Engl J Med. 2009 Aug 27;361(9):849-57.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Frush DP, Applegate K. Computed tomography and radiation: understanding the issues. J Am Coll Radiol. 2004 Feb;1(2):113-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17411538&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Korley FK, Pham JC, Kirsch TD. Use of advanced radiology during visits to US emergency departments for injury-related conditions, 1998-2007. JAMA. 2010 Oct 6;304(13):1465-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20924012&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Larson DB, Johnson LW, Schnell BM, Goske MJ, Salisbury SR, Forman HP. Rising use of CT in child visits to the emergency department in the United States, 1995-2008. Radiology. 2011 Jun;259(3):793-801. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21467249&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Linton OW, Mettler FA, National Council on Radiation Protection and Measurements. National conference on dose reduction in CT, with an emphasis on pediatric patients. AJR Am J Roentgenol. 2003 Aug;181(2):321-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12876005&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mettler FA Jr, Wiest PW, Locken JA, Kelsey CA. CT scanning: patterns of use and dose. J Radiol Prot. 2000 Dec;20(4):353-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11140709&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mettler FA, Bhargavan M, Faulkner K, Gilley DB, Gray JE, Ibbott GS, Lipoti JA, Mahesh M, McCrohan JL, Stabin MG, Thomadsen BR, Yoshizumi TT. Radiologic and nuclear medicine studies in the United States and worldwide: frequency, radiation dose, and comparison with other radiation sources--1950-2007. Radiology. 2009 Nov;253(2):520-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19789227&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Council on Radiation Protection and Measurement (NCRP). Ionizing radiation exposure of the population of the United States. Bethesda (MD): National Council on Radiation Protection and Measurement (NCRP); 2009. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith-Bindman R, Lipson J, Marcus R, Kim KP, Mahesh M, Gould R, Berrington de Gonzalez A, Miglioretti DL. Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer. Arch Intern Med. 2009 Dec 14;169(22):2078-86.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Townsend BA, Callahan MJ, Zurakowski D, Taylor GA. Has pediatric CT at children's hospitals reached its peak?. AJR Am J Roentgenol. 2010 May;194(5):1194-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20410402&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Government Accountability Office (GAO). Medicare Part B imaging services: rapid spending growth and shift to physician offices indicate need for CMS to consider additional management practices. Washington (DC): U.S. Government Accountability Office (GAO); 2008 Jun. 49 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measures in this set are being made available without any prior formal testing. However, many of the measures in this set (Utilization of a Standardized Nomenclature for CT Imaging Description, Count of Potential High Dose Radiation Imaging Studies: Computed Tomography (CT) and Cardiac Nuclear Medicine Studies, CT Images Available for Patient Follow-Up and Comparison Purposes, Search for Prior CT Studies through a Secure, Authorized, Media-free, Shared Archive, Appropriateness: Follow-up CT Imaging for Incidentally Detected Pulmonary Nodules According to Recommended Guidelines and Reporting to a Radiation Dose Index Registry) have been in use in the Centers for Medicare and Medicaid Services (CMS) Physician Quality Reporting System program since 2013 indicating the feasibility of collecting the data elements required for measure calculation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American College of Radiology (ACR) recognizes the importance of thorough testing all of its measures and encourages ongoing robust testing of the Optimizing Patient Exposure to Ionizing Radiation measurement set for feasibility and reliability by organizations or individuals positioned to do so. The ACR will welcome the opportunity to promote such testing of these measures and to ensure that any results available from testing are used to refine the measures on an ongoing basis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Board of Medical Specialties (ABMS), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American College of Radiology (ACR). Optimizing patient exposure to ionizing radiation performance measurement set. Reston (VA): American College of Radiology; 2016 Jan. 51 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All computed tomography (CT) studies performed for all patients, regardless of age&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Computed tomography (CT) studies performed that are reported to a radiation dose index registry (DIR) AND that include at a minimum all of the following data elements:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Manufacturer &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Study description &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Manufacturer's model name &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's weight &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's size &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's sex &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Exposure time &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;X-ray tube current &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kilovoltage (kV) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mean volume computed tomography dose index (CTDIvol) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dose-length product (DLP) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Detailed information regarding the patient demographic and scanner data elements included in the Digital Imaging and Communication in Medicine (DICOM) header and CT irradiation event data elements included in the &lt;em&gt;DICOM Supplement 127: CT Radiation Dose Reporting (Dose Structured Report)&lt;/em&gt; can be found in the Dose Index Registry Data Dictionary available on the &lt;a href=&quot;http://www.acr.org/Quality-Safety/National-Radiology-Data-Registry/Dose-Index-Registry&quot; title=&quot;ACR Web site&quot;&gt;American College of Radiology (ACR) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Documentation of organizational self-assessment" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #1: reporting to a radiation dose index registry.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Optimizing Patient Exposure to Ionizing Radiation Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American College of Radiology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American College of Radiology - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Optimizing Patient Exposure to Ionizing Radiation Work Group Members&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Milton J. Guiberteau, MD (&lt;em&gt;Co-chair&lt;/em&gt;) (nuclear radiology/diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Seidenwurm, MD (&lt;em&gt;Co-chair&lt;/em&gt;) (neuroradiology/pediatric and diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dennis M. Balfe, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dorothy Bulas, MD (pediatric radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Philip N. Cascade, MD (cardiothoracic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;C. Daniel Johnson, MD, MS, MMM (GI radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard L. Morin, PhD (radiologic physics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert D. Rosenberg, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Howard Sandler, MD, MS (physics) (radiation oncology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rebecca Smith-Bindman, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Christopher Wyatt, MHM (payer representative) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Advisory Group Members&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Scott Jerome, DO (cardiology/internal medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul M. Knechtges, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John R. Maese, MD (internal medicine/geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jason Sheehan, MD, PhD (neurosurgery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul R. Sierzenski, MD, RDMS (emergency medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Liana Watson, DM, RT(R)(M)(S)(BS), RDMS, RVT (radiography/sonography) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sjirk J. Westra, MD (pediatric radiology) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Board of Medical Specialties&lt;/em&gt;: Richard Hawkins, MD; Sheila Lazier; Katie Small; Robin Wagner, RN, MHSA; Kevin Weiss, MD, MPH &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Board of Radiology&lt;/em&gt;: Gary Becker, MD; Jennifer Bosma, PhD; Paul Wallner, DO &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American College of Radiology&lt;/em&gt;: Judy Burleson, MHSA &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Mark Antman, DDS, MBA; Elvia Chavarria, MPH; Anu Gupta, JD; Kendra Hanley, MS; Samantha Tierney, MPH &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association-convened Physician Consortium for Performance Improvement (PCPI) Consultant&lt;/em&gt;: Rebecca Kresowik&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Patient Optimizing Patient Exposure to Ionizing Radiation Work Group had any disqualifying material interests under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure set is reviewed and updated every 3 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.acr.org/~/media/ACR/Documents/PDF/QualitySafety/Quality%20Measurement/Performance%20Measures/OPEIR%20Measure%20Set%202014.pdf&quot; title=&quot;ACR Web site&quot;&gt;American College of Radiology (ACR) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ACR at 1891 Preston White Drive, Reston, VA 20191; Phone: 703-648-8900; E-mail: &lt;a href=&quot;mailto:info@acr.org&quot;&gt;info@acr.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.acr.org&quot; title=&quot;ACR Web site&quot;&gt;www.acr.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 4, 2015. The information was verified by the measure developer on December 29, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&amp;copy;2014 American Board of Medical Specialties, American College of Radiology and American Medical Association. All Rights Reserved. CPT&amp;reg; Copyright 2004-2013 American Medical Association.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Board of Medical Specialties (ABMS), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American College of Radiology (ACR). Optimizing patient exposure to ionizing radiation performance measurement set. Reston (VA): American College of Radiology; 2016 Jan. 51 p.  [53 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

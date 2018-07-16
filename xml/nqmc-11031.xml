@@ -1,0 +1,240 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;External beam radiotherapy (EBRT) for bone metastases: percentage of patients, regardless of age, with a diagnosis of bone metastases and no history of previous radiation who receive EBRT with an acceptable fractionation scheme as defined by the guideline.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). National Quality Measures Clearinghouse (NQMC) measure submission form: external beam radiotherapy for bone metastases. 2017 Feb. &amp;nbsp;19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, with a diagnosis of bone metastases and no history of previous radiation who receive external beam radiation therapy (EBRT) with an acceptable fractionation scheme as defined by the guideline once per reporting period, administered by a physician in an ambulatory care setting.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;It is estimated that more than 1.6 million new cancer cases are expected to be diagnosed in 2016. Bone metastases, a common manifestation of malignancy, can significantly affect the quality of life for patients by causing debilitating effects including pain, spinal cord compression, hypercalcemia and pathologic fracture. Evidence shows that radiotherapy provides successful palliation of painful bone metastases. External beam radiation therapy (EBRT) can provide significant palliation to painful bone metastases in 50% to 80% of patients. Although the role of radiation therapy in palliation of bone metastases has been well established, literature shows widespread variation in the practice patterns for using radiation therapy for palliation. Even though several meta-analyses have shown the efficiency of using lower fractionation schedules, there has been a reluctance to adopt them. A most-recent survey studied international practice variations and found doses commonly prescribed ranging from 3Gy/1 fraction to 60Gy/20 fractions. Single fraction treatment was recommended in only 2% to 20% of cases presented in United States.&lt;/p&gt;&#xA;&lt;p&gt;Numerous prospective randomized and retrospective trials have shown similar pain relief outcomes with shorter EBRT schedules than with longer courses of palliative radiation therapy (RT). The clinical practice guideline on &quot;Palliative Radiotherapy for Bone Metastases&quot; reviewed evidence from nine studies. The guideline states: &quot;Although various fractionation schemes can provide good rates of palliation, numerous prospective randomized trials have shown that 30Gy in 10 fractions, 24Gy in 6 fractions, 20Gy in 5 fractions, or 8Gy in a single fraction can provide excellent pain control and minimal side effects. The longer course has the advantage of lower incidence of repeat treatment to the same site, and the single fraction has proved more convenient for patients and care givers.&quot;&lt;/p&gt;&#xA;&lt;p&gt;Studies assessing patient preferences demonstrated that patients preferred short course treatments for reasons of convenience and fewer intrinsic costs associated with clinical visits. &lt;/p&gt;&#xA;&lt;p&gt;This measure will monitor the appropriate use of EBRT for qualified patients and impact the quality of care provided to end of life patients needing palliation. This is a process measure intended to close the gap in treatment variation and ensures the use of an appropriate fractionation schedule, as well as prevents the overuse of radiation therapy. Also, the measure takes into account the effective schedule for relieving pain from bone metastases, patient preferences, time, and cost effectiveness.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Cancer Society (ACS). Cancer facts &amp; figures 2011. Atlanta (GA): American Cancer Society (ACS); 2011. 60 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). National Quality Measures Clearinghouse (NQMC) measure submission form: external beam radiotherapy for bone metastases. 2017 Feb. &amp;nbsp;19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bone Pain Trial Working Party. 8 Gy single fraction radiotherapy for the treatment of metastatic skeletal pain: randomised comparison with a multifraction schedule over 12 months of patient follow-up. Bone Pain Trial Working Party. Radiother Oncol. 1999 Aug;52(2):111-21. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10577696&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chow E, Zeng L, Salvo N, Dennis K, Tsao M, Lutz S. Update on the systematic review of palliative radiotherapy trials for bone metastases. Clin Oncol (R Coll Radiol). 2012 Mar;24(2):112-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22130630&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Coleman RE. Metastatic bone disease: clinical features, pathophysiology and treatment strategies. Cancer Treat Rev. 2001 Jun;27(3):165-76. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11417967&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Lorenz KA, O'Neill SM, Asch SM, Walling AM, Tisnado D, Antonio AL, Malin JL. Cancer Quality-ASSIST supportive oncology quality indicator set: feasibility, reliability, and validity testing. Cancer. 2010 Jul 1;116(13):3267-75. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20564637&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Foro Arnalot P, Fontanals AV, Galcerán JC, Lynd F, Latiesas XS, de Dios NR, Castillejo AR, Bassols ML, Galán JL, Conejo IM, López MA. Randomized clinical trial with two palliative radiotherapy regimens in painful bone metastases: 30 Gy in 10 fractions compared with 8 Gy in single fraction. Radiother Oncol. 2008 Nov;89(2):150-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18556080&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hartsell WF, Scott CB, Bruner DW, Scarantino CW, Ivker RA, Roach M, Suh JH, Demas WF, Movsas B, Petersen IA, Konski AA, Cleeland CS, Janjan NA, DeSilvio M. Randomized trial of short- versus long-course radiotherapy for palliation of painful bone metastases. J Natl Cancer Inst. 2005 Jun 1;97(11):798-804. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15928300&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jeremic B, Shibamoto Y, Acimovic L, Milicic B, Milisavljevic S, Nikolic N, Aleksandrovic J, Igrutinovic I. A randomized trial of three single-dose radiation therapy regimens in the treatment of metastatic bone pain. Int J Radiat Oncol Biol Phys. 1998 Aug 1;42(1):161-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9747834&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kaasa S, Brenne E, Lund JA, Fayers P, Falkmer U, Holmberg M, Lagerlund M, Bruland O. Prospective randomised multicenter trial on single fraction radiotherapy (8 Gy x 1) versus multiple fractions (3 Gy x 10) in the treatment of painful bone metastases. Radiother Oncol. 2006 Jun;79(3):278-84.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lutz S, Balboni T, Jones J, Lo S, Petit J, Rich SE, Wong R, Hahn C. Palliative radiation therapy for bone metastases: update of an ASTRO evidence-based guideline. Pract Radiat Oncol. 2017 Jan-Feb;7(1):4-12. [39 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27663933&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lutz S, Berk L, Chang E, Chow E, Hahn C, Hoskin P, Howell D, Konski A, Kachnic L, Lo S, Sahgal A, Silverman L, von Gunten C, Mendel E, Vassil A, Bruner DW, Hartsell W, American Society for Radiation Oncology (ASTRO). Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline. Int J Radiat Oncol Biol Phys. 2011 Mar 15;79(4):965-76. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21277118&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nielsen OS, Bentzen SM, Sandberg E, Gadeberg CC, Timothy AR. Randomized trial of single dose versus fractionated palliative radiotherapy of bone metastases. Radiother Oncol. 1998 Jun;47(3):233-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9681885&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Roos DE, Turner SL, OBrien PC, Smith JG, Spry NA, Burmeister BH, Hoskin PJ, Ball DL, Trans-Tasman Radiation Oncology Group, TROG 96.05. Randomized trial of 8 Gy in 1 versus 20 Gy in 5 fractions of radiotherapy for neuropathic pain due to bone metastases (Trans-Tasman Radiation Oncology Group, TROG 96.05). Radiother Oncol. 2005 Apr;75(1):54-63. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15878101&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sande TA, Ruenes R, Lund JA, Bruland OS, Hornslien K, Bremnes R, Kaasa S. Long-term follow-up of cancer patients receiving radiotherapy for bone metastases: results from a randomised multicentre trial. Radiother Oncol. 2009 May;91(2):261-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19307034&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steenland E, Leer JW, van Houwelingen H, Post WJ, van den Hout WB, Kievit J, de Haes H, Martijn H, Oei B, Vonk E, van der Steen-Banasik E, Wiggenraad RG, Hoogenhout J, Wárlám-Rodenhuis C, van Tienhoven G, Wanders R, Pomp J, van Reijn M, van Mierlo I, Rutten E, Leer J, van Mierlo T. The effect of a single fraction compared to multiple fractions on painful bone metastases: a global analysis of the Dutch Bone Metastasis Study. Radiother Oncol. 1999 Aug;52(2):101-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10577695&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;van der Linden Y, Roos D, Lutz S, Fairchild A. International variations in radiotherapy fractionation for bone metastases: geographic borders define practice patterns?. Clin Oncol (R Coll Radiol). 2009 Nov;21(9):655-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19733039&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cancer; bone metastases; external beam radiation therapy (EBRT); fractionation schemes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients with bone metastases and no previous radiation to the same anatomic site who receive external beam radiation therapy (EBRT) for the treatment of bone metastases (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with bone metastases and no previous radiation to the same anatomic site who receive external beam radiation therapy (EBRT) for the treatment of bone metastases with any of the following recommended fractionation schemes: 30Gy/10fxns, 24Gy/6fxns, 20Gy/5fxns, 8Gy/1fxn (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The face validity of the measure was tested using an online survey data collection instrument. The sample size included 20 radiation oncologists primarily involved in quality improvement and guideline development. Additionally, this project was statistically powered to identify significant differences between levels of the measure's reliability using the kappa statistic. Inter-rater reliability was tested for the critical data elements. Each abstraction tool which created a side-by-side comparison of the two medical records. The abstractors adjudicated any mismatches and after a consensus process that the appropriate answer was selected. A reason code for the mismatch was assigned for that data element.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). National Quality Measures Clearinghouse (NQMC) measure submission form: external beam radiotherapy for bone metastases. 2017 Feb. &amp;nbsp;19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="37" OrdBy="200" ID="579" Name="National Guideline Clearinghouse Link" Type="xref">
+      <FieldValue Value="&lt;a href=&quot;http://www.guideline.gov/content.aspx?id=50624&quot; target=&quot;_blank&quot;&gt;Palliative radiation therapy for bone metastases: update of an ASTRO evidence-based guideline.&lt;/a&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Quality Care More Affordable&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Efficiency" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients with bone metastases and no previous radiation to the same anatomic site who receive external beam radiation therapy (EBRT) for the treatment of bone metastases&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The EBRT is used to treat anything other than bone metastases; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Previous radiation treatment to the same anatomic site (i.e., retreatment); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are part of a prospective clinical protocol or registry study involving the administration of radiation therapy, especially stereotactic radiosurgery (SRS) or stereotactic body radiation therapy (SBRT); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with femoral axis cortical involvement greater than 3 cm in length if the current EBRT is to that femur; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who have undergone a surgical stabilization procedure if at the site of the current EBRT treatment; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with spinal cord compression, cauda equina compression or radicular pain documented in the chart as related to the bone metastases being treated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient declines treatment &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients, regardless of age, with bone metastases and no previous radiation to the same anatomic site who receive external beam radiation therapy (EBRT) for the treatment of bone metastases with any of the following recommended fractionation schemes: 30Gy/10fxns, 24Gy/6fxns, 20Gy/5fxns, 8Gy/1fxn&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for specific Current Procedural Terminology (CPT) codes for therapeutic radiology treatment planning in the ambulatory setting and therapeutic radiology treatment delivery in the hospital setting. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Imaging data" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Measure Flow - OP-33: External Beam Radiotherapy for Bone Metastases.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;External beam radiotherapy for bone metastases.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="External Beam Radiotherapy for Bone Metastases" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Society for Radiation Oncology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Society for Radiation Oncology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Radiation Oncology (ASTRO)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Anushree Vichare, MBBS MPH, Measures Development Manager, American Society for Radiation Oncology (ASTRO); Emily Wilson, Vice-President, Advocacy &amp;amp; Clinical Affairs Division, ASTRO&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Feb" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Three years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Three years from date of submission&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Society for Radiation Oncology (ASTRO). National Quality Measures Clearinghouse (NQMC) measure submission form: external beam radiotherapy for bone metastases. 2012 Aug 9. 18 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Society for Radiation Oncology (ASTRO) at 8280 Willow Oaks Corporate Drive, Suite 500, Fairfax, VA 22031; Phone: 703-502-1550; Fax: 703-502-7852; Web site: &lt;a href=&quot;http://www.astro.org&quot; title=&quot;ASTRO Web site&quot;&gt;www.astro.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 26, 2014. The information was verified by the measure developer on March 25, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 28, 2017. The information was verified by the measure developer on April 5, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Society for Radiation Oncology (ASTRO) at 8280 Willow Oaks Corporate Drive, Suite 500, Fairfax, VA 22031; Phone: 703-502-1550; Fax: 703-502-7852; Web site: &lt;a href=&quot;http://www.astro.org&quot; title=&quot;ASTRO Web site&quot;&gt;www.astro.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). National Quality Measures Clearinghouse (NQMC) measure submission form: external beam radiotherapy for bone metastases. 2017 Feb. &amp;nbsp;19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

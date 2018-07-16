@@ -1,0 +1,227 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Substance use disorders: percentage of patients aged 18 years and older with a diagnosis of current opioid addiction who were counseled regarding psychosocial AND pharmacologic treatment options for opioid addiction within the 12 month reporting period.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), Physician Consortium for Performance Improvement® (PCPI), National Committee for Quality Assurance (NCQA). Substance use disorders physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2008 Jul. 22 p.  [11 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Process&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of current opioid addiction who were counseled regarding psychosocial and pharmacologic treatment options for opioid addiction within the 12 month reporting period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Methadone and buprenorphine, in combination with psychosocial treatment, are effective in reducing drug use and supporting treatment retention. Until recently, their use had been limited due to regulatory requirements with capacity at approved facilities only able to meet the treatment needs of 15% of opioid dependent individuals. While the increased access to opioid agonist treatments has resulted in an increase in their use, a large number of clinicians have yet to gain eligibility to prescribe the appropriate medications. Moreover, among physicians with waivers to prescribe buprenorphine, 33% were not actively prescribing. Pharmacotherapy and psychosocial treatment should be routinely considered for all patients with opioid addiction, and patients should be informed of this option.*&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The following clinical recommendation statements are quoted &lt;u&gt;verbatim&lt;/u&gt; from the referenced clinical guidelines and represent the evidence base for the measure: &lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Empirically validated psychosocial treatment interventions should be initiated for all patients with substance use illnesses. (National Quality Forum [NQF]) &lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Pharmacotherapy should be recommended and available to all adult patients diagnosed with opioid dependence and without medical contraindications. Pharmacotherapy, if prescribed, should be provided in addition to and directly linked with psychosocial treatment/support. (NQF)&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Maintenance treatment with methadone or buprenorphine is appropriate for patients with a prolonged history (greater than 1 year) of opioid dependence. (American Psychiatric Association [APA])&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Maintenance treatment with naltrexone is an alternative strategy, although the utility of this strategy is often limited by lack of patient adherence and low treatment retention. (APA)&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Psychosocial treatments are effective components of a comprehensive treatment plan for patients with an opioid use disorder. Behavioral therapies (e.g., contingency management), cognitive behavioral therapies (CBTs), psychodynamic psychotherapy, and group and family therapies have been found to be effective for some patients with an opioid use disorder. (APA)&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Federal and state regulations govern the use of methadone, levo-alpha-acetylmethadol (LAAM), and buprenorphine, the three opioids approved by the FDA for the treatment of opioid dependence. (APA) [&lt;em&gt;Note: since the publication of the APA practice guideline, LAAM is no longer available in the United States for agonist maintenance treatment&lt;/em&gt;.]&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;The American Academy of Pain Medicine, the American Pain Society, and the American Society of Addiction Medicine issued a consensus statement to recognize and recommend definitions related to the use of opioids for the treatment of pain. They are as follows:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Addiction&lt;/strong&gt;: Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations. It is characterized by behaviors that include one or more of the following: impaired control over drug use, compulsive use, continued use despite harm, and craving.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Physical Dependence&lt;/strong&gt;: Physical dependence is a state of adaptation that is manifested by a drug class specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood level of the drug, and/or administration of an antagonist.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Tolerance&lt;/strong&gt;: Tolerance is a state of adaptation in which exposure to a drug induces changes that result in a diminution of one or more of the drug's effects over time.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Addiction in the context of pain treatment with opioids is characterized by a persistent pattern of opioid misuse that may involve any or all of the following:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul style=&quot;font-size:8pt;&quot;&gt;&#xD;&#xA;&lt;li&gt;Use of prescription opioids in an unapproved or inappropriate manner (such as cutting time-release preparations, injecting oral formulations, and applying fentanyl topical patches to oral or rectal mucosa)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Obtaining opioids outside of medical settings&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Concurrent abuse of alcohol or illicit drugs&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Repeated requests for dose increases or early refills, despite the presence of adequate analgesia&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Multiple episodes of prescription &quot;loss&quot;&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Repeatedly seeking prescriptions from other clinicians or from emergency rooms without informing prescriber, or after warnings to desist&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Evidence of deterioration in the ability to function at work, in the family, or socially, which appears to be related to drug use&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Repeated resistance to changes in therapy despite clear evidence of adverse physical or psychological effects from the drug&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Positive urine drug screen—other substance use (cocaine, opioids, amphetamines or alcohol)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Meets DSM IV criteria for dependence on opioids (VA/DoD)&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Opioid addiction; counseling; psychosocial and pharmacologic treatment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of current opioid addiction (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were counseled regarding psychosocial AND pharmacologic treatment options for opioid addiction within the 12 month reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical evidence" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Use of this measure to improve performance" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Merrill JO. Policy progress for physician treatment of opiate addiction. J Gen Intern Med. 2002 May;17(5):361-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12047733&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Substance Abuse and Mental Health Services Administration. The determinations report: a report on the Physician Waiver Program established by the Drug Addiction Treatment Act of 2000 (DATA). Rockville (MD): Substance Abuse and Mental Health Services Administration; 2006 Mar 30. 8 p.  [4 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Internal quality improvement" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Behavioral Health Care" />
+      <FieldValue Value="Physician Group Practices/Clinics" />
+      <FieldValue Value="Substance Use Treatment Programs/Centers" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Psychologists/Non-physician Behavioral Health Clinicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of current opioid addiction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older with a diagnosis of current opioid addiction*&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The term &quot;opioid addiction&quot; in this context corresponds to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) classification of opioid dependence that is characterized by a maladaptive pattern of substance use causing clinically significant impairment or distress, and manifesting by 3 (or more) of the 7 designated criteria. This classification is distinct from and not to be confused with physical dependence (i.e., tolerance and withdrawal) that is commonly experienced by patients with chronic pain who are treated with opioid analgesics.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the &quot;Rationale&quot; field for additional information regarding this distinction.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients may be excluded from the denominator for medical, patient or system reasons.  Refer to the original measure documentation for details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window is a single point in time" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who were counseled regarding psychosocial AND pharmacologic treatment options for opioid addiction within the 12 month reporting period&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Fixed time period" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Rate" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #2: counseling regarding psychosocial and pharmacologic treatment options for opioid addiction.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="The Physician Consortium for Performance Improvement&amp;#174; Measurement Sets" />
+    </Field>
+    <Field FieldID="75" OrdBy="1305" ID="475" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Substance Use Disorders Physician Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Medical Association on behalf of the American Psychiatric Association, Physician Consortium for Performance Improvement®, and National Committee for Quality Assurance - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Psychiatric Association - Medical Specialty Society" />
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Daniel Kivlahan, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;); Mark L. Willenbring, MD (&lt;em&gt;Co-Chair&lt;/em&gt;); James G. Adams, MD; Joann Albright, PhD; Charles E. Argoff, MD; Ray M. Baker, MD; Richard L. Brown, MD, MPH; Audrey Burnam, PhD; Mirean Coleman, MSW, LICSW, CT; Edward C. Covington, MD; Thomas J. Craig, MD, MPH; Ann Doucette, PhD; Larry M. Gentilello, MD; Eric Goplerud, PhD, MA; Constance Horgan, ScD; Herbert D. Kleber, MD; Petros Levounis, MD; Bertha K. Madras, PhD; Frank McCorry, PhD; Ann H. Messer, MD; Michael M. Miller, MD, FASAM, FAPA; Doug Nemecek, MD, MBA; Harold Alan Pincus, MD; Rhonda Robinson-Beale, MD; Richard N. Rosenthal, MD; Darlene Warrick McLaughlin, MD; Scott C. Williams, PsyD&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Beatrice Eld, American Psychiatric Association; Robert Plovnick, MD, MS, American Psychiatric Association&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Joseph Gave, MPH, American Medical Association; Karen Kmetik, PhD, American Medical Association; Shannon Sims, MD, PhD, American Medical Association; Samantha Tierney, MPH, American Medical Association; Richard Yoast, PhD, American Medical Association&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Lisa Nern, MSW, National Committe for Quality Assurance; Philip Renner, MBA, National Committe for Quality Assurance&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Sylvia Publ, MBA, RHIA, Centers for Medicare &amp; Medicaid Service&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Rebecca Kresowik, PCPI Consultant; Timothy Kresowik, MD PCPI Consultant&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;#174; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="83" OrdBy="1340" ID="377" Name="Included in" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care Quality Alliance" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2008 Jul" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Physician Consortium for Performance Improvement reaffirmed the currency of this measure in November 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA), Physician Consortium for Performance Improvement® (PCPI), National Committee for Quality Assurance (NCQA). Substance use disorders physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2008 Jul. 22 p.  [11 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Measure #2: Counseling Regarding Psychosocial and Pharmacologic Treatment Options for Opioid Addiction,&quot; is published in the &quot;Substance Use Disorders Physician Performance Measurement Set.&quot; This document and technical specifications are available in Portable Document Format (PDF) from the American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;#174; Web site: &lt;a href=&quot;http://www.ama-assn.org/ama/pub/category/2946.html&quot; target=&quot;_blank&quot; title=&quot;AMA Web site&quot;&gt;www.physicianconsortium.org&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;For further information, please contact AMA staff by e-mail at &lt;a href=&quot;mailto:cqi@ama-assn.org&quot;&gt;cqi@ama-assn.org&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 3, 2008. The information was verified by the measure developer on December 4, 2008. The information was reaffirmed by the measure developer on November 17, 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&amp;#169; 2008 American Medical Association and National Committee for Quality Assurance. All Rights Reserved. CPT&amp;#174; Copyright 2007 American Medical Association.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

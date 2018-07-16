@@ -1,0 +1,241 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Avoidance of antibiotic treatment in adults with acute bronchitis: percentage of adults 18 to 64 years of age with a diagnosis of acute bronchitis who were not dispensed an antibiotic medication.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015 technical specifications for ACO measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of adults 18 to 64 years of age with a diagnosis of acute bronchitis who were not dispensed an antibiotic medication. &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;This measure is reported as an inverted rate [1 - (numerator/eligible population)]. A higher rate indicates appropriate treatment of adults with acute bronchitis (i.e., the proportion that were &lt;em&gt;not&lt;/em&gt; treated with antibiotics).&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note from the National Quality Measures Clearinghouse (NQMC)&lt;/strong&gt;: For this measure, there are both Electronic and Hybrid Specifications. This NQMC measure summary is based on the Electronic specification. Refer to the original measure documentation for details pertaining to the Hybrid specification. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Antibiotics are most often inappropriately prescribed for adults with acute bronchitis (Gonzales et al., &quot;Excessive,&quot; 2001). Antibiotics are not indicated in clinical guidelines for treating adults with acute bronchitis who do not have a comorbidity or other infection for which antibiotics may be appropriate (Gonzales et al., &quot;Acute,&quot; 2001; Gonzales et al., &quot;Nonspecific,&quot; 2001). Inappropriate antibiotic treatment of adults with acute bronchitis is of clinical concern, especially since misuse and overuse of antibiotics lead to antibiotic drug resistance (Steinman et al., 2004). Acute bronchitis consistently ranks among the 10 conditions that account for the most ambulatory office visits to United States (U.S.) physicians; furthermore, while the vast majority of acute bronchitis cases (more than 90 percent) have a nonbacterial cause, antibiotics are inappropriately prescribed 65 to 80 percent of the time (Gonzales et al., &quot;Excessive,&quot; 2001; McCaig, Besser, &amp;amp; Hughes, 2003).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gonzales R, Bartlett JG, Besser RE, Cooper RJ, Hickner JM, Hoffman JR, Sande MA. Principles of appropriate antibiotic use for treatment of acute respiratory tract infections in adults: background, specific aims, and methods. Ann Intern Med. 2001 Mar 20;134(6):479-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11255524&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gonzales R, Bartlett JG, Besser RE, Hickner JM, Hoffman JR, Sande MA. Principles of appropriate antibiotic use for treatment of nonspecific upper respiratory tract infections in adults: background. Ann Intern Med. 2001 Mar 20;134(6):490-4. [34 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gonzales R, Malone DC, Maselli JH, Sande MA. Excessive antibiotic use for acute respiratory infections in the United States. Clin Infect Dis. 2001 Sep 15;33(6):757-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11512079&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McCaig LF, Besser RE, Hughes JM. Antimicrobial drug prescription in ambulatory care settings, United States, 1992-2000. Emerg Infect Dis. 2003 Apr;9(4):432-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12702222&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinman MA, Sauaia A, Maselli JH, Houck PM, Gonzales R. Office evaluation and treatment of elderly patients with acute bronchitis. J Am Geriatr Soc. 2004 Jun;52(6):875-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15161449&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute bronchitis; antibiotics&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults 18 years as of January 1 of the year prior to the measurement year to 64 years as of December 31 of the measurement year, with a Negative Comorbid Condition History, a Negative Medication History and a Negative Competing Diagnosis, who had an outpatient or emergency department (ED) visit with any diagnosis of acute bronchitis during the Intake Period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Evidence of antibiotic medication on or within three days after the Index Episode Start Date (IESD) (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA) Committee on Performance Measurement and Board of Directors. Once NCQA establishes national benchmarks for accountable care organization (ACO) performance, all measures will undergo formal reliability testing of the performance measure score using beta-binomiol statistical analysis. Where applicable, measures also are assessed for construct validity using the Pearson correlation test.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Apr 8. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Accountable Care Organizations" />
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Multisite Health Care or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 18 to 64 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;January 1 to December 24 of the measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Adults 18 years as of January 1 of the year prior to the measurement year to 64 years as of December 31 of the measurement year, with a Negative Comorbid Condition History, a Negative Medication History and a Negative Competing Diagnosis, who had an outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set) or an emergency department (ED) visit (ED Value Set) during the Intake Period with a diagnosis of acute bronchitis (Acute Bronchitis Value Set)&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Intake Period&lt;/em&gt;: January 1 to December 24 of the measurement year. The Intake Period captures eligible episodes of treatment. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Episode Date&lt;/em&gt;: The date of service for any outpatient or ED visit during the Intake Period with a diagnosis of acute bronchitis. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Negative Medication History&lt;/em&gt;: A period of 30 days prior to the Episode Date when the patient had no antibiotic treatment. The 30-day look-back period for pharmacy and prescription data includes the 30 days prior to the Intake Period.&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;&lt;em&gt;Pharmacy Data&lt;/em&gt;: No prescriptions filled more than 30 days prior to the Episode Date that are active on the Episode Date. A prescription is considered &lt;strong&gt;active&lt;/strong&gt; if the &quot;days supply&quot; indicated on the date when the patient filled the prescription is the number of days or more between that date and the relevant service date. &lt;/li&gt;&#xA;        &lt;li&gt;&lt;em&gt;Prescription Data&lt;/em&gt;: No prescriptions more than 30 days prior to the Episode Date that are active on the Episode Date. A prescription is considered &lt;strong&gt;active&lt;/strong&gt; if the total &quot;days supply&quot; including refills on the prescription date is the number of days or more between the prescription date and the relevant service date. &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Negative Competing Diagnosis&lt;/em&gt;: A period of 30 days prior to the Episode Date through 7 days after the Episode Date (inclusive) when the patient had no visits with any competing diagnosis. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Negative Comorbid Condition History&lt;/em&gt;: A period of 12 months prior to and including the Episode Date when the patient had no visits containing either a principal or a secondary diagnosis for a comorbid condition. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for steps to identify the eligible population.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Do not include ED visits that result in an inpatient admission. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Test for Negative Comorbid Condition History&lt;/em&gt;. Exclude Episode Dates when the patient had a claim/encounter with any diagnosis for a comorbid condition during the 12 months prior to or on the Episode Date. A code from any of the following meets criteria for a comorbid condition:&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;HIV Value Set &lt;/li&gt;&#xA;        &lt;li&gt;Malignant Neoplasms Value Set &lt;/li&gt;&#xA;        &lt;li&gt;Emphysema Value Set &lt;/li&gt;&#xA;        &lt;li&gt;COPD Value Set &lt;/li&gt;&#xA;        &lt;li&gt;Cystic Fibrosis Value Set &lt;/li&gt;&#xA;        &lt;li&gt;Comorbid Conditions Value Set &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Test for Negative Medication History&lt;/em&gt;. Exclude Episode Dates with evidence of antibiotic medication (refer to Table AAAB-D in the original measure documentation for a list of antibiotic medications) 30 days prior to the Episode Date. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Test for Negative Competing Diagnosis&lt;/em&gt;. Exclude Episode Dates where during the period of 30 days prior to the Episode Date through 7 days after the Episode Date (inclusive) the patient had a claim/encounter with any competing diagnosis. A code from either of the following meets criteria for a competing diagnosis:&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Pharyngitis Value Set &lt;/li&gt;&#xA;        &lt;li&gt;Competing Diagnosis Value Set &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement/hedis-2015.html&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase &lt;em&gt;HEDIS 2015 Technical Specifications for ACO Measurement&lt;/em&gt;, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Evidence of antibiotic medication on or within three days after the Index Episode Start Date (IESD). Refer to Table AAAB-D in the original measure documentation for a list of antibiotic medications.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Pharmacy Data&lt;/em&gt;: Dispensed an antibiotic medication &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Prescription Data&lt;/em&gt;: Prescribed an antibiotic medication &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;IESD&lt;/em&gt;: The earliest Episode Date during the Intake Period that meets all of the following criteria:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;A 30-day Negative Medication History prior to the Episode Date&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;A 12-month Negative Comorbid Condition History prior to the Episode Date&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;A Negative Competing Diagnosis during the 30 days prior to the Episode Date through 7 days after the Episode Date (inclusive)&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;This measure is reported as an inverted rate [1 - (numerator/eligible population)]. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement/hedis-2015.html&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase &lt;em&gt;HEDIS 2015 Technical Specifications for ACO Measurement&lt;/em&gt;, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Pharmacy data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Accountable Care Organization (ACO) aggregate population is reported as a whole, with an option to report Medicaid separately for measures for which HEDIS Health Plan Measurement offers Medicaid specifications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Avoidance of antibiotic treatment in adults with acute bronchitis (AAAB).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="HEDIS 2015: Accountable Care Organization (ACO) Collection" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Effectiveness of Care" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Respiratory Conditions" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Apr 4&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Accountable Care Organizations (ACOs), Patient Centered Medical Homes (PCMH), and Primary Care" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was adapted from the &lt;em&gt;HEDIS Technical Specifications for Health Plans&lt;/em&gt; (&quot;&lt;em&gt;HEDIS Health Plan Measurement&lt;/em&gt;&quot;) and &lt;em&gt;HEDIS Physician Measurement&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: National Committee for Quality Assurance (NCQA). HEDIS 2013 Technical Specifications for ACO Measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2012. various p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in November 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;&gt;National Committee for Quality Measurement (NCQA) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 13, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 11, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on November 2, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Content adapted and reproduced with permission from the National Committee for Quality Assurance (NCQA). HEDIS&amp;reg; is a registered trademark of NCQA. HEDIS measures and specifications were developed by and are owned and copyrighted by NCQA. HEDIS measures and specifications are not clinical guidelines and do not establish a standard of medical care. NCQA makes no representations, warranties, or endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measures or specifications. Limited proprietary coding is contained in the measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. NCQA disclaims all liability for use or accuracy of any coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Anyone desiring to use or reproduce the measure abstracts without modification for a non-commercial purpose may do so without obtaining any approval from NCQA. All commercial uses of the measure abstracts must be approved by NCQA and are subject to a license at the discretion of NCQA. To purchase copies of the full measures and specifications, which contain additional distribution and use restrictions, contact NCQA Customer Support at 888-275-7585 or visit &lt;a href=&quot;https://www.ncqa.org/publications&quot; title=&quot;National Committee for Quality Assurance (NCQA) Web site&quot;&gt;www.ncqa.org/publications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015 technical specifications for ACO measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

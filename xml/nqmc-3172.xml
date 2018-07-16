@@ -1,0 +1,222 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Physical functional status: mean change score in patients' mobility following physical therapy intervention as assessed using the Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) Instrument.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Physical Therapy Association (APTA). OPTIMAL difficulty--follow-up and OPTIMAL confidence--follow-up. Alexandria (VA): American Physical Therapy Association (APTA); 2006. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Physical Therapy Association (APTA). OPTIMAL instrument. Alexandria (VA): American Physical Therapy Association (APTA); 2006. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Outcome&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the mean change score in patients' mobility following physical therapy intervention as assessed using the Outpatient Physical Therapy Improvement in Movement Assessment Log &#xD;&#xA;(OPTIMAL) Instrument.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A review of a &lt;em&gt;Catalogue of Tests and Measures&lt;/em&gt;, included within the &lt;em&gt;Guide to Physical Therapist Practice&lt;/em&gt;, indicated that physical therapy generally lacked standardized instruments to measure a change in movement.  OPTIMAL was developed to be a clinically relevant self report measure universal to physical therapist practice that would account for the patients' experiences, including a behavioral dimension, with minimal respondent burden.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The instrument can be used as a quality improvement tool at either the individual patient level, for quality management within a practice, or to be included in a national physical therapy outcomes database.  At the individual level, the instrument can be used by the therapist to assess progress toward patient goals and to measure the efficacy of interventions that are provided.  At the practice level, each therapist can compare his or her services against the standard established among a larger population of patients.  At the national level, the comparisons can be made against an even larger number of patients and practices.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Physical therapy; functional status; mobility&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adolescent and adult patients who received physical therapy services at a participating clinic and who completed both a baseline and follow-up Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) Instrument (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Mean change score in patients' mobility following physical therapy intervention as assessed using the Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) Instrument&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Internal quality improvement" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Ancillary Services" />
+      <FieldValue Value="Rehabilitation Centers" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Physical Therapists" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adolescent and adult patients&lt;/p&gt; &lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adolescent and adult patients who received physical therapy services at a participating clinic and who completed both a baseline and follow-up Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) Instrument&lt;/p&gt;  &lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Adolescent and adult patients who received physical therapy services at a participating clinic and who completed both a baseline and follow-up Outpatient Physical Therapy Improvement in Movement Assessment Log &#xD;&#xA;(OPTIMAL) Instrument&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Pediatric patients or those who cannot read English or have the cognitive ability to complete the instrument independently&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window precedes index event " />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Mean change score in patients' mobility following physical therapy intervention as assessed using the Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) Instrument&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Episode of care" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Patient survey" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Not Individual Case" />
+    </Field>
+    <Field FieldID="64" OrdBy="1065" ID="355" Name="Outcome Type" Type="picklist-one">
+      <FieldValue Value="Functional Status" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Weighted Score/Composite/Scale" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="External comparison at a point in time" />
+      <FieldValue Value="External comparison of time trends" />
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL) instrument was pilot tested to assess internal consistency reliability, validity, and responsiveness. Overall, the psychometric properties of the 21-item OPTIMAL instrument were strong. Refer to the article, &quot;Development and testing of a self-report instrument to measure actions: outpatient physical therapy improvement in movement assessment log (OPTIMAL)&quot; (Guccione, et al., 1995) for details.&lt;/p&gt;    &#xD;&#xA;          &#xD;&#xA;        &#xD;&#xA;         &#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guccione AA, Mielenz TJ, Devellis RF, Goldstein MS, Freburger JK, Pietrobon R, Miller SC, Callahan LF, Harwood K, Carey TS. Development and testing of a self-report instrument to measure actions: outpatient physical therapy improvement in movement assessment log (OPTIMAL). Phys Ther. 2005 Jun;85(6):515-30. [21 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15921473&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Physical Therapy Association - Professional Association" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Physical Therapy Association - Professional Association" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2005 Jun" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The American Physical Therapy Association reaffirmed the currency of this measure in January 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Physical Therapy Association (APTA). OPTIMAL difficulty--follow-up and OPTIMAL confidence--follow-up. Alexandria (VA): American Physical Therapy Association (APTA); 2006. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Physical Therapy Association (APTA). OPTIMAL instrument. Alexandria (VA): American Physical Therapy Association (APTA); 2006. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL),&quot; is available from the &lt;a href=&quot;http://www.apta.org/OPTIMAL/&quot; title=&quot;APTA Web site&quot;&gt;American Physical Therapy Association (APTA) Web site.&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Physical Therapy Association (APTA) at:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;1111 North Fairfax Street&lt;br /&gt;&#xD;&#xA;Alexandria, VA 22314-1488&lt;br /&gt;&#xD;&#xA;Web site: &lt;a href=&quot;http://www.apta.org&quot; title=&quot;APTA Web site&quot;&gt;www.apta.org&lt;/a&gt;&lt;br /&gt;&#xD;&#xA;Phone: 703-684-APTA (2782) or 800-999-APTA (2782)&lt;br /&gt;&#xD;&#xA;Fax: 703-684-7343&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;American Physical Therapy Association (APTA). Scoring of OPTIMAL. Alexandria (VA): American Physical Therapy Association (APTA); 2007 Feb 23. 1 p. This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.apta.org/uploadedFiles/APTAorg/Practice_and_Patient_Care/Practice_Administration/Documentation_and_Records/Documentation/OPTIMAL/OPTIMAL_ScoringInstructions.pdf&quot; title=&quot;APTA Web site&quot;&gt;American Physical Therapy Association (APTA) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 26, 2007. The information was verified by the measure developer on September 27, 2007. The information was reaffirmed by the measure developer on January 21, 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. Please refer to the &lt;a href=&quot;http://www.apta.org&quot; title=&quot;APTA Web site&quot;&gt;American Physical Therapy Association (APTA) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

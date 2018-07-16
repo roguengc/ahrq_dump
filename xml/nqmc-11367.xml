@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Outpatient chemotherapy: hospital-level, risk-adjusted rates of inpatient admissions or ED visits for cancer patients greater than or equal to 18 years of age for at least one of the following ten diagnoses&amp;mdash;anemia, dehydration, diarrhea, emesis, fever, nausea, neutropenia, pain, pneumonia, or sepsis&amp;mdash;within 30 days of hospital-based outpatient chemotherapy treatment.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess hospital-level, risk-adjusted rates of inpatient admissions or emergency department (ED) visits for cancer patients greater than or equal to 18 years of age for at least one of the following ten diagnoses&amp;mdash;anemia, dehydration, diarrhea, emesis, fever, nausea, neutropenia, pain, pneumonia, or sepsis&amp;mdash;within 30 days of hospital-based outpatient chemotherapy treatment. Rates of admission and ED visits are calculated and reported separately.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure will be publically reported in both the Outpatient Quality Reporting Program and Prospective Payment System-Exempt Cancer Hospital Quality Reporting (PCHQR) program. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chemotherapy treatment can have severe, predictable side effects, which, if inappropriately managed, can reduce patients' quality of life and increase healthcare utilization and costs. This measure aims to assess the care provided to cancer patients and encourage quality improvement efforts to reduce the number of potentially avoidable inpatient admissions and emergency department (ED) visits among cancer patients receiving chemotherapy in a hospital outpatient setting. Improved management of these potentially preventable clinical conditions that are frequent side effects of chemotherapy treatment&amp;mdash;including anemia, dehydration, diarrhea, emesis, fever, nausea, neutropenia, pain, pneumonia, or sepsis&amp;mdash;could reduce admissions and ED visits and increase patients' quality of care and quality of life (Hassett et al., 2006; Fitch &amp;amp; Pyenson, 2010; Guillory &amp;amp; Sockdale, 2013). This measure encourages hospitals to use guidelines from the American Society of Clinical Oncology, National Comprehensive Cancer Network, Oncology Nursing Society, Infectious Diseases Society of America, and other professional societies to integrate and promote use of evidence-based interventions to prevent and treat common side effects and complications of chemotherapy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This risk-standardized measure seeks to increase transparency in the quality of care cancer patients receive and to provide information to help physicians and hospitals mitigate patients' need for acute care, which can be a burden on patients, and increase patients' quality of life.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fitch K, Pyenson B. Cancer patients receiving chemotherapy: opportunities for better management. Seattle (WA): Milliman, Inc.; 2010 Mar 30. 27 p.  [20 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guillory K, Sockdale H. Lifeline: why cancer patients depend on Medicare for critical coverage. Washington (DC): American Cancer Society Cancer Action Network; 2013 Jan 1. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hassett MJ, O'Malley AJ, Pakes JR, Newhouse JP, Earle CC. Frequency and cost of chemotherapy-related serious adverse effects in a population sample of women with breast cancer. J Natl Cancer Inst. 2006 Aug 16;98(16):1108-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16912263&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (CORE), Mathematica Policy Research. Admissions and emergency department visits for patients receiving outpatient chemotherapy: measure technical report. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Mar. 58 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cancer; outpatient chemotherapy; anemia; dehydration; diarrhea; emesis; fever; nausea; neutropenia; pain; pneumonia; sepsis; inpatient admissions; emergency department (ED) visits&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure cohort includes Medicare fee-for-service (FFS) patients, aged 18 years and older at the start of the performance period, with a diagnosis of any cancer (except leukemia), who received at least one outpatient chemotherapy treatment at the reporting hospital outpatient department (HOPD) during the performance period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The outcomes for this measure are one or more inpatient admission, and one or more emergency department (ED) visit without an admission, for one of the following diagnoses&amp;mdash;anemia, dehydration, diarrhea, emesis, fever, nausea, neutropenia, pain, pneumonia, or sepsis&amp;mdash;within 30 days of receiving hospital-based outpatient chemotherapy treatment for cancer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The chemotherapy measure is a risk-adjusted outcome measure and does not have a traditional numerator like a process measure; thus the developer uses this field to define the outcomes of interest as this measure separately reports hospital rates of two outcomes: admission and ED visits. See the original measure documentation and the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot; title=&quot;QualityNet Web site&quot;&gt;Admissions and Emergency Department Visits for Patients Receiving Outpatient Chemotherapy: Measure Technical Report&lt;/a&gt;&lt;/em&gt; for more details (see the &quot;Companion Documents&quot; field).&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cancer care is a priority area for outcomes measurement because cancer is an increasingly prevalent condition associated with considerable morbidity, mortality, and healthcare spending. In 2015, there were more than 1.6 million new cases of cancer in the United States (American Cancer Society, 2015). Each year, approximately 22 percent of patients with cancer receive chemotherapy (Klodziej et al., 2011). Unscheduled emergency department (ED) visits and hospital admissions are significant sources of utilization and cost among this population; on average, cancer patients receiving chemotherapy have one hospital admission and two ED visits per year. Approximately 40 percent of those admissions and 50 percent of those ED visits stem from complications of chemotherapy (Klodziej et al., 2011). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recent studies of cancer outpatients show that the most commonly cited symptoms and reasons for hospital visits are pain, anemia, fatigue, nausea and/or vomiting, fever and/or febrile neutropenia, shortness of breath, dehydration, diarrhea, and anxiety/depression (Hassett et al., 2006). These predictable complications affect patients' quality of life and pose a heavy financial burden; using commercial claims data, Fitch and Pyenson (2010) reported that the national average cost of a chemotherapy-related admission was $22,000, and the average cost of a chemotherapy-related ED visit was $800. In addition, Medicare payments for cancer treatment totaled $34.4 billion in 2011, representing almost 10 percent of Medicare fee-for-service (FFS) spending (Guillory &amp;amp; Sockdale, 2013). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Cancer Society (ACS). Cancer facts &amp; figures 2015. Atlanta (GA): American Cancer Society (ACS); 2015. 56 p.  [54 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fitch K, Pyenson B. Cancer patients receiving chemotherapy: opportunities for better management. Seattle (WA): Milliman, Inc.; 2010 Mar 30. 27 p.  [20 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guillory K, Sockdale H. Lifeline: why cancer patients depend on Medicare for critical coverage. Washington (DC): American Cancer Society Cancer Action Network; 2013 Jan 1. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hassett MJ, O'Malley AJ, Pakes JR, Newhouse JP, Earle CC. Frequency and cost of chemotherapy-related serious adverse effects in a population sample of women with breast cancer. J Natl Cancer Inst. 2006 Aug 16;98(16):1108-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16912263&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kolodziej M, Hoverman JR, Garey JS, Espirito J, Sheth S, Ginsburg A, Neubauer MA, Patt D, Brooks B, White C, Sitarik M, Anderson R, Beveridge R. Benchmarks for value in cancer care: an analysis of a large commercial population. J Oncol Pract. 2011 Sep;7(5):301-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22211126 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (CORE), Mathematica Policy Research. Admissions and emergency department visits for patients receiving outpatient chemotherapy: measure technical report. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Mar. 58 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) tested the measure using the National Quality Forum (NQF) criteria for scientific soundness and importance, including testing the risk-adjustment model, assessing sociodemographic status (SDS) risk factors, and evaluating the measure score variation in development and validation split samples. The measure testing aligns with national guidelines for publicly reported outcomes measures and with the technical approach to outcomes measurement set forth in NQF guidance for outcomes measures (2011), CMS Measure Management System (MMS) guidance (2016), and the guidance in the American Heart Association scientific statement &quot;Standards for Statistical Models Used for Public Reporting of Health Outcomes&quot; (Krumholz et al., 2006). The model showed good fit and discrimination across risk groups and the two hospital types (Prospective Payment System-exempt cancer hospital [PCH] and non-PCH). For summarizing the results from testing, CMS calculated each risk-adjustment model (for hospital visits and emergency department [ED] visits) among all hospitals, and presented overall and stratified results by hospital type (PCH and non-PCH). During testing, CMS estimated the measure score for hospitals using Medicare fee-for-service (FFS) claims with a performance period of July 1, 2012, to June 30, 2013, and calculated results for all hospitals, PCHs, and non-PCHs. Across all hospital types, the risk-standardized inpatient admission rate (RSAR) ranged from 6.0 to 24.9 percent. The risk-standardized ED visit rate (RSEDR) ranged from 2.1 to 7.5 percent.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Measures system overview. [internet]. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); [accessed 2016 Jan 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Krumholz HM, Brindis RG, Brush JE, Cohen DJ, Epstein AJ, Furie K, Howard G, Peterson ED, Rathore SS, Smith SC Jr, Spertus JA, Wang Y, Normand SL, American Heart Association, Quality of Care and Outcomes Research Interdisciplinary Writing Group, Council on Epidemiology and Prevention; Stroke Council, American College of Cardiology Foundation. Standards for statistical models used for public reporting of health outcomes: an American Heart Association Scientific Statement from the Quality of Care and Outcomes Research Interdisciplinary Writing Group: cosponsored by the Council on Epidemiology and Prevention and the Stroke Council. Endorsed by the American College of Cardiology Foundation. Circulation. 2006 Jan 24;113(3):456-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16365198 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). National voluntary consensus standards for patient outcomes 2009: a consensus report. Washington (DC): National Quality Forum (NQF); 2011. 224 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (CORE), Mathematica Policy Research. Admissions and emergency department visits for patients receiving outpatient chemotherapy: measure technical report. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Mar. 58 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Encounter dates: January 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;br /&gt;&#xD;&#xA;&lt;/strong&gt;The measure cohort includes Medicare fee-for-service (FFS) patients, aged 18 years and older at the start of the performance period, with a diagnosis of any cancer (except leukemia), who received at least one outpatient chemotherapy treatment at the reporting hospital outpatient department (HOPD) during the performance period.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt; for a revised list of the International Classification of Diseases, Ninth Revision (ICD-9) and International Classification of Diseases, Tenth Revision (ICD-10) Procedural Terminology (CPT&amp;reg;), and Healthcare Common Procedure Coding System (HCPCS) codes to identify cancer diagnoses and chemotherapy treatments (see also the &quot;Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The measure excludes the following patients from the cohort: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with a diagnosis of leukemia at any time during the performance period; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who were not enrolled in Medicare FFS Parts A and B in the year prior to the first outpatient chemotherapy treatment during the performance period; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who do not have at least one outpatient chemotherapy treatment followed by continuous enrollment in Medicare FFS Parts A and B in the 30 days after the procedure. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The outcomes for this measure are one or more inpatient admission, and one or more emergency department (ED) visit without an admission, for one of the following diagnoses&amp;mdash;anemia, dehydration, diarrhea, emesis, fever, nausea, neutropenia, pain, pneumonia, or sepsis&amp;mdash;within 30 days of receiving hospital-based outpatient chemotherapy treatment for cancer. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Refer to the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt; for a revised list of the International Classification of Diseases, Ninth Revision (ICD-9) and International Classification of Diseases, Tenth Revision (ICD-10) codes that identify these diagnoses (see also the &quot;Companion Documents&quot; field). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The chemotherapy measure is a risk-adjusted outcome measure and does not have a traditional numerator like a process measure; thus the developer uses this field to define the outcomes of interest as this measure separately reports hospital rates of two outcomes: admission and ED visits. The qualifying diagnosis on the admission or ED visit claim must be (1) the principal diagnosis or (2) a secondary diagnosis accompanied by a principal diagnosis of cancer. Outcomes are identified separately for the inpatient and ED categories; a patient can only qualify for an outcome in either category, but not both. Patients who experience both an inpatient admission and an ED visit during the performance period are counted towards the inpatient admission outcome. Among those with no qualifying inpatient admissions, qualifying ED visits will be counted. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The measure calculates a hospital-specific risk-adjusted rate for each of the two outcomes. Each rate is calculated as the ratio of a hospital's &quot;predicted&quot; number of outcomes to &quot;expected&quot; number of outcomes multiplied by the national observed outcome rate. If a hospital's ratio of predicted to expected outcomes is less than 1, it indicates that the hospital is performing better than expected given its case mix. If a hospital's ratio of predicted to expected outcomes is greater than 1, it indicates that the hospital is performing worse than expected given its case mix. For ease of interpretation, the Centers for Medicare &amp;amp; Medicaid Services transforms this ratio to a rate by multiplying by the national observed rate for that outcome. If the &quot;predicted&quot; number of outcomes is higher (or lower) than the &quot;expected&quot; number of outcomes for a given hospital, the risk-adjusted rate will be higher (or lower) than the national observed admission rate. See the original measure documentation and the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot; title=&quot;QualityNet Web site&quot;&gt;Admissions and Emergency Department Visits for Patients Receiving Outpatient Chemotherapy: Measure Technical Report&lt;/a&gt;&lt;/em&gt; for more details (see the &quot;Companion Documents&quot; field). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Outcome" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Reported As&lt;/strong&gt;: The data are reported as two separate rates among cancer patients with a hospital-based outpatient chemotherapy treatment: (1) a facility-level, risk-standardized rate of inpatient admissions within 30 days, and (2) a facility-level, risk-standardized rate of emergency department (ED) visits within 30 days.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Since the measure has two mutually exclusive outcomes&amp;mdash;qualifying inpatient admissions and qualifying emergency department (ED) visits&amp;mdash;it has two risk-adjustment models, one for each dependent variable (inpatient admissions and ED visits). A two-level hierarchical logistic regression model is used to estimate risk-standardized outcome rates. This approach accounts for differences in patient mix, the clustering of patients within hospitals, and variation in sample size. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure adjusts for variables that are clinically relevant and associated with the outcome. It seeks to adjust for differences in patient demographics, clinical comorbidities, and treatment exposure (that is, the number of chemotherapy treatments undergone by the patient in the hospital outpatient setting during the performance period), which vary across patient populations and influence the outcome but do not relate to quality. Specifically, the risk-adjustment model for inpatient admissions has 20 patient-level variables (age, sex, exposure, nine comorbidity variables, and eight cancer categories). The risk-adjustment model for ED visits has 15 patient-level variables (age, sex, exposure, six comorbidity variables, and six cancer categories).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Patient-Level Risk-Adjustment Variables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Patient-Level Risk-Adjustment Variables&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Category&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Inpatient Admission Outcome&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;ED Visit Outcome&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Demographics&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Age (years above 18, continuous) &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Sex &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Age (years above 18, continuous) &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Sex &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Exposure&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Number of hospital outpatient chemotherapy treatments during the performance period&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Number of hospital outpatient chemotherapy treatments during the performance period&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cancer type&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Breast cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Digestive cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Respiratory cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Lymphoma &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Other cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Prostate cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Secondary cancer of the lymph nodes &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Secondary cancer of solid tumor &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Breast cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Digestive cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Respiratory cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Other cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Secondary cancer of the lymph nodes &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Secondary cancer of solid tumor &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Comorbidities&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Respiratory disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Renal disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Diabetes &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Other injuries &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Metabolic disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Gastrointestinal disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Psychiatric disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Neurological condition &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Cardiovascular disease &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Respiratory disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Other injuries &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Gastrointestinal disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Psychiatric disorder &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Neurological condition &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Cardiovascular disease &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;The Condition Categories (CCs) that define each of these comorbidities and the International Classification of Diseases, Ninth Revision (ICD-9) and International Classification of Diseases, Tenth Revision (ICD-10) codes that define the cancer categories are included in Appendix A of the original measure documentation. The comorbidities are based on version 22 of the Centers for Medicare &amp;amp; Medicaid Services (CMS) CC groups. Full details of the development of the risk-adjustment model for this measure from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/Measure-Methodology.html&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;CMS Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;OP-35: CMS outcome measures (claims-based): admissions and emergency department (ED) visits for patients receiving outpatient chemotherapy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Hospital Outpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Outpatient Chemotherapy" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States Department of Health and Human Services&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was developed by a team of clinical and statistical experts from Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (YNHHSC/CORE), under contract to the Centers for Medicare &amp;amp; Medicaid Services (CMS).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2018 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1196289981244&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (CORE), Mathematica Policy Research. Admissions and emergency department visits for patients receiving outpatient chemotherapy: measure technical report. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Mar. 58 p. Available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (CORE), Mathematica Policy Research. Revised chemotherapy measure code set. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Aug 14. Available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228776192121&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 22, 2018. The information was verified by the measure developer on May 3, 2018. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Hospital Outpatient Quality Reporting Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services. Users of the Hospital OQR Specifications Manual must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Current Procedural Terminology (CPT) codes, descriptions, and other data only are copyright 2013 American Medical Association (AMA). All rights reserved. CPT is a registered trademark of the AMA. Applicable FARS\DFARS Restrictions Apply to Government Use. Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Primary open-angle glaucoma (POAG): percentage of patients aged 18 years and older with a diagnosis of POAG whose glaucoma treatment has not failed (the most recent IOP was reduced by at least 15% from the pre-intervention level) OR if the most recent IOP was not reduced by at least 15% from the pre-intervention level, a plan of care was documented within 12 months.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: POAG: reduction of IOP by 15% or documentation of a plan of care. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measure:  Process" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of primary open-angle glaucoma (POAG) whose glaucoma treatment has not failed (the most recent intraocular pressure [IOP] was reduced by at least 15% from the pre-intervention level) OR if the most recent IOP was not reduced by at least 15% from the pre-intervention level, a plan of care was documented within 12 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Scientific basis for intraocular pressure (IOP) control as outcomes measure (intermediate)&#xD;&#xA;    &lt;p&gt;Analyses of results of several randomized clinical trials all demonstrate that reduction of IOP of at least 18% (Early Manifest Glaucoma Trial [EMGT], Collaborative Initial Glaucoma Treatment Study [CIGTS], The Advanced Glaucoma Intervention Study [AGIS], Collaborative Normal-Tension Glaucoma Study [CNTGS]) reduces the rate of worsening of visual fields by at least 40%. The various studies, however, achieved different levels of mean IOP lowering in realizing their benefit in patient outcomes, ranging from 18% in the &quot;normal pressure&quot; subpopulation of EMGT to 42% in the CIGTS study. As such, an appropriate &quot;failure&quot; indicator is to NOT achieve at least a 15% IOP reduction. The rationales for a failure indicator are that 1) the results of different studies can lead experienced clinicians to believe that different levels of IOP reduction are appropriate; 2) to minimize the impact of adverse selection for those patients whose IOPs are more difficult to control; and 3) because each patient's clinical course may require IOP reduction that may vary from 18% to 40+%.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;In addition, &quot;...several population based studies have demonstrated that the prevalence of primary open-angle glaucoma (POAG) as well as the incidence of POAG increases as the level of IOP increases.&quot; These studies provide strong evidence that IOP plays an important role in the neuropathy of POAG. Furthermore, studies have demonstrated that reduction in the level of IOP lessens the risk of visual field progression in open-angle glaucoma. In addition, treated eyes that have a greater IOP fluctuation are at increased risk of progression.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;Intraocular pressure is the intermediate outcome of therapy used by the U.S. Food and Drug Administration (FDA) for approval of new drugs and devices and, as noted above, has been shown to be directly related to ultimate patient outcomes of vision loss. As such, failure to achieve minimal pressure lowering, absent an appropriate plan of care to address the situation, would constitute performance whose improvement would directly benefit patients with POAG.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence for gap in care&#xD;&#xA;    &lt;p&gt;Based on studies in the literature reviewing documentation of IOP achieved under care, the gap could be as great as 50% or more in the community of ophthalmologists and optometrists treating patients with POAG. Based on loose criteria for control, IOP was controlled in 66% of follow-up visits for patients with mild glaucoma and 52% of visits for patients with moderate to severe glaucoma. Another study of a single comprehensive insurance plan suggested that a large proportion of individuals felt to require treatment for glaucoma or suspect glaucoma are falling out of care and are being monitored at rates lower than expected from recommendations of published guidelines.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Clinical Recommendation Statements&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;When initiating therapy, the ophthalmologist assumes that the measured pretreatment pressure range contributed to optic nerve damage and is likely to cause additional damage in the future. Lowering the pretreatment IOP by 25% or more has been shown to inhibit progression of POAG (American Academy of Ophthalmology [AAO], 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Choosing an even lower target IOP can be justified if there is more severe optic nerve damage, if the damage is progressing rapidly, or if other risk factors such as family history, age, or disc hemorrhages are present. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please note that the American Optometric Association's (AOA) 2002 guideline on open-angle glaucoma was not reviewed during the development of this measure prior to the public comment period and therefore is not presented here verbatim. Review of the AOA guideline subsequent to initial measure development indicates that the recommendations in the AOA guideline are consistent with the intent of the measure. This also applies to the 2010 guidelines. As such, the intent of this measure is to have this indicator apply to both optometrists and ophthalmologists (and any other physician who provides glaucoma care); the use of &quot;ophthalmologists&quot; only in the preceding verbatim section reflects the wording in the AAO Preferred Practice pattern.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: POAG: reduction of IOP by 15% or documentation of a plan of care. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Preferred practice patterns. Primary open-angle glaucoma. San Francisco (CA): American Academy of Ophthalmology (AAO); 2010. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Asrani S, Zeimer R, Wilensky J, Gieser D, Vitale S, Lindenmuth K. Large diurnal fluctuations in intraocular pressure are an independent risk factor in patients with glaucoma. J Glaucoma. 2000 Apr;9(2):134-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10782622&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Collaborative Normal-Tension Glaucoma Study Group. Comparison of glaucomatous progression between untreated patients with normal-tension glaucoma and patients with therapeutically reduced intraocular pressures. Collaborative Normal-Tension Glaucoma Study Group. Am J Ophthalmol. 1998 Oct;126(4):487-97. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9780093&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dielemans I, Vingerling JR, Wolfs RC, Hofman A, Grobbee DE, de Jong PT. The prevalence of primary open-angle glaucoma in a population-based study in The Netherlands. The Rotterdam Study. Ophthalmology. 1994 Nov;101(11):1851-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7800368&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fremont AM, Lee PP, Mangione CM, Kapur K, Adams JL, Wickstrom SL, Escarce JJ. Patterns of care for open-angle glaucoma in managed care. Arch Ophthalmol. 2003 Jun;121(6):777-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12796247&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman DS, Nordstrom B, Mozaffari E, Quigley HA. Glaucoma management among individuals enrolled in a single comprehensive insurance plan. Ophthalmology. 2005 Sep;112(9):1500-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16039717&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gordon MO, Beiser JA, Brandt JD, Heuer DK, Higginbotham EJ, Johnson CA, Keltner JL, Miller JP, Parrish RK 2nd, Wilson MR, Kass MA. The Ocular Hypertension Treatment Study: baseline factors that predict the onset of primary open-angle glaucoma. Arch Ophthalmol. 2002 Jun;120(6):714-20; discussion 829-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12049575&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heijl A, Leske MC, Bengtsson B, Hyman L, Bengtsson B, Hussein M. Reduction of intraocular pressure and glaucoma progression: results from the Early Manifest Glaucoma Trial. Arch Ophthalmol. 2002 Oct;120(10):1268-79. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12365904&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Klein BE, Klein R, Sponsel WE, Franke T, Cantor LB, Martone J, Menage MJ. Prevalence of glaucoma. The Beaver Dam Eye Study. Ophthalmology. 1992 Oct;99(10):1499-504. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1454314&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Le A, Mukesh BN, McCarty CA, Taylor HR. Risk factors associated with the incidence of open-angle glaucoma: the visual impairment project. Invest Ophthalmol Vis Sci. 2003 Sep;44(9):3783-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12939292&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leibowitz HM, Krueger DE, Maunder LR, Milton RC, Kini MM, Kahn HA, Nickerson RJ, Pool J, Colton TL, Ganley JP, Loewenstein JI, Dawber TR. The Framingham Eye Study monograph: an ophthalmological and epidemiological study of cataract, glaucoma, diabetic retinopathy, macular degeneration, and visual acuity in a general population of 2631 adults, 1973-1975. Surv Ophthalmol. 1980 May-Jun;24(Suppl):335-610. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7444756&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leske MC, Connell AM, Schachat AP, Hyman L. The Barbados Eye Study. Prevalence of open angle glaucoma. Arch Ophthalmol. 1994 Jun;112(6):821-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8002842&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leske MC, Connell AM, Wu SY, Nemesure B, Li X, Schachat A, Hennis A. Incidence of open-angle glaucoma: the Barbados Eye Studies. The Barbados Eye Studies Group. Arch Ophthalmol. 2001 Jan;119(1):89-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11146731&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leske MC, Heijl A, Hussein M, Bengtsson B, Hyman L, Komaroff E, Early Manifest Glaucoma Trial Group. Factors for glaucoma progression and the effect of treatment: the early manifest  glaucoma trial. Arch Ophthalmol. 2003 Jan;121(1):48-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12523884&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mitchell P, Smith W, Attebo K, Healey PR. Prevalence of open-angle glaucoma in Australia. The Blue Mountains Eye Study. Ophthalmology. 1996 Oct;103(10):1661-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8874440&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mukesh BN, McCarty CA, Rait JL, Taylor HR. Five-year incidence of open-angle glaucoma: the visual impairment project. Ophthalmology. 2002 Jun;109(6):1047-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12045042&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nouri-Mahdavi K, Hoffman D, Coleman AL, Liu G, Li G, Gaasterland D, Caprioli J, Advanced Glaucoma Intervention Study. Predictive factors for glaucomatous visual field progression in the Advanced Glaucoma Intervention Study. Ophthalmology. 2004 Sep;111(9):1627-35. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15350314&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quigley HA, West SK, Rodriguez J, Munoz B, Klein R, Snyder R. The prevalence of glaucoma in a population-based study of Hispanic subjects: Proyecto VER. Arch Ophthalmol. 2001 Dec;119(12):1819-26. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11735794&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sommer A, Tielsch JM, Katz J, Quigley HA, Gottsch JD, Javitt J, Singh K. Relationship between intraocular pressure and primary open angle glaucoma among white and black Americans. The Baltimore Eye Survey. Arch Ophthalmol. 1991 Aug;109(8):1090-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1867550&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Advanced Glaucoma Intervention Study (AGIS): 7. The relationship between control of intraocular pressure and visual field deterioration. The AGIS Investigators. Am J Ophthalmol. 2000 Oct;130(4):429-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11024415&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The effectiveness of intraocular pressure reduction in the treatment of normal-tension glaucoma. Collaborative Normal-Tension Glaucoma Study Group. Am J Ophthalmol. 1998 Oct;126(4):498-505. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9780094&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weih LM, Nanjan M, McCarty CA, Taylor HR. Prevalence and predictors of open-angle glaucoma: results from the visual impairment project. Ophthalmology. 2001 Nov;108(11):1966-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11713063&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary open-angle glaucoma (POAG); intraocular pressure (IOP)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of primary open-angle glaucoma (POAG) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients whose glaucoma treatment has not failed (the most recent intraocular pressure [IOP] was reduced by at least 15% from the pre-intervention level) OR if the most recent IOP was not reduced by at least 15% from the pre-intervention level a plan of care was documented within 12 months (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 18 years and older with a diagnosis of primary open-angle glaucoma (POAG)&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision (ICD-9), ICD-10, and Current Procedural Terminology (CPT) codes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients whose glaucoma treatment has not failed (the most recent intraocular pressure [IOP] was reduced by at least 15% from the pre-intervention level) OR if the most recent IOP was not reduced by at least 15% from the pre-intervention level a plan of care was documented within 12 months&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Plan of Care&lt;/em&gt;: May include recheck of IOP at specified time, change in therapy, perform additional diagnostic evaluations, monitoring per patient decisions or health system reasons, and/or referral to a specialist. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Plan to Recheck&lt;/em&gt;: In the event certain factors do not allow for the IOP to be measured (e.g., patient has an eye infection) but the physician has a plan to measure the IOP at the next visit, the plan of care code should be reported. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Glaucoma Treatment Not Failed&lt;/em&gt;: The most recent IOP was reduced by at least 15% in the affected eye or if both eyes were affected, the reduction of at least 15% occurred in both eyes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Physiologic Health State (Intermediate Outcome)" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary open-angle glaucoma (POAG): reduction of intraocular pressure (IOP) by 15% OR documentation of a plan of care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Eye Care Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Academy of Ophthalmology (AAO)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Paul P. Lee, MD, JD (&lt;em&gt;Co-Chair&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jinnet B. Fowles, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard L. Abbott, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jeffrey S. Karlik, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lloyd P. Aiello, MD PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mathew W. MacCumber, MD, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Priscilla P. Arnold, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mildred M. G. Olivier, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Hellman, MD, FACP, FACE &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;James L. Rosenzweig, MD, FACE &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Leon W. Herndon, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sam J. W. Romeo, MD, MBA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kenneth J. Hoffer, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John T. Thompson, MD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2009 Oct 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reviewed and updated if appropriate on an annual cycle&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Academy of Ophthalmology, Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Eye care physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 35 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Academy of Ophthalmology (AAO) at 655 Beach Street, San Francisco, CA 94109; Phone: 415-561-8500; Fax: 415-561-8533; Web site: &lt;a href=&quot;http://www.aao.org&quot; title=&quot;AAO Web site&quot;&gt;www.aao.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 13, 2008. The information was verified by the measure developer on April 22, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 18, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on July 2, 2015. The information was verified by the measure developer on July 13, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 16, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Debra Marchi at the American Academy of Ophthalmology (AAO), &lt;a href=&quot;mailto:dmarchi@aao.org&quot;&gt;dmarchi@aao.org&lt;/a&gt;, regarding use and reproduction of these measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: POAG: reduction of IOP by 15% or documentation of a plan of care. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,224 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Assessment of chronic illness care: average score for the &quot;Integration of Chronic Care Model Components&quot; subscale on the Assessment of Chronic Illness Care (ACIC) Survey.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;MacColl Center for Health Care Innovation. Assessment of chronic illness care. Version 3.5. Seattle (WA): MacColl Center for Health Care Innovation; 2000. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Structure" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the average score for the &quot;Integration of Chronic Care Model Components&quot; subscale on the Assessment of Chronic Illness Care (ACIC) Survey, for care provided to all patients with one or more chronic conditions.&lt;/p&gt;&#xA;&lt;p&gt;Respondents (practice teams, health plan representatives) rate the degree to which each of the following components are being implemented within their system for care provided to all patients with one or more chronic conditions, using a scale ranging from 1 (not at all) to 11 (fully). &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Informing Patients about Guidelines &lt;/li&gt;&#xA;    &lt;li&gt;Information Systems/Registries &lt;/li&gt;&#xA;    &lt;li&gt;Community Programs &lt;/li&gt;&#xA;    &lt;li&gt;Organizational Planning for Chronic Illness Care &lt;/li&gt;&#xA;    &lt;li&gt;Routine Follow-up for Appointments, Patient Assessments and Goal Planning &lt;/li&gt;&#xA;    &lt;li&gt;Guidelines for Chronic Illness Care &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The ACIC is organized such that the highest &quot;score&quot; (an &quot;11&quot;) on any individual item, subscale, or the overall score (an average of the seven ACIC subscale scores) indicates optimal support for chronic illness. The lowest possible score on any given item or subscale is a &quot;0&quot;, which corresponds to limited support for chronic illness care. The interpretation guidelines are as follows: &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Between &quot;0&quot; and &quot;2&quot; = limited support for chronic illness care &lt;/li&gt;&#xA;    &lt;li&gt;Between &quot;3&quot; and &quot;5&quot; = basic support for chronic illness care &lt;/li&gt;&#xA;    &lt;li&gt;Between &quot;6&quot; and &quot;8&quot; = reasonably good support for chronic illness care &lt;/li&gt;&#xA;    &lt;li&gt;Between &quot;9&quot; and &quot;11&quot; = fully developed chronic illness care &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;The &lt;a href=&quot;/browse/by-organization-indiv.aspx?orgid=2509&amp;amp;objid=48039&quot; title=&quot;Measure Collection&quot;&gt;ACIC&lt;/a&gt; provides subscale scores corresponding to each of the Chronic Care Model elements, as well as an overall score. Scores for each section are obtained by summing the values for all items within a section and dividing by the number of items within that section. The overall score is derived by summing the average scores of each section and dividing by the number of sections administered. Divide the overall score (sum of the average subscale scores) by 7 (the number of subscales) to obtain the average overall score. &lt;/li&gt;&#xA;    &lt;li&gt;This measure summary is based on Version 3.5 of the survey instrument. Another version of the survey (Version 3.0) is available from the &lt;a href=&quot;http://www.improvingchroniccare.org/index.php?p=Versions&amp;amp;s=297&quot; title=&quot;Improving Chronic Illness Care Web site&quot;&gt;Improving Chronic Illness Care Web site&lt;/a&gt;. &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The prevalence of individuals with chronic illness is growing at an astonishing rate because of the rapid aging of the population and the greater longevity of individuals with chronic illness (U.S. Department of Health and Human Services [DHHS], 2000). This growth has taxed health-care systems and revealed deficiencies in the organization and delivery of care to patients with chronic illness (Centers for Disease Control and Prevention [CDC], 1997; &quot;Hypertension,&quot; 1998; Desai, Zhang, &amp;amp; Hennessy, 1999). There is a growing literature, however, describing effective interventions that improve systems of care in which persons with chronic illness are treated (McCulloch et al., 2000; Lorig et al., 1999; Weinberger et al., 1989; Weinberger et al., 1991; Von Korff et al., 1997; Wagner, Austin, &amp;amp; Von Korff, &quot;Improving outcomes,&quot; 1996; Wagner, Austin, &amp;amp; Von Korff, &quot;Organizing care,&quot; 1996). This literature strongly suggests that changing processes and outcomes in chronic illness requires multicomponent interventions that change the prevailing clinical system of care (Wagner, Austin, &amp;amp; Von Korff, &quot;Improving outcomes,&quot; 1996; Wagner, Austin, &amp;amp; Von Korff, &quot;Organizing care,&quot; 1996; Wagner et al., 1999).&lt;/p&gt;&#xA;&lt;p&gt;The Assessment of Chronic Illness Care (ACIC) was developed to help organizational teams identify areas for improvement in their care for chronic illnesses, and to evaluate the level and nature of improvements made in their system (Bonomi et al., 2000). The ACIC is based on six areas of system change suggested by the Chronic Care Model (CCM) that have been shown to influence quality of care&amp;mdash;linkages to community resources, self-management support, decision support, delivery system design, clinical information systems, and organization of the health system&amp;mdash;and promising interventions within these areas associated with better outcomes (Wagner, Austin, &amp;amp; Von Korff, &quot;Improving outcomes,&quot; 1996; Wagner, Austin, &amp;amp; Von Korff, &quot;Organizing care,&quot; 1996; Wagner et al., 1999).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bonomi AE, Glasgow R, Wagner EH, Davis C, Sandhu N. Assessment of chronic illness care: how well does your organization provide care for chronic illness? [paper presentation]. Seattle (WA): Institute for Healthcare Improvement National Congress; 2000 Jun. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bonomi AE, Wagner EH, Glasgow RE, VonKorff M. Assessment of chronic illness care (ACIC): a practical tool to measure quality improvement. Health Serv Res. 2002 Jun;37(3):791-820. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12132606&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Resources and priorities for chronic disease prevention and control, 1994. MMWR Morb Mortal Wkly Rep. 1997 Apr 4;46(13):286-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9121421&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Desai MM, Zhang P, Hennessy CH. Surveillance for morbidity and mortality among older adults--United States, 1995-1996. Child Life Focus. 1999 Dec 17;48(8):7-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10634269&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hypertension and managed care. Based on a presentation by Robert P. Jacobs, MD, MBA. Am J Manag Care. 1998 Dec;4(12 Suppl):S749-52; discussion S753-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10339107&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorig KR, Sobel DS, Stewart AL, Brown BW Jr, Bandura A, Ritter P, Gonzalez VM, Laurent DD, Holman HR. Evidence suggesting that a chronic disease self-management program can improve health status while reducing hospitalization: a randomized trial. Med Care. 1999 Jan;37(1):5-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10413387&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McCulloch DK, Price MJ, Hindmarsh M, Wagner EH. Improvement in diabetes care using an integrated population-based approach in a primary care setting. Dis Manage. 2000;3(2):75-82.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS). Healthy People 2010: understanding and improving health. Conference ed. Washington (DC): U.S. Department of Health and Human Services (DHHS); 2000 Jan. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Von Korff M, Gruman J, Schaefer J, Curry SJ, Wagner EH. Collaborative management of chronic illness. Ann Intern Med. 1997 Dec 15;127(12):1097-102. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9412313&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wagner EH, Austin BT, Von Korff M. Improving outcomes in chronic illness. Manag Care Q. 1996;4(2):12-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10157259&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wagner EH, Austin BT, Von Korff M. Organizing care for patients with chronic illness. Milbank Q. 1996;74(4):511-44. [121 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8941260&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wagner EH, Davis C, Schaefer J, Von Korff M, Austin B. A survey of leading chronic disease management programs: are they consistent with the literature?. Manag Care Q. 1999;7(3):56-66. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10620960&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weinberger M, Tierney WM, Booher P, Katz BP. Can the provision of information to patients with osteoarthritis improve functional status? A randomized, controlled trial. Arthritis Rheum. 1989 Dec;32(12):1577-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2688659&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weinberger M, Tierney WM, Booher P, Katz BP. The impact of increased contact on psychosocial outcomes in patients with osteoarthritis: a randomized, controlled trial. J Rheumatol. 1991 Jun;18(6):849-54. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1895265&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic illness; Chronic Care Model (CCM)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of items within the &quot;Integration of Chronic Care Model Components&quot; subscale on the Assessment of Chronic Illness Care (ACIC) Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The sum of respondents' ratings on the &quot;Integration of Chronic Care Model Components&quot; items on the Assessment of Chronic Illness Care (ACIC) Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Data Sources&lt;/strong&gt;&lt;br /&gt;&#xA;(1) Pre-post, self-report Assessment of Chronic Illness Care (ACIC) data from organizational teams enrolled in 13-month quality-improvement collaboratives focused on care for chronic illness; (2) independent faculty ratings of team progress at the end of collaborative.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Study Design&lt;/strong&gt;&lt;br /&gt;&#xA;Teams completed the ACIC at the beginning and end of the collaborative using a consensus format that produced average ratings of their system's approach to delivering care for the targeted chronic condition. Average ACIC subscale scores (ranging from 0 to 11, with 11 representing optimal care) for teams across all four collaboratives were obtained to indicate how teams rated their care for chronic illness before beginning improvement work. Paired t-tests were used to evaluate the sensitivity of the ACIC to detect system improvements for teams in two (of four) collaboratives focused on care for diabetes and congestive heart failure (CHF). Pearson correlations between the ACIC subscale scores and a faculty rating of team performance were also obtained. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;br /&gt;&#xA;Average baseline scores across all teams enrolled at the beginning of the collaboratives ranged from 4.36 (information systems) to 6.42 (organization of care), indicating basic to good care for chronic illness. All six ACIC subscale scores were responsive to system improvements diabetes and CHF teams made over the course of the collaboratives. The most substantial improvements were seen in decision support, delivery system design, and information systems. CHF teams had particularly high scores in self-management support at the completion of the collaborative. Pearson correlations between the ACIC subscales and the faculty rating ranged from .28 to .52.&lt;/p&gt;&#xA;&lt;p&gt;Refer to &lt;em&gt;Assessment of Chronic Illness Care (ACIC): A Practical Tool to Measure Quality Improvement&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bonomi AE, Wagner EH, Glasgow RE, VonKorff M. Assessment of chronic illness care (ACIC): a practical tool to measure quality improvement. Health Serv Res. 2002 Jun;37(3):791-820. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12132606&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Does not apply to this measure&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Professionals/Staff" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Health Professional Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of items within the &quot;Integration of Chronic Care Model Components&quot; subscale on the Assessment of Chronic Illness Care (ACIC) Survey&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;The sum of respondents' ratings on the &quot;Integration of Chronic Care Model Components&quot; items on the Assessment of Chronic Illness Care (ACIC) Survey&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Health professional survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Assessment of Chronic Illness Care (ACIC) Version 3.5&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Integration of Chronic Care Model components.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Assessment of Chronic Illness Care (ACIC) Survey" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The MacColl Center for Health Care Innovation - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The MacColl Center for Health Care Innovation - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The MacColl Center for Health Care Innovation (a non-proprietary, public-interest research center within Group Health Cooperative, a nonprofit health system based in Seattle)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2000 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in May 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.improvingchroniccare.org/downloads/acic_v3.5a_copy1.pdf&quot; title=&quot;Improving Chronic Illness Care Web site&quot;&gt;Improving Chronic Illness Care Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the MacColl Center for Health Care Innovation at 1730 Minor Avenue, Suite 1600, Seattle, WA 98101; E-mail: &lt;a href=&quot;mailto:info@improvingchroniccare.org&quot;&gt;info@improvingchroniccare.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://maccollcenter.org/&quot; title=&quot;MacColl Center for Health Care Innovation Web site&quot;&gt;maccollcenter.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 23, 2015. The information was verified by the measure developer on June 17, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on May 23, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Individuals interested in using the Assessment of Chronic Illness Care (ACIC) in non-commercial quality improvement work, personal, or non-profit settings are free to do so. Visit the &lt;a href=&quot;http://www.improvingchroniccare.org/index.php?p=User_Info&amp;amp;s=298&quot; title=&quot;Improving Chronic Illness Care Web site&quot;&gt;Improving Chronic Illness Care Web site&lt;/a&gt; for more information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;MacColl Center for Health Care Innovation. Assessment of chronic illness care. Version 3.5. Seattle (WA): MacColl Center for Health Care Innovation; 2000. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

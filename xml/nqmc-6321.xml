@@ -1,0 +1,261 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Percent time in therapeutic INR range (TTR): mean TTR achieved among patients who received prescriptions for warfarin and had sufficient INR values to calculate TTR.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose A. Staff physician, Bedford VA Medical Center.  Investigator, VA Center for Health Quality, Outcomes, and Economic Research at the Bedford VA. Assistant Professor, Boston University School of Medicine. Percent time in therapeutic INR range (TTR). 2010 Oct 7. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Outcome&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the mean therapeutic international normalized ratio (INR) range (TTR) achieved among patients who received prescriptions for warfarin and had sufficient INR values to calculate TTR.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Millions of patients in the United States use warfarin to prevent strokes or to prevent or treat venous thromboembolism. Warfarin is highly effective, and has been in clinical use for over 50 years. However, warfarin is difficult to manage because it has many possible interactions with diet, other drugs, and comorbid conditions that may destabilize anticoagulation control. The possible consequences of insufficient or excessive anticoagulation are extremely serious and often fatal, making it imperative to pursue good control.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The international normalized ratio (INR) test is the laboratory test used to determine the degree to which the patient's coagulation has been successfully suppressed by the vitamin K antagonist (VKA). For most patients, the goal is to keep the INR between 2 and 3, which roughly corresponds to the blood taking 2 to 3 times as long to clot as would a normal person's blood. This level of anticoagulation has been shown to maximize benefit (i.e., protect patients from blood clots) while minimizing risk (i.e., risk of hemorrhage attributable to excessive anticoagulation). Therapeutic INR range (TTR) is a way of summarizing INR control over time.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;TTR has been followed before, mostly in the setting of clinical trials where it is used to evaluate the effectiveness of warfarin therapy, particularly when warfarin is being compared to some other strategy. However, TTR has not previously been used as a quality measure &amp;ndash; in fact, there has been a general lack of quality measurement in oral anticoagulation. There is much evidence that better anticoagulation control (i.e., higher TTR) can protect patients from severe or even fatal adverse events.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Oral anticoagulation; warfarin; international normalized ratio (INR); therapeutic INR range (TTR)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients who received prescriptions for warfarin and had sufficient international normalized ratio (INR) values to calculate therapeutic INR range (TTR) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Mean therapeutic international normalized ratio (INR) range (TTR) achieved among patients who received prescriptions for warfarin and had sufficient INR values to calculate TTR&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Overall poor quality for the performance measured" />
+      <FieldValue Value="Use of this measure to improve performance" />
+      <FieldValue Value="Variation in quality for the performance measured" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose AJ, Berlowitz DR, Frayne SM, Hylek EM. Measuring quality of oral anticoagulation care: extending quality measurement to  a new field. Jt Comm J Qual Patient Saf. 2009 Mar;35(3):146-55. [115 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19326806&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose AJ, Hylek EM, Ozonoff A, Ash AS, Reisman JI, Berlowitz DR. Risk-adjusted percent time in therapeutic range as a quality indicator for outpatient oral anticoagulation: results of the Veterans Affairs Study To Improve Anticoagulation (VARIA). Circ Cardiovasc Qual Outcomes. 2011 Jan 1;4(1):22-29. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21098779&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;van Walraven C, Jennings A, Oake N, Fergusson D, Forster AJ. Effect of study setting on anticoagulation control: a systematic review and metaregression. Chest. 2006 May;129(5):1155-66. [97 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16685005&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="Quality of care research" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Community Health Care" />
+      <FieldValue Value="Home Care" />
+      <FieldValue Value="Long-term Care Facilities" />
+      <FieldValue Value="Managed Care Plans" />
+      <FieldValue Value="Physician Group Practices/Clinics" />
+      <FieldValue Value="Rehabilitation Centers" />
+      <FieldValue Value="Residential Care Facilities" />
+      <FieldValue Value="Rural Health Care" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Pharmacists" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Group Clinical Practices" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of dispensed outpatient prescriptions for warfarin in the United States (U.S.) increased from 21 million in 1998 to nearly 31 million in 2004. While there are no firm estimates for the number of patients receiving warfarin, even assuming 12 prescriptions per year for all patients, this would suggest approximately 2.5 million users in 2004, or approximately 1% of the U.S. population. In fact, patients may not receive 12 prescriptions per year (because of 90-day prescriptions and the like), so this number may be closer to 2% of the U.S. population. Also, these estimates do not account for the fact that the number of prescriptions for warfarin probably has continued to increase since 2004.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="2" OrdBy="810" ID="330" Name="Evidence for Incidence/Prevalence" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose A. Staff physician, Bedford VA Medical Center.  Investigator, VA Center for Health Quality, Outcomes, and Economic Research at the Bedford VA. Assistant Professor, Boston University School of Medicine. Percent time in therapeutic INR range (TTR). 2010 Oct 7. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wysowski DK, Nourjah P, Swartz L. Bleeding complications with warfarin use: a prevalent adverse effect resulting in regulatory action. Arch Intern Med. 2007 Jul 9;167(13):1414-9. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17620536&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Poor anticoagulation control greatly increases the risk of stroke, venous thromboembolism (VTE), major hemorrhage, and death.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="4" OrdBy="830" ID="334" Name="Evidence for Burden of Illness" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Connolly SJ, Pogue J, Eikelboom J, Flaker G, Commerford P, Franzosi MG, Healey JS, Yusuf S, ACTIVE W Investigators. Benefit of oral anticoagulant over antiplatelet therapy in atrial fibrillation depends on the quality of international normalized ratio control achieved by centers and countries as measured by time in therapeutic range. Circulation. 2008 Nov 11;118(20):2029-37. [21 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18955670&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;van Leeuwen Y, Rosendaal FR, Cannegieter SC. Prediction of hemorrhagic and thrombotic events in patients with mechanical heart valve prostheses treated with oral anticoagulants. J Thromb Haemost. 2008 Mar;6(3):451-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18088347&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Veeger NJ, Piersma-Wichers M, Tijssen JG, Hillege HL, van der Meer J. Individual time within target range in patients treated with vitamin K antagonists: main determinant of quality of anticoagulation and predictor of clinical outcome. A retrospective study of 2300 consecutive patients with venous  thromboembolism. Br J Haematol. 2005 Feb;128(4):513-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15686461&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;White HD, Gruber M, Feyzi J, Kaatz S, Tse HF, Husted S, Albers GW. Comparison of outcomes among patients randomized to warfarin therapy according to anticoagulant control: results from SPORTIF III and V. Arch Intern Med. 2007 Feb 12;167(3):239-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17296878&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Events such as stroke, major hemorrhage, and venous thromboembolism (VTE) are extremely expensive to treat. In fact, stroke frequently leads to lifelong institutionalization, which is extremely expensive.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="6" OrdBy="850" ID="338" Name="Evidence for Costs" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;O'Brien CL, Gage BF. Costs and effectiveness of ximelagatran for stroke prophylaxis in chronic atrial  fibrillation. JAMA. 2005 Feb 9;293(6):699-706. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15701911&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose A. Staff physician, Bedford VA Medical Center.  Investigator, VA Center for Health Quality, Outcomes, and Economic Research at the Bedford VA. Assistant Professor, Boston University School of Medicine. Percent time in therapeutic INR range (TTR). 2010 Oct 7. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who received prescriptions for warfarin and had sufficient international normalized ratio (INR) values to calculate therapeutic INR range (TTR)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who received prescriptions for warfarin and had sufficient international normalized ratio (INR) values to calculate therapeutic INR range (TTR)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Include only patients who had at least two valid intervals for calculating percent time in TTR. A valid interval consists of two INR values separated by 56 days or less, without an intervening hospitalization.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: All patients should be held to the standard target range of 2 to 3. If specific information is available about target ranges, it is recommended to include patients with a target range of 2.5 to 3.5, but to calculate their TTR separately.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients who only recorded INR values 1.2 and lower &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients whose primary indication to receive warfarin was valvular heart disease &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the articles in the &quot;Companion Documents&quot; field for additional details regarding the denominator inclusions/exclusions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window brackets index event" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Mean therapeutic international normalized ratio (INR) range (TTR) achieved among patients who received prescriptions for warfarin and had sufficient INR values to calculate TTR &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Episode of care" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Laboratory data" />
+      <FieldValue Value="Pharmacy data" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Not Individual Case" />
+    </Field>
+    <Field FieldID="64" OrdBy="1065" ID="355" Name="Outcome Type" Type="picklist-one">
+      <FieldValue Value="Clinical Outcome" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Continuous Variable " />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Risk adjustment devised specifically for this measure/condition" />
+    </Field>
+    <Field FieldID="69" OrdBy="1120" ID="362" Name="Description of Allowance for Patient Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The risk-adjustment model derived for this measure allows for the following variables:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Female sex &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age group (years): 20-54; 55-59; 60-64; 65-69; 70-74; 75+ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Race/ethnicity: Non-hispanic White; Non-hispanic Black; Hispanic; Asian; Native American; Other/Unknown &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Percentage poverty in zip code of residence (quintile): Wealthiest (0-5.9); Wealthy (5.9-9.0); Moderate (9.0-12.6); Poor (12.6-17.8); Poorest (17.8-100) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Driving distance from nearest Veterans Administration (VA) facility in miles (quintile): Nearest (0-3.1); Near (3.1-6.0); Moderate (6.0-10.5); Far (10.5-20.3); Furthest (greater than 20.3) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Primary indication for warfarin: Atrial fibrillation; Venous thromboembolism; All others combined &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Physical comorbid conditions: Cancer (newly diagnosed); Chronic kidney disease; Chronic liver disease; Chronic lung disease; Coronary artery disease; Diabetes; Epilepsy; Heart failure; Hyperlipidemia; Hypertension; Pain disorders; Peripheral arterial disease &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mental comorbid conditions: Alcohol abuse; Anxiety; Bipolar disorder; Dementia; Major depression; Post-traumatic stress disorder; Schizophrenia; Substance abuse (non-alcohol) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Number of non-warfarin medications: 0-7; 8-11; 12-15; 16+ &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Number of hospitalizations during inception period: None; 1; 2+ &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the articles in the &quot;Companion Documents&quot; field for more details on the risk-adjustment model.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="External comparison at a point in time" />
+      <FieldValue Value="External comparison of time trends" />
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A study of 124,551 patients who received outpatient oral anticoagulation from 100 Veterans Administration (VA) sites of care for indications other than valvular heart disease demonstrated that risk-adjusted therapeutic international normalized ratio (INR) range (TTR) can be used as a quality indicator for oral anticoagulation care. Risk-adjusted TTR is feasible to measure and is relatively consistent from year to year, suggesting that it is measuring an aspect of quality of care that is stable over time. This measure could be used by the VA or other integrated systems of care to profile annual performance and serve as an aid and impetus for quality improvement.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose AJ, Hylek EM, Ozonoff A, Ash AS, Reisman JI, Berlowitz DR. Risk-adjusted percent time in therapeutic range as a quality indicator for outpatient oral anticoagulation: results of the Veterans Affairs Study To Improve Anticoagulation (VARIA). Circ Cardiovasc Qual Outcomes. 2011 Jan 1;4(1):22-29. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21098779&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent time in therapeutic INR range (TTR).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Rose, Adam, MD, MSc, FACP - Independent Author(s)" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Rose, Adam, MD, MSc, FACP; Berlowitz, Dan, MD, MPH; Reisman, Joel, AB; Ash, Arlene, PhD; Ozonoff, Al, PhD; Hylek, Elaine, MD, MPH - Independent Author(s)" />
+      <FieldValue Value="U.S. Department of Veterans Affairs, Health Services Research and Development Service, Center for Health Quality, Outcomes and Economic Research (CHQOER) - Government Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;U.S. Department of Veterans Affairs, Health Services Research and Development Service -- Career Development Award (to Dr. Rose)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adam Rose, MD, MSc, FACP; Elaine Hylek, MD, MPH (Boston University School of Medicine, Section of General Internal Medicine); Al Ozonoff, PhD (Boston Children's Hospital, Biostatistics); Arlene Ash, PhD (University of Massachusetts School of Medicine); Joel Reisman (Statistical Programmer, Bedford VA Medical Center); Dan Berlowitz, MD, MPH (Bedford VA Medical Center, Boston University School of Medicine, Boston University School of Public Health, Department of Health Policy and Management) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dr. Hylek has received honoraria from Bayer and Bristol-Myers Squibb, and has served on advisory boards for Boehringer-Ingelheim, Bristol-Myers Squibb, Merck, and sanofi-aventis. None of the other developers of this measure report any potential conflicts of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2010 Jul" />
+    </Field>
+    <Field FieldID="86" OrdBy="1360" ID="381" Name="Revision Date" Type="date">
+      <FieldValue Value="2011 Jan" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rose A. Staff physician, Bedford VA Medical Center.  Investigator, VA Center for Health Quality, Outcomes, and Economic Research at the Bedford VA. Assistant Professor, Boston University School of Medicine. Percent time in therapeutic INR range (TTR). 2010 Oct 7. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Percent Time in Therapeutic INR Range (TTR),&quot; is available from the developer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, please contact Dr. Adam Rose at &lt;a href=&quot;mailto:adamrose@bu.edu&quot;&gt;adamrose@bu.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rose AJ, Hylek EM, Ozonoff A, Ash AS, Reisman JI, Berlowitz DR. Risk-adjusted percent time in therapeutic range as a quality indicator for outpatient oral anticoagulation: results of the Veterans Affairs Study To Improve Anticoagulation (VARIA). Circ Cardiovasc Qual Outcomes 2011 Jan 1;4(1):22-29. This document is available from the &lt;a href=&quot;http://circoutcomes.ahajournals.org/content/4/1/22.full&quot; title=&quot;American Heart Association Web site&quot;&gt;American Heart Association Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rose AJ, Hylek EM, Ozonoff A, Ash AS, Reisman JI, Berlowitz DR. Patient characteristics associated with oral anticoagulation control: results of the Veterans Affairs Study to Improve Anticoagulation (VARIA). J Thromb Haemost 2010 Oct;8(10):2182-91. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, please contact Dr. Adam Rose at &lt;a href=&quot;mailto:adamrose@bu.edu&quot;&gt;adamrose@bu.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 14, 2011. The information was verified by the measure developer on April 21, 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure represents the work of the authors alone and does not necessarily represent the official views or polices of the Department of Veterans Affairs. For further information regarding this measure, contact Adam Rose at &lt;a href=&quot;mailto:adam.rose@va.gov&quot;&gt;adam.rose@va.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,248 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): risk-adjusted standardized readmission ratio (SRR) for dialysis facility patients.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: dialysis facility compare -- standardized readmission ratio. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Oct. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the risk-adjusted standardized readmission ratio (SRR) for dialysis facility patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SRR is defined to be the ratio of the number of Medicare-covered index discharges from acute care hospitals that resulted in an unplanned Medicare-covered readmission to an acute care hospital within 4 to 30 days of discharge for dialysis patients treated at a particular dialysis facility, to the number of readmissions that would be expected given the discharging hospitals, the characteristics of the dialysis facility's patients and the national norm for dialysis facilities.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In 2013, the Centers for Medicare and Medicaid Services (CMS) rolled out a new approach to ensuring safe and adequate health care delivery to its patients: the CMS Quality Strategy. The CMS strategy is designed to align with the six goals of the Department of Health and Human Services' (HHS) National Quality Strategy. The CMS (2013) strategy is framed in the following way: &quot;To improve, a broad-based and seamless reform approach is necessary to address challenges in our healthcare system&amp;mdash;escalating costs, inadequate coverage and inefficient care of variable quality.&quot; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dialysis patients are a population particularly affected by such issues. Relative to the general population, they experience much higher levels of mortality (de Jager et al., 2009) and morbidity (e.g., hospital readmission; Medicare Payment Advisory Commission [MedPAC], 2007). Both hospitalization and readmission rates reflect morbidity and quality of life of dialysis patients as well as medical costs. For example, in 2011 dialysis patients were admitted to the hospital twice on average and spent an average of 12 days in the hospital, accounting for approximately 38% of Medicare expenditures for end stage renal disease (ESRD) patients (U.S. Renal Data System, 2013). Furthermore, 36% of hemodialysis patients discharged from the hospital had an unplanned readmission within 30 days (U.S. Renal Data System, 2013).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the dialysis setting, care coordination strategies, including appropriate hand-off and timely pre- and post-discharge communication among care providers, have emerged as a potentially effective means to reduce unplanned readmission among the ESRD patients. A recent study in the ESRD population found that certain post-discharge assessments and changes in treatment at the dialysis facility may be associated with a reduced risk of readmission (Chan et al., 2009). A recent multi-unit qualitative study by Reilly et al. (2013) found that a lack of care coordination between in- and outpatient dialysis units post-discharge is associated with increased readmission rates. Other articles concerning the dialysis setting (Castner, 2011; Wish, 2014) discuss the importance of dialysis facility and physician communication with the discharging hospital in order to ensure appropriate coordination of care such as reconciliation of post-discharge medications and treatment orders.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Clinical studies in the non-ESRD populations have also demonstrated that improved care coordination and discharge planning can reduce readmission rates (Dunn et al., 1994; Bostrom et al., 1996; Dudas et al., 2001; Azevedo et al., 2002; Coleman et al., 2004; Coleman et al., 2006; Balaban et al., 2008; Braun et al., 2009) or a combination of pre- and post-discharge interventions (Naylor et al., 1994; McDonald et al., 2001; Creason, 2001; Ahmed et al., 2004; Anderson et al., 2005; Jack et al., 2009; Koehler et al., 2009; Parry et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;With the U.S. healthcare system moving toward a paradigm of shared accountability across providers from different care settings, a readmission measure that is particularly applicable to ESRD patients will not only encourage improvement in transition of care across various settings, but will also serve as a strong motivation for facilities to coordinate treatment with the discharging hospital to reduce readmission rates. Such a measure should also encourage facilities to review readmission practices and identify potential problems. Moreover, measures of the frequency of unplanned readmissions are essential for controlling escalating medical costs in that they can help facilities identify problems and potentially improve care and reduce costs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ahmed A, Thornton P, Perry GJ, Allman RM, DeLong JF. Impact of atrial fibrillation on mortality and readmission in older adults hospitalized with heart failure. Eur J Heart Fail. 2004 Jun;6(4):421-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15182766 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Anderson C, Deepak BV, Amoateng-Adjepong Y, Zarich S. Benefits of comprehensive inpatient education and discharge planning combined with outpatient support in elderly patients with congestive heart failure. Congest Heart Fail. 2005 Nov-Dec;11(6):315-21. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16330907 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Azevedo A, Pimenta J, Dias P, Bettencourt P, Ferreira A, Cerqueira-Gomes M. Effect of a heart failure clinic on survival and hospital readmission in patients discharged from acute hospital care. Eur J Heart Fail. 2002 Jun;4(3):353-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12034162&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Balaban RB, Weissman JS, Samuel PA, Woolhandler S. Redefining and redesigning hospital discharge to enhance patient care: a randomized controlled study. J Gen Intern Med. 2008 Aug;23(8):1228-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18452048 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bostrom J, Caldwell J, McGuire K, Everson D. Telephone follow-up after discharge from the hospital: does it make a difference?. Appl Nurs Res. 1996 May;9(2):47-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8871430 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Braun E, Baidusi A, Alroy G, Azzam ZS. Telephone follow-up improves patients satisfaction following hospital discharge. Eur J Intern Med. 2009 Mar;20(2):221-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19327616 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Castner D. Management of patients on hemodialysis before, during, and after hospitalization: challenges and suggestions for improvements. Nephrol Nurs J. 2011 Jul-Aug;38(4):319-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21928608 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid (CMS). CMS quality strategy: 2013 – beyond. Baltimore (MD): Centers for Medicare &amp; Medicaid (CMS); 2013 Nov 18. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chan KE, Lazarus JM, Wingard RL, Hakim RM. Association between repeat hospitalization and early intervention in dialysis patients following hospital discharge. Kidney Int. 2009 Aug;76(3):331-41.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Coleman EA, Parry C, Chalmers S, Min SJ. The care transitions intervention: results of a randomized controlled trial. Arch Intern Med. 2006 Sep 25;166(17):1822-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17000937&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Coleman EA, Smith JD, Frank JC, Min SJ, Parry C, Kramer AM. Preparing patients and caregivers to participate in care delivered across settings: the Care Transitions Intervention. J Am Geriatr Soc. 2004 Nov;52(11):1817-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15507057&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Creason H. Congestive heart failure telemanagement clinic. Lippincotts Case Manag. 2001 Jul-Aug;6(4):146-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16398064&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;de Jager DJ, Grootendorst DC, Jager KJ, van Dijk PC, Tomas LM, Ansell D, Collart F, Finne P, Heaf JG, De Meester J, Wetzels JF, Rosendaal FR, Dekker FW. Cardiovascular and noncardiovascular mortality among patients starting dialysis. JAMA. 2009 Oct 28;302(16):1782-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19861670 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dudas V, Bookwalter T, Kerr KM, Pantilat SZ. The impact of follow-up telephone calls to patients after hospitalization. Am J Med. 2001 Dec 21;111(9B):26S-30S. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11790365 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dunn RB, Lewis PA, Vetter NJ, Guy PM, Hardman CS, Jones RW. Health visitor intervention to reduce days of unplanned hospital re-admission in patients recently discharged from geriatric wards: the results of a randomised controlled study. Arch Gerontol Geriatr. 1994 Jan-Feb;18(1):15-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15374310 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jack BW, Chetty VK, Anthony D, Greenwald JL, Sanchez GM, Johnson AE, Forsythe SR, O'Donnell JK, Paasche-Orlow MK, Manasseh C, Martin S, Culpepper L. A reengineered hospital discharge program to decrease rehospitalization: a randomized trial. Ann Intern Med. 2009 Feb 3;150(3):178-87. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19189907&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Koehler BE, Richter KM, Youngblood L, Cohen BA, Prengler ID, Cheng D, Masica AL. Reduction of 30-day postdischarge hospital readmission or emergency department (ED) visit rates in high-risk elderly medical patients through delivery of a targeted care bundle. J Hosp Med. 2009 Apr;4(4):211-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19388074&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McDonald K, Ledwidge M, Cahill J, Kelly J, Quigley P, Maurer B, Begley F, Ryder M, Travers B, Timmons L, Burke T. Elimination of early rehospitalization in a randomized, controlled trial of multidisciplinary care in a high-risk, elderly heart failure population: the potential contributions of specialist care, clinical stability and optimal angiotensin-converting enzyme inhibitor dose at discharge. Eur J Heart Fail. 2001 Mar;3(2):209-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11246059 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Medicare Payment Advisory Commission (MedPAC). Report to congress: promoting greater efficiency in Medicare. Washington (DC): Medicare Payment Advisory Commission (MedPAC); 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Naylor M, Brooten D, Jones R, Lavizzo-Mourey R, Mezey M, Pauly M. Comprehensive discharge planning for the hospitalized elderly. A randomized clinical trial. Ann Intern Med. 1994 Jun 15;120(12):999-1006. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8185149&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Parry C, Min SJ, Chugh A, Chalmers S, Coleman EA. Further application of the care transitions intervention: results of a randomized controlled trial conducted in a fee-for-service setting. Home Health Care Serv Q. 2009;28(2-3):84-99. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20182958 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Reilly JB, Marcotte LM, Berns JS, Shea JA. Handoff communication between hospital and outpatient dialysis units at patient discharge: a qualitative study. Jt Comm J Qual Patient Saf. 2013 Feb;39(2):70-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23427478 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Renal Dialysis System. USRDS 2013 annual data report: atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institutes of Health (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD); 2013. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University of Michigan Kidney Epidemiology and Cost Center (UM-KECC). Report for the standardized readmission ratio: NQF #2496. Baltimore (MD): Centers for Medicare &amp; Medicaid (CMS); 2017 Jun 20. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wish JB. The role of 30-day readmission as a measure of quality. Clin J Am Soc Nephrol. 2014 Mar;9(3):440-2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24509293 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ESRD); unplanned readmission&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The expected number of hospitalizations followed by an unplanned readmission within 4 to 30 days in each facility, which is derived from a model that accounts for patient characteristics, the dialysis facility to which the patient is discharged and the discharging hospital (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Each facility's observed number of hospital discharges that are followed by an unplanned hospital readmission within 4 to 30 days of discharge (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The expected number of hospitalizations followed by an unplanned readmission within 4 to 30 days in each facility, which is derived from a model that accounts for patient characteristics, the dialysis facility to which the patient is discharged and the discharging hospital.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer calculates each dialysis facility's expected number of hospitalizations followed by an unplanned readmission by fitting a model with random effects for discharging hospitals, fixed effects for facilities and regression adjustments for a set of patient-level characteristics, including measures of patient comorbidities. The developer computes the expectation for the given facility assuming readmission rates corresponding to an &quot;average&quot; facility with the same patient characteristics and same discharging hospitals as this facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All live discharges of dialysis patients from a Medicare-paid hospitalization in a calendar year are considered eligible for this measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Hospital discharges that:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Are not live discharges &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Result in a patient dying within 30 days with no readmission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Are against medical advice &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Include a primary diagnosis for cancer, mental health or rehabilitation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Occur after a patient's 12th admission in the calendar year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Are from a Prospective Payment System (PPS)-exempt cancer hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Result in a transfer to another hospital on the same day &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Result in a readmission (unplanned) within 3 days of discharge &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Each facility's observed number of hospital discharges that are followed by an unplanned hospital readmission within 4 to 30 days of discharge&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Hospitalizations are counted as events in the numerator if they were followed by an unplanned readmission that (a) occurred within 4 to 30 days of a hospital discharge and (b) was not preceded by a &quot;planned&quot; readmission that also occurred within 4 to 30 days of discharge. In summary, a readmission is considered &quot;planned&quot; under two scenarios: &lt;/p&gt;&#xD;&#xA;&lt;ol class=&quot;Note&quot; style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;The patient undergoes a procedure that is always considered planned (e.g., bone marrow transplant) or has a primary diagnosis that always indicates the hospitalization is planned (e.g., maintenance chemotherapy). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient undergoes a procedure that MAY be considered planned if it is not accompanied by an acute diagnosis. For example, a hospitalization involving a heart valve procedure accompanied by a primary diagnosis of diabetes would be considered planned, whereas a hospitalization involving a heart valve procedure accompanied by a primary diagnosis of acute myocardial infarction (AMI) would be considered unplanned. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the Planned Readmission Algorithm available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/Measure-Methodology.html&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services Web site&lt;/a&gt; for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Outcome" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The risk adjustment approach used in the model for this measure was adapted from Center for Medicare &amp;amp; Medicaid Services' (CMS's) standardized hospitalization ratio (SHR) and CMS's Hospital-Wide Readmission (HWR) measure. The regression model used to compute a facility's &quot;expected&quot; number of readmissions for this measure contains many factors thought to be associated with readmission event rates. Specifically, the model adjusts for age, sex, diabetes, duration of end stage renal disease (ESRD), body mass index (BMI) at start of dialysis, past-year comorbidities, length of the index hospital stay, and the presence of a high-risk diagnosis at index discharge. In addition, the model adjusts for the effect of the discharging hospital (via random effects). Refer to the original measure documentation for additional details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Standardized readmissions ratio (SRR) clinical measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Jun 12&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Dialysis Facility Compare (DFC)" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/Downloads/CMS-ESRD-Measures-Manual-2017.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the &lt;a href=&quot;https://dialysisdata.org/content/esrd-measures&quot; title=&quot;Dialysis Data Web site&quot;&gt;Dialysis Data Web site&lt;/a&gt; or contact Casey Parrotte at the Kidney Epidemiology and Cost Center, The University of Michigan, 1415 Washington Heights, Suite 3645 SPHI, Ann Arbor, MI 48109-2029; Phone: 734-763-6611; Fax: 734-763-4004; Email: &lt;a href=&quot;mailto:parrotte@med.umich.edu&quot;&gt;parrotte@med.umich.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 22, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: dialysis facility compare -- standardized readmission ratio. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Oct. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

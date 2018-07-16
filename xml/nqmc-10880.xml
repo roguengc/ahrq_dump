@@ -1,0 +1,224 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Implantable cardioverter-defibrillator (ICD): risk-standardized rate of procedural complications following the first time implantation of an ICD.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-3 implantable cardioverter-defibrillator (ICD) complications rate. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the physician-specific risk-standardized rate of procedural complications following the first time implantation of an implantable cardioverter-defibrillator (ICD).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is to be reported a minimum of once per reporting period for patients with a first time implantation of an ICD during the reporting period. This measure may be reported by clinicians who perform the quality actions described in the measure based on the services provided and the measure-specific denominator coding.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There are two reporting criteria for this measure: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with first time implants with one or more complications or mortality within 30 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with first time implants with one or more complications within 90 days &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The proposed measure of implantable cardioverter-defibrillator (ICD) complications has the potential to significantly improve the quality of care delivered to patients with advanced heart disease. The model used for risk adjustment meets recognized standards for outcomes measurement and was developed with extensive input from stakeholders with a broad range of expertise and perspectives. The study sample is appropriately defined, consisting of an ICD population that has distinct outcomes that will allow for valid comparisons of physician quality. The definition of the complications, the complication-specific period of assessment, and the risk-adjustment variables all have strong face validity, which may facilitate physician acceptance. The developer excluded covariates that it would not want to adjust for in a quality measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In summary, the developer presents an ICD complications measure that is suitable for public reporting. The proposed measure capitalizes on the National Cardiovascular Data Registry (NCDR) ICD Registry data already collected as part of an ongoing collaboration between Centers for Medicare &amp;amp; Medicaid Services (CMS) and NCDR. Accordingly, the incremental burden of data collection on physicians would be minimal and the proposed measure could be implemented by using the direct patient identifiers already being collected by CMS.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;ICD implantation is an expensive procedure performed on patients with advanced cardiovascular disease and, often, significant comorbidities. Despite improvements in technology and increasing experience with device implantation, the procedure carries a significant risk of complications (Hammill &amp;amp; Curtis, 2008).&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Roughly 150,000 ICDs are implanted each year and approximately two thirds of implantations are performed on Medicare patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Direct total medical cost per device (Sanders, Hlatky, &amp;amp; Owens, 2005) is $68,000 to $100,000. The total national costs range from $10 to $15 billion, of which $7 to $10 billion represents fee-for-service (FFS) Medicare. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complications are expensive and, in one study (Reynolds et al., 2006), associated with increased length of stay (1 to 10 days) and costs $5,000 to 20,000 (mean $7,251), adding roughly $80 million in Medicare costs. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reported complication rates following ICD implantation vary from 4% to 30%, depending largely on how complications are defined and the period of assessment. In the NCDR ICD Registry, the incidence of in-hospital complications is approximately 4%. However, complications such as device infection, malfunction, or cardiac tamponade are not fully captured by the registry since they may only become evident following hospital discharge. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Al-Khatib et al. (2008) analyzed administrative claims data and found overall rates of complication within 90 days of ICD implantation ranged from 18.8% in 2002 to 14.2% in 2005 (Al-Khatib et al., 2005). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The developer analyzed Medicare FFS administrative claims to assess complications rates following ICD implantation. From 2006 through 2009, a total of 105,575 implants performed by 3,488 physicians met inclusion/exclusion criteria and were included in the analysis. The number of eligible implants increased over time from 22,931 in 2006 to 28,383. The overall complication rate decreased modestly over this time period, from 8.60% to 7.55%. The rate of mechanical complications requiring system revision had the largest decrease over time (0.78%), but similar relative declines were seen across all complications. As expected, the characteristics of patients with and without adverse events differed significantly. Most notably, patients receiving a cardiac resynchronization therapy (CRT-D) device had a significantly higher complication rate than patients receiving a single and dual chamber device (8.09%, 6.30%, and 5.33% respectively). These results demonstrate an opportunity to improve physician-level performance. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Al-Khatib SM, Greiner MA, Peterson ED, Hernandez AF, Schulman KA, Curtis LH. Patient and implanting physician factors associated with mortality and complications after implantable cardioverter-defibrillator implantation, 2002-2005. Circ Arrhythm Electrophysiol. 2008 Oct;1(4):240-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19169382&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Al-Khatib SM, Lucas FL, Jollis JG, Malenka DJ, Wennberg DE. The relation between patients' outcomes and the volume of cardioverter-defibrillator implantation procedures performed by physicians treating Medicare beneficiaries. J Am Coll Cardiol. 2005 Oct 18;46(8):1536-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16226180&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hammill SC, Curtis J. Publicly reporting implantable cardioverter defibrillator outcomes: grading the report card. Circ Arrhythm Electrophysiol. 2008 Oct;1(4):235-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19808414&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-3 implantable cardioverter-defibrillator (ICD) complications rate. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Reynolds MR, Cohen DJ, Kugelmass AD, Brown PP, Becker ER, Culler SD, Simon AW. Complications among Medicare beneficiaries, receiving implantable cardioverter-defibrillators. J Am Coll Cardiol. 2006 Jun 20;47(12):2493-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16781379&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sanders GD, Hlatky MA, Owens DK. Cost-effectiveness of implantable cardioverter-defibrillators. N Engl J Med. 2005 Oct 6;353(14):1471-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16207849&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Implantable cardioverter-defibrillator (ICD) implantation; procedural complications; mortality&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with a first time implantation of an implantable cardioverter-defibrillator (ICD) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Number of patients with one or more of the specified complications or mortality within 30 days (depending on the complication) following implantable cardioverter-defibrillator (ICD) implantation &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Number of patients with one or more of the specified complications within 90 days (depending on the complication) following ICD implantation&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In March 2010, the Heart Rhythm Society's (HRS) Quality Improvement Subcommittee conducted a strategic planning meeting to identify recommendations on how the Society could best prepare for the increased focus of performance measurement by the United States (U.S.) government and others. The topics discussed included performance measurement in general, as well as public reporting and value-based purchasing, specifically. Through the work of the Measure Development Task Force during Cycle 1 of the initiative, two physician-level measures were fully-specified and tested: &lt;em&gt;HRS-3: Implantable Cardioverter-Defibrillator (ICD) Complications Rate&lt;/em&gt; and &lt;em&gt;HRS-4: In-Person Evaluation Following Implantation of a Cardiovascular Implantable Electronic Device (CIED)&lt;/em&gt;. The measures were developed with the intent to submit them to the National Quality Forum (NQF) for endorsement consideration when a relevant call for measures is issued. Pilot testing is a prerequisite for NQF.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). Performance measure development initiative quality improvement pilot implementation plan. Washington (DC): Heart Rhythm Society (HRS); 9 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 65 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: January 1 through November 30 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: January 1 through September 30 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with a first time implantation of an implantable cardioverter-defibrillator (ICD) &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Include patients with procedures that are performed greater than or equal to 31 days prior to the end of the reporting period. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Include patients with procedures that are performed greater than or equal to 91 days prior to the end of the reporting period. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases)&lt;/em&gt;: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient aged greater than or equal to 65 years on date of encounter &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Implantation of ICD (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND/OR&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during reporting period (refer to the original measure documentation for Current Procedural Terminology [CPT] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND NOT&lt;/p&gt;&#xD;&#xA;&lt;p&gt;ICD-10-PCS codes: 0JPT0PZ, 0JPT3PZ &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Include only patients that have had first time implantation through November 30 for evaluation of complications for 30 days and September 30 for evaluation of complications for 90 days post procedure within the reporting period. This will allow the evaluation of ICD implant complications within the reporting year.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Number of patients with one or more of the following complications or mortality within 30 days (depending on the complication) following implantable cardioverter-defibrillator (ICD) implantation &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complications measured for 30 days:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pneumothorax or hemothorax plus a chest tube &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hematoma plus a blood transfusion or evacuation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cardiac tamponade or pericardiocentesis &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Number of patients with one or more of the following complications within 90 days (depending on the complication) following ICD implantation&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complications measured for 90 days:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mechanical complications requiring a system revision &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Device related infection &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Additional ICD implantation &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot;&gt;&#xD;&#xA;    &lt;li&gt;The eligible professional should submit data on both Reporting Criteria 1 and 2 for a patient that meets the denominator. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for administrative codes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;2016 Registry Individual Measure Flow: PQRS #348 HRS-3: Implantable Cardioverter-Defibrillator (ICD) Complications Rate&amp;ndash;Reporting Criteria One &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2016 Registry Individual Measure Flow: PQRS #348 HRS-3: Implantable Cardioverter-Defibrillator (ICD) Complications Rate&amp;ndash;Reporting Criteria Two &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;There are two reporting criteria for this measure:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Patients with first time implants with one or more complications or mortality within 30 days.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator&lt;/span&gt;: Patients with a first time implantation of an implantable cardioverter-defibrillator (ICD) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator&lt;/span&gt;: Number of patients with one or more of the following complications or mortality within 30 days (depending on the complication) following ICD implantation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Patients with first time implants with one or more complications within 90 days.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator&lt;/span&gt;: Patients with a first time implantation of an ICD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator&lt;/span&gt;: Number of patients with one or more of the following complications within 90 days (depending on the complication) following ICD implantation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Hierarchical Logistic Regression&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The specification is designed to align with the National Quality Forum (NQF)-endorsed &lt;em&gt;Hospital Risk-Standardized Complication Rate following Implantation of Implantable Cardioverter-Defibrillator &lt;/em&gt;performance measure (NQF #0694). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The variables apply to both the 30 and 90 day outcomes, but how the variables are to be utilized within the performance calculation is part of a risk model developed by Yale.&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HRS-3: implantable cardioverter-defibrillator (ICD) complications rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Heart Rhythm Society Performance Measures Development Task Force consists of thought leaders in atrial fibrillation ablation, device implantation, cardiovascular health policy, performance measures development, patient safety, clinical outcomes, and population science. The roster can be provided upon request at &lt;a href=&quot;mailto:policy@hrsonline.org&quot;&gt;policy@hrsonline.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Heart Rhythm Society conflict of interest disclosure policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Heart Rhythm Society. Performance measure technical specifications. Washington (DC): Heart Rhythm Society; 2014 Sep. 5 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Heart Rhythm Society (HRS) at 1325 G Street, NW, Suite 400, Washington, DC 20005; Phone: 202-464-3400; Fax: 202-464-3401; E-mail: &lt;a href=&quot;mailto:info@HRSonline.org&quot;&gt;info@HRSonline.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.hrsonline.org/&quot; title=&quot;Heart Rhythm Society (HRS) Web site&quot;&gt;www.hrsonline.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 26, 2015. The information was verified by the measure developer on February 23, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 28, 2016. The information was verified by the measure developer on July 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-3 implantable cardioverter-defibrillator (ICD) complications rate. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

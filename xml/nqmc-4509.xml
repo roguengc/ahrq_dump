@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Patients' experiences: percentage of adult specialty care patients who reported how often their doctors communicated well.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). CAHPS® clinician &amp; group survey and reporting kit 2008. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Patient Experience&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of adult specialty care patients who indicated how often (&quot;Never,&quot; &quot;Almost Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Almost Always,&quot; or &quot;Always&quot;) their doctors communicated well.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;This measure summarizes answers to survey questions that asked people &lt;strong&gt;how often&lt;/strong&gt; their doctor:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Explained things in a way that was easy for them to understand.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Listened carefully to them.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Gave easy-to-understand instructions about taking care of health problems or concerns.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Seemed to know the important information about their medical history.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Showed respect for what they had to say.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Spent enough time with them.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The &quot;How Well Doctors Communicate&quot; composite measure is based on six questions in the CAHPS Clinician &amp; Group Survey Adult Specialty Care Questionnaire.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: A composite score is calculated in which a higher score indicates better quality. Composite scores are intended for consumer-level reporting. Additionally, frequency distributions are available for plans or providers to use for quality improvement purposes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The CAHPS Clinician &amp; Group Survey refers to three instruments that ask patients about their experiences with doctors and their office staff.  The Adult Specialty Care Questionnaire captures the adult patient's perspective on the quality of care provided by specialist physicians.  This information is useful to physicians aiming to improve the patient-centeredness of the care they deliver as well as to patients trying to make informed decisions when selecting a physician.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adult specialty care; patients' experiences; physician communication&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients age 18 years and older who answered the &quot;How Well Doctors Communicate&quot; questions on the CAHPS Clinician &amp;amp; Group Survey Adult Specialty Care Questionnaire (see the &quot;Description of Case Finding&quot; and the &quot;Denominator Inclusions/Exclusions&quot; fields)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of &quot;Never,&quot; &quot;Almost Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Almost Always,&quot; or &quot;Always&quot; responses on the &quot;How Well Doctors Communicate&quot; questions (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+      <FieldValue Value="Focus groups" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Accreditation" />
+      <FieldValue Value="Decision-making by businesses about health-plan purchasing" />
+      <FieldValue Value="Decision-making by consumers about health plan/provider choice" />
+      <FieldValue Value="External oversight/State government program" />
+      <FieldValue Value="External oversight/Veterans Health Administration" />
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="Quality of care research" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Physician Group Practices/Clinics" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Health plan members age 18 years and older who are currently enrolled in the health plan (commercial, Medicaid, or Medicare) and who have had at least one visit to the specialty care physician in the prior 12 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients age 18 years and older who answered the &quot;How Well Doctors Communicate&quot; questions on the CAHPS Clinician &amp; Group Survey Adult Specialty Care Questionnaire. Include refusals, non-response, and bad addresses/phone numbers.  See the &quot;Description of Case Finding&quot; field.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Deceased&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Ineligible (did not receive care in the last 12 months)&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient Characteristic" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window precedes index event " />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of &quot;Never,&quot; &quot;Almost Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Almost Always,&quot; or &quot;Always&quot; responses on the &quot;How Well Doctors Communicate&quot; questions&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;From the responses, a composite score is calculated in which a higher score indicates better quality.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Include all completed questionnaires. A questionnaire is considered complete if responses are available for 14 or more of the 28 key survey items. Refer to the original measure documentation for more information.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Fixed time period" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+      <FieldValue Value="Patient survey" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Not Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Non-weighted Score/Composite/Scale" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Case-mix adjustment" />
+    </Field>
+    <Field FieldID="69" OrdBy="1120" ID="362" Name="Description of Allowance for Patient Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CAHPS recommends adjusting the data for respondent age, education, and general health status.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="External comparison at a point in time" />
+      <FieldValue Value="External comparison of time trends" />
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;During the first phase of the CAHPS program (1996-2000), the CAHPS Consortium began work on a standardized, evidence-based instrument that would allow physicians and medical group administrators to assess and improve patients' experiences with their care. Working in collaboration with the Pacific Business Group on Health (PBGH), the Consortium developed a preliminary instrument known as the CAHPS Group Practice Survey (G-CAHPS).&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The Consortium used that instrument as a starting point for its development of the CAHPS Clinician &amp; Group Survey during phase II of the CAHPS program. Steps in the development process of the new instrument included the following:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Interviews with stakeholders about their experiences with the Health Plan Survey and their information needs with respect to both physicians and groups.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Consultation with PBGH and the Massachusetts Health Quality Partners, both of which had fielded their own group-level surveys.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;The establishment of the Ambulatory CAHPS Advisory Group, a diverse&#xD;&#xA;panel of experts who have provided input on issues related to survey&#xD;&#xA;content and administration.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;The publication of a &quot;Call for Measures&quot; in the June 10, 2004, edition of the &lt;em&gt;Federal Register&lt;/em&gt;. This allowed the Consortium to review the relevant work done by other organizations and assess potential domains to cover in the Clinician &amp; Group Survey.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Field-testing with over a dozen organizations, including health plans, large medical groups, purchaser groups, physician boards, and others.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Cognitive interviewing in English and Spanish to determine how potential respondents understood and reacted to survey questions.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Several rounds of revision of the draft instrument based on feedback from field tests, cognitive interviews, and stakeholders.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Endorsement of the instrument by the National Quality Forum, as well as the Ambulatory Quality Alliance.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;To learn more about the development of the CAHPS Clinician &amp; Group Survey, go to &lt;a href=&quot;https://www.cahps.ahrq.gov/content/products/CG/PROD_CG_CG40Develop&#xD;&#xA;ment.asp&quot; title=&quot;CAHPS Web site&quot; target=&quot;_blank&quot;&gt;&#xD;&#xA;https://www.cahps.ahrq.gov/content/products/CG/PROD_CG_CG40Develop&#xD;&#xA;ment.asp&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). CAHPS® clinician &amp; group survey and reporting kit 2008. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;How well doctors communicate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="CAHPS Clinician &amp; Group Survey" />
+    </Field>
+    <Field FieldID="75" OrdBy="1305" ID="475" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Adult Specialty Care Questionnaire 1.0" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+      <FieldValue Value="CAHPS Consortium - Health Care Quality Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;American Institutes for Research (AIR)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Harvard Medical School&lt;/li&gt;&#xD;&#xA;&lt;li&gt;RAND&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Westat&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="1335" ID="376" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="83" OrdBy="1340" ID="377" Name="Included in" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care Quality Alliance" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2007 May" />
+    </Field>
+    <Field FieldID="86" OrdBy="1360" ID="381" Name="Revision Date" Type="date">
+      <FieldValue Value="2008 Sep" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Agency for Healthcare Research and Quality (AHRQ). CAHPS clinician &amp; group survey and reporting kit. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2007. various p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). CAHPS® clinician &amp; group survey and reporting kit 2008. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;How Well Doctors Communicate,&quot; is published in the &quot;CAHPS Clinician &amp; Group Survey and Reporting Kit.&quot;  This Kit may be downloaded at the &lt;a href=&quot;https://www.cahps.ahrq.gov/cahpskit/CAHPSKIT_main.asp&quot; title=&quot;Download a CAHPS Kit&quot; target=&quot;_blank&quot;&gt;CAHPS Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on August 16, 2007.  The information was verified by the measure developer on September 17, 2007. This NQMC summary was updated by ECRI Institute on June 26, 2009.  The information was verified by the measure developer on August 7, 2009.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

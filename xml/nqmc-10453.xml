@@ -1,0 +1,215 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Availability of services: the number of neurologists who have provided any outpatient care to at least one enrolled child, per 1,000 eligible children.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to outpatient specialty care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Sep. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measure: User-enrollee Health State" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the number of neurologists who have provided any outpatient care to at least one enrolled child, per 1,000 eligible children.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure summary represents one of ten respective rates of participating cardiologists, dermatologists, endocrinologists, gastroenterologists, hematologists/oncologists, nephrologists, neurologists, otolaryngologists, pulmonologists, and rheumatologists who have seen at least one enrolled child in the measurement year for at least one outpatient visit. See related &lt;a href=&quot;/browse/by-organization-indiv.aspx?orgid=2502&amp;amp;objid=48580&quot; title=&quot;Availability of Specialty Services Measures&quot;&gt;NQMC measure summaries&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This rate will be expressed in terms of 1,000 eligible children (number of providers/1,000 eligible children), where the eligible population includes children younger than 18 years of age who have been enrolled in a Medicaid program or health plan that includes outpatient specialty care for at least one 90-day period (or 3 consecutive months) within the measurement year. Specialists are identified by specific taxonomy codes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Many children have conditions that would benefit from confirmatory testing, definitive diagnosis, initial treatment, and/or ongoing management provided by specialists. Given the variety of specialties and the associated conditions those specialists treat, providing prevalence estimates for all relevant conditions is beyond the scope of this measure description. In its place, assessing the overall prevalence of children's need for specialty care can serve as a direct proxy. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to outpatient specialty care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Sep. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Access to specialty care; neurologists; children; adolescents&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The eligible population for the denominator is the number of children born on September 30 or earlier in the measurement year but younger than 18 years on December 31 of the measurement year, who are enrolled in a Medicaid program or health plan that includes outpatient specialty care for at least one 90-day period (or 3 consecutive months) within the measurement year. This denominator is divided by 1,000 to calculate the rate per 1,000 eligible children.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of neurologists who have provided any outpatient care to at least one enrolled child (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Prevalence among Children&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;According to the 2011-2012 National Survey on Children's Health (NSCH), nearly one quarter of U.S. children (22.6%) saw a specialist in the previous year (Child and Adolescent Health Measurement Initiative [CAHMI], &quot;Indicator 4.12a,&quot; n.d.). The 2003 NSCH included questions on need to see a specialist, in which the results were comparable: 18.3% of children 0 to 5 years were reported to have needed specialty care; the figures for older children were 18.9% of those 6 to 11 years, and 22.4% of those 12 to 17 years (CAHMI, &quot;Specialists,&quot; n.d.).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Performance Gaps&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;A primary shortcoming regarding children's access to specialty care is the type of insurance they have, specifically whether they have private insurance or either of the two main forms of public insurance &amp;ndash; Medicaid or Children's Health Insurance Program (CHIP). The 2011-2012 NSCH reported that 19% of children with Medicaid/CHIP coverage received specialty care in the prior year, compared with 26% of privately insured children; 8% of Medicaid/CHIP-covered children had problems accessing specialty care, compared with 5% of privately insured children (CAHMI, &quot;Indicator 4.12a,&quot; n.d.). A 2010 study in Illinois found that callers posing as parents of children enrolled in Medicaid/CHIP were denied specialty appointments six times more often than parents of privately insured children (Bisgaier &amp;amp; Rhodes, 2011). A 2010 national survey conducted by the United States Government Accountability Office (GAO) found that specialists participated in Medicaid/CHIP less frequently than primary care providers (71% vs 83%). Moreover, among specialists who participated in Medicaid/CHIP, 84% accepted all privately insured children while only 51% accepted all Medicaid/CHIP-enrolled children. These findings were mirrored in responses by primary care providers: 34% reported having &quot;great difficulty&quot; referring Medicaid/CHIP-enrolled children for specialty care compared with only 1% for privately insured children (GAO, 2011). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A related challenge is that even specialists who accept Medicaid patients may not be open to new patients, or may not participate in a child's specific Medicaid health plan or program. A 2014 report from the Office of the Inspector General (2014) explored this issue among a sample of specialists who were listed as participating in a Medicaid health plan, and found that only 43% would offer an appointment to a new Medicaid patient. Not participating in the health plan, despite being listed, was the major contributor to not offering an appointment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Severity and Burden of Condition&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;Lack of specialist availability can affect children in at least three ways. The most severe outcome would be that children would not see a specialist at all and would go without needed care. In the event they do obtain an appointment with a specialist, it may require a longer wait period than is appropriate for their condition, delaying their care. The specialist may also be located much further away than is optimal, forcing longer travel times. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;These obstacles are a greater burden for families with fewer financial resources, as they may not have reliable transportation or be able to take time off work when appointments are available. Challenges are likely to be exacerbated for families who face language or cultural barriers with their health care providers (Jewett, Anderson, &amp;amp; Gilchrist, 2005).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional evidence supporting the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bisgaier J, Rhodes KV. Auditing access to specialty care for children with public insurance. N Engl J Med. 2011 Jun 16;364(24):2324-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21675891&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Indicator 4.12a: during the past 12 months, did [child name] see a specialist other than a mental health professional?. [internet]. Baltimore (MD): Child and Adolescent Health Measurement Initiative; [accessed 2015 Sep 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Specialists are doctors like surgeons, heart doctors, skin doctors, psychiatrists etc. During the past 12 months did you or (child's name)'s personal doctor or nurse think that he/she needed to see any specialist doctor or doctors? (S5Q09). [internet]. Baltimore (MD): Child and Adolescent Health Measurement Initiative; [accessed 2015 Sep 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jewett EA, Anderson MR, Gilchrist GS. The pediatric subspecialty workforce: public policy and forces for change. Pediatrics. 2005 Nov;116(5):1192-202. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16199670&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Inspector General. Access to care: provider availability in Medicaid managed care. Washington (DC): U.S. Department of Health and Human Services; 2014 Dec. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to outpatient specialty care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Sep. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Government Accountability Office (GAO). Medicaid and CHIP: most physicians serve covered children but have difficulty referring them for specialty care. Washington (DC): U.S. Government Accountability Office (GAO); 2011 Jun. 62 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) used two methods to test the &lt;em&gt;reliability&lt;/em&gt; of the measure: 1) Replication of the measure calculation process demonstrated excellent reliability, with some minor variance observed due to the dynamic nature of health administrative data. 2) Comparison of the taxonomy-based provider identification data sources showed very good reliability. &lt;em&gt;Validity&lt;/em&gt; testing was performed to assess three aspects of the measure: 1) Testing to determine whether the identified specialists' content of care provided to Medicaid-enrolled children reflected the respective specialty areas showed excellent validity for all 10 specialty areas. 2) Testing to determine whether the identified specialists had specific certification and/or training in the respective areas showed excellent validity in all 10 specialty areas. 3) Testing to determine whether the inclusion of alternate provider specialty data sources would enhance specialist identification did not demonstrate good validity, suggesting that verification should be performed before using non-taxonomy, program-specific data sources in the measure calculation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to outpatient specialty care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Sep. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The eligible population for the denominator is the number of children born on September 30 or earlier in the measurement year but younger than 18 years on December 31 of the measurement year, who are enrolled in a Medicaid program or health plan that includes outpatient specialty care for at least one 90-day period (or 3 consecutive months) within the measurement year. This denominator is divided by 1,000 to calculate the rate per 1,000 eligible children.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of neurologists who have provided any outpatient care to at least one enrolled child&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;These specialist physicians are identified using taxonomy codes (refer to Table 1 in the original measure documentation for taxonomy codes by specialty) linked to a National Provider Identifier (NPI) with the National Plan &amp;amp; Provider Enumeration System (NPPES) registry. Only individual physicians are included as eligible providers. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For this measure, outpatient care is defined as any visit within the measurement year to a facility with a Place of Service code listed in Table 2 of the original measure documentation. The outpatient visit must be with a child enrolled in a Medicaid program or health plan, without regard to duration of enrollment. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;NPIs representing organizations and clinics. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;NPIs representing professionals who are not physicians (e.g., nurse practitioners and physician assistants). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Access to outpatient specialty care for children: neurologists.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Availability of Specialty Services Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) under the Children's Health Insurance Program Reauthorization Act (CHIPRA) Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020516.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Availability of Specialty Services Expert Panel&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Representative/Feasibility Panel&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;George Baker, MD, Retired, Co-Director, Office of Medical Affairs for Michigan Medicaid, Medical Director of Michigan's Title V program for Children and Youth with Special Health Care Needs, Michigan Department of Community Health, Lansing, MI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laura-Mae Baldwin, MD, MPH, Director of Research and Professor, Department of Family Medicine, University of Washington, Seattle, WA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patricia Barrett, MHSA, Vice President for Product Development, National Committee for Quality Assurance, Washington, DC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Angie Davis, MA, Parent Representative, DeWitt, MI Lisa Huckleberry, Parent Representative, DeWitt, MI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Renee Jenkins, MD, FAAP, Professor, Department of Pediatrics and Child Health, Howard University College of Medicine, Washington, DC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Kelley, MD, MPA, Chief Medical Officer, Office of Medical Assistance Programs, Pennsylvania Department of Public Welfare, Harrisburg, PA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Maureen Milligan, PhD, MPA, MA, Director, Texas Institute of Health Care Quality and Efficiency, Texas Health and Human Services Commission, Austin, TX &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sue Moran, BSN, MPH, Director of the Bureau of Medicaid Program Operations and Quality Assurance, Michigan Department of Community Health, Lansing, MI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;R. Gary Rozier, DDS, MPH, Director and Professor, Dental Public Health and Residency Training Program, Department of Health Policy and Management, University of North Carolina at Chapel Hill, Chapel Hill, NC &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Aradhana (Bela) Sood, MD, MSHA, FAACAP, Professor and Chair, Division of Child and Adolescent Psychiatry, Medical Director, Virginia Treatment Center for Children, Virginia Commonwealth University, Richmond, VA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark Wietecha, MS, MBA, President and CEO, Children's Hospital Association, Alexandria, VA &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Investigators&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sarah J. Clark, MPH, Associate Research Scientist, Department of Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Meredith P. Riebschleger, MD, MS, Clinical Lecturer, Department of Pediatrics and Communicable Diseases, Pediatric Rheumatology, School of Medicine, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gary L. Freed, MD, MPH, Professor of Pediatrics, School of Medicine and Professor of Health Management and Policy, School of Public Health, University of Michigan, Ann Arbor, MI (principal investigator) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kevin J. Dombkowski, DrPH, MS, Research Associate Professor of Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Sep" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.chear.org/sites/default/files/stories/pdfs/avail4_specialtycarerate.pdf&quot; title=&quot;Q-METRIC Web site&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Web site&lt;/a&gt;. &lt;a href=&quot;http://www.chear.org/qmetric&quot; title=&quot;Q-METRIC Web site&quot;&gt;Support documents&lt;/a&gt; are also available.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Q-METRIC at 300 North Ingalls Street, Room 6C08, SPC 5456, Ann Arbor, MI 48109-5456; Phone: 734-232-0657; Fax: 734-764-2599.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 11, 2016. The information was verified by the measure developer on March 2, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inform Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) if users implement the measures in their health care settings. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to outpatient specialty care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Sep. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

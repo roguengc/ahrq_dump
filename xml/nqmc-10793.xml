@@ -1,0 +1,247 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Perinatal care: percentage of patients with elective vaginal deliveries or elective cesarean births at greater than or equal to 37 and less than 39 weeks of gestation completed.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients with elective vaginal deliveries or elective cesarean births at greater than or equal to 37 and less than 39 weeks of gestation completed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;For almost 3 decades, the American College of Obstetricians and Gynecologists (ACOG) and the American Academy of Pediatrics (AAP) have had in place a standard requiring 39 completed weeks gestation prior to ELECTIVE delivery, either vaginal or operative (ACOG, 1996). A survey conducted in 2007 of almost 20,000 births in Hospital Corporation of America (HCA) hospitals throughout the United States (U.S.) carried out in conjunction with the March of Dimes at the request of ACOG revealed that almost one-third of all babies delivered in the U.S. are electively delivered with 5% of all deliveries in the U.S. delivered in a manner violating ACOG/AAP guidelines. Most of these are for convenience and result in significant short term neonatal morbidity (neonatal intensive care unit admission rates of 13% to 21%) (Clark et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;According to Glantz (2005), compared to spontaneous labor, elective inductions result in more cesarean deliveries and longer maternal length of stay. The American Academy of Family Physicians (AAFP) (2000) also notes that elective induction doubles the cesarean delivery rate. Repeat elective cesarean sections before 39 weeks gestation also result in higher rates of adverse respiratory outcomes, mechanical ventilation, sepsis and hypoglycemia for the newborns (Tita et al., 2009).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Family Physicians (AAFP). Tips from other journals: elective induction doubles cesarean delivery rate. Am Fam Physician. 2000 Feb 15;61(4):1173.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists. ACOG Educational Bulletin. 1996 Nov. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark SL, Miller DD, Belfort MA, Dildy GA, Frye DK, Meyers JA. Neonatal and maternal outcomes associated with elective term delivery. Am J Obstet Gynecol. 2009 Feb;200(2):156.e1-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19110225&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Glantz JC. Elective induction vs. spontaneous labor associations and outcomes. J Reprod Med. 2005 Apr;50(4):235-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15916205&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tita AT, Landon MB, Spong CY, Lai Y, Leveno KJ, Varner MW, Moawad AH, Caritis SN, Meis PJ, Wapner RJ, Sorokin Y, Miodovnik M, Carpenter M, Peaceman AM, O'Sullivan MJ, Sibai BM, Langer O, Thorp JM, Ramin SM, Mercer BM, Eunice Kennedy Shriver NICHD Maternal-Fetal Medicine Units Network. Timing of elective repeat cesarean delivery at term and neonatal outcomes. N Engl J Med. 2009 Jan 8;360(2):111-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19129525&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Elective delivery&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients delivering newborns with greater than or equal to 37 and less than 39 weeks of gestation completed (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with elective deliveries (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In 2009, the American College of Obstetricians and Gynecologists (ACOG) published guidelines listing some of the acceptable medical indications for early induction of labor. Early term deliveries (between 37 and 38 weeks gestation) have increased dramatically from 1990 through 2006 and account for 17.5% of live births in the United States (U.S.) (Davidoff et al., 2006). These procedures are conducted without documented evidence supporting medical indication for early delivery. Clark et al. (2009) found that most early elective deliveries are for convenience and result in significant short term neonatal morbidity (neonatal intensive care unit admission rates of 13% to 21%). Clark et al. (2010) conducted a subsequent retrospective cohort study examining 27 hospitals, and determined that when strategies were implemented to reduce non-medically indicated elective early term deliveries, there was a reduction in elective deliveries of 9.6% to 4.3%. Consequently, the rate of term neonatal intensive care admission also fell by 16%. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;According to Glantz (2005), when comparing spontaneous labor, elective inductions result in more cesarean deliveries and longer maternal length of stay. The American Academy of Family Physicians (2000) also notes that elective induction doubles the cesarean delivery rate. Repeat elective cesarean sections before 39 weeks gestation also results in higher rates of adverse respiratory distress syndrome (RDS), mechanical ventilation, sepsis, and hypoglycemia for the newborns (Tita et al., 2009). Newborns born at 37 weeks gestation have a 7.5-fold greater rate of developing RDS versus those born at 39 to 41 weeks gestation. Early-term newborns born at 37 to 38 weeks gestation also are at higher risk for transient tachypnea of the newborn, pulmonary hypertension, hospital stays greater than 5 days as well as diagnoses associated with severe morbidities or death versus newborns delivered at 39 weeks gestation (Engle &amp;amp; Kominiarek, 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Family Physicians (AAFP). Tips from other journals: elective induction doubles cesarean delivery rate. Am Fam Physician. 2000 Feb 15;61(4):1173.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists (ACOG). Induction of labor. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2009 Aug. 12 p.&amp;nbsp;(ACOG practice bulletin; no. 107).&amp;nbsp; [90 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19623003&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark SL, Frye DR, Meyers JA, Belfort MA, Dildy GA, Kofford S, Englebright J, Perlin JA. Reduction in elective delivery at &lt;39 weeks of gestation: comparative effectiveness of 3 approaches to change and the impact on neonatal intensive care admission and stillbirth. Am J Obstet Gynecol. 2010 Nov;203(5):449.e1-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20619388&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark SL, Miller DD, Belfort MA, Dildy GA, Frye DK, Meyers JA. Neonatal and maternal outcomes associated with elective term delivery. Am J Obstet Gynecol. 2009 Feb;200(2):156.e1-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19110225&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Davidoff MJ, Dias T, Damus K, Russell R, Bettegowda VR, Dolan S, Schwarz RH, Green NS, Petrini J. Changes in the gestational age distribution among U.S. singleton births: impact on rates of late preterm birth, 1992 to 2002. Semin Perinatol. 2006 Feb;30(1):8-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16549207&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Engle WA, Kominiarek MA. Late preterm infants, early term infants, and timing of elective deliveries. Clin Perinatol. 2008 Jun;35(2):325-41, vi. [66 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18456072&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Glantz JC. Elective induction vs. spontaneous labor associations and outcomes. J Reprod Med. 2005 Apr;50(4):235-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15916205&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tita AT, Landon MB, Spong CY, Lai Y, Leveno KJ, Varner MW, Moawad AH, Caritis SN, Meis PJ, Wapner RJ, Sorokin Y, Miodovnik M, Carpenter M, Peaceman AM, O'Sullivan MJ, Sibai BM, Langer O, Thorp JM, Ramin SM, Mercer BM, Eunice Kennedy Shriver NICHD Maternal-Fetal Medicine Units Network. Timing of elective repeat cesarean delivery at term and neonatal outcomes. N Engl J Med. 2009 Jan 8;360(2):111-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19129525&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Twenty-six contracted performance measurement systems (PMS) agreed to support the perinatal care measures. Joint Commission staff defined and developed a database structure for electronic receipt of measure data and a verification process was implemented to assure that measures were embedded into the measurement system's technical infrastructures and into their data collection tools in accord with Joint Commission specifications. Joint Commission staff also verified data collection tools and provided education regarding the performance measure set to PMS vendors, who in turn provided education and ongoing support to their contracted hospitals. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Once sufficient data to support this effort were received by The Joint Commission, a reliability assessment of the measures and individual data elements was conducted from October 2011 through January 2012. A data collection tool was developed to facilitate the reabstraction of selected medical records and assessment of the reliability of the data elements. Reliability test site visits were conducted by Joint Commission staff at a subset of 12 randomly-selected hospitals. Selection of the sites was based on multiple characteristics, including hospital demographics, bed size and type of facility. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the course of the reliability site visits, electronic and paper medical records were blindly reabstracted by Joint Commission staff. Reabstracted data elements were then compared with the hospital's originally abstracted data on a data element to data element basis. Differences in abstraction were investigated and adjudicated in order to understand the reasons for any disparities. In addition, structured focus group discussions were held at each site to gather additional feedback on the measures. A resource evaluation was also completed by the site visit hospitals to assess the cost and time associated with data collection effort. Feedback from the focus group discussions has been incorporated into the measure summaries. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement, The Joint Commission, Oakbrook Terrace, IL). Personal communication. 2013 Sep 20. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;8 years to 64 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Female (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges July 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with &lt;em&gt;International Classification of Diseases, Tenth Revision, Procedure Coding System (ICD-10-PCS) Principal Procedure Code&lt;/em&gt; or &lt;em&gt;ICD-10-PCS Other Procedure Codes&lt;/em&gt; for delivery (as defined in the appendices of the original measure documentation) and &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code&lt;/em&gt; or &lt;em&gt;ICD-10-CM Other Diagnosis Codes&lt;/em&gt; for planned cesarean birth in labor (as defined in the appendices of the original measure documentation) and delivering newborns with greater than or equal to 37 and less than 39 weeks of gestation completed &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;ICD-10-CM Principal Diagnosis Code &lt;/em&gt;or&lt;em&gt; ICD-10-CM Other Diagnosis Codes&lt;/em&gt; for conditions possibly justifying elective delivery prior to 39 weeks gestation (as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Less than 8 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Greater than or equal to 65 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length of Stay (LOS) greater than 120 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gestational age less than 37 or greater than or equal to 39 weeks or unable to determine (UTD) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with &lt;em&gt;International Classification of Diseases, Tenth Revision, Procedure Coding System (ICD-10-PCS) Principal Procedure Code&lt;/em&gt; or &lt;em&gt;ICD-10-PCS Other Procedure Codes&lt;/em&gt; for one or more of the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Medical induction of labor (as defined in the appendices of the original measure documentation) while not in &lt;em&gt;Labor&lt;/em&gt; prior to the procedure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cesarean birth (as defined in the appendices of the original measure documentation) and all of the following:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Not in &lt;em&gt;Labor&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;No history of a &lt;em&gt;Prior Uterine Surgery&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Perinatal Care (PC) Initial Patient Population Algorithm Flowchart&lt;/li&gt;&#xA;    &lt;li&gt;PC-01: Elective Delivery Flowchart&lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PC-01: Elective delivery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Quality Core Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Perinatal Care" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No external funding was received.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Perinatal Care Technical Advisory Panel (PC TAP) recommended which National Quality Forum (NQF)-endorsed Perinatal Care measures should be included in the set. Members of the PC TAP are enumerated at: &lt;a href=&quot;http://www.jointcommission.org/assets/1/18/TAP_Members_Web_List.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;http://www.jointcommission.org/assets/1/18/TAP_Members_Web_List.pdf&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with National Quality Forum (NQF) and The Joint Commission's Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 May 1&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Obstetrics and Gynecology" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Inpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This Perinatal Care measure has been adapted from the following National Quality Forum (NQF)-endorsed measure:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Elective Delivery Prior to 39 Completed Weeks Gestation [Hospital Corporation of America - Women's and Children's Clinical Services] &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every six months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for Joint Commission national quality core measures, version 2015B. Oakbrook Terrace (IL): The Joint Commission; Effective 2015 Oct 1. 327 p.  &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://manual.jointcommission.org/bin/view/Manual/WebHome&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by The Joint Commission on January 15, 2010 and reviewed accordingly by ECRI Institute on February 8, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on November 16, 2010 and reviewed accordingly by ECRI Institute on March 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on September 20, 2013 and reviewed accordingly by ECRI Institute on November 15, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on July 21, 2014 and reviewed accordingly by ECRI Institute on September 22, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on October 7, 2015. The information was verified by the measure developer on October 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on June 14, 2016. The information was verified by the measure developer on June 29, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for Joint Commission National Quality Core Measures [Version 2016A, July 2016] is periodically updated by The Joint Commission. Users of the Specifications Manual for Joint Commission National Quality Core Measures must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,221 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Androgen deficiency: percentage of male patients aged 18 years and older with androgen deficiency who are receiving testosterone therapy, who have a hematocrit or hemoglobin test performed within two to six months after initiation of testosterone therapy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Endocrine Society. Diagnosis, treatment, and follow-up of men with androgen deficiency. Physician performance measurement set. Washington (DC): Endocrine Society; 2012 May. 17 p.  [31 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of male patients aged 18 years and older with androgen deficiency who are receiving testosterone therapy, who have a hematocrit or hemoglobin test performed within two to six months after initiation of testosterone therapy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Testosterone-treated men were nearly four times more likely than placebo treated men to experience hematocrit greater than 50% and the risk for a clinically significant increase in hematocrit increases with age (Bhasin et al., 2001; Calof et al., 2005). Men with a pre-treatment hematocrit of greater than 50% are also at increased risk of erythrocytosis (Coviello et al., 2008). Monitoring of hematocrit in men on testosterone replacement can identify individuals who develop erythrocytosis and prevent its medical consequences.&lt;/p&gt;&#xA;&lt;p&gt;Although the guidelines specify hematocrit measurement, documentation of hemoglobin measurement as a surrogate for identification of erythrocytosis is deemed adequate to meet the requirements of this accountability measure.&lt;/p&gt;&#xA;&lt;p&gt;Ideally, hematocrit or hemoglobin test should be completed within 2 to 3 months after initiation of testosterone therapy.&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Supporting Guideline&lt;/span&gt;:&lt;/p&gt;&#xA;&lt;p&gt;The Endocrine Society recommends determining hematocrit at baseline, at 3 months and then annually. If hematocrit is greater than 54%, stop therapy until hematocrit decreases to a safe level, evaluate the patient for hypoxia and sleep apnea, and reinitiate therapy at a reduced dose (Bhasin et al., 2010).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bhasin S, Cunningham GR, Hayes FJ, Matsumoto AM, Snyder PJ, Swerdloff RS, Montori VM, Task Force, Endocrine Society. Testosterone therapy in men with androgen deficiency syndromes: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2010 Jun;95(6):2536-59. [151 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20525905&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bhasin S, Woodhouse L, Casaburi R, Singh AB, Bhasin D, Berman N, Chen X, Yarasheski KE, Magliano L, Dzekov C, Dzekov J, Bross R, Phillips J, Sinha-Hikim I, Shen R, Storer TW. Testosterone dose-response relationships in healthy young men. Am J Physiol Endocrinol Metab. 2001 Dec;281(6):E1172-81. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11701431&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Calof OM, Singh AB, Lee ML, Kenny AM, Urban RJ, Tenover JL, Bhasin S. Adverse events associated with testosterone replacement in middle-aged and older men: a meta-analysis of randomized, placebo-controlled trials. J Gerontol A Biol Sci Med Sci. 2005 Nov;60(11):1451-7.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Coviello AD, Kaplan B, Lakshman KM, Chen T, Singh AB, Bhasin S. Effects of graded doses of testosterone on erythropoiesis in healthy young and older men. J Clin Endocrinol Metab. 2008 Mar;93(3):914-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18160461&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Endocrine Society. Diagnosis, treatment, and follow-up of men with androgen deficiency. Physician performance measurement set. Washington (DC): Endocrine Society; 2012 May. 17 p.  [31 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Androgen deficiency; testosterone therapy; hematocrit; hemoglobin&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All male patients aged 18 years and older with androgen deficiency who are receiving testosterone therapy (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who have a hematocrit or hemoglobin test performed within two to six months after initiation of testosterone therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In population-based surveys of middle aged and older men, symptoms of low libido, erectile dysfunction, hot flushes, fatigue, loss of vigor, irritability, depressed mood, impaired concentration, reduced physical performance, or sleep disturbance, were associated with low testosterone levels. In these surveys, the prevalence of symptomatic androgen deficiency was approximately 6% of the population of middle-aged to older men and increased with age, waist circumference and poor self-reported health status. Hypogonadism is therefore common in American men, yet only 5% of candidates receive treatment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;According to U.S. Census Bureau (2004) projections, the number of Americans ages 65 or older will rise from approximately 35 million (12.4% of all Americans) in 2000 to nearly 55 million (16.3% of total) by 2020 and nearly 87 million (20.7%) in 2050. In addition to a two-fold increase in the number of elderly patients, octogenarians will comprise the fastest-growing population segment according to age (Batchelor, Jollis, &amp;amp; Friesinger, 1999).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This gap in care can profoundly affect the health of our aging men. Even in younger men with symptoms, infertility may be a consequence of androgen deficiency. Male infertility contributes to 50% of all infertility cases. However, both low testosterone and supraphysiologic androgen administration can lead to infertility. The impaired sperm production that supraphysiological testosterone administration causes is often reversible, but in some series has been shown to take anywhere from 3 months to years.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inappropriate testosterone use is also a major concern of these times. In the sports arena, so far, 45 National Football League (NFL) players have had a ban or suspension placed on them. Among Major League Baseball players, 7% have tested positive for steroids. This inappropriate use has trickled down to the U.S. population. According to ProjectEAT, a five-year, longitudinal study, overall, 1.5% of adolescents reported using steroids (vandenBerg et al., 2007). In a 2002 study by Texas A&amp;amp;M University, it was estimated that up to 42,000 Texas students were abusing steroids.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;It is important that testosterone be used to replace hormonal deficiency, and not be used inappropriately in pharmacological doses for enhancement of physical performance or muscular size. The testosterone process measures listed here will assist us to prescribe testosterone to only those individuals in whom it is medically indicated.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Because the diagnosis and management of androgen deficiency in men poses several challenges (symptoms and signs are nonspecific and modified by age, comorbid illness, severity and duration of androgen deficiency, variation in androgen sensitivity, and previous testosterone therapy; evidence of proper care is weak; long-term health consequences of low testosterone levels are unknown for older men and men with chronic illness; the impact of untreated androgen deficiency on mortality is unclear; the benefits and adverse effects of long-term testosterone therapy on patients are not known), these performance measures were determined to be of critical importance to standardize care as outlined in the clinical guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Batchelor WB, Jollis JG, Friesinger GC. The challenge of health care delivery to the elderly patient with cardiovascular disease. Demographic, epidemiologic, fiscal, and health policy implications. Cardiol Clin. 1999 Feb;17(1):1-15, vii. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10093762&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Endocrine Society. Diagnosis, treatment, and follow-up of men with androgen deficiency. Physician performance measurement set. Washington (DC): Endocrine Society; 2012 May. 17 p.  [31 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Census Bureau. 2004 interim national population projections. [internet]. Washington (DC): U.S. Census Bureau; 2004&amp;nbsp;[accessed 2005 Jan 25]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;vandenBerg P, Neumark-Sztainer D, Cafri G, Wall M. Steroid use among adolescents: longitudinal findings from Project EAT. Pediatrics. 2007 Mar;119(3):476-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17332200&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Male (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xA;All male patients aged 18 years and older with androgen deficiency who are receiving testosterone therapy&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision (ICD-9) and Current Procedural Terminology (CPT) coding information.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xA;Documentation of patient reason(s) for not performing a hematocrit or hemoglobin test within two to six months after initiation of testosterone therapy (e.g., patient refusal)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xA;Patients who have a hematocrit or hemoglobin test performed within two to six months after initiation of testosterone therapy&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #3: hematocrit or hemoglobin test.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Diagnosis, Treatment, and Follow-up of Men with Androgen Deficiency Physician Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Endocrine Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Endocrine Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Internal funding and commercially supported&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Work Group Members&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;James Rosenzweig (&lt;em&gt;Chair&lt;/em&gt;) &lt;/li&gt;&#xA;    &lt;li&gt;David Aron, MD &lt;/li&gt;&#xA;    &lt;li&gt;Shalender Bhasin, MD &lt;/li&gt;&#xA;    &lt;li&gt;Jane Cauley, MD, PhD &lt;/li&gt;&#xA;    &lt;li&gt;J. Quentin Clemens, MD &lt;/li&gt;&#xA;    &lt;li&gt;David Cooper, MD &lt;/li&gt;&#xA;    &lt;li&gt;George Dailey, MD &lt;/li&gt;&#xA;    &lt;li&gt;Michael Holick, MD, PhD &lt;/li&gt;&#xA;    &lt;li&gt;Alvin Matsumoto, MD &lt;/li&gt;&#xA;    &lt;li&gt;George Merriam, MD &lt;/li&gt;&#xA;    &lt;li&gt;Abraham Morgentaler, MD &lt;/li&gt;&#xA;    &lt;li&gt;Stephanie Page, MD, PhD &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Stephanie Kutler, Director of Quality Improvement (ES) &lt;/li&gt;&#xA;    &lt;li&gt;Becky Kresowik, Measure Development Consultant &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Society's Diagnosis, Treatment, and Follow-up of Men with Androgen Deficiency Performance Measures were developed by a Society work group, under guidance of the Society's Performance Measures Sub-Committee (PMSC) and the Clinical Affairs Core Committee (CACC). All persons in control of content, including all members of the various Society committees, subcommittees and faculty workgroups, as well as staff, disclose all relevant financial relationships of the individual or spouse/partner that have occurred within the last 12 months with any commercial interest(s) whose products or services are related to the content. Financial relationships are defined by remuneration in any amount from the commercial interest(s) in the form of grants; research support; consulting fees; salary; ownership interest (e.g., stocks, stock options, or ownership interest excluding diversified mutual funds); honoraria or other payments for participation in speakers' bureaus, advisory boards, or boards of directors; or other financial benefits. Any conflicts of interest are resolved prior to the individual's control of content, using the peer-review process as the primary mechanism to resolve conflicts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;At the time of Measure Development - the following Androgen Deficiency Measure Task Force members reported &lt;strong&gt;no&lt;/strong&gt; relevant financial relationships&lt;/em&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;David Aron, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Associate Chief of Staff/Education, Department of Veteran Affairs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jane Cauley, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Professor, University of Pittsburgh&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;J. Quentin Clemens, MD &lt;/strong&gt;&lt;br /&gt;&#xA;Associate Professor of Urology, University of Michigan&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;David Cooper, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Director, Thyroid Clinic, Professor of Medicine, John Hopkins University School of Medicine&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;George Dailey, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Endocrinologist, Diabetes &amp;amp; Metabolism, Scripps Clinical Medical Group&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alvin Matsumoto, MD &lt;/strong&gt;&lt;br /&gt;&#xA;Professor, Department of Medicine &lt;br /&gt;&#xA;Acting Head, Division of Gerontology &amp;amp; Geriatric Medicine &lt;br /&gt;&#xA;University of Washington School of Medicine&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;George Merriam, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Physician; Deputy ACOS/R&amp;amp;D, Department of Veterans Affairs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Abraham Morgentaler, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Associate Clinical Professor of Urology, Harvard Medical School &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stephanie Page, MD, PhD&lt;/strong&gt; &lt;br /&gt;&#xA;Associate Professor, University of Washington School of Medicine &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;James Rosenzweig, MD&lt;/strong&gt; &lt;br /&gt;&#xA;Director of Diabetes Services, Boston Medical Center &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;At the time of Measure Development - the following Androgen Deficiency Measure Task Force members reported relevant financial relationships&lt;/em&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Shalender Bhasin, MD &lt;/strong&gt;&lt;br /&gt;&#xA;Professor &amp;amp; Section Chief, Boston University Medical Center &lt;br /&gt;&#xA;Investigator &amp;amp; Consultant, Abbott &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Michael Holick, MD, PhD&lt;/strong&gt; &lt;br /&gt;&#xA;Professor of Medicine, Physiology and Biophysics, Boston University School of Medicine &lt;br /&gt;&#xA;Investigator &amp;amp; Consultant, Quest; P&amp;amp;G; Novartis; Amgen &lt;/p&gt;&#xA;&lt;p&gt;Endocrine Society staff associated with the development of content reported no relevant financial relationships.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The developer aims to review the module clinical content and modify as appropriate, based on research and revised clinical practice guidelines&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Dec&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in June 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;https://www.endocrine.org/~/media/endosociety/Files/Performance%20Measures/Thyroid%20Nodules%20Performance%20Measures.pdf&quot; title=&quot;The Endocrine Society Web site&quot;&gt;The Endocrine Society Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Endocrine Society at 2055 L. Street, NW, Suite 600, Washington, DC 20036; Phone: 202-971-3636; Fax: 202-736-9705; Web site: &lt;a href=&quot;http://www.endocrine.org&quot; title=&quot;The Endocrine Society Web site&quot;&gt;www.endocrine.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 10, 2015. The information was verified by the measure developer on May 18, 2015. The information was reaffirmed by the measure developer on June 30, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xA;&lt;p&gt;For more information, contact the Endocrine Society at 2055 L. Street, NW, Suite 600, Washington, DC 20036; Phone: 202-971-3636; Fax: 202-736-9705; Web site: &lt;a href=&quot;http://www.endocrine.org&quot; title=&quot;Endocrine Society Web site&quot;&gt;www.endocrine.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Endocrine Society. Diagnosis, treatment, and follow-up of men with androgen deficiency. Physician performance measurement set. Washington (DC): Endocrine Society; 2012 May. 17 p.  [31 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

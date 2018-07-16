@@ -1,0 +1,251 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cataracts: percentage of patients aged 18 years and older in sample who had cataract surgery and had improvement in visual function achieved within 90 days following the cataract surgery, based on completing a pre-operative and postoperative visual function survey.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: improvement in patient's visual function within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 6 p.  [27 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older in sample who had cataract surgery and had improvement in visual function achieved within 90 days following the cataract surgery, based on completing a pre-operative and postoperative visual function survey.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Scientific basis for measuring visual function outcomes after cataract surgery.&#xA;    &lt;p&gt;Visual function has been described as having multiple components, including central near, intermediate, and distance visual acuity; peripheral vision (Brenner et al., 1993); visual search; binocular vision; depth perception; contrast sensitivity; perception of color; adaptation; and visual processing speed (Sloane et al., 1992). Visual function also can be measured in terms of functional disability caused by visual impairment (Steinberg et al., &quot;The VF-14,&quot; 1994). Many activities are affected by more than one of these visual components.&lt;/p&gt;&#xA;    &lt;p&gt;Health services researchers have increasingly emphasized function and quality of life as the outcomes of treatment that are most critical and applicable to the patient. As previously stated, the primary purpose in managing a patient with cataract is to improve functional vision and the quality of life. In well designed observational studies, cataract surgery consistently has been shown to have a significant impact on vision-dependent function. The Cataract Patient Outcomes Research Team (PORT) reported that 90% of patients under-going first-eye cataract surgery noted improvement in functional status and satisfaction with vision (Schein et al., 1994). The Activities of Daily Vision Study of elderly patients with a high prevalence of coexisting ocular and medical diseases reported improved visual function in 80% of patients at 12 months after surgery (Mangione et al., 1994). A National Cataract Study conducted in England of 1,139 patients who had cataract surgery found that preoperative functional impairment varied in relation to gender, age, and visual acuity. Men were more likely to have trouble with driving, glare, and employment, and women were more likely to have difficulties with activities of daily living and recreational activities (Desai, Minassian, &amp;amp; Reidy, 1999). Studies have found that regardless of the preoperative visual acuity in the better eye, most patients reported improvement in their ability to perform visually dependent tasks after undergoing cataract surgery (Schein et al., 1994; Mangione et al., 1994; Desai, Minassian, &amp;amp; Reidy, 1999).&lt;/p&gt;&#xA;    &lt;p&gt;Several studies have reported an association between improved visual function after cataract surgery and improved health-related quality of life (Brenner et al., 1993; Mangione et al., 1994; M&amp;ouml;nestam &amp;amp; Wachtmeister, 1999; Steinberg et al., &quot;National study,&quot; 1994). Visual function plays an important role in physical function, particularly in terms of mobility (Damiano et al., 1995). The loss of visual function in the elderly is associated with a decline in physical and mental functioning as well as in independence in activities of daily living (Salive et al., 1994), including night-time driving, daytime driving, community activities, and home activities. Elderly patients with visual impairment only (and no other physical or mental impairments) were 2.5 times as likely to experience functional decline than elderly patients without visual impairment. &lt;/p&gt;&#xA;    &lt;p&gt;Improved visual function following cataract surgery can ameliorate the progressive deterioration of quality of life seen in elderly patients (Brenner et al., 1993; Mangione et al., 1994). In a cohort of 464 patients 65 years old and older, cataract extraction improved visual function and health-related quality of life. Patients with an improvement in their Activities of Daily Vision Scale (ADVS), a brief measure of vision-specific functional status (Laforge, Spector, &amp;amp; Sternberg, 1992), had from 10% to 59% less decline in nearly all Short Form (SF)-36 dimensions (Mangione et al., 1994). The SF-36 is a generic global measure of multidimensional health-related quality of life (Mangione et al., 1992). A nationally representative population of 7,114 persons who were 70 years old and older showed that limitations in vision correlated with decreased functional status (Ware &amp;amp; Sherbourne, 1992). The unadjusted functional score of a person with reported poor vision was four times worse than the score for a person with excellent vision (Ware &amp;amp; Sherbourne, 1992). This difference was comparable with the differences found in other chronic conditions such as arthritis. This relationship with vision persisted, even after adjustment for health, demographics, and economic status. Individuals who rated their vision as other than excellent reported worse functional status, even when controlled for the presence of other medical conditions, education, income, general health status, and other symptoms. By improving visual function, cataract surgery may play an important role in preserving overall functional status, reducing associated injuries and accidents, and preventing disability in at-risk elderly patients (Salive et al., 1994).&lt;/p&gt;&#xA;    &lt;p&gt;An analysis of the Medical Outcomes Study found that having blurred vision more than once or twice a month has a significant impact on functional status and well-being, particularly on problems with work or other daily activities as a result of physical health (Lee, Smith, &amp;amp; Kington, 1999). This impact was found to be greater than the impact of several other chronic conditions, such as hypertension, history of myocardial infarction, type 2 diabetes mellitus, indigestion, trouble urinating, and headache. In one study, patients planning to undergo cataract surgery assigned a mean preoperative preference value of 0.68 on a scale ranging from 0 to 1 (where 0 is death and 1 is excellent health), indicating that the visual impairment from cataracts had a substantial impact on their quality of life (Laforge, Spector, &amp;amp; Sternberg, 1992). Visual impairment is an important risk factor for falls (Lee, Spritzer, &amp;amp; Hays, 1997) and for hip fracture (Tinetti, Speechley, &amp;amp; Ginter, 1988). Specifically, the Study for Osteoporotic Fractures Research Group found that poor depth perception and decreased contrast sensitivity independently increased the risk of hip fracture (Felson et al., 1989).&lt;/p&gt;&#xA;    &lt;p&gt;Visual impairment, in particular a decrease of visual acuity and contrast sensitivity, has been shown to be associated with difficulties in driving (Cummings et al., 1995). In one study, older drivers with visually significant cataract were twice as likely as older drivers without cataract to report reduction in days driven and four times as likely to report difficulties in challenging driving situations (McGwin, Chapman, &amp;amp; Owsley, 2000). Drivers with visually significant cataract were 2.5 times more likely to have had an at-fault involvement in a motor vehicle crash in the past 5 years compared with drivers without cataract (McGwin, Chapman, &amp;amp; Owsley, 2000). This association was significant, even after accounting for other factors such as impaired general health, age, mental status deficit or depression. In this study, visually significant cataract was determined by reviewing the participant's medical record and most recent eye examination by an eye care specialist. The study required that cataract in both eyes was the cause of the visual impairment, based on the medical record; an additional inclusion criterion was best corrected visual acuity in one eye of 20/40 or worse. A further study in the same group demonstrated that drivers with a history of crash involvement were eight times more likely to have a serious contrast sensitivity deficit (defined as a Pelli-Robson score of 1.25 or less) in the worse eye than those who had no history of crash involvement (Owsley et al., 1999). A severe contrast sensitivity deficit in only one eye was still significantly associated with crash involvement (Owsley et al., 1999).&lt;/p&gt;&#xA;    &lt;p&gt;Binocular vision is better than the vision of a single eye. The simultaneous use of the two eyes is complex and requires the integration of disparate images from each eye. A study demonstrated that binocular vision resulted in better perception of form, color, and the relationship of the body to the environment, which facilitated manipulation, reaching, and balance, particularly under dim illumination (Owsley et al., 2001). However, if the vision of one eye is reduced due to cataract, visual performance can fall below the level of monocular vision by a mechanism known as binocular inhibition (Jones &amp;amp; Lee, 1981), which reduces patients' visual acuity and contrast sensitivity (Pardhan &amp;amp; Gilchrist, 1991). A study of the Framingham Study Cohort found that poor vision in one or both eyes was associated with an increased risk of hip fracture. It also found that patients with good vision in one eye and moderately impaired vision in the other eye had a higher risk of fracture than those with similar visual impairment in both eyes (Taylor, Misson, &amp;amp; Moseley, 1991). A study of 150 patients before and after cataract surgery found that poor binocular visual acuity was related to more problems in activities of daily living (Lundstr&amp;ouml;m, Fregell, &amp;amp; Sj&amp;ouml;blom, 1994). Another study, based on patients who reported no beneficial outcomes after first-eye cataract surgery in the National Swedish Cataract Outcome register, found that anisometropia was the reason for the poor outcome in one-third of cases (Lundstr&amp;ouml;m et al., 2000). These studies have shown that second-eye surgery is important to visual and physical function. &lt;/p&gt;&#xA;    &lt;p&gt;In summary, these studies demonstrate that physical function, emotional well-being, and overall quality of life can be enhanced when visual function is restored by cataract extraction (Cataract Management Guideline Panel, 1993).&lt;/p&gt;&#xA;    &lt;p&gt;Improved visual function as a result of cataract surgery includes the following: &lt;/p&gt;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Better optically corrected vision &lt;/li&gt;&#xA;        &lt;li&gt;Better uncorrected vision with reduced spectacle dependence &lt;/li&gt;&#xA;        &lt;li&gt;Increased ability to read or do near work &lt;/li&gt;&#xA;        &lt;li&gt;Reduced glare &lt;/li&gt;&#xA;        &lt;li&gt;Improved ability to function in dim levels of light &lt;/li&gt;&#xA;        &lt;li&gt;Improved depth perception and binocular vision &lt;/li&gt;&#xA;        &lt;li&gt;Improved color vision &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;p&gt;Improved physical function as a critical outcome of cataract surgery includes the following: &lt;/p&gt;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Increased ability to perform activities of daily living &lt;/li&gt;&#xA;        &lt;li&gt;Increased opportunity to continue or resume an occupation &lt;/li&gt;&#xA;        &lt;li&gt;Increased mobility (walking, driving) &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;p&gt;Improved mental health and emotional well-being as a second critical outcome of cataract surgery includes the following benefits: &lt;/p&gt;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;Improved self-esteem and independence &lt;/li&gt;&#xA;        &lt;li&gt;Increased ability to avoid injury &lt;/li&gt;&#xA;        &lt;li&gt;Increased social contact and ability to participate in social activities &lt;/li&gt;&#xA;        &lt;li&gt;Relief from fear of blindness &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;p&gt;Most patients achieve improved visual function after cataract surgery. This outcome is achieved consistently through careful attention through the patient selection process, accurate measurement of axial length and corneal power, appropriate selection of an intraocular lens (IOL) power calculation formula, etc. As such, it reflects the care and diligence with which the surgery is assessed, planned and executed. Failure to achieve this after surgery would reflect patterns of patient selection or treatment that should be assessed for opportunities for improvement. &lt;/p&gt;&#xA;    &lt;p&gt;Sometimes cataract surgery is performed for other medical reasons other than to improve impaired visual function caused by cataract. These circumstances include the following: clinically significant anisometropia in the presence of a cataract; when the lens opacity interferes with optimal diagnosis or management of posterior segment conditions, when the lens causes inflammation (phacolysis, phacoanaphylaxis) and when the lens induces angle closure (phacomorphic or phacotopic). In these situations, improved visual function as a result of the removal of the cataract is not expected, because of the pre-existing comorbid conditions. &lt;/p&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Evidence of a gap in care&#xA;    &lt;p&gt;This is an outcome of surgery indicator of direct relevance and import to patients, their families and referring providers. The available evidence suggests that cataract surgery achieves this in about 90% of patients. While the potential for improvement is seemingly small, the volume of cataract surgery in the United States (U.S.) of over 2.8 million surgeries means that the impact could affect more than 100,000 patients per year. Ideally, performance on this indicator would be as high as possible, with lower rates suggestive of opportunities for improvement.&lt;/p&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: improvement in patient's visual function within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 6 p.  [27 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brenner MH, Curbow B, Javitt JC, Legro MW, Sommer A. Vision change and quality of life in the elderly. Response to cataract surgery and treatment of other chronic ocular conditions. Arch Ophthalmol. 1993 May;111(5):680-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8489453&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cataract Management Guideline Panel. Cataract in adults: management of functional impairment. Rockville (MD): U.S. Department of Health and Human Services (DHHS); 1993 Feb 25. &amp;nbsp;(Clinical practice guideline; no. 4).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cummings SR, Nevitt MC, Browner WS, Stone K, Fox KM, Ensrud KE, Cauley J, Black D, Vogt TM. Risk factors for hip fracture in white women. Study of Osteoporotic Fractures Research Group. N Engl J Med. 1995 Mar 23;332(12):767-73. [60 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7862179&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Damiano AM, Steinberg EP, Cassard SD, Bass EB, Diener-West M, Legro MW, Tielsch J, Schein OD, Javitt J, Kolb M. Comparison of generic versus disease-specific measures of functional impairment in patients with cataract. Med Care. 1995 Apr;33(4 Suppl):AS120-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7723440&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Desai P, Minassian DC, Reidy A. National cataract surgery survey 1997-8: a report of the results of the clinical  outcomes. Br J Ophthalmol. 1999 Dec;83(12):1336-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10574810&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson PW, Kiel DP. Impaired vision and hip fracture. The Framingham Study. J Am Geriatr Soc. 1989 Jun;37(6):495-500. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2715555&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jones RK, Lee DN. Why two eyes are better than one: the two views of binocular vision. J Exp Psychol Hum Percept Perform. 1981 Feb;7(1):30-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6452501&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Laforge RG, Spector WD, Sternberg J. The relationship of vision and hearing impairment to one-year mortality and functional decline. J Aging Health. 1992;4:126-48.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lee P, Smith JP, Kington R. The relationship of self-rated vision and hearing to functional status and well-being among seniors 70 years and older. Am J Ophthalmol. 1999 Apr;127(4):447-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10218698&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lee PP, Spritzer K, Hays RD. The impact of blurred vision on functioning and well-being. Ophthalmology. 1997 Mar;104(3):390-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9082261&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lundström M, Brege KG, Florén I, Stenevi U, Thorburn W. Impaired visual function after cataract surgery assessed using the Catquest questionnaire. J Cataract Refract Surg. 2000 Jan;26(1):101-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10646155&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lundström M, Fregell G, Sjöblom A. Vision related daily life problems in patients waiting for a cataract extraction. Br J Ophthalmol. 1994 Aug;78(8):608-11. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7918286&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mangione CM, Phillips RS, Lawrence MG, Seddon JM, Orav EJ, Goldman L. Improved visual function and attenuation of declines in health-related quality of life after cataract extraction. Arch Ophthalmol. 1994 Nov;112(11):1419-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7980131&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mangione CM, Phillips RS, Seddon JM, Lawrence MG, Cook EF, Dailey R, Goldman L. Development of the 'activities of daily vision scale'. A measure of visual functional status. Med Care. 1992 Dec;30(12):1111-26. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1453816&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McGwin G Jr, Chapman V, Owsley C. Visual risk factors for driving difficulty among older drivers. Accid Anal Prev. 2000 Nov;32(6):735-44.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mönestam E, Wachtmeister L. Impact of cataract surgery on visual acuity and subjective functional outcomes: a population-based study in Sweden. Eye (Lond). 1999 Dec;13 (Pt 6):711-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10707130&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Owsley C, Stalvey B, Wells J, Sloane ME. Older drivers and cataract: driving habits and crash risk. J Gerontol A Biol Sci Med Sci. 1999 Apr;54(4):M203-11.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Owsley C, Stalvey BT, Wells J, Sloane ME, McGwin G Jr. Visual risk factors for crash involvement in older drivers with cataract. Arch Ophthalmol. 2001 Jun;119(6):881-7.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pardhan S, Gilchrist J. The importance of measuring binocular contrast sensitivity in unilateral cataract. Eye (Lond). 1991;5 (Pt 1):31-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2060667&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Salive ME, Guralnik J, Glynn RJ, Christen W, Wallace RB, Ostfeld AM. Association of visual impairment with mobility and physical function. J Am Geriatr Soc. 1994 Mar;42(3):287-92. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8120313&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schein OD, Steinberg EP, Javitt JC, Cassard SD, Tielsch JM, Steinwachs DM, Legro MW, Diener-West M, Sommer A. Variation in cataract surgery practice and clinical outcomes. Ophthalmology. 1994 Jun;101(6):1142-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8008356&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sloane ME, Ball K, Owsley C, et al. The Visual Activities Questionnaire: developing an instrument for assessing problems in everyday visual tasks. Tech Dig, Noninvasive Assess Visual Syst. 1992;1:26-9.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinberg EP, Tielsch JM, Schein OD, Javitt JC, Sharkey P, Cassard SD, Legro MW, Diener-West M, Bass EB, Damiano AM, et al. The VF-14. An index of functional impairment in patients with cataract. Arch Ophthalmol. 1994 May;112(5):630-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8185520&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinberg EP, Tielsch JM, Schein OD, Javitt JC, Sharkey P, Cassard SD, Legro MW, Diener-West M, Bass EB, Damiano AM. National study of cataract surgery outcomes. Variation in 4-month postoperative outcomes as reflected in multiple outcome measures. Ophthalmology. 1994 Jun;101(6):1131-40; discussion 1140-1. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8008355&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Taylor RH, Misson GP, Moseley MJ. Visual acuity and contrast sensitivity in cataract: summation and inhibition of visual performance. Eye (Lond). 1991;5 (Pt 6):704-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1800170&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tinetti ME, Speechley M, Ginter SF. Risk factors for falls among elderly persons living in the community. N Engl J Med. 1988 Dec 29;319(26):1701-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3205267&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection. Med Care. 1992 Jun;30(6):473-83. [45 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1593914&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eye care; cataract surgery; visual function&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older who had cataract surgery (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients 18 years and older who had improvement in visual function achieved within 90 days following cataract surgery, based on completing a pre-operative and post-operative visual function survey (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 18 years and older who had cataract surgery&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patients 18 years and older who had improvement in visual function achieved within 90 days following cataract surgery, based on completing a pre-operative and post-operative visual function survey &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;br /&gt;&#xA;​​​​​​&lt;em&gt;Improvement in Visual Function&lt;/em&gt;: The strategy to identify improvement in visual function is as follows. The instrument proposed for visual function evaluation is the Rasch-scaled Short Version of the Visual Function-14 (VF-8R). Reliability and validity testing have been performed on the VF-14 as well as the VF-8R. This instrument is scored on a scale of 0-100, with 0 indicating the lack of ability to perform functional activities and 100 indicating complete ability to perform functional activities. The difference between the pre-operative and post-operative scores on the VF-8R indicates a change in functional activities. Improvement in visual function would be defined as an increase in the visual function score between pre-operative and post-operative assessment on the VF-8R in the range of 5 points or greater.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patient care survey was not completed by patient&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Clinically Diagnosed Condition" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Rasch-scaled Short Version of the Visual Function-14 (VF-8R)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #303: cataracts: improvement in patient's visual function within 90 days following cataract surgery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Eye Care Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Academy of Ophthalmology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Eye Care Work Group (&lt;em&gt;specialty&lt;/em&gt;)&lt;/span&gt;:&lt;br /&gt;&#xA;Priscilla P. Arnold, MD (&lt;em&gt;Co-chair&lt;/em&gt;) (ophthalmologist)&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Surgical Management Subgroup&lt;/span&gt;:&lt;br /&gt;&#xA;David Chang, MD (ophthalmologist)&lt;br /&gt;&#xA;Leon W. Herndon, MD (ophthalmologist)&lt;br /&gt;&#xA;Kevin Miller, MD (ophthalmologist)&lt;br /&gt;&#xA;John T. Thompson, MD (ophthalmologist)&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Staff&lt;/span&gt;:&lt;br /&gt;&#xA;Flora Lum, MD, American Academy of Ophthalmology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2013 Apr 11&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Ambulatory Surgery Center Quality Reporting Program" />
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reviewed and updated if appropriate on an annual cycle.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Academy of Ophthalmology (AAO) at 655 Beach Street, San Francisco, CA 94109; Phone: 415-561-8500; Fax: 415-561-8533; Web site: &lt;a href=&quot;http://www.aao.org&quot; title=&quot;AAO Web site&quot;&gt;www.aao.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 30, 2015. The information was verified by the measure developer on May 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 16, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xA;&lt;p&gt;Please contact Debra Marchi at the American Academy of Ophthalmology (AAO), &lt;a href=&quot;mailto:dmarchi@aao.org&quot;&gt;dmarchi@aao.org&lt;/a&gt;, regarding use and reproduction of these measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: improvement in patient's visual function within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 6 p.  [27 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

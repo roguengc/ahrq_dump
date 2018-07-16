@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;In-center hemodialysis patients' satisfaction with care: in-center hemodialysis patients' overall rating of their dialysis center.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS Survey global ratings and composites. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2013 Mar 1. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS® Survey. Survey administration and specifications manual. Version 6.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2018 Feb. 430 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess adult in-center hemodialysis patients' perceptions of their experiences with in-center dialysis care. Patients rate their dialysis center on a scale from 0 to 10, where 0 is the worst dialysis center possible and 10 is the best dialysis center possible. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End-stage renal disease (ESRD) is a particularly complex condition: patients require either dialysis or a kidney transplant to survive, and typically have comorbid conditions such as diabetes and hypertension, high levels of cognitive impairment, and low levels of literacy. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As a result of legislation passed in 1972, Medicare pays for more than two-thirds of the expenditures for care for patients with ESRD. In 2000, the U.S. Office of the Inspector General recommended developing a standardized experience of care survey of patients with ESRD in order to provide valid comparative information to the public. MedPac's Report to Congress in 2003 also reiterated the need to evaluate ESRD patient satisfaction. In response to these recommendations and to ensure quality of care for dialysis patients, the Centers for Medicare &amp;amp; Medicaid Services (CMS) decided to work with the Agency for Healthcare Research and Quality (AHRQ) to develop a survey that could be used both for internal quality improvement at the facility level and for public reporting to patients and caregivers. CMS has been reporting comparative clinical information at the facility level since January of 2001 on its &lt;a href=&quot;https://www.medicare.gov/dialysisfacilitycompare/#search&quot; title=&quot;Dialysis Facility Compare Web site&quot; target=&quot;_blank'&quot;&gt;Dialysis Facility Compare Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The In-Center Hemodialysis CAHPS Survey asks adults with ESRD about their experiences with care from dialysis facilities. Both dialysis facilities and End-Stage Renal Disease Networks (known simply as Networks) can use this tool to measure and improve the patient-centeredness of their care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). About CAHPS In-Center Hemodialysis Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2015 Apr. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End-stage renal disease (ESRD); in-center hemodialysis; patient experience; overall rating of dialysis center&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All currently dialyzing in-center hemodialysis patients age 18 years and older who answered the &quot;Rating of Dialysis Center&quot; item on the In-Center Hemodialysis (ICH) CAHPS Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In-center hemodialysis patients' rating of their dialysis center on a scale from 0 to 10, where 0 is the worst dialysis center possible and 10 is the best dialysis center possible (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="Focus groups" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The development of this CAHPS survey involved several steps, including a review of existing surveys, a scientific assessment of potential items, public input, cognitive testing, and field testing, which includes psychometric analyses of the performance of items and their domains. All of these steps contributed to the drafting of the questionnaire and subsequent revisions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Cognitive Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In early spring of 2004, the instrument underwent an initial round of cognitive testing with a total of 30 dialysis patients. The team used the cognitive testing findings along with the public comments the Agency for Healthcare Research and Quality (AHRQ) received as the basis for revisions to the draft. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;A second round of cognitive testing was conducted in May and June of 2004. The survey was further revised, then translated into Spanish, and prepared for a third round of cognitive testing with Spanish-speaking dialysis patients, completed in September 2004.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pilot Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The CAHPS grantees conducted a pilot test during the winter of 2004-2005 with a representative sample of 32 facilities that varied with respect to region, size of facility, rural/urban location, hospital affiliation, and tax status. A sample size of 3,143 patients was used. The final number of respondents was 1,454, with an overall response rate of 46%: 56% responded by telephone, while 44% responded by mail.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The purpose of the pilot test was to examine the reliability and validity of the draft survey questions, identify those questions most robust for public reporting and those most appropriate for internal quality improvement, and evaluate different data collection strategies. Specifically, researchers involved in the pilot did the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Evaluated the psychometric properties of the questions with the aim of reducing the number of items in the final survey; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tested two modes of administration (telephone; mail with telephone follow-up); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Examined the need for assistance in completing the survey; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tracked the involvement of facilities in promoting the survey; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evaluated the use of Spanish interpreters. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The field test showed that the vast majority of items on the survey performed well in the field; based on psychometric criteria, only four items were recommended for deletion. The final instrument reflects these recommendations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). About CAHPS In-Center Hemodialysis Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2015 Apr. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;July 1 to September 30 and April 1 to June 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All currently dialyzing in-center hemodialysis patients age 18 years and older who answered the &quot;Rating of Dialysis Center&quot; item on the In-Center Hemodialysis (ICH) CAHPS Survey&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The sample patient reported that they are not currently receiving dialysis. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient is reported as deceased during the data collection period. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient is under age 18. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient is receiving hospice care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient resides in a nursing home or other skilled nursing facility or other long-term facility, such as a jail or prison. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient received dialysis care at home. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient received dialysis care for less than three months. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient does not speak any of the approved ICH CAHPS Survey language(s) which the vendor is administering for that facility. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient is unable to complete the survey because he or she is mentally or physically incapable. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The sample patient reported that they no longer receive ICH care at the sampled facility. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;In-center hemodialysis patients' rating of their dialysis center on a scale from 0 to 10, where 0 is the worst dialysis center possible and 10 is the best dialysis center possible&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Include all completed questionnaires. A questionnaire is considered to be &quot;complete&quot; if at least 50 percent of the &quot;core In-Center Hemodialysis (ICH) CAHPS&quot; questions that are applicable to all sample patients are answered. Refer to Table 9-2 in the original measure documentation for the core ICH CAHPS questions that are applicable to all sample patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In-Center Hemodialysis CAHPS&amp;reg; Survey 6.0&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The survey results are statistically adjusted for mode, nonresponse, and patient mix.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Adjustment of Results&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In early 2014, the In-Center Hemodialysis (ICH) CAHPS Coordination Team conducted a mode experiment to test the effects of using three data collection modes: mail only, telephone only, and mixed mode (mail with telephone follow-up of nonrespondents). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Because some patients' assessment of the care they received from ICH facilities may be influenced by patient characteristics that are beyond the ICH facilities' control, the Centers for Medicare and Medicaid Services (CMS) used data from the mode experiment to determine whether and to what extent characteristics of patients participating in the ICH CAHPS Survey statistically affect survey results. Statistical models were developed to adjust or control for these patient characteristics when survey results are publicly reported. Also, some patients might not respond to the survey, and this might affect the accuracy and comparability of results. Therefore, the data from the mode experiment were analyzed to detect potential nonresponse bias. The Coordination Team uses results of these analyses to apply statistical adjustments that need to be made on each semiannual submission of the ICH CAHPS Survey data during the national implementation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of the analysis of data from the ICH CAHPS Survey Mode Experiment showed significant differences in patients' ratings and assessment of their hemodialysis care based on survey mode and in responses to the survey items that are attributable to patient mix characteristics. A total of 13 patient mix characteristics and survey mode were found to be statistically significant in at least one of the regression models. The 14 adjusters (13 patient characteristics plus survey mode) include the following: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Mode of survey administration &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall mental health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heart disease &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Deaf or serious difficulty hearing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Blind or serious difficulty seeing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Difficulty concentrating, remembering, or making decisions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Difficulty dressing or bathing &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sex &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Education &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does the patient speak a language other than English at home &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Did someone help the patient complete this survey &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total number of years on dialysis &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;During each ICH CAHPS public reporting period, CMS and its Coordination Team will use data from the two most recent semiannual ICH CAHPS Surveys to derive the 13 patient mix adjustment factors using coefficients obtained from Ordinary Least Squares regression models for the top- and bottom-box scores for each of the three global ratings and the three composite measures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Patient-Mix Coefficients for the In-Center Hemodialysis CAHPS (ICH CAHPS) Survey Results Publicly Reported in January 2018&lt;/em&gt; for additional information (see the &quot;Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Rating of dialysis center.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="In-Center Hemodialysis (ICH) CAHPS Survey" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+      <FieldValue Value="CAHPS Consortium - Health Care Quality Collaboration" />
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Agency for Healthcare Research and Quality (AHRQ) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;American Institutes for Research (AIR) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Harvard Medical School &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;RAND &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Westat &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 7&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Dialysis Facility Compare (DFC)" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2018 Feb" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS Survey global ratings and composites. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2015. 3 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS&amp;reg; Survey. Survey administration and specifications manual. Version 4.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Feb. 146 p.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://ichcahps.org/SurveyandProtocols.aspx&quot; title=&quot;In-Center Hemodialysis (ICH) CAHPS Survey Web site&quot;&gt;In-Center Hemodialysis (ICH) CAHPS Survey Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact RTI International at E-mail: &lt;a href=&quot;mailto:ichcahps@rti.org&quot;&gt;ichcahps@rti.org&lt;/a&gt;; Phone: 1-866-245-8083; Web site: &lt;a href=&quot;https://ichcahps.org/Home.aspx&quot; title=&quot;In-Center Hemodialysis CAHPS Survey Web site&quot;&gt;ichcahps.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dialysis facility compare: a quality tool provided by Medicare. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2018 Mar 16]. Available from the &lt;a href=&quot;https://www.medicare.gov/dialysisfacilitycompare/&quot; title=&quot;Medicare Web site&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). About CAHPS In-Center Hemodialysis Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2015 Apr. 4 p. Available from the &lt;a href=&quot;https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/ich/about/about_cahps_in-center_hemodialysis_survey_2015.pdf&quot; title=&quot;CAHPS Web site&quot; target=&quot;_blank&quot;&gt;CAHPS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). Patient-mix coefficients for the In-Center Hemodialysis CAHPS (ICH CAHPS) survey results publicly reported in January 2018. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2018 Jan. 11 p. Available from the &lt;a href=&quot;https://ichcahps.org/Portals/0/PublicReporting/ICHCAHPS_coefficients_for_2018_Surveys.docx&quot; title=&quot;ICH CAHPS Web site&quot;&gt;ICH CAHPS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on May 14, 2007. The information was verified by the measure developer on July 25, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer informed NQMC that updated measure documentation was available for this measure on August 6, 2009 and related fields in this NQMC summary were updated accordingly. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 2, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 31, 2016. The information was verified by the measure developer on June 24, 2016. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on March 29, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS Survey global ratings and composites. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2013 Mar 1. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). In-Center Hemodialysis CAHPS® Survey. Survey administration and specifications manual. Version 6.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2018 Feb. 430 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

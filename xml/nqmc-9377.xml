@@ -1,0 +1,226 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Total knee replacement: percentage of patients undergoing total knee replacement whose operative report identifies the prosthetic implant specifications including the prosthetic implant manufacturer, the brand name of the prosthetic implant, and the size of each prosthetic implant.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Hip and Knee Surgeons. Total knee replacement performance measurement set. Rosemont (IL): American Association of Hip and Knee Surgeons; 2015. 29 p.  [25 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients undergoing total knee replacement whose operative report identifies the prosthetic implant specifications including the prosthetic implant manufacturer, the brand name of the prosthetic implant, and the size of each prosthetic implant.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;It is important to capture the type of prosthesis used. The rates of prosthesis failure which will require a revision increases from 10 percent at 10 years to approximately 20 percent at 20 years following surgery (National Institutes of Health, 2003). The Food and Drug Administration (FDA) requires appropriate tracking of the device but this information may not be readily available to the surgeon performing the revision. The surgeon performing the revision needs to be able to identify the prosthesis and size of the prosthesis that were used in the initial surgery, to determine if a complete revision is required or if a partial revision could be performed. The initial operative report should contain the necessary information which will ultimately help the future treating physician who performs the revision surgery.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SooHoo et al. study used a quality indicator that included 4 elements that should be documented in an operative note. The elements included knee stability, range of motion, patellar tracking, and the implants used in the procedure. The variation between the 3 hospitals where the total knee replacement operative notes included the 4 important elements, ranged from 26 to 59 percent (SooHoo et al., 2011).&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines: &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Effective tracking of devices from the manufacturing facility, through the distributor network (including distributors, retailers, rental firms and other commercial enterprises, device user facilities, and licensed practitioners) and ultimately, to the patient is necessary for the effectiveness of remedies prescribed by the act, such as patient notification (section 518 [a] of the act) or device recall (section 518 [e] of the act) (Federal Register, 2008).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Hip and Knee Surgeons. Total knee replacement performance measurement set. Rosemont (IL): American Association of Hip and Knee Surgeons; 2013 Jan. 29 p.  [25 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Federal Register. Medical Device Tracking Requirements. 21:821. 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;SooHoo NF, Tang EY, Krenek L, Eagan M, McGlynn E. Variations in the quality of care delivered to patients undergoing total knee replacement at 3 affiliated hospitals. Orthopedics. 2011 May;34(5):e43-9.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total knee replacement; operative report; prosthetic implant specifications &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients undergoing a total knee replacement (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients whose operative report identifies the prosthetic implant specifications including the prosthetic implant manufacturer, the brand name of the prosthetic implant, and the size of each prosthetic implant&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;High Impact Topic Area&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;During 1991 to 2010, the rate of primary total knee replacement procedures among the Medicare population increased over 161 percent from 93,230 procedures in 1991 to 243,802 procedures in 2010. The rate of revision procedures increased over 105 percent from 9,650 to 19,871 procedures. The majority of the primary total knee replacements were performed on women (approximately 65 percent) (Cram et al., 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Centers for Disease Control and Prevention (CDC) found that the overall total knee replacement rate increased 58% (from 5.5 to 8.7 per 1,000 population) between 2000 and 2006. Similar increases were observed by sex, age group, and black or white race. Total knee replacement rates were 37 percent lower among blacks than whites (3.6 versus 5.7 per 1,000 population) in 2000, and 39% lower in 2006 (5.6 versus 9.2). In both years, the black/white disparity was lower among women (23% and 28%) than among men (63% and 60%). In 2006, blacks had a lower total knee replacement procedures among the Medicare population increased over 161 percent from 93,230 procedures in 1991 to 243,802 procedures rate than whites in all 50 states and the District of Columbia (CDC, 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2004 there were over 450,000 total knee replacements performed in the United States (American Academy of Orthopedic Surgeons [AAOS], 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Between 2007 and 2009, over 22 percent of adults reported they had been diagnosed with arthritis (CDC, 2010). As the population ages, there will be an increased growth in the number of procedures. It is estimated that the number of total knee replacements performed per year could be over 3 million by the year 2030 (Kurtz et al., 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Costs&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;Medicare paid approximately $3.2 billion in 2000 for hip and knee joint replacements (Agency for Healthcare Research and Quality, 2003).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The overall inpatient costs for replacement of the knee during 2007 was over $9.2 billion with hospital stays of more than 605,000 (Stranges, Russo, &amp;amp; Friedman, 2009).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality. Total knee replacement: summary. Rockville (MD): Agency for Healthcare Research and Quality; 2003 Dec. 8 p.&amp;nbsp;(Evidence report/technology assessment; no. 86).&amp;nbsp; [100 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Orthopaedic Surgeons (AAOS). The burden of musculoskeletal diseases in the United States. 2nd ed. Rosemont (IL): American Academy of Orthopaedic Surgeons; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Hip and Knee Surgeons. Total knee replacement performance measurement set. Rosemont (IL): American Association of Hip and Knee Surgeons; 2013 Jan. 29 p.  [25 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation --- United States, 2007-2009. MMWR Morb Mortal Wkly Rep. 2010 Oct 8;59(39):1261-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20930703&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Racial disparities in total knee replacement among Medicare enrollees--United States, 2000-2006. MMWR Morb Mortal Wkly Rep. 2009 Feb 20;58(6):133-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19229164&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cram P, Lu X, Kates SL, Singh JA, Li Y, Wolf BR. Total knee arthroplasty volume, utilization, and outcomes among Medicare beneficiaries, 1991-2010. JAMA. 2012 Sep 26;308(12):1227-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23011713&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kurtz S, Ong K, Lau E, Mowat F, Halpern M. Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030. J Bone Joint Surg Am. 2007 Apr;89(4):780-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17403800&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stranges E, Russo A, Friedman B. Procedures with the most rapidly increasing hospital costs, 2004-2007. Rockville (MD): Agency for Healthcare Research and Quality; 2009 Dec. 9 p.&amp;nbsp;(H-CUP Statistical Brief; no. 82).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Making Quality Care More Affordable&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Efficiency" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;All patients undergoing a total knee replacement&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for Current Procedural Terminology (CPT) codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients whose operative report identifies the prosthetic implant specifications including the prosthetic implant manufacturer, the brand name of the prosthetic implant, and the size of each prosthetic implant&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #5: identification of implanted prosthesis in operative report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Total Knee Replacement Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Association of Hip and Knee Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Association of Hip and Knee Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Total Knee Replacement Work Group Members&lt;/em&gt;: David Mauerhan, MD (&lt;em&gt;Co-chair&lt;/em&gt;); Jay Lieberman, MD (&lt;em&gt;Co-chair&lt;/em&gt;)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Association of Hip and Knee Surgeons&lt;/em&gt;: Nelson SooHoo, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Orthopaedic Surgeons&lt;/em&gt;: James Keeney, MD; Michael Parks, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The Knee Society&lt;/em&gt;: Jess Lonner, MD; Michael Mont, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Physical Therapy Association&lt;/em&gt;: Sara Piva, PT, PhD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Pacific Business Group on Health&lt;/em&gt;: Kate Chenok, MBA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;trade;)&lt;/em&gt;: Scott Endsley, MD; Samantha Tierney; Elvia Chavarria&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Association of Hip and Knee Surgeons Staff&lt;/em&gt;: Robert Hall; Krista Stewart&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Project Consultant&lt;/em&gt;: Rebecca Kresowik&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Total Knee Replacement Work Group had any disqualifying material interests under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy. The following is a summary of non-disqualifying interests disclosed on Work Group members' Material Interest Disclosure Statements. Completed Material Interest Disclosure Statements are available upon request.&lt;/p&gt;&#xD;&#xA;&lt;table width=&quot;100%&quot; border=&quot;1&quot; summary=&quot;Summary of Non-Material Interest Disclosures&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 50%;&quot;&gt;Work Group Members&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 50%;&quot;&gt;Disclosures&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;David Mauerhan, MD (Co-chair)&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Payment for Consulting Services &amp;ndash; Biomet, Inc. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Jay Lieberman, MD (Co-chair)&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Payment for Consulting Services &amp;ndash; De Puy, Inc. &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Nelson SooHoo, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;None &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;James Keeney, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Officer - Society of Military Orthopedic Surgeons and Mid-America Orthopaedic Association &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Michael Parks, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Stock Ownership &amp;ndash; Zimmer, Johnson and Johnson, Merck, Pfizer, P&amp;amp;G, United Health &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Payment for Consulting Services &amp;ndash; Zimmer Holdings, Inc. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Research Support &amp;ndash; Zimmer Holdings, Inc. &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Director &amp;ndash; American Academy of Orthopaedic Surgery, American Association of Hip and Knee Surgeons and New York State Society of Orthopaedic Surgeons &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Jess Lonner, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Stock Ownership &amp;ndash; Mako Surgical &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Research Support &amp;ndash; Zimmer, Mako Surgical &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Speaking Honoraria &amp;ndash; Zimmer, Mako Surgical &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Royalties &amp;ndash; Zimmer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Service on Speaker's Bureau &amp;ndash; Zimmer, Mako Surgical &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Payment for Consulting Services &amp;ndash; Zimmer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Scientific Advisory Board &amp;ndash; Healthpoint Capital, C D Diagnostics &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Service on Editorial Board for Several Peer Reviewed Journals &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Michael Mont, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Research &amp;ndash; NIH, Stryker, Tissue Gene, Wright Medical &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Royalties &amp;ndash; Stryker &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Payment for Consulting Services &amp;ndash; Stryker, Tissue Gene, Joint Active Systems, Johnson and Johnson, Salient Surgical &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Scott Endsley, MD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;None &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Sara Piva, PT, PhD&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;None &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;p&gt;Kate Chenok, MBA&lt;/p&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;None &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in October 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.aahks.org/performance-measures-and-quality-improvement/&quot; title=&quot;AAHKS Web site&quot;&gt;American Association of Hip and Knee Surgeons (AAHKS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact AAHKS at 6300 N. River Road, Suite 615, Rosemont, IL 60018; Phone: 847-698-1200; Fax: 847-698-0704; Web site: &lt;a href=&quot;http://www.aahks.org&quot; title=&quot;AAHKS Web site&quot;&gt;www.aahks.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 29, 2014. The information was verified by the measure developer on July 21, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on October 20, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&amp;copy; 2012 American Association of Hip and Knee Surgeons. All rights reserved. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;These performance measures are not clinical guidelines. They do not establish a standard of medical care and have not been tested for all potential applications. These Measures and specifications are provided &quot;as is&quot; without warranty of any kind. AAHKS shall not be responsible for any use of these performance measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Limited propriety coding is contained in the Measure specifications for convenience. Users of the propriety code sets should obtain all necessary licenses from the owners of these code sets. AAHKS disclaims all liability for use or accuracy of any Current Procedural Terminology (CPT&amp;reg;) or other coding contained in the specifications. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measures are subject to review and may be revised at any time by AAHKS. The Measures may not be altered without the prior written approval of AAHKS. Users of the Measures shall not have the right to alter, enhance, or otherwise modify the Measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CPT&amp;reg; contained in the Measure specifications is copyright 2004-2011 American Medical Association. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Association of Hip and Knee Surgeons. Total knee replacement performance measurement set. Rosemont (IL): American Association of Hip and Knee Surgeons; 2015. 29 p.  [25 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,260 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pediatric primary care: mean score on the &quot;Communication&quot; subscale of the Parent's Perceptions of Primary Care (P3C) instrument.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW, Bermudez LO, Zivkovic M, Far MD, Nelson M, Kurtin PS. Parents' Perceptions of Primary Care: measuring parents' experiences of pediatric primary care quality. Pediatrics. 2001 Aug;108(2):264-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11483786&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the parent's report of how well the physician listens and explains during their interactions, based on the parent's responses (&quot;0 = never,&quot; &quot;1 = sometimes,&quot; &quot;2 = often,&quot; &quot;3 = almost always,&quot; &quot;4 = always&quot;) to the &quot;Communication&quot; items in the Parent's Perceptions of Primary Care (P3C) measure instrument:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Do you feel comfortable asking the doctor &lt;strong&gt;questions&lt;/strong&gt;? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does the doctor &lt;strong&gt;explain things&lt;/strong&gt; to your satisfaction? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does the doctor spend &lt;strong&gt;enough time&lt;/strong&gt; with you and your child? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Does the doctor &lt;strong&gt;listen to you&lt;/strong&gt;? &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;High quality pediatric primary care is a cornerstone of efforts to improve health outcomes, control health care spending, and improve access to care. To improve the quality of pediatric primary care, a reliable and valid measure must exist. The ideal instrument is one that is brief, practical, reliable, and valid. Given the current high rate of uninsured children and children without a regular source of care, such an instrument must also be applicable regardless of insurance status and health plan membership or the presence of a regular provider of care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Parent's Perceptions of Primary Care (P3C) measure is based on the Institute of Medicine (IOM) definition of primary care, which is similar to the American Academy of Pediatrics concept of a medical home. With the use of this definition as a criterion, the P3C was designed to measure 6 components of care (longitudinal continuity, access, contextual knowledge, communication, comprehensiveness, and coordination) that, when present, constitute high-quality primary care experiences. High scores reflect care conforming to this a priori definition.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The P3C measures perceptions of quality based on parents' reports of their experiences, rather than ratings of satisfaction with those experiences. The P3C was designed to measure parents' perceptions of experiences in receiving primary care, rather than the quality of a particular provider of primary care. This was done so that the care received by children without a regular provider also could be described in relation to the IOM definition of quality primary care. This is important, given the large proportions of uninsured children and children without a regular source of care who receive primary health care at emergency departments or community clinics, where they might not see a consistent provider.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Halfon N, Newacheck PW, Wood DL, St Peter RF. Routine emergency department use for sick care by children in the United States. Pediatrics. 1996 Jul;98(1):28-34. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8668408&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine. Primary care: America's health in a new era. Washington (DC): National Academy Press; 1996. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McGlynn EA, Halfon N. Overview of issues in improving quality of care for children. Health Serv Res. 1998 Oct;33(4 Pt 2):977-1000. [69 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9776946&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Medical Home Initiatives for Children With Special Needs Project Advisory Committee, American Academy of Pediatrics. The medical home. Pediatrics. 2002 Jul;110(1 Pt 1):184-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12093969&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW, Bermudez LO, Zivkovic M, Far MD, Nelson M, Kurtin PS. Parents' Perceptions of Primary Care: measuring parents' experiences of pediatric primary care quality. Pediatrics. 2001 Aug;108(2):264-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11483786&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M. Barriers to care and primary care for vulnerable children with asthma. Pediatrics. 2008 Nov;122(5):994-1002. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18977978&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Starfield B, Simpson L. Primary care as part of US health services reform. JAMA. 1993 Jun 23-30;269(24):3136-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8110214&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Starfield B. Primary care: balancing health needs, services, and technology. New York (NY): Oxford University Press; 1998. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Starfield B. Public health and primary care: a framework for proposed linkages. Am J Public Health. 1996 Oct;86(10):1365-9. [28 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8876503&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;US Bureau of the Census, US Department of Commerce. Census brief: children without health insurance. Washington (DC): US Bureau of the Census; 1998. &amp;nbsp;(Publication; no. CENBR/98-1).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Varni JW, Seid M, Kurtin PS. Pediatric health-related quality of life measurement technology: a guide for health care decision makers. J Clin Outcomes Manag. 1999;6:33-40.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wood DL, Hayward RA, Corey CR, Freeman HE, Shapiro MF. Access to medical care for children and adolescents in the United States. Pediatrics. 1990 Nov;86(5):666-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2235219&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pediatric primary care; patient experience; parent perception; communication&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children whose parent or guardian answered the &quot;Communication&quot; items on the Parent's Perceptions of Primary Care (P3C) measure instrument&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of responses (&quot;0 = never,&quot; &quot;1 = sometimes,&quot; &quot;2 = often,&quot; &quot;3 = almost always,&quot; &quot;4 = always&quot;) to the &quot;Communication&quot; items in the Parent's Perceptions of Primary Care (P3C) measure instrument (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A need exists for an instrument that is at once a brief, practical, reliable, and valid measure of pediatric primary care that can be used irrespective of insurance status or the presence of an established clinician-patient relationship. Although others have posited that an established clinician-patient relationship is necessary for the existence of primary care, and have therefore restricted measurement of primary care to those patients with such a relationship, the fact remains that many children, both insured and uninsured, lack a regular site of care or a regular provider of care. It behooves researchers, clinicians, and policy makers to develop and use measures that encompass the experiences of these children, as well. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The ability to measure the quality of children's health care effectively is challenging because of a number of factors, including the child's dependence on caregivers, changing development, and demographics. Although some proxy measures for quality that do not depend on parents exist, such as immunization rates and frequency of screening for lead and anemia, these measures may reflect the quality of systems rather than providers. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospital-based primary care clinics, where residents are often the primary care providers, provide care to ~21% of the socioeconomically disadvantaged families in the United States, as well as to children with chronic health care needs. With the structural challenges of resident training, there may be concerns about a lower quality of care received by patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Access to primary care is associated with better outcomes for children with asthma, in all likelihood because the hallmarks of high-quality primary care, namely, continuity, comprehensiveness, communication, contextual knowledge, coordination, and accessibility, are key to good asthma care. However, it is well known that certain groups of children with asthma, those defined by sociodemographic and access indicators such as minority race/ethnicity, low parental education, poverty, limited English language ability, lack of insurance, no usual source of care, and unmet health care needs, are less likely to receive high-quality primary care and are more vulnerable to poor health outcomes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Children of farm workers, especially migrant farm workers, are particularly vulnerable to poor health outcomes. These children may live in families that are highly transient and may face substandard living conditions. They are likely to experience high rates of physical, mental, and oral health conditions. And children of Latino farm workers face multiple financial, cultural, and linguistic barriers to quality health care. Given the special vulnerability of this population, there is a pressing need for a brief, feasible, reliable, and valid measure of primary care characteristics for these children. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Akinbami LJ, Schoendorf KC. Trends in childhood asthma: prevalence, health care utilization, and mortality. Pediatrics. 2002 Aug;110(2 Pt 1):315-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12165584&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Beal AC, Co JP, Dougherty D, Jorsling T, Kam J, Perrin J, Palmer RH. Quality measures for children's health care. Pediatrics. 2004 Jan;113(1 Pt 2):199-209. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14702502&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brotanek JM, Halterman J, Auinger P, Weitzman M. Inadequate access to care among children with asthma from Spanish-speaking families. J Health Care Poor Underserved. 2005 Feb;16(1):63-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15741710&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canino G, Koinis-Mitchell D, Ortega AN, McQuaid EL, Fritz GK, Alegria M. Asthma disparities in the prevalence, morbidity, and treatment of Latino children. Soc Sci Med. 2006 Dec;63(11):2926-37. [80 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16956704&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Christakis DA, Mell L, Koepsell TD, Zimmerman FJ, Connell FA. Association of lower continuity of care with greater risk of emergency department use and hospitalization in children. Pediatrics. 2001 Mar;107(3):524-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11230593&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cree M, Bell NR, Johnson D, Carriere KC. Increased continuity of care associated with decreased hospital care and emergency department visits for patients with asthma. Dis Manage. 2006 Feb;9(1):63-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16466343&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dougherty D, Meikle SF, Owens P, Kelley E, Moy E. Children's Health Care in the First National Healthcare Quality Report and National Healthcare Disparities Report. Med Care. 2005 Mar;43(3 Suppl):I58-63. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15746592&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Eshleman MJ, Davidhizar R. Life in migrant camps for children-a hazard to health. J Cult Divers. 1997 Spring;4(1):13-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9287590&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flores G, Abreu M, Olivar MA, Kastner B. Access barriers to health care for Latino children. Arch Pediatr Adolesc Med. 1998 Nov;152(11):1119-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9811291&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flores G, Bauchner H, Feinstein AR, Nguyen US. The impact of ethnicity, family income, and parental education on children's health and use of health services. Am J Public Health. 1999 Jul;89(7):1066-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10394317&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flores G, Fuentes-Afflick E, Barbot O, Carter-Pokras O, Claudio L, Lara M, McLaurin JA, Pachter L, Ramos-Gomez FJ, Mendoza F, Valdez RB, Villarruel AM, Zambrana RE, Greenberg R, Weitzman M. The health of Latino children: urgent priorities, unanswered questions, and a research agenda. JAMA. 2002 Jul 3;288(1):82-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12090866&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Forrest CB, Simpson L, Clancy C. Child health services research. Challenges and opportunities. JAMA. 1997 Jun 11;277(22):1787-93. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9178792&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gwyther ME, Jenkins M. Migrant farmworker children: health status, barriers to care, and nursing innovations in health care delivery. J Pediatr Health Care. 1998 Mar-Apr;12(2):60-6. [43 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9592438&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Halfon N, Inkelas M, Wood D. Nonfinancial barriers to care for children and youth. Annu Rev Public Health. 1995;16:447-72. [108 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7639882&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Huang ZJ, Kogan MD, Yu SM, Strickland B. Delayed or forgone care among children with special health care needs: an analysis of the 2001 National Survey of Children with Special Health Care Needs. Ambul Pediatr. 2005 Jan-Feb;5(1):60-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15656708&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine, Committee on Understanding and Eliminating Racial and Ethnic Disparities in Health Care. Unequal treatment: confronting racial and ethnic disparities in health care. Washington (DC): National Academies Press; 2002. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Javier JR, Wise PH, Mendoza FS. The relationship of immigrant status with access, utilization, and health status  for children with asthma. Ambul Pediatr. 2007 Nov-Dec;7(6):421-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17996835&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Krugman SD, Racine A, Dabrow S, Sanguino S, Meyer W, Seid M, Serwint JR, Continuity Research Network. Measuring primary care of children in pediatric resident continuity practices: a Continuity Research Network study. Pediatrics. 2007 Aug;120(2):e262-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17664258&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kupersmidt JB, Martin SL. Mental health problems of children of migrant and seasonal farm workers: a pilot  study. J Am Acad Child Adolesc Psychiatry. 1997 Feb;36(2):224-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9031575&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Martin SL, Kupersmidt JB, Harter KS. Children of farm laborers: utilization of services for mental health problems. Community Ment Health J. 1996 Aug;32(4):327-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8840076&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McDaniel M, Paxson C, Waldfogel J. Racial disparities in childhood asthma in the United States: evidence from the National Health Interview Survey, 1997 to 2003. Pediatrics. 2006 May;117(5):e868-77. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16651291&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mueller KJ, Patil K, Boilesen E. The role of uninsurance and race in healthcare utilization by rural minorities. Health Serv Res. 1998 Aug;33(3 Pt 1):597-610. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9685124&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nurko C, Aponte-Merced L, Bradley EL, Fox L. Dental caries prevalence and dental health care of Mexican-American workers' children. ASDC J Dent Child. 1998 Jan-Feb;65(1):65-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9559090&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Perrin JM, Homer CJ, Berwick DM, Woolf AD, Freeman JL, Wennberg JE. Variations in rates of hospitalization of children in three urban communities. N Engl J Med. 1989 May 4;320(18):1183-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2710191&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Stevens GD, Varni JW. Parents' perceptions of pediatric primary care quality: effects of race/ethnicity, language, and access. Health Serv Res. 2003 Aug;38(4):1009-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12968814&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Stevens GD. Access to care and children's primary care experiences: results from a prospective cohort study. Health Serv Res. 2005 Dec;40(6 Pt 1):1758-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16336547&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW, Bermudez LO, Zivkovic M, Far MD, Nelson M, Kurtin PS. Parents' Perceptions of Primary Care: measuring parents' experiences of pediatric primary care quality. Pediatrics. 2001 Aug;108(2):264-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11483786&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW. Measuring primary care for children of Latino farmworkers: reliability and validity of the parent's perceptions of primary care measure (P3C). Matern Child Health J. 2005 Mar;9(1):49-57. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15880974&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M. Barriers to care and primary care for vulnerable children with asthma. Pediatrics. 2008 Nov;122(5):994-1002. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18977978&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Slesinger DP, Christenson BA, Cautley E. Health and mortality of migrant farm children. Soc Sci Med. 1986;23(1):65-74. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3749965&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Slesinger DP. Health status and needs of migrant farm workers in the United States: a literature review. J Rural Health. 1992 Summer;8(3):227-34. [54 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10121552&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weitzman M, Byrd RS, Aguinger P. Children in big cities in the United States: health and related needs and services. Ambul Child Health. 1996;1:347-59.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Woolfolk M, Hamard M, Bagramian RA, Sgan-Cohen H. Oral health of children of migrant farm workers in northwest Michigan. J Public Health Dent. 1984 Summer;44(3):101-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6592350&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yoon EY, Davis MM, Van Cleave J, Maheshwari S, Cabana MD. Factors associated with non-attendance at pediatric subspecialty asthma clinics. J Asthma. 2005 Sep;42(7):555-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16169788&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Pilot Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To ensure content validity and that the Parent's Perceptions of Primary Care (P3C) measure encompasses all appropriate domains of interest, 12 groups of 3 parents each were interviewed in small-group settings at an elementary school and parents completed pilot versions of the measure. To ensure item clarity and to identify and modify unclear items, the modified instrument was then piloted with 15 additional parents at an elementary school and a preschool using cognitive interviewing methodology. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Feasibility, Reliability and Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As part of a larger study to validate a measure of quality of care for vulnerable children, the P3C was administered to 3,371 parents of children in 228 classes, from kindergarten through the sixth grade, at 18 elementary schools within a large, urban school district. The percentage of missing values for the overall sample was 1.88%, indicating acceptable feasibility. Range of measurement, assessed via floor and ceiling effects, was moderate to good. Cronbach's coefficient alpha, an indicator of scale internal consistency reliability, was 0.95 for the P3C total scale. Factor analysis supported the subscale structure, and P3C scores were higher for children with health insurance, whose parents completed the survey in English, and who had a regular physician. P3C scores were positively related to parent reports of the child's health-related quality of life. These data imply that the P3C is a feasible, reliable, and valid measure of primary care characteristics, suitable for use in large, diverse community samples. Additional field testing is planned to address test-retest reliability.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An additional study suggests that the P3C is a feasible, reliable and valid measure of primary care characteristics for an underserved population: children of Latino farm workers.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schwartz CE, Kozora E, Zeng Q. Towards patient collaboration in cognitive assessment: specificity, sensitivity, and incremental validity of self-report. Ann Behav Med. 1996;18:177-84.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schwarz N, Sudman N. Answering questions: methodology for determining cognitive and communicative processes in survey research. San Francisco (CA): Jossey-Bass; 1996. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW, Bermudez LO, Zivkovic M, Far MD, Nelson M, Kurtin PS. Parents' Perceptions of Primary Care: measuring parents' experiences of pediatric primary care quality. Pediatrics. 2001 Aug;108(2):264-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11483786&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW. Measuring primary care for children of Latino farmworkers: reliability and validity of the parent's perceptions of primary care measure (P3C). Matern Child Health J. 2005 Mar;9(1):49-57. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15880974&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Patient-centered Medical Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Children whose parent or guardian answered the &quot;Communication&quot; items on the Parent's Perceptions of Primary Care (P3C) measure instrument&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of responses (&quot;0 = never,&quot; &quot;1 = sometimes,&quot; &quot;2 = often,&quot; &quot;3 = almost always,&quot; &quot;4 = always&quot;) to the &quot;Communication&quot; items in the Parent's Perceptions of Primary Care (P3C) measure instrument&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: These items are transformed to a 0 to 100 scale, with 100 being the best, as follows: 0 = 0, 1 = 25, 2 = 50, 3 = 75, 4 = 100. Computing the mean of the nonmissing values forms the subscale score. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Parent's Perceptions of Primary Care (P3C) instrument&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Parent's Perceptions of Primary Care (P3C): communication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Parent's Perceptions of Primary Care (P3C) Instrument" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Seid, Michael, PhD, Cincinnati Children's Hospital Medical Center - None" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Seid, Michael, PhD, Cincinnati Children's Hospital Medical Center - None" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This research was supported by the Agency for Healthcare Research and Quality (AHRQ) (Grant R01 HS10317) and the Substance Abuse and Mental Health Services Administration (SAMHSA).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Michael Seid, PhD; James W. Varni, PhD; Laura Olson Bermudez, PhD; Mirjana Zivkovic, MD, PhD; Maryam Davodi Far, PhD; Melissa Nelson, MPH; and Paul S. Kurtin, MD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2001 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available on the &lt;a href=&quot;http://pediatrics.aappublications.org/content/108/2/264.full.pdf&quot; title=&quot;AAP Web site&quot;&gt;American Academy of Pediatrics (AAP) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, please contact Michael Seid, PhD, at the Center for Child Health Outcomes, 3020 Children's Way, MC 5053, San Diego, CA 92123. E-mail: &lt;a href=&quot;mailto:mseid@chsd.org&quot;&gt;mseid@chsd.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on October 12, 2012. The information was not verified by the measure developer. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 17, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the American Academy of Pediatrics (AAP) copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seid M, Varni JW, Bermudez LO, Zivkovic M, Far MD, Nelson M, Kurtin PS. Parents' Perceptions of Primary Care: measuring parents' experiences of pediatric primary care quality. Pediatrics. 2001 Aug;108(2):264-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11483786&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

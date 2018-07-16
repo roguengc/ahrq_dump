@@ -1,0 +1,235 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Atrial fibrillation ablation: rate of cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-12: cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation. Washington (DC): Heart Rhythm Society (HRS); 2015 Nov 17. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the rate of cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is to be reported a minimum of once per reporting period for patients with atrial fibrillation ablation performed during the reporting period. This measure may be reported by clinicians who perform the quality actions described in the measure based on the services provided and the measure-specific denominator coding.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure will be calculated with 5 performance rates: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Females 18-64 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Males 18-64 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Females 65 years of age and older &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Males 65 years of age and older &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall percentage of patients with cardiac tamponade and/or pericardiocentesis occurring within 30 days &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;This measure represents the overall rate. Eligible professionals should continue to report the measure as specified, with no additional steps needed to account for multiple performance rates.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cardiac tamponade is one of the most serious complications of atrial fibrillation ablation that can lead to substantial morbidity due to a significant drop in the cardiac output and blood pressure leading to hypo-perfusion of important organs such as the brain, heart and kidneys. In many cases, cardiac tamponade has to be treated surgically, and it invariably prolongs hospital stay. If not treated promptly, cardiac tamponade can lead to death. The risk of this dreaded complication has been reported to range from 2 to 6%; however, these rates were observed in tertiary referral centers where the procedure was performed by experienced and skillful operators. Given that the occurrence of cardiac tamponade is largely dependent on the operator's level of experience and, therefore, is in most cases preventable, higher rates are expected to occur when less experienced operators perform the procedure. These issues prove the need to measure performance in this area.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In recognition that there is an absence of applicable physician-level performance measures for the profession of cardiac electrophysiology, the Heart Rhythm Society (the international professional society focused on the care of patients with heart rhythm disorders) convened a Performance Measures Development Task Force to consider and develop potential physician-level measures cardiac electrophysiologists. The task force consisted of thought leaders in atrial fibrillation ablation, cardiovascular health policy, performance measures development, clinical outcomes, and population science. The process for consideration of the evidence included review of multi-stakeholder professional society clinical expert consensus statements on the topic, such as the 2012 Heart Rhythm Society/European Heart Rhythm Association/European Cardiac Arrhythmia Society Expert Consensus Statement on Catheter and Surgical Ablation of Atrial Fibrillation (Calkins et al., 2012), and the relevant literature both referenced within this document and in the knowledge of the members of the task force (Cappato et al., 2005; Hsu et al., 2005; Andrade et al., 2011; Bunch et al., 2005; Cappato et al., 2009; Cappato et al., 2010; Cappato et al., 2011; Fisher et al., 2000; Hsu et al., 2003; Latchamsetty et al., 2011; O'Neill et al., 2008; Tsang et al., 2002). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The expert consensus statement does not provide a specific recommendation related to this proposed outcome measure, but rather summarizes that in high-volume and high-quality programs, the incidence of complications in general should be comparable to the low rates of complications observed in published studies, including the world-wide survey of atrial fibrillation ablation (Cappato et al., 2005; Cappato et al., 2009; Cappato et al., 2010; Cappato et al., 2011). Collectively, the incidence of this complication has in general ranged from between 1.2 and 2.4% across the literature evaluated (Cappato et al., 2005; Hsu et al., 2005; Calkins et al., 2012; Andrade et al., 2011; Bunch et al., 2005; Cappato et al., 2009; Cappato et al., 2010; Cappato et al., 2011; Fisher et al., 2000; Hsu et al., 2003; Latchamsetty et al., 2011; O'Neill et al., 2008; Tsang et al., 2002).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Andrade JG, Khairy P, Guerra PG, Deyell MW, Rivard L, Macle L, Thibault B, Talajic M, Roy D, Dubuc M. Efficacy and safety of cryoballoon ablation for atrial fibrillation: a systematic review of published studies. Heart Rhythm. 2011 Sep;8(9):1444-51.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bunch TJ, Asirvatham SJ, Friedman PA, Monahan KH, Munger TM, Rea RF, Sinak LJ, Packer DL. Outcomes after cardiac perforation during radiofrequency ablation of the atrium. J Cardiovasc Electrophysiol. 2005 Nov;16(11):1172-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16302900&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Calkins H, Kuck KH, Cappato R, Brugada J, Camm AJ, Chen SA, Crijns HJ, Damiano RJ Jr, Davies DW, DiMarco J, Edgerton J, Ellenbogen K, Ezekowitz MD, Haines DE, Haissaguerre M, Hindricks G, Iesaka Y, Jackman W, Jalife J, Jais P, Kalman J, Keane D, Kim YH, Kirchhof P, Klein G, Kottkamp H, Kumagai K, Lindsay BD, Mansour M, Marchlinski FE, McCarthy PM, Mont JL, Morady F, Nademanee K, Nakagawa H, Natale A, Nattel S, Packer DL, Pappone C, Prystowsky E, Raviele A, Reddy V, Ruskin JN, Shemin RJ, Tsao HM, Wilber D, Heart Rhythm Society Task Force on Catheter and Surgical Ablation of Atrial Fibrillation. 2012 HRS/EHRA/ECAS expert consensus statement on catheter and surgical ablation of atrial fibrillation: recommendations for patient selection, procedural techniques, patient management and follow-up, definitions, endpoints, and research trial design. Heart Rhythm. 2012 Apr;9(4):632-96.e21. [736 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22386883&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cappato R, Calkins H, Chen SA, Davies W, Iesaka Y, Kalman J, Kim YH, Klein G, Natale A, Packer D, Ricci C, Skanes A, Ranucci M. Delayed cardiac tamponade after radiofrequency catheter ablation of atrial fibrillation: a worldwide report. J Am Coll Cardiol. 2011 Dec 13;58(25):2696-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22152959&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cappato R, Calkins H, Chen SA, Davies W, Iesaka Y, Kalman J, Kim YH, Klein G, Natale A, Packer D, Skanes A, Ambrogi F, Biganzoli E. Updated worldwide survey on the methods, efficacy, and safety of catheter ablation for human atrial fibrillation. Circ Arrhythm Electrophysiol. 2010 Feb;3(1):32-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19995881&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cappato R, Calkins H, Chen SA, Davies W, Iesaka Y, Kalman J, Kim YH, Klein G, Natale A, Packer D, Skanes A. Prevalence and causes of fatal outcome in catheter ablation of atrial fibrillation. J Am Coll Cardiol. 2009 May 12;53(19):1789-803. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19422987&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cappato R, Calkins H, Chen SA, Davies W, Iesaka Y, Kalman J, Kim YH, Klein G, Packer D, Skanes A. Worldwide survey on the methods, efficacy, and safety of catheter ablation for human atrial fibrillation. Circulation. 2005 Mar 8;111(9):1100-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15723973&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fisher JD, Kim SG, Ferrick KJ, Gross JN, Goldberger MH, Nanna M. Internal transcardiac pericardiocentesis for acute tamponade. Am J Cardiol. 2000 Dec 15;86(12):1388-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11113422&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-12: cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation. Washington (DC): Heart Rhythm Society (HRS); 2015 Nov 17. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hsu LF, Jaïs P, Hocini M, Sanders P, Scavée C, Sacher F, Takahashi Y, Rotter M, Pasquie JL, Clémenty J, Haïssaguerre M. Incidence and prevention of cardiac tamponade complicating ablation for atrial fibrillation. Pacing Clin Electrophysiol. 2005 Jan;28 Suppl 1:S106-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15683473&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hsu LF, Scavée C, Jaïs P, Hocini M, Haïssaguerre M. Transcardiac pericardiocentesis: an emergency life-saving technique for cardiac tamponade. J Cardiovasc Electrophysiol. 2003 Sep;14(9):1001-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12950547&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Latchamsetty R, Gautam S, Bhakta D, Chugh A, John RM, Epstein LM, Miller JM, Michaud GF, Oral H, Morady F, Jongnarangsin K. Management and outcomes of cardiac tamponade during atrial fibrillation ablation in the presence of therapeutic anticoagulation with warfarin. Heart Rhythm. 2011 Jun;8(6):805-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21236362&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;O'Neill MD, Jaïs P, Derval N, Hocini M, Haïssaguerre M. Two techniques to avoid surgery for cardiac tamponade occurring during catheter ablation of atrial fibrillation. J Cardiovasc Electrophysiol. 2008 Mar;19(3):323-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17900253&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tsang TS, Enriquez-Sarano M, Freeman WK, Barnes ME, Sinak LJ, Gersh BJ, Bailey KR, Seward JB. Consecutive 1127 therapeutic echocardiographically guided pericardiocenteses: clinical profile, practice patterns, and outcomes spanning 21 years. Mayo Clin Proc. 2002 May;77(5):429-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12004992&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Atrial fibrillation ablation; cardiac tamponade; pericardiocentesis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with atrial fibrillation ablation performed during the reporting period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of patients from the denominator with cardiac tamponade and/or pericardiocentesis occurring within 30 days following atrial fibrillation ablation (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;January 1 through November 30 of the reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older with atrial fibrillation ablation performed during the reporting period &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases)&lt;/em&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Females 18-64 years old &lt;br /&gt;&#xD;&#xA;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Males 18-64 years old &lt;br /&gt;&#xD;&#xA;&lt;em&gt;Reporting Criteria 3&lt;/em&gt;: Females 65 years of age and older &lt;br /&gt;&#xD;&#xA;&lt;em&gt;Reporting Criteria 4&lt;/em&gt;: Males 65 years of age and older &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for atrial fibrillation (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM], International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for atrial fibrillation ablation (refer to the original measure documentation for ICD-10-CM, ICD-10-PCS codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Ablation procedures that have been performed by November 30 of current reporting year&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Include only patients that have had atrial fibrillation ablation performed by November 30 for evaluation of cardiac tamponade and/or pericardiocentesis occurring within 30 days within the reporting period. This will allow the evaluation of cardiac tamponade and/or pericardiocentesis complications within the reporting year.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of patients from the denominator with cardiac tamponade and/or pericardiocentesis occurring within 30 days following atrial fibrillation ablation&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Registry Individual Measure Flow: PQRS#392: HRS-12: Cardiac Tamponade and/or Pericardiocentesis Following Atrial Fibrillation Ablation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is reported as four rates stratified by age and gender: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Age Criteria 1&lt;/em&gt;: Females 18-64 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Age Criteria 2&lt;/em&gt;: Males 18-64 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Age Criteria 3&lt;/em&gt;: Females 65 years of age and older &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Reporting Age Criteria 4&lt;/em&gt;: Males 65 years of age and older &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HRS-12: cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jun 29&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Heart Rhythm Society (HRS) at 1325 G Street, NW, Suite 400, Washington, DC 20005; Phone: 202-464-3400; Fax: 202-464-3401; E-mail: &lt;a href=&quot;mailto:info@HRSonline.org&quot;&gt;info@HRSonline.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.hrsonline.org/&quot; title=&quot;Heart Rhythm Society (HRS) Web site&quot;&gt;www.hrsonline.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 21, 2016. The information was verified by the measure developer on July 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-12: cardiac tamponade and/or pericardiocentesis following atrial fibrillation ablation. Washington (DC): Heart Rhythm Society (HRS); 2015 Nov 17. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

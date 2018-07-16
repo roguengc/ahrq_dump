@@ -1,0 +1,240 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Intra-procedure colonoscopy complication rate: percentage of patients who developed one or more intra-procedure colonoscopy complications.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AAAHC Institute for Quality Improvement. 2017 January-June colonoscopy study: procedure specific survey. Skokie (IL): AAAHC Institute for Quality Improvement; 2017. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure assesses the percentage of patients who developed one or more intra-procedure colonoscopy complications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Colonoscopy is the most sensitive method to detect colorectal neoplasia and prevent deaths from colon cancer, which is the second leading cause of death due to cancer in the United States. Colorectal cancer (CRC) screening, no matter what method is used, is cost effective (Hawk &amp;amp; Levin, 2005; Omidvari, Meester, &amp;amp; Lansdorp-Vogelaar, 2016). The Centers for Disease Control and Prevention (CDC) (2011) estimates that from 2003 to 2007, increased screening has decreased CRC incidence and mortality in the United States by almost half. Further, although there will continue to be disagreement about what the &quot;best&quot; test is for detecting colorectal cancer, colonoscopy allows the endoscopist to remove lesions and polyps at the time of the procedure (unlike a barium enema or computed tomography [CT] colonography), and may detect cancer in a substantial proportion (45%) of people whose colon cancer is in the proximal colon, which would otherwise go undetected (as opposed to sigmoidoscopy) and lead to death (Rosman &amp;amp; Korsten, 2007; Imperiale et al., 2012; Rozen, Liphshitz, &amp;amp; Barchana, 2012). Additionally, the sensitivity of colonography has been found to be lower than that of colonoscopy overall, and especially poor for polyps less than 5 to 6 millimeters in size (Atkin et al., 2013; Cash et al., 2012; Simons et al., 2013). Colonography does not usually include sedation, use of air to inflate the colon may cause discomfort, and it is not as cost-effective&amp;mdash;a follow-up colonoscopy may be required.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Colonoscopy is not without cost. Payers may cover direct costs. Bowel preparation, patient selection and anesthesia level (Shingina et al., 2016), and polypectomy (Saraste et al., 2016) can influence outcomes. Risks to patients include, but are not limited to, bowel perforation/bleeding (Reumkens et al., 2016; Nabi, 2016). And there is potential patient discomfort (Kim et al., 2012) (although it should be noted that bowel preparation, a significant source of patient discomfort for colonography and colonoscopy, is identical for both procedures). Additionally, rate of poor bowel prep may decrease the cost-effectiveness of colonoscopy (Kingsley et al., 2016). These factors must be considered in a cost-benefit analysis. Many national organizations have clinical practice guidelines that recommend colorectal cancer screening for select populations, and several refer to colonoscopy as the preferred screening process in certain patient populations (National Guideline Clearinghouse, 2017).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2006, of the almost 6.25 million colonoscopy procedures performed in the ambulatory setting, approximately 60% (almost 3.7 million) were performed in freestanding facilities (CDC, 2006). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Perforation of the large intestine is one of colonoscopy's most serious potential complications. The American Society for Gastrointestinal Endoscopy (ASGE) and the American College of Gastroenterology (ACG) recommend using incidence of perforation as one measure of colonoscopy quality (Rex et al., 2015). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AAAHC Institute for Quality Improvement. Colonoscopy January-June 2016 report: performance measurement and benchmarking in ambulatory care organizations. Skokie (IL): AAAHC Institute for Quality Improvement; 2016. 29 p.  [20 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Atkin W, Dadswell E, Wooldrage K, Kralj-Hans I, von Wagner C, Edwards R, Yao G, Kay C, Burling D, Faiz O, Teare J, Lilford RJ, Morton D, Wardle J, Halligan S, SIGGAR investigators. Computed tomographic colonography versus colonoscopy for investigation of patients with symptoms suggestive of colorectal cancer (SIGGAR): a multicentre randomised trial. Lancet. 2013 Apr 6;381(9873):1194-202. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23414650&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cash BD, Riddle MS, Bhattacharya I, Barlow D, Jensen D, del Pino NM, Pickhardt PJ. CT colonography of a Medicare-aged population: outcomes observed in an analysis of more than 1400 patients. AJR Am J Roentgenol. 2012 Jul;199(1):W27-34. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22733929&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Vital signs: Colorectal cancer screening, incidence, and mortality--United States, 2002-2010. MMWR Morb Mortal Wkly Rep. 2011 Jul 8;60(26):884-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21734636&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention. National Survey of Ambulatory Surgery. Calculated from sums of weighted values of cases from Procedure Code 1 = 45.22, 45.23, 45.24, 45.25, 45.28, 45.42, or 45.43 for freestanding facilities versus freestanding and hospital-based facilities. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2006.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hawk ET, Levin B. Colorectal cancer prevention. J Clin Oncol. 2005 Jan 10;23(2):378-91. [167 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15637400&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Imperiale TF, Glowinski EA, Lin-Cooper C, Ransohoff DF. Tailoring colorectal cancer screening by considering risk of advanced proximal neoplasia. Am J Med. 2012 Dec;125(12):1181-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23062404&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kim DH, Pooler BD, Weiss JM, Pickhardt PJ. Five year colorectal cancer outcomes in a large negative CT colonography screening cohort. Eur Radiol. 2012 Jul;22(7):1488-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22210409&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kingsley J, Karanth S, Revere FL, Agrawal D. Cost effectiveness of screening colonoscopy depends on adequate bowel preparation rates - a modeling study. PLoS ONE. 2016 Dec 9;11(12):e0167452. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27936028 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nabi Z. Complications of therapeutic gastroscopy/colonoscopy other than resection. Best Pract Res Clin Gastroenterol. 2016 Oct;30(5):719-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27931632 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Guideline Clearinghouse. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality; 1998&amp;nbsp;[accessed 2017 Jan 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Omidvari AH, Meester RG, Lansdorp-Vogelaar I. Cost effectiveness of surveillance for GI cancer. Best Pract Res Clin Gastroenterol. 2016 Dec;30(6):879-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27938783 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Reumkens A, Rondagh EJ, Bakker CM, Winkens B, Masclee AA, Sanduleanu S. Post-colonoscopy complications: a systematic review, time trends, and meta-analysis of population-based studies. Am J Gastroenterol. 2016 Aug;111(8):1092-101. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27296945 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rex DK, Schoenfeld PS, Cohen J, Pike IM, Adler DG, Fennerty MB, Lieb JG 2nd, Park WG, Rizk MK, Sawhney MS, Shaheen NJ, Wani S, Weinberg DS. Quality indicators for colonoscopy. Am J Gastroenterol. 2015 Jan;110(1):72-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25448873 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rosman AS, Korsten MA. Meta-analysis comparing CT colonography, air contrast barium enema, and colonoscopy. Am J Med. 2007 Mar;120(3):203-10.e4. [74 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17349438&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rozen P, Liphshitz I, Barchana M. Changing epidemiology of colorectal cancer makes screening sigmoidoscopy less useful for identifying carriers of colorectal neoplasms. Dig Dis Sci. 2012 Aug;57(8):2203-12. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22466099&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saraste D, Martling A, Nilsson PJ, Blom J, Törnberg S, Hultcrantz R, Janson M. Complications after colonoscopy and surgery in a population-based colorectal cancer screening programme. J Med Screen. 2016 Sep;23(3):135-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26940962 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shingina A, Ou G, Takach O, Svarta S, Kwok R, Tong J, Donaldson K, Lam E, Enns R. Identification of factors associated with sedation tolerance in 5000 patients undergoing outpatient colonoscopy: Canadian tertiary center experience. World J Gastrointest Endosc. 2016 Dec 16;8(20):770-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28042391 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Simons PC, Van Steenbergen LN, De Witte MT, Janssen-Heijnen ML. Miss rate of colorectal cancer at CT colonography in average-risk symptomatic patients. Eur Radiol. 2013 Apr;23(4):908-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23085864&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Colorectal cancer; colonoscopy; intra-procedure complications; arrhythmia; bleeding requiring treatment; excessive pain; extended recovery; hospital transfer; hypotension; hypoxia; nausea; vomiting; noted perforation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients undergoing colonoscopy procedure at the ambulatory health care organization (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients from the denominator who developed one or more intra-procedure complications (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Colonoscopy is generally recommended for those over 50 up to 75 years of age, and 76 to 85 years of age depending on the patient's overall health and prior screening history (U.S. Preventive Services Task Force, 2016). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colorectal cancer is the second leading cause of cancer death. A five year localized (Stage I) survival rate is 90.1%; the overall five year survival rate drops to 13.5% for metastasized cancer (Stage IV) (National Cancer Institute [NCI], n.d.). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colorectal cancer screening is effective in reducing mortality from colorectal cancer. Relative cost-effectiveness of all major strategies have favorable cost-effectiveness ratios compared with no screening. Modeling indicates that colonoscopy can be more cost effective than other options, depending upon adherence with guidelines regarding the various types of testing and the ability of colonoscopy to provide 50% protection against colorectal cancer in the proximal colon (Sharaf &amp;amp; Ladabaum, 2013; Zauber, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Established indications for colonoscopy include: abnormal imaging study findings; excision of a colonic polyp; family history: hereditary nonpolyposis colorectal cancer and/or sporadic colorectal cancer at less than 60 years of age; identification or treatment of bleeding lesions; unexplained diarrhea; unexplained iron deficiency anemia; unexplained gastrointestinal (GI) bleeding (hematochezia, non-upper GI source melena, fecal occult blood); patient history of neoplastic polyp/treatable cancer, ulcerative colitis, Crohn's disease, or left-side colitis; preventive screening: asymptomatic patient, average risk of colon cancer; and surveillance for inflammatory bowel disease (IBD)/extent of IBD (Lieberman et al., 2012). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the &lt;em&gt;Colonoscopy January-June 2016 Report&lt;/em&gt;, the AAAHC Institute's latest in a series of studies (since 2001) of this procedure performed in the ambulatory setting. The reports provide examples of ideas for quality improvement and benchmarking, as well as reporting. &lt;/p&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AAAHC Institute for Quality Improvement. Colonoscopy January-June 2016 report: performance measurement and benchmarking in ambulatory care organizations. Skokie (IL): AAAHC Institute for Quality Improvement; 2016. 29 p.  [20 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lieberman DA, Rex DK, Winawer SJ, Giardiello FM, Johnson DA, Levin TR. Guidelines for colonoscopy surveillance after screening and polypectomy: a consensus update by the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2012 Sep;143(3):844-57. [85 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22763141&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Cancer Institute (NCI). Cancer stat facts: colon and rectum cancer. [internet]. Bethesda (MD): National Cancer Institute (NCI); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sharaf RN, Ladabaum U. Comparative effectiveness and cost-effectiveness of screening colonoscopy vs. sigmoidoscopy and alternative strategies. Am J Gastroenterol. 2013 Jan;108(1):120-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23247579&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Preventive Services Task Force. Screening for colorectal cancer: U.S. Preventive Services Task Force recommendation statement. JAMA. 2016 Jun 21;315(23):2564-75. [32 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27304597&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Zauber AG. Cost-effectiveness of colonoscopy. Gastrointest Endosc Clin N Am. 2010 Oct;20(4):751-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20889076&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Limited reliability and validity testing have been completed.&lt;/p&gt;&#xA;&lt;p&gt;Reliability testing has included comparing information in the surveys to patients' charts and surgical logs - different sources of much the same data.&lt;/p&gt;&#xA;&lt;p&gt;Validity testing has included examining face validity, content validity, and external validity (generalizability), with survey developers and participating organizations from year-to-year.&lt;/p&gt;&#xA;&lt;p&gt;Unfortunately, there is little in the way of established measures to test criterion validity.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AAAHC Institute for Quality Improvement. Colonoscopy January-June 2016 report: performance measurement and benchmarking in ambulatory care organizations. Skokie (IL): AAAHC Institute for Quality Improvement; 2016. 29 p.  [20 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Procedure specific data are collected in a prospective manner for approximately 6 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients undergoing colonoscopy procedure at the ambulatory health care organization&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for specific Current Procedural Terminology (CPT) codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of patients from the denominator who developed one or more intra-procedure complications*&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*Complications include arrhythmia, bleeding requiring treatment, excessive pain, extended recovery, hospital transfer, hypotension (requiring intervention), hypoxia (requiring intervention), nausea and/or vomiting, noted perforation, and &quot;other&quot; (specified).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Health professional survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 January-June Colonoscopy Study: Procedure Specific Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Intra-procedure complication rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AAAHC Institute for Quality Improvement Performance Measurement Initiative" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="AAAHC Institute for Quality Improvement, Performance Measurement Initiative, Colonoscopy Work Group - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="AAAHC Institute for Quality Improvement, Performance Measurement Initiative, Colonoscopy Work Group - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Accreditation Association for Ambulatory Health Care (AAAHC)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Martin L. Gonzalez, MS, &lt;em&gt;Chair&lt;/em&gt;, AAAHC Institute Performance Measurement Initiative (PMI) &lt;/li&gt;&#xA;    &lt;li&gt;Edward Bentley, MD, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Dianna Burns, CGRN, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Bruce Cameron, MD, Member, PMI Colonoscopy Work Group&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Frank J. Chapman, MBA, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Lawrence M. Kim, MD, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;W. Elwyn Lyles, MD, FACG, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Thomas Murray, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Christopher Vesy, MD, Member, PMI Colonoscopy Work Group &lt;/li&gt;&#xA;    &lt;li&gt;Naomi Kuznets, PhD, Vice President &amp;amp; Senior Director, AAAHC Institute for Quality Improvement &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Drs. Bentley, Cameron, Kim, Lyles, and Vesy, and Ms. Burns and Mr. Chapman are members of the Accreditation Association for Ambulatory Health Care (AAAHC) Institute or AAAHC Boards and as such must complete conflict of interest forms.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Mr. Murray is on staff at the American Gastroenterological Association.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dr. Kuznets is on staff at the AAAHC Institute, and as such, must complete forms disclosing any conflicts of interest.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There have been no conflicts of interest stated on any of the conflicts of interest forms aforementioned.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual Review&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xA;&lt;p&gt;This measure updates a previous version: AAAHC Institute for Quality Improvement. 2015 July-December colonoscopy study: procedure specific survey. Skokie (IL): AAAHC Institute for Quality Improvement; 2015. 2 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically. &lt;/p&gt;&#xA;&lt;p&gt;For more information, contact the AAAHC Institute for Quality Improvement at 5250 Old Orchard Road, Suite 250, Skokie, IL 60077; Phone: 847-853-6079; Fax: 847-853-6118; E-mail: &lt;a href=&quot;mailto:nkuznets@aaahc.org&quot;&gt;nkuznets@aaahc.org&lt;/a&gt;; Web site: &lt;a title=&quot;AAAHC Institute for Quality Improvement Web site&quot; href=&quot;http://www.aaahc.org/institute&quot;&gt;www.aaahc.org/institute&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AAAHC Institute for Quality Improvement. Colonoscopy January-June 2016 report: performance measurement and benchmarking in ambulatory care organizations. Skokie (IL): AAAHC Institute for Quality Improvement; 2016. 29 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AAAHC Institute for Quality Improvement at 5250 Old Orchard Road, Suite 250, Skokie, IL 60077; Phone: 847-853-6079; Fax: 847-853-6118; E-mail: &lt;a href=&quot;mailto:nkuznets@aaahc.org&quot;&gt;nkuznets@aaahc.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.aaahc.org/institute&quot; title=&quot;AAAHC Institute for Quality Improvement Web site&quot;&gt;www.aaahc.org/institute&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on May 25, 2004. The information was verified by the measure developer on May 27, 2004. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on January 19, 2011. The information was verified by the measure developer on February 8, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 18, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on September 12, 2014. The information was verified by the measure developer on October 7, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on October 19, 2015. The information was verified by the measure developer on November 20, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on February 23, 2017. The information was verified by the measure developer on February 24, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xA;&lt;p&gt;This measure is the intellectual property of the AAAHC Institute for Quality Improvement; downloading, use, and reproduction of this measure requires the explicit written permission of the AAAHC Institute for Quality Improvement.&lt;/p&gt;&#xA;&lt;p&gt;For more information, contact Naomi Kuznets, PhD, Vice President &amp;amp; Senior Director, AAAHC Institute for Quality Improvement at 5250 Old Orchard Road, Suite 250, Skokie, IL 60077; Phone: 847-853-6079; Fax: 847-853-6118; E-mail: &lt;a href=&quot;mailto:nkuznets@aaahc.org&quot;&gt;nkuznets@aaahc.org&lt;/a&gt;; Web site: &lt;a title=&quot;AAAHC Institute for Quality Improvement Web site&quot; href=&quot;http://www.aaahc.org/institute&quot;&gt;www.aaahc.org/institute&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AAAHC Institute for Quality Improvement. 2017 January-June colonoscopy study: procedure specific survey. Skokie (IL): AAAHC Institute for Quality Improvement; 2017. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

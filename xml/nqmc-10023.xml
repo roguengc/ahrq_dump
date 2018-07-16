@@ -1,0 +1,219 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Stroke: age-standardized rate of new stroke events admitted to an acute care hospital per 100,000 population age 20 and older.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). Indicator metadata: hospitalized strokes. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measures: Population Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measure: Population Health State" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the age-standardized rate of new stroke events admitted to an acute care hospital per 100,000 population age 20 and older. &lt;/p&gt;&#xA;&lt;p&gt;A new event is defined as a first-ever hospitalization for stroke or a recurrent hospitalized stroke occurring more than 28 days after the admission for the previous event in the reference period.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Calculation Description&lt;/em&gt;: (Total number of new stroke events for persons age 20 and older &amp;divide; Total mid-year population age 20 and older) &amp;times; 100,000 (Age-adjusted)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stroke is one of the leading causes of long-term disability and death. Measuring its occurrence in the population is important for planning and evaluating of preventive strategies, allocating health resources and estimating costs. From a disease surveillance perspective, there are three groups of strokes: fatal events occurring out of the hospital, non-fatal stokes managed outside acute care hospitals and non-fatal strokes admitted to an acute care facility. Although strokes admitted to a hospital do not reflect all stroke events in the community, this information provides a useful and timely estimate of the disease occurrence in the population.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). Indicator metadata: hospitalized strokes. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart and Stroke Foundation of Canada. The growing burden of heart disease and stroke in Canada 2003. [internet]. [accessed 2014 Mar 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Johansen HL, Wielgosz AT, Nguyen K, Fry RN. Incidence, comorbidity, case fatality and readmission of hospitalized stroke patients in Canada. Can J Cardiol. 2006 Jan;22(1):65-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16450021&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Truelsen T, Bonita R, Jamrozik K. Surveillance of stroke: a global perspective. Int J Epidemiol. 2001 Oct;30 Suppl 1:S11-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11759845&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;World Health Organization. WHO STEPS stroke manual: The WHO STEPwise approach to stroke surveillance. Geneva (Switzerland): World Health Organization; 2006. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stroke; acute care hospitalization&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total mid-year population age 20 and older&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cases that are new stroke events admitted to an acute care hospital, age 20 and older (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Regional, County or City" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 20 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Population-centered" />
+      <FieldValue Value="Risk Reducing" />
+      <FieldValue Value="Transparency" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;April 1 to March 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The total mid-year population age 20 and older&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Cases that are new stroke events* admitted to an acute care hospital, age 20 and older&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Stroke present on admission coded as diagnosis type (1) or (type [M], [W], [X] or [Y], but not also as diagnosis type [2]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age at admission 20 years and older &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sex recorded as male or female &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admission to an acute care institution (Facility Type Code = 1) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Canadian resident (Canadian postal code) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for the&amp;nbsp;administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*A &lt;strong&gt;new event&lt;/strong&gt; is defined as a first-ever hospitalization for stroke or a recurrent hospitalized stroke occurring more than 28 days after the admission for the previous event in the reference period. A person may have more than one stroke event in the reference period. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Records with an invalid health card number &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Records with an invalid date of birth &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Records with an invalid admission date &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cadaveric donor or stillbirth records (Admission Category = R or S) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stroke admissions within 28 days after the admission date of the previous stroke hospitalization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfers** &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**If a subsequent stroke admission occurs on the same day as or prior to the discharge date of a previous stroke admission, it is considered a transfer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Indicators are reported at the national, provincial/territorial, and regional levels. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Unless otherwise specified, for indicators based on place of residence, data is reported based on the region of the patient's residence, not region of hospitalization. Consequently, these figures reflect the hospitalization experience of residents of the region wherever they are treated, including out of province, as opposed to the comprehensive activity of the region's hospitals (that will also treat people from outside of the region). Hospitalizations occurring in the U.S. or abroad are not included. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For indicators based on place of service (where the patient was treated), data is reported based on the administrative region of the facility (e.g., region of hospitalization). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rates are standardized or risk-adjusted wherever possible to facilitate comparability across provinces/regions/facilities and over time. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Standardized rates are adjusted by age (collapsed to five-year groupings) using a direct method of standardization based on the July 1, 1991, Canadian population. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospitalized strokes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Health Indicators ePublication 2015" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Canadian Institute for Health Information - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Canadian Institute for Health Information - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Canadian Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Employees&lt;/em&gt;: Canadian Institute for Health Information (CIHI) Health Indicators&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Canadian Institute for Health Information (CIHI). Health indicators 2013: definitions, data sources and rationale. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2013 May. 89 p. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://indicatorlibrary.cihi.ca/pages/viewpage.action?pageId=5111834&quot; title=&quot;CIHI Web site&quot;&gt;Canadian Institute for Health Information (CIHI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CIHI at 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950; E-mail: &lt;a href=&quot;mailto:hsp@cihi.ca&quot;&gt;hsp@cihi.ca&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.cihi.ca/&quot; title=&quot;CIHI Web site&quot;&gt;www.cihi.ca&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Canadian Institute for Health Information (CIHI). Indicator library: general methodology notes - clinical indicators, March 2015. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 Mar. 19 p. This document is available from the &lt;a href=&quot;http://indicatorlibrary.cihi.ca/download/attachments/1114124/General%20Methodology%20Notes.pdf?version=1&amp;amp;modificationDate=1424974232000&amp;amp;api=v2&quot; title=&quot;CIHI Web site&quot;&gt;Canadian Institute for Health Information (CIHI) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Canadian Institute for Health Information (CIHI). Canadian coding standards for version 2015 ICD-10-CA and CCI. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015. 511 p. This document is available from the &lt;a href=&quot;https://secure.cihi.ca/free_products/Coding%20standard_EN_web.pdf&quot; title=&quot;CIHI Web site&quot;&gt;CIHI Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Canadian Institute for Health Information (CIHI). Health indicators interactive tool. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); [accessed 2015 Jan 20]. This tool is available from the &lt;a href=&quot;http://www.cihi.ca/hirpt/?language=en&quot; title=&quot;CIHI Web site&quot;&gt;CIHI Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 19, 2010. The information was verified by the measure developer on June 24, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 18, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 18, 2013. The information was verified by the measure developer on May 17, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The CIHI informed NQMC that this measure was updated on October 31, 2013 and provided an updated version of the NQMC summary. This NQMC summary was reviewed and updated accordingly by ECRI Institute on February 21, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on September 4, 2015. The information was verified by the measure developer on November 6, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 29, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Use of Canadian Institute for Health Information's (CIHI) quality measure for research, private study, education, or other non-commercial purposes is permitted where full credit is given to CIHI as author and owner of the quality measure. Any use that is wholly or partly commercial in nature requires CIHI's express written permission.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Questions and inquiries may be directed to: CIHI, Health Indicators, 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). Indicator metadata: hospitalized strokes. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,241 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Overuse of imaging: percentage of facilities with a policy for &quot;as low as reasonably achievable&quot; (ALARA) dosing of radiation, specific to the imaging of children.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: overuse of imaging: policy for ALARA specific to imaging children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2014 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Population Health Quality Measures: Population Structure" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of facilities with a policy for &quot;as low as reasonably achievable&quot; (ALARA) dosing of radiation, specific to the imaging of children in a state. A higher percentage indicates better performance, as reflected by use of minimal radiation when imaging.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In the previous 10 to 15 years, significant advancements in multi-detector computed tomography (MDCT) technology have contributed to a substantial increase in the diagnostic applications and accuracy of computed tomography (CT) imaging studies. Correspondingly, CT imaging can figure prominently in characterizing and facilitating treatment of a myriad of neurologic and oncologic-based childhood diseases. However, a major disadvantage of MDCT is the use of ionizing radiation and the prospect of increased risk for latent malignancies. Children who have multiple CTs in early childhood tend to be at greater risk for developing leukemia and related malignancies (Pearce et al., 2012). Although the available evidence on the risks of low-dose radiation still remains a matter of discussion, it is generally believed that there is a &quot;linear-no threshold&quot; risk relationship (Nievelstein, van Dam, &amp;amp; van der Molen, 2010). In other words, no dose of radiation is safe. Consequently, there is an overwhelming need to consider that any radiation used in the course of imaging has the capacity to cause secondary cancer.&lt;/p&gt;&#xA;&lt;p&gt;Within this context, reducing the medical radiation dose and exposure to children as much as possible by performing imaging studies with radiation doses &quot;as low as reasonably achievable&quot; (that is, ALARA) continues to gain attention and prominence for pediatric imaging best practice (American College of Radiology [ACR], 2009). In particular, professional practice and patient advocacy groups, as well as international scientific organizations, have focused on MDCT radiation dose reduction and optimization strategies. These groups include the ACR, the American Academy of Neurology (AAN), and the American Academy of Pediatrics (AAP). The ACR accredits facilities for different imaging modalities, CT being one of them. As part of achieving ACR accreditation, facilities should have a policy and imaging protocols in place stating that radiation exposure to patients will be as low as reasonably achievable and therefore is consistent with ALARA principles (ACR, 2014).&lt;/p&gt;&#xA;&lt;p&gt;An even higher level of care is specified by the Image Gently campaign, in which facilities are accredited by the ACR in pediatric CT imaging and commit to imaging pediatric patients with appropriate radiation dose. Having ALARA policies with age and/or size-specific radiation doses programmed into CT scanners is the essential first step for following this best practice. Although imaging guidelines have been developed, published, and advocated by numerous professional organizations, many hospitals and imaging entities still do not apply ALARA-based dose reduction techniques for all varieties of pediatric imaging.&lt;/p&gt;&#xA;&lt;p&gt;Considering that malignancy is the second leading cause of death in children in the United States, ALARA policies should be incorporated as standard-of-care for all pediatric imaging that makes use of ionizing radiation. This measure will reveal the percentage of facilities that have implemented ALARA policies for pediatric imaging, as well as the percentage that have gone the extra step to support the Image Gently campaign.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR). Overview for the Diagnostic Modality Accreditation Program. [internet]. [accessed 2014 Dec 18]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR). Statement on recent studies regarding CT scans and increased cancer risk. [internet]. 2009 Dec 15&amp;nbsp;[accessed 2014 Dec 18]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nievelstein RA, van Dam IM, van der Molen AJ. Multidetector CT in children: current concepts and dose reduction strategies. Pediatr Radiol. 2010 Aug;40(8):1324-44.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pearce MS, Salotti JA, Little MP, McHugh K, Lee C, Kim KP, Howe NL, Ronckers CM, Rajaraman P, Sir Craft AW, Parker L, Berrington de González A. Radiation exposure from CT scans in childhood and subsequent risk of leukaemia and brain tumours: a retrospective cohort study. Lancet. 2012 Aug 4;380(9840):499-505. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22681860&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: overuse of imaging: policy for ALARA specific to imaging children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2014 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Imaging; overuse; radiation dosing; &quot;as low as reasonably achievable&quot; (ALARA) policy; children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The denominator is the number of facilities that perform imaging of children younger than 18 years old in a state (see the related &quot;Denominator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The numerator is the number of facilities that perform imaging of children with a policy for &quot;as low as reasonably achievable&quot; (ALARA) specific to the imaging of children in a state (see the related &quot;Numerator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Baseline Considerations for &quot;As Low as Reasonably Achievable&quot; (ALARA): Prevalence and Incidence of Malignancy in Children&lt;/em&gt;&lt;br /&gt;&#xA;ALARA and its related application to pediatric imaging policies require an assessment of the prevalence and incidence of malignancy in the pediatric population. A review of the literature reveals that childhood malignancies have been increasing slightly for the past few decades and comprise less than 1% of all malignancies diagnosed each year (American Cancer Society [ACS], 2014). For 2014, this correlates to nearly 10,450 children in the United States under the age of 15 years receiving a diagnosis of malignancy (ACS, 2014). Despite a malignancy rate of less than 1%, such cancers are the second leading cause of death in children in the United States (after injuries) (ACS, 2014). The ACS has estimated that approximately 1,350 children younger than 15 years old are expected to die from malignancy in 2014 (ACS, 2014). &lt;/p&gt;&#xA;&lt;p&gt;To date, there is no definitive study or literature that reveals, in an absolute sense, the additional malignancy burden created by ionizing radiation used in the course of imaging children. However, it is widely understood that any reduction in radiation dose is beneficial and reduces harm to children (Lin, 2010). In a recent study from 2009, it was estimated that compared with a patient aged 40 years, the risk of cancer from a radiation imaging test is doubled for a patient aged 20 years and 50% lower for a patient aged 60 years (Smith-Bindman et al., 2009). &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Overuse of Radiation Exposure in Imaging Related to Lack of ALARA Policies: Radiation Dose Pathology and Severity&lt;/em&gt;&lt;br /&gt;&#xA;Use of ionizing radiation-based imaging has increased substantially in recent years. The use of computed tomography (CT) on older children nearly tripled from 1996 to 2005 to a peak of 27 CT scans per 1,000 children (Miglioretti et al., 2013). Radiation dose associated with CT imaging introduces the possibility of chronic health risks related to malignancies sustained from radiation effects (American College of Radiology [ACR], 2009). CT-based radiation dose for pediatric patients is problematic because the developing cellular structures and tissues of children are significantly more radiosensitive than those of adults; children, therefore, will be at substantially elevated risk for malignancy (Hayes et al., 2012). Radiosensitive organs including the brain, bone marrow, lens of the eye, and thyroid gland can be exposed to radiation during CT of the head (Papadakis et al., 2011). In children under 5 years of age, about 20% of the active bone marrow is in the cranium, compared with 8% in adults (Christy, 1981). Children who have multiple CT scans in early childhood tend to be at greater risk for developing leukemia (Pearce et al., 2012). &lt;/p&gt;&#xA;&lt;p&gt;While radiation reduction strategies are important, the emphasis should continue to be on avoiding unnecessary imaging altogether for maximal mitigation of harm. Some studies suggest that as many as a third of pediatric CT scans are unnecessary and that eliminating them could potentially reduce the number of CT-attributable cancers by a third (Miglioretti et al., 2013). Combining the two strategies &amp;mdash; reducing the highest 25% of doses and reducing unnecessary scans &amp;mdash; could potentially prevent 62% of the projected radiation-related cancers (Miglioretti et al., 2013).&lt;/p&gt;&#xA;&lt;p&gt;See the original measure documentation for additional evidence supporting the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Cancer Society (ACS). Cancer facts &amp; figures 2014. Atlanta (GA): American Cancer Society (ACS); 2014. 70 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR). Statement on recent studies regarding CT scans and increased cancer risk. [internet]. 2009 Dec 15&amp;nbsp;[accessed 2014 Dec 18]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cristy M. Active bone marrow distribution as a function of age in humans. Phys Med Biol. 1981 May;26(3):389-400. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7243876&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hayes LL, Coley BD, Karmazyn B, Dempsey-Robertson ME, Dillman JR, Dory CE, Garber M, Keller MS, Kulkarni AV, Meyer JS, Milla SS, Myseros JS, Paidas C, Raske ME, Rigsby CK, Strouse PJ, Wootton-Gorges SL, Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria® headache - child. [online publication]. Reston (VA): American College of Radiology (ACR); 2012. 8 p.  [41 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lin EC. Radiation risk from medical imaging. Mayo Clin Proc. 2010 Dec;85(12):1142-6; quiz 1146. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21123642&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miglioretti DL, Johnson E, Williams A, Greenlee RT, Weinmann S, Solberg LI, Feigelson HS, Roblin D, Flynn MJ, Vanneman N, Smith-Bindman R. The use of computed tomography in pediatrics and the associated radiation exposure and estimated cancer risk. Unknown. 2013 Aug 1;167(8):700-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23754213&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Papadakis AE, Perisinakis K, Oikonomou I, Damilakis J. Automatic exposure control in pediatric and adult computed tomography examinations: can we estimate organ and effective dose from mean MAS reduction?. Invest Radiol. 2011 Oct;46(10):654-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21673583&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pearce MS, Salotti JA, Little MP, McHugh K, Lee C, Kim KP, Howe NL, Ronckers CM, Rajaraman P, Sir Craft AW, Parker L, Berrington de González A. Radiation exposure from CT scans in childhood and subsequent risk of leukaemia and brain tumours: a retrospective cohort study. Lancet. 2012 Aug 4;380(9840):499-505. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22681860&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: overuse of imaging: policy for ALARA specific to imaging children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2014 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith-Bindman R, Lipson J, Marcus R, Kim KP, Mahesh M, Gould R, Berrington de Gonzalez A, Miglioretti DL. Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer. Arch Intern Med. 2009 Dec 14;169(22):2078-86.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xA;The reliability of this measure was not separately tested; National Quality Forum (NQF) guidance indicates that separate reliability testing of data elements is not necessary if data element validity testing is conducted (see below) (NQF, 2011).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xA;The validity of this measure was determined from two perspectives: face validity and validity of the facility survey data in relation to accreditation information published online.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Face Validity&lt;/em&gt;. The face validity of this measure was established by a national panel of experts and parent representatives for families of children with headaches and seizures convened by the Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). The Q-METRIC panel included nationally recognized experts in the area of imaging children, representing general pediatrics, pediatric radiology, pediatric neurology, pediatric neurosurgery, pediatric emergency medicine, general emergency medicine, and family medicine. In addition, face validity of this measure was considered by experts in state Medicaid program operations, health plan quality measurement, health informatics, and health care quality measurement. In total, the Q-METRIC imaging panel included 15 experts, providing a comprehensive perspective on imaging children and the measurement of quality metrics for states and health plans.&lt;/p&gt;&#xA;&lt;p&gt;The Q-METRIC expert panel concluded that this measure has a high degree of face validity through a detailed review of concepts and metrics considered to be essential to the appropriate imaging of children. Concepts and draft measures were rated by this group for their relative importance. This measure was very highly rated, receiving an average score of 9.0 (with 9 as the highest possible score).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Data and Methods&lt;/em&gt;. This measure was tested using an in-person telephone survey of staff members at facilities in Michigan indicating that they provide computed tomography (CT) services to children. Indication of pediatric CT service capabilities was confirmed with state Certificate of Need (CoN) reports; &quot;as low as reasonably achievable&quot; (ALARA) protocol responses were validated through accreditation information published by the American College of Radiology (ACR).&lt;/p&gt;&#xA;&lt;p&gt;We obtained the statewide universe of CT imaging facilities from the Michigan Department of Community Health (MDCH) Certificate of Need Annual Survey Report for CT Services Provided by Hospitals, Freestanding Facilities, and Host Sites (MDCH, 2012). Facilities eligible to be surveyed were restricted to those that reported at least one pediatric head or body scan for children less than 18 years old (refer to Appendix A of the original measure documentation) (Note, at the time of measure testing, the 2012 annual survey was the most current report available). CoN programs are designed to ensure that health facilities, services, and equipment match the needs of the population. In Michigan, facilities with CT scanners submit survey data in order to document sufficient utilization of the service to justify the location. &lt;/p&gt;&#xA;&lt;p&gt;The telephone survey was conducted among a convenience sample of facilities to determine if information could feasibly and accurately be obtained from facility staff. Respondents consisted of lead CT technologists or medical directors at each facility; the brief telephone survey asked whether their facility performed CT scans on pediatric patients younger than 18 years old. Those responding 'yes' to this question were then asked: &quot;Does your facility have a written policy to implement ALARA principles or specific protocols to reduce radiation exposure for CT imaging of children?&quot; This question was followed by a brief set of questions to determine the number of different protocols to reduce radiation exposure during CT imaging in use at the facility for three body regions (head, chest, abdomen/pelvis).&lt;/p&gt;&#xA;&lt;p&gt;We employed a convenience sample of 65 facilities providing CT imaging, of which 40 facilities were affiliated with other sites within a larger health care organization. From this sample, we obtained completed surveys from 21 individual sites representing a total of 58 (30%) of the 194 facilities reported to conduct CT scans of children in Michigan. Among the surveyed staff at these facilities, 100% reported the presence of policies to implement ALARA specific to children who undergo a CT scan. Seven staff members provided answers to questions regarding the number of protocols, two of whom responded they were unsure. The range of the number of protocols by body region was 2 to 12 among respondents who provided a number.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Validity of Survey Data&lt;/em&gt;. Telephone survey responses were validated using data acquired from the ACR Accreditation Web site (2014).&lt;/p&gt;&#xA;&lt;p&gt;Of the 194 Michigan facilities that performed CT scans of children in 2012, 49% were ACR accredited in 2014 for CT imaging, indicating that they had policies for ALARA. Additionally, 39% of the facilities were noted to support Image Gently, indicating a commitment to imaging pediatric patients with an appropriate radiation dose (Table 2 of the original measure documentation). It should be noted that all facilities (100%) supporting Image Gently were also ACR accredited. Among the 58 facilities that reported ALARA policy compliance via the telephone survey, 33 (57%) were verified as having ACR accreditation (which includes having an ALARA policy).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR). Computed tomography accreditation. [internet]. [accessed 2014 Dec 18]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Michigan Department of Community Health (MDCH). Michigan certificate of need annual survey report - computed tomography (CT) services provided by hospitals, freestanding facilities, and host sites (2012). Report 101. [internet]. [accessed 2014 Dec 18]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). Guidance for measure testing and evaluating scientific acceptability of measure properties. 2011 Jan. 52 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: overuse of imaging: policy for ALARA specific to imaging children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2014 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Does not apply to this measure&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Population-centered" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Healthy People/Healthy Communities&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Health Care/Public Health Organization Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;The denominator is the number of facilities that perform imaging of children younger than 18 years old in a state.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Others may wish to test this measure at many different levels including geographic units, hospital groups, hospital associations, and health plans that contract with specific hospitals. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Facility&lt;/em&gt;: Any facility that performs imaging on children (hospitals, free-standing facilities, etc.). &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Imaging&lt;/em&gt;: Computed tomography (CT) scan of any part of the body. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Facilities that do not image children younger than 18 years old are excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;The numerator is the number of facilities that perform imaging of children with a policy for &quot;as low as reasonably achievable&quot; (ALARA) specific to the imaging of children in a state.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: ALARA refers to the &quot;as low as reasonably achievable&quot; amount of radiation exposure for a given imaging study for a patient based on age and size. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Facilities that do not image children younger than 18 years old are excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative management data" />
+      <FieldValue Value="External audit" />
+      <FieldValue Value="Health professional survey" />
+      <FieldValue Value="Inspections/Site visits" />
+      <FieldValue Value="Organizational policies and procedures" />
+      <FieldValue Value="State/Province public health data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Overuse of imaging: policy for ALARA specific to imaging children.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Overuse of Imaging Measure" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) under the Children's Health Insurance Program Reauthorization Act (CHIPRA) Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020516.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Overuse of Imaging Expert Panels&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Representative Panel&lt;/em&gt; &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Dana Cook, Parent Representative, Paw Paw, MI &lt;/li&gt;&#xA;    &lt;li&gt;Peter Dayan, MD, MSc, Division of Pediatric Emergency Medicine, Morgan Stanley Children's Hospital, New York, NY &lt;/li&gt;&#xA;    &lt;li&gt;Lisa Dover, Parent Representative, Ann Arbor, MI &lt;/li&gt;&#xA;    &lt;li&gt;Danny Greig, MD, FAAFP, Emergency Room Physician, MidMichigan Medical Center, Midland, MI &lt;/li&gt;&#xA;    &lt;li&gt;Blaise Jones, MD, Director of Clinical Services, Chief of Neuroradiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH &lt;/li&gt;&#xA;    &lt;li&gt;Steven Leber, MD, PhD, Professor of Pediatrics and Neurology, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xA;    &lt;li&gt;Cormac Maher, MD, Associate Professor of Neurosurgery, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xA;    &lt;li&gt;L. Kendall Webb, MD, Assistant Professor of Emergency Medicine, Director of IT for the Emergency Department, University of Florida, Jacksonville, Jacksonville, FL &lt;/li&gt;&#xA;    &lt;li&gt;Neal Weinberg, MD, FAAP, General Pediatrician, IHA Pediatric Healthcare &amp;ndash; Arbor Park, Ann Arbor, MI &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Feasibility Panel&lt;/em&gt; &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Cathy Call, RN, BSN, MSEd, MSN, CPHQ, PMP, LSS, Practice Area Leader for Health Quality Research, Health Care Analytics Group, Altarum Institute, Alexandria, VA &lt;/li&gt;&#xA;    &lt;li&gt;Andrea DeVries, PhD, Director of Research Operations, HealthCore Inc., Wilmington, DE &lt;/li&gt;&#xA;    &lt;li&gt;J. Mitchell Harris, PhD, Director of Research and Statistics, Children's Hospital Association, (formerly NACHRI), Alexandria, VA &lt;/li&gt;&#xA;    &lt;li&gt;Don Lighter, MD, MBA, Director, The Institute for Health Quality Research and Education, Knoxville, TN &lt;/li&gt;&#xA;    &lt;li&gt;Sue Moran, BSN, MPH, Director of the Bureau of Medicaid Program Operations and Quality Assurance, Michigan Department of Community Health, Lansing, MI &lt;/li&gt;&#xA;    &lt;li&gt;Stuart Weinberg, MD, Assistant Professor of Biomedical Informatics, Assistant Professor of Pediatrics, Vanderbilt University, Nashville, TN &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Investigators&lt;/em&gt; &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Michelle L. Macy, MD, MS, Assistant Professor, Departments of Emergency Medicine and Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xA;    &lt;li&gt;Gary L. Freed, MD, MPH, Professor of Pediatrics, School of Medicine and Professor of Health Management and Policy, School of Public Health, University of Michigan, Ann Arbor, MI (principal investigator) &lt;/li&gt;&#xA;    &lt;li&gt;Kevin J. Dombkowski, DrPH, MS, Research Associate Professor of Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://chear.org/sites/default/files/stories/pdfs/img5_alara.pdf&quot; title=&quot;Q-METRIC Web site&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Web site&lt;/a&gt;. &lt;a href=&quot;http://www.chear.org/qmetric&quot; title=&quot;Q-METRIC Web site&quot;&gt;Support documents&lt;/a&gt; are also available.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Q-METRIC at 300 North Ingalls Street, Room 6C08, SPC 5456, Ann Arbor, MI 48109-5456; Phone: 734-232-0657; Fax: 734-764-2599.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 16, 2015. The information was verified by the measure developer on May 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 7, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inform Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) if users implement the measures in their health care settings.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: overuse of imaging: policy for ALARA specific to imaging children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2014 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,238 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cost of care: total resource use population-based per member per month (PMPM) index.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Total cost of care and resource use technical guidelines. Minneapolis (MN): HealthPartners; 2012 May. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measure:  Cost" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the total resource use index population-based per member per month (PMPM).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Resource Use Index (RUI) is a risk adjusted measure of the frequency and intensity of services utilized to manage a provider's patients. Resource use includes all resources associated with treating members including professional, facility inpatient and outpatient, pharmacy, lab, radiology, ancillary and behavioral health services. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Calculations&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Risk Adjusted Total Resource Use PMPM = Total Resource PMPM / Risk Score&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;RUI = Risk Adjusted Resource Use PMPM / Peer Group Average Risk Adjusted Resource Use PMPM&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In 2009, health care spending represented 17.6 percent of the United States gross domestic product (GDP) and it is expected to continue to rise to over 20 percent by 2018. This is the largest percentage of any developed nation in the world. Rising costs prohibit many from being able to afford insurance coverage and largely contributes to personal bankruptcies. Consequently, affordability of care has become an increasingly discussed issue. In spite of this, few publicly available cost and resource use measures exist. In 1995, HealthPartners developed the Total Cost of Care measure to bring awareness of health care costs to providers and patients, and to drive improved value for the health care dollar. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;HealthPartners' population-based Total Cost of Care and Total Resource Use measures provide valuable information to health plans and providers on how to make health care more affordable without sacrificing quality or experience. Health plans and providers can use cost and resource use data to identify areas where they can lower cost by improving resource use or shifting to less expensive, yet equally effective resources &amp;mdash; for example, use of a surgery center instead of a hospital where it is medically appropriate, without negatively impacting quality. Evidence supports this idea as depicted in various studies on diabetes care, in academic medical centers, across metropolitan statistical areas and in group practices in Minnesota. These studies conclude that increased cost does not result in increased quality, while quality is not sacrificed when resource use is optimized.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A key benefit of HealthPartners' population-based Total Cost of Care and Resource Use measures is the identification of potential overuse and underuse of health care services. For example, a primary care physician may be referring back pain patients to an orthopedic surgeon. Rather than managing the back pain in primary care, these patients may have increased specialist costs and potentially more back surgeries than would be expected for their population. Overuse of health care services has led to wide variation in health care cost and use across geographies. Studies suggest that Medicare spending would be decreased by almost 30 percent if medium and high spending geographies consumed health care services comparable to that of lower spending regions. Experts agree that reducing overuse can make care safer and more efficient.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fisher ES, Wennberg DE, Stukel TA, Gottlieb DJ. Variations in the longitudinal efficiency of academic medical centers. Health Aff (Millwood). 2004;Suppl Vari:VAR19-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15471777&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kralewski JE, Dowd BE, Xu Y. Differences in the cost of health care provided by group practices in Minnesota. Minn Med. 2011 Feb;94(2):41-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21462666&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Medicare Payment Advisory Commission (MedPAC). Report to the congress: increasing the value of Medicare. Washington (DC): Medicare Payment Advisory Commission (MedPAC); 2006 Jun. 267 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Priorities Partnership. National priorities and goals. National Priorities Partnership convened by the National Quality Forum. [internet]. 2008&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). Waste not, want not: the right care for every patient. Washington (DC): National Quality Forum (NQF); 2009 Jun. 9 p.&amp;nbsp;(Issue brief; no. 15).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Total cost of care and resource use white paper. Minneapolis (MN): HealthPartners; 2012 Jan. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Turbyville SE, Rosenthal MB, Pawlson LG, Scholle SH. Health plan resource use: bringing us closer to value-based decisions. Am J Manag Care. 2011 Jan;17(1):68-74. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21348570&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Resource use; total cost of care&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Risk score (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total Resource Per Member Per Month (PMPM) = (Total Medical Total Care Relative Resource Values [TCRRV&amp;trade;]/Medical Member Months) + (Total Pharmacy TCRRV&amp;trade;/Pharmacy Member Months)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To test the reliability of the Total Cost Index (TCI) and Resource Use Index (RUI) measures, the measures were applied to HealthPartners primary care Twin Cities metro area providers according to the measure specifications. Results were calculated for 2007, 2008 and 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;To measure the reliability of the TCI and RUI measures, a 90 percent random sample and a bootstrapping technique were employed. In these methods, reliability is measured as the mean of the variance between sampling iterations and the actual results. In addition, TCI and RUI measures were analyzed over time to demonstrate stability and sensitivity to provider changes or improvement initiatives. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the 90 percent random sample method, members attributed to a provider group were randomly sampled at the 90 percent membership level without replacement. This was done to simulate variation within a provider group by leveraging their own population and case-mix. This method gives an indication of the repeatability of the measure by comparing how closely the actual total cost and resource use measures are to the 90 percent sampled averages. It also simulates any potential member selection bias. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the bootstrapping method, members attributed to a provider group were randomly selected with replacement. This method maximizes variation around a provider group's total cost of care and resource use as each randomly selected iteration (sample population) does not truly represent the provider's case mix of patients. This method was performed using the same technique as the 90 percent random sample method to support and validate the results found.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To assess validity, the total cost of care and resource use measures were applied to HealthPartners primary care Twin Cities metro area providers according to the measure specifications. Additional standard utilization metrics were also applied to the underlying data in the actual and risk adjusted forms. The TCI and RUI findings are compared by provider group to the actual and risk adjusted utilization metrics to determine the accuracy of conclusions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The total cost of care and resource use measures can differentiate between providers based on the cost per member and/or consumption of resources per member, if all other factors are equal. The Adjusted Clinical Groups (ACG) adjustment controls for variations in illness burden of the patients and peer grouping controls for various patient demographics, provider types and types of product. The remaining factors reflect what the provider can potentially impact. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Various strengths of correlation are seen between the total cost of care and resource use measures and known utilization metrics. These correlation strengths depend upon how fully encompassing the utilization metric is within the component being measured and whether the metrics are risk adjusted. For example, the admit count utilization measure is highly correlated to inpatient resource use, since the only factor not accounted for in the admit count measure is intensity (i.e., level of treatment). When risk adjustment is applied, the correlation is reduced as the illness burden variation is removed. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;These measures are designed to evaluate the entire patient and/or provider. Since a person-centered measure does not currently exist, utilization metrics are used as a proxy to evaluate the correctness and accuracy of the conclusions drawn by the total cost of care and resource use measures. These comparisons and correlations should be considered directional and are not absolute. Utilization metrics do not measure intensity or cost per unit and are targeted to measure a specific service. Therefore the correlations to the total cost of care and resource use need interpretation, as high correlation is not always the ultimate goal or the expected result.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Total cost of care and resource use white paper. Minneapolis (MN): HealthPartners; 2012 Jan. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Managed Care Plans" />
+      <FieldValue Value="Other" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 1 to 64 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measurement year as determined by user (e.g., January 1 through December 31)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Risk score &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;For each member in the population, a risk score will be calculated by using risk adjustment software based on claims from the performance measurement period. A member's risk score is multiplied by the member's member months creating a member's total risk score. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;To determine which members to include in the Total Resource Use measure, there are several options available depending upon the business purpose and unit of measure. If the unit of measure is an entire community or health plan, all members should be included in the Total Resource Use measure. If the unit of measure is a provider group and members are required to select a provider, HealthPartners recommends using the member selected provider. When the member is not required to select a provider, the use of an attribution algorithm to identify the member's principal provider is recommended. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Eligibility data is required to determine the number of months the member is active during the measurement period (member months). HealthPartners' measurement requires member to be active at least 9 of the 12 medical months of the measurement period to be included in this measure. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the original measure documentation for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Members with less than 9 months of medical eligibility are excluded from this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Total Resource Per Member Per Month (PMPM) = (Total Medical Total Care Relative Resource Values [TCRRV&amp;trade;]/Medical Member Months) + (Total Pharmacy TCRRV&amp;trade;/Pharmacy Member Months)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;TCRRV&amp;trade; measures resource consumption, quantifying resource use for all procedures and services provided in the health care system. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Include all medical and pharmacy claims with a first date of service within a 12 month period that include 3 months of paid claims run out. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All paid medical and pharmacy claims for the member are summarized to the member level with the $100,000 truncation method applied. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Administrative management data" />
+      <FieldValue Value="Pharmacy data" />
+      <FieldValue Value="Provider characteristics" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Johns Hopkins Adjusted Clinical Groups (ACGs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Total Resource Use measure is based on a risk adjusted per member per month (PMPM) relative to a specified peer group or benchmark. The resource use measure is the risk adjusted total resources divided by the sum of the member months attributed to the provider. The total resources are the sum of the Total Care Relative Resource Values (TCRRV&amp;trade;), which are a standardized price value that acts in the same fashion as a dollar (refer to the original measure documentation for the TCRRV&amp;trade; methodology).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Risk adjustment is performed using Adjusted Clinical Groups (ACG) developed by Johns Hopkins University. Attributed members are assigned a risk score based on diagnoses on claims from the performance measurement period, as well as member age and gender.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="71" OrdBy="570" ID="613" Name="Prescriptive Standard" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Both the Total Cost of Care (TCOC) and Resource Use measures are typically compared to a peer group or benchmark, which generates an index relative to the peer group or benchmark.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="9" OrdBy="580" ID="614" Name="Evidence for Prescriptive Standard" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Total cost of care and resource use user guide. Minneapolis (MN): HealthPartners; 2012. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total resource use population-based PMPM index.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Efficiency - Resource Use: Phase II" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Non-Condition Specific Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="HealthPartners - Managed Care Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="HealthPartners - Managed Care Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HealthPartners&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Sue Knudson, HealthPartners (Senior Vice President, Health Informatics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chad Heim, HealthPartners (Senior Director, Health Informatics) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2012 Jan 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every four years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Feb&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in March 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.healthpartners.com/ucm/groups/public/@hp/@public/documents/documents/dev_057425.pdf&quot; title=&quot;HealthPartners Web site&quot;&gt;HealthPartners Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the HealthPartners Health Informatics Department via e-mail at &lt;a href=&quot;mailto:TCOCMeasurement@HealthPartners.com&quot;&gt;TCOCMeasurement@HealthPartners.com&lt;/a&gt; or visit &lt;a href=&quot;https://www.healthpartners.com/public/tcoc/contact/&quot; title=&quot;TCOC Contact page&quot;&gt;https://www.healthpartners.com/public/tcoc/contact/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Total cost of care (TCOC) and total resource use white paper. Minneapolis (MN): HealthPartners; 2013 Oct 7. 14 p. This document is available from the &lt;a href=&quot;https://www.healthpartners.com/public/tcoc/&quot; title=&quot;TCOC Web site&quot;&gt;TCOC Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;TCOC toolkit. [internet]. Minneapolis (MN): HealthPartners; [accessed 2012 Dec 4]. [2]. This toolkit is available from the &lt;a href=&quot;https://www.healthpartners.com/public/tcoc/toolkit/&quot; title=&quot;TCOC Web site&quot;&gt;TCOC Toolkit Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total cost of care user guide and specifications. Minneapolis (MN): HealthPartners; 2011. 18 p. This document is available from the &lt;a href=&quot;https://www.healthpartners.com/public/tcoc/measures/&quot; title=&quot;TCOC Web site&quot;&gt;TCOC Measures in Use Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 3, 2012. The information was verified by the measure developer on January 4, 2013. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on March 25, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please visit &lt;a href=&quot;http://www.healthpartners.com/public/tcoc/toolkit&quot; title=&quot;HealthPartners Web site&quot;&gt;http://www.healthpartners.com/public/tcoc/toolkit&lt;/a&gt; for terms governing licensing, downloading and use of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Total cost of care and resource use technical guidelines. Minneapolis (MN): HealthPartners; 2012 May. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

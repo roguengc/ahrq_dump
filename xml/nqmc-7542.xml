@@ -1,0 +1,210 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Immunizations: percentage of patients who by age 13 years were up-to-date with the following recommended adolescent immunizations: one human papillomavirus vaccine (HPV) (for females), one meningococcal (MCV4), one tetanus, diphtheria toxoids and acellular pertussis vaccine (Tdap), and one influenza within the last year.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nordin J, Anderson R, Anderson R, Garvis M, Kephart K, Myers C, Ottis B, Rall S, Retzer K, Starr A, Institute for Clinical Systems Improvement (ICSI). Immunizations. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2012 Mar. 81 p.  [84 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients who by age 13 years were up-to-date with the following recommended adolescent immunizations: one human papillomavirus vaccine (HPV) (for females), one meningococcal (MCV4), one tetanus, diphtheria toxoids and acellular pertussis vaccine (Tdap), and one influenza within the last year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The priority aim addressed by this measure is to increase the percentage of patients who are up-to-date with recommended immunizations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Vaccines are one of the great public health achievements of the 20th century. Before vaccines became widely used, infectious diseases killed thousands of children and adults each year in the United States.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For most Americans today, vaccines are a routine part of health care, yet pockets of vaccine-preventable diseases occur. This is partly related to a growing number of parents who are concerned that vaccines may be the cause of conditions such as autism or question whether vaccines are still necessary. These concerns have caused some parents to delay vaccines or withhold them altogether from their children.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Vaccine recommendations are determined after extensive studies in large clinical trials. They include studies on how vaccine recipients respond to multiple vaccines given simultaneously. The overall aim is to provide early protection for infants and children against vaccine-preventable diseases that could endanger their health and life. No scientific evidence exists to support that delaying vaccinations or separating them into individual antigens is beneficial for children. Rather, this practice prolongs susceptibility to disease, which could result in a greater likelihood of the child becoming sick with a serious or life-threatening disease. There could also be added expense (e.g., multiple office visits), additional time off from work for parents, and increased likelihood that the child will fail to get all necessary vaccinations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To combat these threats, health care providers need to continue to encourage patients and parents to receive all recommended immunizations and to follow the scientifically based immunization schedules.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention. Epidemiology and prevention of vaccine-preventable diseases. [internet]. Atlanta (GA): Centers for Disease Control and Prevention; [accessed 2011 Apr 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nordin J, Anderson R, Anderson R, Garvis M, Kephart K, Myers C, Ottis B, Rall S, Retzer K, Starr A, Institute for Clinical Systems Improvement (ICSI). Immunizations. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2012 Mar. 81 p.  [84 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Immunizations; human papillomavirus vaccine (HPV); meningococcal (MCV4); tetanus, diphtheria toxoids and acellular pertussis vaccine (Tdap); influenza; adolescents &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients who reach their 13th birthday during the specified measurement period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients who are up-to-date with the following immunizations:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;One HPV &amp;ndash; human papillomavirus vaccine (for females) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One MCV4 &amp;ndash; meningococcal &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One Tdap &amp;ndash; tetanus, diphtheria toxoids and acellular pertussis vaccine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One influenza within the last year &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In the past decade, the U.S. has seen an increase in the number of cases of pertussis and measles. In 2002, 9,771 cases of pertussis were reported. In 2010, more than 27,000 cases were reported with 36 deaths. In California, 10 infants aged two months and younger died from pertussis. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pertussis appears to be endemic in middle and high schools. Although mortality is very low in patients ages 11 to 65 years, pertussis causes substantial morbidity in this age as well as transmission to incompletely immunized infants. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Human papillomavirus (HPV) currently affects about 20 million Americans and has been associated with cervical, vaginal, vulvar, penile and anal cancers in addition to cancers of the head and neck. Of the cancers associated with HPV, cervical cancer is the most common cancer in women, and head and neck are the most common cancers occurring in men. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HPV is the cause of invasive cervical cancer. The World Health Organization (WHO) recognizes cervical cancer as the first cancer 100% attributable to infection, with the prevalence of HPV DNA in cervical cancer biopsies from 22 countries at 99.7%. Receiving the HPV vaccine does not change the current recommendations for cervical cancer screening (Pap tests). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention. Epidemiology and prevention of vaccine-preventable diseases. [internet]. Atlanta (GA): Centers for Disease Control and Prevention; [accessed 2011 Apr 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hoppel AM. HPV vaccine: a coed approach. 2011. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Murphy TV, Slade BA, Broder KR, Kretsinger K, Tiwari T, Joyce MP, Iskander JK, Brown K, Moran JS, Advisory Committee on Immunization Practices (ACIP) Centers for Disease Control and Prevention. Prevention of pertussis, tetanus, and diphtheria among pregnant and postpartum women and their infants. Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2008 May 30;57(RR-4):1-51. [437 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18509304&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Strebel P, Nordin J, Edwards K, Hunt J, Besser J, Burns S, Amundson G, Baughman A, Wattigney W. Population-based incidence of pertussis among adolescents and adults, Minnesota,  1995-1996. J Infect Dis. 2001 May 1;183(9):1353-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11294666&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 13 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The time frame pertaining to data collection is annual.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients who reach their 13th birthday during the specified measurement period&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Data Collection&lt;/strong&gt;: Measurement period can be monthly, quarterly or annual. If using paper records, select a minimum of 30 records to review.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients who are up-to-date with the following immunizations:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;One HPV &amp;ndash; human papillomavirus vaccine (for females) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One MCV4 &amp;ndash; meningococcal &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One Tdap &amp;ndash; tetanus, diphtheria toxoids and acellular pertussis vaccine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One influenza within the last year &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percentage of patients who by age 13 years were up-to-date with recommended adolescent immunizations: one HPV - human papillomavirus vaccine (for females), one MCV4 - meningococcal, one Tdap - tetanus, diphtheria toxoids and acellular pertussis vaccine, and one influenza within the last year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Immunizations" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and five sponsoring health plans in Minnesota and Wisconsin.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: James Nordin, MD (&lt;em&gt;Work Group Leader&lt;/em&gt;) (HealthPartners Medical Group) (Pediatrics); Ken Kephart, MD (Fairview Health Services) (Family Medicine/Geriatrics); Rosanne Anderson, RN (Family Practice Medical Center) (Family Practice); Sarah Rall, PharmD (Marshfield Clinic) (Pharmacy); Adele Starr, RNC, ANP (NorthPoint Health &amp;amp; Wellness) (Advanced Practitioner); Renner Anderson, MD (Park Nicollet Health Services) (Pediatrics); Barbara Ottis, RN (Park Nicollet Health Services) (Infection Control and Prevention Services); Mike Garvis, MD (South Lake Pediatrics) (Pediatrics); Kari Retzer, RN (Institute for Clinical Systems Improvement) (Facilitator); Cassie Myers (Institute for Clinical Systems Improvement) (Systems Improvement Coordinator)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Renner Anderson, MD, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Consultant, Pediatrics, Park Nicollet Health Services&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: Receives grant money paid to his institution for federally funded vaccine research related to vaccine safety&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Rosanne Anderson, RN, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medical Support Supervisor, Family Practice Medical Center&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Mike Garvis, MD, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Director of Immunizations, Pediatrics, South Lake Pediatrics&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: Serves as a non-paid board member for Allina Physician Governance Council and Abbott Northwestern Hospital Medical Executive Committee&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Ken Kephart, MD, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medical Director for Fairview Geriatric Services and Hospice, Fairview Health Services&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;James Nordin, MD Work Group Leader&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Pediatrician, HealthPartners Medical Group&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Barbara Ottis, RN, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Infection Control and Prevention Services, Immunization Specialist for Park Nicollet Health Services&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: Previously served on a speakers bureau for GlaxoSmithKline. This relationship ended in 2011, prior to the start of this revision.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Sarah Rall, PharmD, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Director of Pharmacy Purchasing and Supply, Pharmacist, Marshfield Clinic&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Adele Starr, RNC, ANP, Work Group Member&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Adult Nurse Practitioner, Minnesota Association of Community Health Centers&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None&lt;br /&gt;&#xD;&#xA;Research Grants: None&lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The next scheduled revision will occur within 24 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Institute for Clinical Systems Improvement (ICSI). Immunizations. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 Mar. 70 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.icsi.org/guidelines__more/catalog_guidelines_and_more/catalog_guidelines/catalog_prevention__screening_guidelines/immunizations/&quot; title=&quot;ICSI Web site&quot;&gt;Institute for Clinical Systems Improvement (ICSI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: &lt;a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;&gt;www.icsi.org&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:icsi.info@icsi.org&quot;&gt;icsi.info@icsi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 1, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on October 10, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 13, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nordin J, Anderson R, Anderson R, Garvis M, Kephart K, Myers C, Ottis B, Rall S, Retzer K, Starr A, Institute for Clinical Systems Improvement (ICSI). Immunizations. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2012 Mar. 81 p.  [84 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

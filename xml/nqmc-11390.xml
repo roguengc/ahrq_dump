@@ -1,0 +1,227 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): proportion of all adult patient-months (Medicare and non-Medicare patients) with three-month rolling average of total uncorrected serum or plasma calcium greater than 10.2 mg/dL.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the proportion of all adult patient-months (Medicare and non-Medicare patients) with three-month rolling average of total uncorrected serum or plasma calcium greater than 10.2 mg/dL (hypercalcemia).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The hypercalcemia measure was developed in 2010 based on the recommendations of a clinical technical expert panel's (TEP's) consideration of the multiple large, risk-adjusted observational studies demonstrating a consistent relationship between presence of hypercalcemia and patient mortality. TEP members felt that while small, the population of patients with hypercalcemia was at increased risk of cardiovascular events and therefore the condition needs to be identified and appropriately treated. The TEP agreed that therapy should be focused on preventing the development of a sustained serum calcium greater than 10.2 mg/dL. The measure was re-evaluated by a second clinical TEP in 2013. The 2013 TEP identified additional observational studies supporting the measure and affirmed their agreement with the measure's focus as a safety measure, emphasizing avoidance of hypercalcemia to prevent adverse clinical consequences.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Given both the 2010 TEP and 2013 TEP recommendations, and the additional evidence cited in the current National Quality Forum (NQF) submission, the measure remains an importance as a intermediate outcome and patient safety measure, even in light of the lack of interventional trials supporting a specific threshold. Nevertheless, the number of large, risk-adjusted observational studies with consistent direction of association between hypercalcemia and mortality cannot be ignored.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Given this, several committee reviewers agreed with the prior TEP's opinions that the measure represented an appropriate safety-net. As an additional concern, the Protecting Access to Medicare Act of 2014 mandated the implementation of conditions treated through oral-only medications in the End-stage Renal Disease (ESRD) Quality Incentive Program (QIP) as a safety measure against over-use of oral-only medications following changes to the ESRD Prospective Payment System (PPS) Bundle payment. Congress likely recognized the need for more safety measures in the ESRD program, particularly in the area of drug overuse, following similar concerns for the use of erythropoiesis-stimulating agents (ESAs) in treating anemia in the same population. This hypercalcemia measure is the only measure of which the developer is aware that meets these requirements and the NQF criteria.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ERSD); hypercalcemia; hemodialysis (HD); peritoneal dialysis (PD); serum or plasma calcium&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patient-months at the facility during the measurement period (Medicare and non-Medicare patients) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patient-months in the denominator with three-month rolling average of total uncorrected (indicates that albumin is not considered in the calculation) serum or plasma calcium greater than 10.2 mg/dL (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer used January 2013&amp;ndash;December 2013 CROWNWeb data to calculate facility level monthly and annual performance scores. 5,880 facilities that had at least 11 eligible patients were included in the testing. This included a total of 482,444 patients. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer assessed reliability by calculating facility-level Pearson correlation coefficients between the current performance month and the preceding month for reporting months during January 2013&amp;ndash;December 2013. In addition, the developer calculated inter-unit reliability (IUR) for each reporting month and the overall 12 months. The monthly based measure was a simple average across individuals in the facility. The National Quality Forum (NQF)-recommended approach for determining measure reliability is a one-way analysis of variance (ANOVA), in which the between and within facility variation in the measure is determined. The IUR measures the proportion of the measure variability that is attributable to the between-facility variance. The yearly based measure, however, is not a simple average and the developer instead estimates the IUR using a bootstrap approach, which uses a resampling scheme to estimate the within facility variation that cannot be directly estimated by ANOVA.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Pearson correlation coefficients of each pair of the current and the preceding month ranged from 0.78 to 0.84. All were statistically significant (p less than 0.0001), indicating this measure is reliable over time. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The monthly IURs ranged from 0.61 to 0.66, which indicates that more than half of the variation in the monthly based measure can be attributed to the between facility differences and less than half to within facility variation. The annual IUR across the 12 reporting months was 0.86, which indicates that 86% of the variation in the yearly based measure can be attributed to the between facility variation. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The IURs provide evidence of reliability in that most of the variation can be attributed to the between facility variation. The monthly and overall IURs suggest this measure is reliable. However, since the distribution of performance scores is skewed, the IUR value should be interpreted with some caution. The moderate to strong statistically significant results of the Pearson correlations indicates this measure is reliable over time. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer used January 2013&amp;ndash;December 2013 CROWNWeb data to calculate facility level monthly and annual performance scores. 5,880 facilities that had at least 11 eligible patients were included in the testing. This included a total of 482,444 patients. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer assessed validity using Poisson regression models to identify the predictive strength of facility level performance scores for the measure, on mortality, using the 2013 standardized mortality ratio (SMR). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2010, the measure was unanimously ratified by the clinical technical expert panel (TEP) as a valid measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Poisson regression modeling was used to assess the predictive strength of facility level performance scores for hypercalcemia on mortality, using the 2013 NQF endorsed SMR. The results suggest the measure performance scores were predictive of mortality as measured by the SMR. For instance, the facility-level relative risk of mortality for a 10% increase in percent of patients with hypercalcemia, is 1.07 (p less than 0.0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of the Poisson regression suggest that facilities with a higher percentage of patient-months with hypercalcemia experience a higher standardized mortality rate relative to facilities with a lower percentage of patients with hypercalcemia. The direction of the relationship is as expected. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: proportion of patients with hypercalcemia. Washington (DC): National Quality Forum (NQF); 2018 Jan 25. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patient-months at the facility during the measurement period. Includes all patients, both Medicare and non-Medicare patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;End Stage Renal Disease (ESRD) Quality Incentive Program (QIP) only:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient-months with missing values in the reporting month and the two months prior are included in the denominator to minimize any incentive favoring non-measurement of serum calcium in the preceding three months. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Dialysis Facility Compare (DFC) only:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient-months with missing values in the reporting month and the two months prior are included in the denominator. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The denominator includes patient-months among adult (greater than or equal to 18 years old) in-center hemodialysis, home hemodialysis, or peritoneal dialysis patients under the care of the dialysis facility for the entire reporting month who have had ESRD for greater than 90 days. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A patient is assigned to a facility based on admit and discharge data from CROWNWeb.&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;ESRD QIP: Patients can be attributed to multiple facilities within the same month. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;DFC: Patients can be attributed to only one facility per month. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient younger than age 18 years old as of the first day of the reporting month &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient on ESRD treatment for fewer than 90 days as of the first day of the reporting month &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who died prior to the last day of the reporting month &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;ESRD QIP only:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients for whom the facility reported fewer than three months of calcium values in CROWNWeb during the measurement period, plus the two months prior (i.e., the November and December of the Performance Period or the November and December of the year prior to the Performance Period) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient was at the facility for fewer than 30 days (either consecutive or non-consecutive) during the reporting month and the two months prior (the three-month calculation period) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient was discharged from the facility prior to the last day of the reporting month &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient was not on ESRD treatment during the month &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;DFC only:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Out of range uncorrected serum calcium or plasma value (values less than 0.1 and value greater than 20) are considered as missing. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients not assigned to the facility for the entire reporting month &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patient-months in the denominator with three-month rolling average of total uncorrected (indicates that albumin is not considered in the calculation) serum or plasma calcium greater than 10.2 mg/dL&lt;/p&gt;&#xD;&#xA;&lt;p&gt;End stage renal disease (ESRD) Quality Incentive Program (QIP) only:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient-months with missing values in the reporting month and the two months prior are included in the numerator to minimize any incentive favoring non-measurement of serum calcium in the preceding three months. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Physiologic Health State (Intermediate Outcome)" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hypercalcemia Clinical Measure Rate Flowchart for ESRD QIP&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Proportion of patients with hypercalcemia.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The University of Michigan Kidney and Epidemiology Cost Center (UM-KECC), develops, maintains, and updates the End Stage Renal Disease (ESRD) Quality Measures for the Centers for Medicare and Medicaid Services (CMS), under the Quality Measure Development and Maintenance contract with CMS. In addition, UM-KECC works with CMS's Measures Management System (MMS) in the development, evaluation, and reporting of the current ESRD Quality Measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Jan 11&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Dialysis Facility Compare (DFC)" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS). Measure information form: proportion of patients with hypercalcemia. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2015 Sep 25. 6 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS). Measure justification form: proportion of patients with hypercalcemia. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2015 Sep 25. 50 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/Downloads/CMS-ESRD-Measures-Manual-2017.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the &lt;a href=&quot;https://dialysisdata.org/content/esrd-measures&quot; title=&quot;Dialysis Data Web site&quot;&gt;Dialysis Data Web site&lt;/a&gt; or contact Casey Parrotte at the Kidney Epidemiology and Cost Center, The University of Michigan, 1415 Washington Heights, Suite 3645 SPHI, Ann Arbor, MI 48109-2029; Phone: 734-763-6611; Fax: 734-763-4004; Email: &lt;a href=&quot;mailto:parrotte@med.umich.edu&quot;&gt;parrotte@med.umich.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 5, 2014. The information was verified by the measure developer on February 6, 2015. &lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on July 14, 2016.&lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 22, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

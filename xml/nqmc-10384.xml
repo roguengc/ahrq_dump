@@ -1,0 +1,248 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pneumonia mortality: percentage of in-hospital deaths per 1,000 discharges with pneumonia as a principal diagnosis for patients ages 18 years and older.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Inpatient quality indicator 20 technical specifications: pneumonia mortality rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pneumonia mortality rate (IQI #20). Washington (DC): National Quality Forum (NQF); 2014 Jul 1. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of in-hospital deaths per 1,000 discharges with pneumonia as a principal diagnosis for patients ages 18 years and older.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pneumonia is an important and common reason for hospitalization for which process measures have been established. In addition, inpatient mortality may supplement current 30-day mortality measures to provide a more complete picture of pneumonia related mortality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This is an outcome measure, and the process-and-outcome link relates to the site-of-care decisions, diagnostic testing and antibiotic treatment, including the time-to-first dose, intravenous-to-oral therapy, and duration of antibiotic therapy (Mandell et al., 2007). Non-adherence to guidelines has been found to be associated with a higher risk of mortality in patients with severe community acquired pneumonia (Menendez et al., 2002), and there are significant barriers to the optimal adherence to guidelines (Schouten et al., 2007). One important process of care is the choice of antibiotics. Some studies report an association between choice of antibiotics and outcomes for patients hospitalized with community acquired pneumonia (Gleason et al., 1999; Mortensen et al., 2006), although other studies find similar outcomes in alternative approaches (Mortensen et al., 2006; Mills, Oehley, &amp;amp; Arrol, 2005). Another important process of care is the timely administration of any antibiotic to the patient presenting to the hospital with community-acquired pneumonia. Several studies demonstrate an association between the timely delivery of antibiotics and improved outcomes (Barlow et al., 2007; Hsu et al., 2010; Houck et al., 2004; Huang, Hooper, &amp;amp; Marrie, 2006). The association between timely administration and improved outcomes either suggests directly causality, or a correlation with a related, less than optimal, process of care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barlow G, Nathwani D, Williams F, Ogston S, Winter J, Jones M, Slane P, Myers E, Sullivan F, Stevens N, Duffey R, Lowden K, Davey P. Reducing door-to-antibiotic time in community-acquired pneumonia: Controlled before-and-after evaluation and cost-effectiveness analysis. Thorax. 2007 Jan;62(1):67-74. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16928714&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gleason PP, Meehan TP, Fine JM, Galusha DH, Fine MJ. Associations between initial antimicrobial therapy and medical outcomes for hospitalized elderly patients with pneumonia. Arch Intern Med. 1999 Nov 22;159(21):2562-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10573046&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Houck PM, Bratzler DW, Nsa W, Ma A, Bartlett JG. Timing of antibiotic administration and outcomes for Medicare patients hospitalized with community-acquired pneumonia. Arch Intern Med. 2004 Mar 22;164(6):637-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15037492&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hsu DJ, Stone RA, Obrosky DS, Yealy DM, Meehan TP, Fine JM, Graff LG, Fine MJ. Predictors of timely antibiotic administration for patients hospitalized with community-acquired pneumonia from the cluster-randomized EDCAP trial. Am J Med Sci. 2010 Apr;339(4):307-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20224313&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Huang JQ, Hooper PM, Marrie TJ. Factors associated with length of stay in hospital for suspected community-acquired pneumonia. Can Respir J. 2006 Sep;13(6):317-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16983447&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean NC, Dowell SF, File TM Jr, Musher DM, Niederman MS, Torres A, Whitney CG. Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults. Clin Infect Dis. 2007 Mar 1;44 Suppl 2:S27-72. [335 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17278083&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Menendez R, Ferrando D, Valles JM, Vallterra J. Influence of deviation from guidelines on the outcome of community-acquired pneumonia. Chest. 2002 Aug;122(2):612-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12171840&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mills GD, Oehley MR, Arrol B. Effectiveness of beta lactam antibiotics compared with antibiotics active against atypical pathogens in non-severe community acquired pneumonia: meta-analysis. BMJ. 2005 Feb 26;330(7489):456. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15684024&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mortensen EM, Restrepo MI, Anzueto A, Pugh J. The impact of empiric antimicrobial therapy with a ß-lactam and fluoroquinolone on mortality for patients hospitalized with severe pneumonia. Crit Care. 2006;10(1):R8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16420641&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pneumonia mortality rate (IQI #20). Washington (DC): National Quality Forum (NQF); 2014 Jul 1. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schouten JA, Hulscher ME, Natsch S, Kullberg BJ, van der Meer JW, Grol RP. Barriers to optimal antibiotic use for community-acquired pneumonia at hospitals: a qualitative study. Qual Saf Health Care. 2007 Apr;16(2):143-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17403764&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pneumonia; death&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges, for patients ages 18 years and older, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for pneumonia (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of deaths (DISP=20) among cases meeting the inclusion and exclusion rules for the denominator&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In the 2008 Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID), there were 866,218 hospital discharges with a principal diagnosis of pneumonia and 36,567 in-hospital deaths, for a rate of 42.2 deaths per 1,000 discharges. Pneumonia, along with influenza, is the eighth leading cause of death in the United States according to the 2007 National Vital Statistics Report (Heron, 2011). Even patients that recover clinically from an episode of pneumonia remain at higher risk for all-cause mortality and cardiovascular mortality (Yende et al., 2011).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heron M. Deaths: leading causes for 2007. Natl Vital Stat Rep. 2011 Aug 26;59(8):1-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21950210&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pneumonia mortality rate (IQI #20). Washington (DC): National Quality Forum (NQF); 2014 Jul 1. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yende S, D'Angelo G, Mayr F, Kellum JA, Weissfeld L, Kaynar AM, Young T, Irani K, Angus DC, GenIMS Investigators. Elevated hemostasis markers after pneumonia increases one-year risk of all-cause and cardiovascular deaths. PLoS ONE. 2011;6(8):e22847. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21853050&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Includes approximately 30 million adult discharges for 4,000 hospitals (&quot;Healthcare Cost and Utilization Project [HCUP] State Inpatient Databases [SID],&quot; 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. The signal to noise ratio is the ratio of the between hospital variance (signal) to the within hospital variance (noise). The formula is signal / (signal + noise). The ratio itself is only a diagnostic for the degree of variance in the risk-adjusted rate systematically associated with the provider. Therefore, what matters is the magnitude of the variance in the &quot;smoothed&quot; rate (that is, the variance in the risk-adjusted rate after the application of the univariate shrinkage estimator based on the signal ratio). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. What the data demonstrate is systematic variation in the provider level rate of 19.1 to 58.6 per 1,000 from the 5th to 95th percentile respectively after a signal ratio of 0.694 is applied as the shrinkage estimator (that is, after accounting for variation due to random factors). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Includes approximately 30 million adult discharges for 4,000 hospitals (&quot;HCUP SID,&quot; 2008). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;California (&quot;HCUP SID,&quot; 2005). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Agency for Healthcare Research and Quality (AHRQ), Center for Delivery, Organization, and Markets, Healthcare Cost and Utilization Project, Nationwide Inpatient Sample and AHRQ Quality Indicators, modified version of 4.1. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Validity testing focused on construct validity in three respects. First, whether performance on the pneumonia mortality measure was correlated with performance on related measures of mortality for selected conditions. Second, whether performance on the in-patient pneumonia measures was related to performance on the 30-day measure. Third, data on mortality trends is also presented. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. The correlation between the hospital-level pneumonia risk-adjusted mortality rate and the related mortality measures for selected conditions are as follows: 0.3485 (acute myocardial infarction [AMI]); 0.4546 (congestive heart failure [CHF]); 0.3476 (stroke); 0.2873 (gastrointestinal [GI] hemorrhage); 0.2286 (hip fracture). &lt;/p&gt;&#xD;&#xA;&lt;ol&gt;&#xD;&#xA;    &lt;li&gt;Using hospital discharge data linked to death records, of all deaths among pneumonia patients that occurred within 30-days of discharge, 52.2% were in-hospital before 30-days, 4.4% were in-hospital after 30-days, 40.1% were out-of-hospital, and 3.3% were transfers to other acute care hospitals. The correlation in hospital-level rates was 0.755. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for risk-adjusted rates deaths per 1,000 hospital admissions by year. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2005.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2008.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pneumonia mortality rate (IQI #20). Washington (DC): National Quality Forum (NQF); 2014 Jul 1. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The time window can be determined by user, but is generally a calendar year. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The volume-outcome relationship is based on volume over a one-year time period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Discharges, for patients ages 18 years and older, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for pneumonia&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude cases: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Transferring to another short-term hospital (DISP=2) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major Diagnostic Categories (MDC) 14 (pregnancy, childbirth, and puerperium) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With missing discharge disposition (DISP=missing), gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing) or principal diagnosis (DX1=missing) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of deaths (DISP=20) among cases meeting the inclusion and exclusion rules for the denominator &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Death" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The predicted value for each case is computed using a hierarchical model (logistic regression with hospital random effect) and covariates for gender, age in years (in 5-year age groups), Major Diagnostic Category (MDC), transfer status, All Patient Refined- Diagnosis Related Group (APR-DRG) and APR-DRG risk-of-mortality subclass. The reference population used in the model is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID) for the year 2008 (updated annually), a database consisting of 43 states and approximately 30 million adult discharges and 4,000 hospitals. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., hospital). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population rate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for the specific covariates used for this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;IQI 20: pneumonia mortality rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Agency for Healthcare Research and Quality (AHRQ) Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Inpatient Quality Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 5&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure is reviewed and updated on a yearly basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: AHRQ QI. Inpatient quality indicators #20: technical specifications. Pneumonia mortality rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/IQI/V50/TechSpecs/IQI_20_Pneumonia_Mortality_Rate.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AHRQ QI Support Team at E-mail: &lt;a href=&quot;mailto:QIsupport@ahrq.hhs.gov&quot;&gt;QIsupport@ahrq.hhs.gov&lt;/a&gt;; Phone: 301-427-1949.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Inpatient quality indicators (IQI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 42 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/IQI/V50/Parameter_Estimates_IQI_50.pdf.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Inpatient quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 22 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/IQI/V50/Version_50_Benchmark_Tables_IQI.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Inpatient quality indicators composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Mar. various p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/IQI/IQI_Composite_Development.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the &lt;a href=&quot;http://hcupnet.ahrq.gov/&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on December 4, 2002. The information was verified by the Agency for Healthcare Research and Quality on December 26, 2002. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on April 7, 2004, August 19, 2004, and March 4, 2005. The information was verified by the measure developer on April 22, 2005. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 17, 2006, on May 29, 2007, on October 20, 2008 and on August 27, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was reviewed and edited by ECRI Institute on July 13, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 14, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 25, 2013 and again on December 9, 2015. The information was verified by the measure developer on February 16, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Inpatient quality indicator 20 technical specifications: pneumonia mortality rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pneumonia mortality rate (IQI #20). Washington (DC): National Quality Forum (NQF); 2014 Jul 1. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

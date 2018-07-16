@@ -1,0 +1,261 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Communication climate: mean score for the &quot;Data Collection&quot; domain on the Patient (or Pediatric) Survey and Staff Survey.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: adult patient survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: pediatric patient (parents/guardians complete) survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: staff survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Structure" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measure:  Patient Experience" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the mean score for the &quot;Data Collection&quot; domain on the Communication Climate Assessment Toolkit (C-CAT) Patient (or Pediatric) Survey and Staff Survey. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This domain comprises 3 items on the Patient (or Pediatric) Survey and 9 items on the Staff Survey: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient (or Pediatric) Survey &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Did a hospital (clinic) staff member ask your race and ethnicity? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Has someone from the hospital (clinic) asked you what language you speak? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Has someone from the hospital (clinic) asked if you need an interpreter? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Staff Survey &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;During the last 6 months, how often did relevant hospital (clinic) staff collect race and ethnicity information from patients? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;During the last 6 months, how often did relevant hospital (clinic) staff ask patients what language they prefer using, when the patients registered or scheduled appointments? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How often did relevant hospital (clinic) staff ask patients if they need an interpreter, when the patients registered or scheduled appointments? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How often did relevant hospital (clinic) staff have easy access to information on what language patients speak? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How often did relevant hospital (clinic) staff have easy access to information on whether patients need an interpreter? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How often did relevant hospital (clinic) staff ask patients if they would like help filling out hospital forms? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How often did relevant hospital (clinic) staff notice that patients have difficulty filling out hospital forms? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Have you ever received specific and adequate training on how to ask patients about their racial/ethnic background in a culturally appropriate way? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Have you ever received specific and adequate training on finding out when patients need an interpreter? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: To calculate domain scores, all relevant survey item responses were first standardized to a 0-to-1 scale, with 1 being the most desired response. For each domain, the mean of all included items was calculated for each survey to obtain patient and staff survey domain means (this accounts for varying numbers of items in each domain as well as the varying numbers of surveys collected at different sites). Finally, the means of the patient survey and the staff survey domain means were calculated (so that staff and patient scores carry equal weight in the overall domain score) and multiplied by 100. The domain scores are thus reported on standardized scales of 0 to 100 for each organization, with 100 being the best possible score. Refer to the &lt;em&gt;C-CAT Sampling and Analysis Guide&lt;/em&gt; in the &quot;Companion Documents&quot; field for additional information. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;This measure is one of nine composite measures derived from the C-CAT.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Effective communication is the foundation for quality health care (Kaplan, Greenfield, &amp;amp; Ware, 1989; Flach et al., 2004; Markova &amp;amp; Broome, 2007; Institute of Medicine Committee on Communication for Behavior Change in the 21st Century, 2002; Ashton et al., 2003; Gordon, Baker, &amp;amp; Levinson, 1995; Seidel, 2004; Wanzer, Booth-Butterfield, &amp;amp; Gruber, 2004; Safran et al., 2001; Zolnierek &amp;amp; Dimatteo, 2009; Divi et al., 2007; The Joint Commission, 2007; Scalise, 2006). Communication between health care practitioners, patients, and other members of care teams affects patient satisfaction (Gordon, Baker, &amp;amp; Levinson, 1995; Wanzer, Booth-Butterfield, &amp;amp; Gruber, 2004; Safran et al., 2001), adherence to treatment recommendations (Seidel, 2004; Safran et al., 2001; Zolnierek &amp;amp; Dimatteo, 2009), and patient safety (Divi et al., 2007; The Joint Commission, 2007; Scalise, 2006). According to the Joint Commission, miscommunication is the leading cause of sentinel events (serious medical errors) (The Joint Commission, 2007). In addition, health and health care disparities are created when miscommunication disproportionately affects certain patient populations (Institute of Medicine Committee on Communication for Behavior Change in the 21st Century, 2002; Ashton et al., 2003; Gregg, 2004; Cene et al., 2009; Weech-Maldonado et al., 2008). As a result, understanding and improving communication may be a key to addressing disparities (Institute of Medicine Committee on Communication for Behavior Change in the 21st Century, 2002), which is an important national health policy goal (U.S. Department of Health and Human Services, 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient-centered communication is well recognized as a key to quality care, and an organization's climate and infrastructure can affect communication in a number of important ways. A set of assessment tools was developed to measure a hospital or clinic's organizational climate specifically in regard to patient-centered communication. The tools provide a 360&amp;deg; evaluation of organizational communication climate and include patient and staff surveys that can be used to derive standardized domain scores in each of 9 key areas of organizational communication climate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An organization should use standardized qualitative and quantitative collection methods and uniform coding systems to gather valid, reliable information for understanding the demographics and communication needs of the population it serves.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;An Ethical Force Program[TM] consensus report: improving communication--improving care. Chicago (IL): American Medical Association (AMA); 2006. 144 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ashton CM, Haidet P, Paterniti DA, Collins TC, Gordon HS, O'Malley K, Petersen LA, Sharf BF, Suarez-Almazor ME, Wray NP, Street RL Jr. Racial and ethnic disparities in the use of health services: bias, preferences, or poor communication. J Gen Intern Med. 2003 Feb;18(2):146-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12542590&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cene CW, Roter D, Carson KA, Miller ER 3rd, Cooper LA. The effect of patient race and blood pressure control on patient-physician communication. J Gen Intern Med. 2009 Sep;24(9):1057-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19575270&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Divi C, Koss RG, Schmaltz SP, Loeb JM. Language proficiency and adverse events in US hospitals: a pilot study. Int J Qual Health Care. 2007 Apr;19(2):60-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17277013&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flach SD, McCoy KD, Vaughn TE, Ward MM, Bootsmiller BJ, Doebbeling BN. Does patient-centered care improve provision of preventive services. J Gen Intern Med. 2004 Oct;19(10):1019-26. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15482554&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gordon GH, Baker L, Levinson W. Physician-patient communication in managed care. West J Med. 1995 Dec;163(6):527-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8553634&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gregg J. The role of culture and cross-cultural miscommunication in the perpetuation of disparities. J Gen Intern Med. 2004 Aug;19(8):900; author reply 901-2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15242480&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine Committee on Communication for Behavior Change in the 21st Century, Improving the Health of Diverse Populations. Speaking of health: assessing health communication strategies for diverse populations. Washington (DC): National Academies Press; 2002. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kaplan SH, Greenfield S, Ware JE Jr. Assessing the effects of physician-patient interactions on the outcomes of chronic disease. Med Care. 1989 Mar;27(3 Suppl):S110-27. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2646486&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Markova T, Broome B. Effective communication and delivery of culturally competent health care. Urol Nurs. 2007 Jun;27(3):239-42. [25 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17674601&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Safran DG, Montgomery JE, Chang H, Murphy J, Rogers WH. Switching doctors: predictors of voluntary disenrollment from a primary physician's practice. J Fam Pract. 2001 Feb;50(2):130-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11219560&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scalise D. Clinical communication and patient safety. Hosp Health Netw. 2006 Aug;80(8):49-54, 2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16964898&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Seidel RW. How effective communication promotes better health outcomes. JAAPA. 2004 Nov;17(11):22-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15575519&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Improving America's hospitals: The Joint Commission's annual report on quality and safety, 2007. Oakbrook Terrace (IL): The Joint Commission; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services. Healthy people 2010. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2009 Dec 31]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wanzer MB, Booth-Butterfield M, Gruber K. Perceptions of health care providers' communication: relationships between patient-centered communication and satisfaction. Health Commun. 2004;16(3):363-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15265756&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weech-Maldonado R, Fongwa MN, Gutierrez P, Hays RD. Language and regional differences in evaluations of Medicare managed care by Hispanics. Health Serv Res. 2008 Apr;43(2):552-68. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18370967&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wynia MK, Johnson M, McCoy TP, Griffin LP, Osborn CY. Validation of an organizational communication climate assessment toolkit. Am J Med Qual. 2010 Nov-Dec;25(6):436-43. [39 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20445131&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Zolnierek KB, Dimatteo MR. Physician communication and patient adherence to treatment: a meta-analysis. Med Care. 2009 Aug;47(8):826-34. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19584762&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient experience; staff experience; communication; data collection&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total number of items in the &quot;Data Collection&quot; domain on the Patient (or Pediatric) Survey and Staff Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The sum of scores for each item in the &quot;Data Collection&quot; domain (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Health literacy refers to a person's ability to understand and act on health information (Institute of Medicine [IOM], 2004). A growing body of evidence demonstrates that compared to individuals with adequate health literacy skills, those with limited health literacy are more likely to misunderstand health information (Friedman, Hoffman-Goetz, &amp;amp; Arocha, 2006); face difficulty following medical instructions (Davis et al., 2006); inappropriately or infrequently use health care services (Gazmararian et al., 1999; Sudore et al., 2006); have worse physical and mental health (Wolf, Gazmararian, &amp;amp; Baker, 2005); experience higher rates of hospitalization (Baker et al., 2002); and have a shorter life expectancy (Baker et al., 2007). Efforts to overcome limited health literacy have included developing plain language, patient-friendly education materials and navigation aids (Stableford &amp;amp; Mettger, 2007); educating healthcare professionals about health literacy issues (Riley, Cloonan, &amp;amp; Rogan, 2008); redesigning patient informed consent forms (Lorenzen, Melby, &amp;amp; Earles, 2008); and using established communication methods such as the &quot;teach back&quot; techniques when communicating with patients (Villaire &amp;amp; Mayer, 2007). While experts agree that implementing a range of system-wide strategies may be the most effective means of overcoming limited health literacy (Murphy-Knoll, 2007; O'Leary, Davis, &amp;amp; Cordell, 2007), system-wide change to address limited health literacy has been difficult to stimulate and slow to develop in most health care organizations (Stableford &amp;amp; Mettger, 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Recent evidence suggests that even when providers know about health literacy and the need for enhanced communication techniques, they underutilize these strategies (Turner et al., 2009). Many effective health communication strategies have been studied by physicians, nurses, and pharmacists, but remain unincorporated into routine clinical practice (Schwartzberg et al., 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Obtaining informed consent is difficult when there are communication gaps between the clinician and the patient. For example, more than 90 million people in the United States (43% of adults) have literacy levels below what they need to understand most health information, including informed consent discussions (Marcus, 2006; National Center for Education Statistics [NCES], 2006; IOM, 2004). Lack of adequate skills to read or understand health care information is a particularly serious problem for the elderly, recent immigrants, and patients with limited educational attainment (Weiss, 2005). In addition, 22 million Americans have limited English proficiency, which poses a significant hurdle to effective health care communication (Flores, 2006). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baker DW, Gazmararian JA, Williams MV, Scott T, Parker RM, Green D, Ren J, Peel J. Functional health literacy and the risk of hospital admission among Medicare managed care enrollees. Am J Public Health. 2002 Aug;92(8):1278-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144984&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baker DW, Wolf MS, Feinglass J, Thompson JA, Gazmararian JA, Huang J. Health literacy and mortality among elderly persons. Arch Intern Med. 2007 Jul 23;167(14):1503-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17646604&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Davis TC, Wolf MS, Bass PF, Middlebrooks M, Kennen E, Baker DW, Bennett CL, Durazo-Arvizu R, Bocchini A, Savory S, Parker RM. Low literacy impairs comprehension of prescription drug warning labels. J Gen Intern Med. 2006 Aug;21(8):847-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16881945&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flores G. Language barriers to health care in the United States. N Engl J Med. 2006 Jul 20;355(3):229-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16855260&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman DB, Hoffman-Goetz L, Arocha JF. Health literacy and the World Wide Web: comparing the readability of leading incident cancers on the Internet. Med Inform  Internet Med. 2006 Mar;31(1):67-87. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16754369&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gazmararian JA, Baker DW, Williams MV, Parker RM, Scott TL, Green DC, Fehrenbach SN, Ren J, Koplan JP. Health literacy among Medicare enrollees in a managed care organization. JAMA. 1999 Feb 10;281(6):545-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10022111&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute of Medicine (IOM). Health literacy: a prescription to end confusion. Washington (DC): National Academies Press; 2004. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorenzen B, Melby CE, Earles B. Using principles of health literacy to enhance the informed consent process. AORN J. 2008 Jul;88(1):23-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18603032&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Marcus EN. The silent epidemic--the health effects of illiteracy. N Engl J Med. 2006 Jul 27;355(4):339-41. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16870912&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Matiasek J, Wynia MK. Reconceptualizing the informed consent process at eight innovative hospitals. Jt Comm J Qual Patient Saf. 2008 Mar;34(3):127-37. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18419042&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Murphy-Knoll L. Low health literacy puts patients at risk: the Joint Commission proposes solutions to national problem. J Nurs Care Qual. 2007 Jul-Sep;22(3):205-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17563587&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Education Statistics (NCES). The health literacy of America's adults: results from the 2003 National Assessment of Adult Literacy. Washington (DC): National Center for Education Statistics (NCES); 2006. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;O'Leary DS, Davis RM, Cordell T. Low health literacy puts patients at risk: The Joint Commission sets forth solutions to national problem. Director. 2007;15(3):44, 59. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19343859&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Riley J, Cloonan P, Rogan E. Improving student understanding of health literacy through experiential learning. J Health Adm Educ. 2008;25(3):213-28. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19655629&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schwartzberg JG, Cowett A, VanGeest J, Wolf MS. Communication techniques for patients with low health literacy: a survey of physicians, nurses, and pharmacists. Am J Health Behav. 2007 Sep-Oct;31 Suppl 1:S96-104. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17931143&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stableford S, Mettger W. Plain language: a strategic response to the health literacy challenge. J Public Health Policy. 2007;28(1):71-93. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17363939&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sudore RL, Mehta KM, Simonsick EM, Harris TB, Newman AB, Satterfield S, Rosano C, Rooks RN, Rubin SM, Ayonayon HN, Yaffe K. Limited literacy in older people and disparities in health and healthcare access. J Am Geriatr Soc. 2006 May;54(5):770-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16696742&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Turner T, Cull WL, Bayldon B, Klass P, Sanders LM, Frintner MP, Abrams MA, Dreyer B. Pediatricians and health literacy: descriptive results from a national survey. Pediatrics. 2009 Nov;124 Suppl 3:S299-305. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19861484&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Villaire M, Mayer G. Low health literacy: the impact on chronic illness management. Prof Case Manag. 2007 Jul-Aug;12(4):213-6; quiz 217-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17667783&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weiss B. Epidemiology of low health literacy. In: Schwartzberg JG, VanGeest JB, Wang CC, editor(s). Understanding health literacy: implications for medicine and public health. Chicago (IL): AMA Press; 2005. p. 17-39.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wolf MS, Gazmararian JA, Baker DW. Health literacy and functional health status among older adults. Arch Intern Med. 2005 Sep 26;165(17):1946-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16186463&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wynia MK, Osborn CY. Health literacy and communication quality in health care organizations. J Health Commun. 2010;15 Suppl 2:102-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20845197&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Effective communication is critical to providing quality health care and can be affected by a number of modifiable organizational factors. Wynia et al. (2010) performed a prospective multisite validation study of an organizational communication climate assessment tool in 13 geographically and ethnically diverse health care organizations. Communication climate was measured across 9 discrete domains. Patient and staff surveys with matched items in each domain were developed using a national consensus process, which then underwent psychometric field testing and assessment of domain coherence. The authors found meaningful within-site and between-site performance score variability in all domains. In multivariable models, most communication domains were significant predictors of patient-reported quality of care and trust. The authors conclude that these assessment tools provide a valid empirical assessment of organizational communication climate in 9 domains. Assessment results may be useful to track organizational performance, to benchmark, and to inform tailored quality improvement interventions. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wynia MK, Johnson M, McCoy TP, Griffin LP, Osborn CY. Validation of an organizational communication climate assessment toolkit. Am J Med Qual. 2010 Nov-Dec;25(6):436-43. [39 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20445131&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A brief, discrete data collection period is preferred. A data collection period of between 1 and 4 weeks is usually sufficient to collect needed data.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Professionals/Staff" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Total number of items in the &quot;Data Collection&quot; domain on the Patient (or Pediatric) Survey and Staff Survey&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Sites using this measure must obtain at least 50 staff responses and at least 100 patient responses.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The sum of scores for each item in the &quot;Data Collection&quot; domain&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: To calculate domain scores, all relevant survey item responses were first standardized to a 0-to-1 scale, with 1 being the most desired response. For each domain, the mean of all included items was calculated for each survey to obtain patient and staff survey domain means. Finally, the means of the patient survey and the staff survey domain means were calculated and multiplied by 100. The domain scores are reported on standardized scales of 0 to 100, with 100 being the best possible score. Refer to the &lt;em&gt;C-CAT Sampling and Analysis Guide&lt;/em&gt; in the &quot;Companion Documents&quot; field for additional information. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Responses of &quot;Not Sure&quot; and &quot;N/A&quot; are excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Health professional survey" />
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Communication Climate Assessment Toolkit (C-CAT):&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Adult Patient Survey &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pediatric Patient Survey &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Staff Survey &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Data collection.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Communication Climate Assessment Toolkit (C-CAT)" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="University of Colorado Center for Bioethics and Humanities - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="University of Colorado Center for Bioethics and Humanities - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;American Medical Association (AMA) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;California Endowment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Commonwealth Fund &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Connecticut Health Foundation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members of the expert advisory panel on Patient-Centered Communication: Dennis Andrulis, PhD, MPH (Drexel University School of Public Health); David W. Baker, MD, MPH, FACP (Northwestern Memorial Hospital); David Fleming, MD (Center for Health Ethics, University of Missouri - Columbia); Elizabeth Heitman, PhD (Center for Medical Ethics, Vanderbilt University); Sharon King-Donohue, JD (National Committee for Quality Assurance); Edward L. Martinez, MS (National Association of Public Hospitals and Health Systems); Mary A. Pittman, DrPH (Health Research and Educational Trust); Elena Rios, MD, MSPH (National Hispanic Medical Association); Stephen B. Thomas, PhD (Center for Minority Health, University of Pittsburgh); Amy Wilson, MPP (Joint Commission on Accreditation of Healthcare Organizations); Winston Wong, MD (Kaiser Permanente Community Benefit Program); Dawn E. Wood, MD, MPH (WellPoint); Mara Youdelman, JD, LLM (National Health Law Program)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Communication climate assessment toolkit: adult patient survey. Chicago (IL): American Medical Association (AMA); 2012 Jan. 4 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Communication climate assessment toolkit: pediatric patient (parents/guardians complete) survey. Chicago (IL): American Medical Association (AMA); 2012 Jan. 4 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Communication climate assessment toolkit: staff survey. Chicago (IL): American Medical Association (AMA); 2012 Jan. 4 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/academicactivities/Pages/C-CAT-Surveys.aspx&quot; title=&quot;University of Colorado Center for Bioethics and Humanities Web site&quot;&gt;University of Colorado Center for Bioethics and Humanities Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the University of Colorado Center for Bioethics and Humanities at Fulginiti Pavilion for Bioethics and Humanities &amp;ndash; Mailstop B137, 13080 E. 19th Avenue, Room 201, Aurora, CO 80045; Phone: 303-724-6997; Fax: 303-724-3997; E-mail: &lt;a href=&quot;mailto:CCAT@ucdenver.edu&quot;&gt;CCAT@ucdenver.edu&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/Pages/news.aspx&quot; title=&quot;University of Colorado Center for Bioethics and Humanities Web site&quot;&gt;www.ucdenver.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;C-CAT sampling and analysis guide. Chicago (IL): American Medical Association (AMA); 2011 Aug. 5 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;An Ethical Force Program&lt;sup&gt;TM&lt;/sup&gt; consensus report: improving communication--improving care. Chicago (IL): American Medical Association (AMA); 2006. 144 p. This document is available from the &lt;a href=&quot;http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/academicactivities/Documents/ef_imp_comm_report.pdf&quot; title=&quot;University of Colorado Center for Bioethics and Humanities Web site&quot;&gt;University of Colorado Center for Bioethics and Humanities Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the University of Colorado Center for Bioethics and Humanities at Fulginiti Pavilion for Bioethics and Humanities &amp;ndash; Mailstop B137, 13080 E. 19th Avenue, Room 201, Aurora, CO 80045; Phone: 303-724-6997; Fax: 303-724-3997; E-mail: &lt;a href=&quot;mailto:CCAT@ucdenver.edu&quot;&gt;CCAT@ucdenver.edu&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/Pages/news.aspx&quot; title=&quot;University of Colorado Center for Bioethics and Humanities Web site&quot;&gt;www.ucdenver.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 30, 2013. The information was verified by the measure developer on August 9, 2013. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 23, 2016. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Communication Climate Assessment Toolkit (C-CAT) surveys are available for viewing online. You may download and use the surveys for research purposes at no cost. If you would like to use the C-CAT for a formal, benchmarked organization assessment, send an email to &lt;a href=&quot;mailto:ccat@ucdenver.edu&quot;&gt;ccat@ucdenver.edu&lt;/a&gt; and we will contact you with a trained C-CAT consultant. Qualified C-CAT consultants will help you use the surveys for your organization assessment, provide benchmarking data and offer tailored guidance for improvement.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: adult patient survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: pediatric patient (parents/guardians complete) survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Communication climate assessment toolkit: staff survey. Aurora (CO): University of Colorado-Center for Bioethics &amp; Humanities; 2015. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

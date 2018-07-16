@@ -1,0 +1,239 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Preventive care and screening: percentage of patients aged 18 years and older who were screened for unhealthy alcohol use using a systematic screening method at least once within the last 24 months AND who received brief counseling if identified as an unhealthy alcohol user.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Physician Consortium for Performance Improvement® (PCPI®). Preventive care and screening performance measurement set. Chicago (IL): American Medical Association (AMA); 2016 Apr. 39 p.  [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older who were screened for unhealthy alcohol use using a systematic screening method at least once within the last 24 months &lt;span style=&quot;text-decoration: underline;&quot;&gt;AND&lt;/span&gt; who received brief counseling if identified as an unhealthy alcohol user.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is intended to promote unhealthy alcohol use screening and brief counseling which have been shown to be effective in reducing alcohol consumption. About 30% of the United States (U.S.) population misuse alcohol, with most engaging in what is considered risky drinking (Saitz, 2005). A recent analysis of data from the National Alcohol Survey shows that approximately one-third of at-risk drinkers (32.4%) and persons with a current alcohol use disorder (31.5%) in the U.S. had at least&amp;nbsp;one primary care visit during the prior year, demonstrating the potential reach of screening and brief counseling for unhealthy alcohol use in the primary care setting (Mulia et al., 2011). A number of studies, including patient and provider surveys, have documented low rates of alcohol misuse screening and counseling in primary care settings. In the National Healthcare for Communities Survey, only 8.7% of problem drinkers reported having been asked and counseled about their alcohol use in the last 12 months (D'Amico et al., 2005). A nationally representative sample of 648 primary care physicians were surveyed to determine how such physicians identify - or fail to identify - substance abuse in their patients, what efforts they make to help these patients and what are the barriers to effective diagnosis and treatment. Of physicians who conducted annual health histories, less than half ask about the quantity and frequency of alcohol use (45.3 percent). Only 31.8 percent say they ever administer standard alcohol or drug use screening instruments to patients (The National Center on Addiction and Substance Abuse, 2000).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The U.S. Preventive Services Task Force (USPSTF) (2013) recommends that clinicians screen adults aged 18 years or older for alcohol misuse and provide persons engaged in risky or hazardous drinking with brief behavioral counseling interventions to reduce alcohol misuse.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;D'Amico EJ, Paddock SM, Burnam A, Kung FY. Identification of and guidance for problem drinking by general medical providers: results from a national survey. Med Care. 2005 Mar;43(3):229-36.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mulia N, Schmidt LA, Ye Y, Greenfield TK. Preventing disparities in alcohol screening and brief intervention: the need to move beyond primary care. Alcohol Clin Exp Res. 2011 Sep;35(9):1557-60. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21599711&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Physician Consortium for Performance Improvement® (PCPI®). Preventive care and screening performance measurement set. Chicago (IL): American Medical Association (AMA); 2016 Apr. 39 p.  [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saitz R. Clinical practice. Unhealthy alcohol use. N Engl J Med. 2005 Feb 10;352(6):596-607. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15703424&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The National Center on Addiction and Substance Abuse. Missed opportunity: National Survey of Primary Care Physicians and Patients on Substance Abuse. New York (NY): The National Center on Addiction and Substance Abuse at Columbia University; 2000. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Preventive Services Task Force (USPSTF). Screening and behavioral counseling interventions in primary care to reduce alcohol misuse: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2013 Aug 6;159(3):210-8. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23698791&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unhealthy alcohol use; screening; counseling&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older seen for at least two visits or at least one preventive visit during the measurement period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were screened for unhealthy alcohol use using a systematic screening method at least once within the last 24 months AND who received brief counseling if identified as an unhealthy alcohol user (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Incidence, Prevalence, &amp;amp; Cost &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The 2006 National Survey on Drug Use and Health (Substance Abuse and Mental Health Services Administration [SAMHSA], 2007) reports that:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Approximately half (50.9%; 125 million persons) of Americans age 12 years and older reported being current drinkers of alcohol &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;23% (57 million) of persons age 12 years and older participated in binge drinking &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Heavy drinking was reported by 6.9% (17 million) persons age 12 years and older &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2001, excessive alcohol use was responsible for 75,000 preventable deaths and 2.3 million years of potential life lost (Centers for Disease Control and Prevention [CDC], 2004). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Economic costs associated with alcohol abuse are estimated to have been $184.6 billion in 1998. This represents a 25% increase over the previous estimate of $148 billion in 1992. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Opportunity for Improvement/Gap or Variation in Care&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;It has been reported that overall, adults receive approximately half of all recommended medical care (McGlynn et al., 2003; Asch et al., 2006). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;From 1998 to 2000, 45% of patients were screened for problem drinking (&quot;Technical appendix,&quot; 2006). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Asch SM, Kerr EA, Keesey J, Adams JL, Setodji CM, Malik S, McGlynn EA. Who is at greatest risk for receiving poor-quality health care. N Engl J Med. 2006;354(11):1147-56. [32 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16540615&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Alcohol-attributable deaths and years of potential life lost--United States, 2001. MMWR Morb Mortal Wkly Rep. 2004 Sep 24;53(37):866-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15385917&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McGlynn EA, Asch SM, Adams J, Keesey J, Hicks J, DeCristofaro A, Kerr EA. The quality of health care delivered to adults in the United States. N Engl J Med. 2003 Jun 26;348(26):2635-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12826639&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Physician Consortium for Performance Improvement® (PCPI®). Preventive care and screening performance measurement set. Chicago (IL): American Medical Association (AMA); 2016 Apr. 39 p.  [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Substance Abuse and Mental Health Services Administration (SAMHSA). Results from the 2006 National Survey on Drug Use and Health: national findings [Office of Applied Studies, NSDUH Series H-32, DHHS Publication No. SMA 07-4293]. Rockville (MD): Substance Abuse and Mental Health Services Administration (SAMHSA); 2007. 282 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Technical appendix to Asch SM, Kerr EA, Keesey J, Adams JL, Setodji CM, Malik S, McGlynn EA. Who is at greatest risk for receiving poor-quality health care. N Engl J Med. 2006;354(11):1147-56. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a testing project in 2012 to ensure the &lt;em&gt;Unhealthy Alcohol Use: Screening &amp;amp; Brief Counseling &lt;/em&gt;measure is reliable and evaluated for accuracy of the measure denominator, numerator and exceptions case identification. The testing projects were conducted utilizing electronic health record data. Three sites participated in the parallel forms reliability testing of the measure. Site A was comprised of a network of community health centers across the United States serving more than 2.5 million patients annually. Site B was a large independent multi-specialty group the Midwest comprised of over 315 physicians. Site C was a single physician owned adult primary care private practice in Chicago.&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Measures Tested &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Unhealthy Alcohol Use: Screening &amp;amp; Brief Counseling &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from electronic health records were used to calculate parallel forms reliability for the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Parallel Forms Reliability Testing &lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Site A, Site B, and Site C&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There were 120 observations from Site A, Site B and Site C used for the denominator analysis. The kappa statistic value of 0.31 demonstrates fair agreement between the automated report and manual reviewer. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The kappa statistic value of 0.31 demonstrates fair agreement. This is due to the high observed agreement rate and the concentration of observations in the YES, YES cell (81% of all observations [97/120]). This is an example of the limitation of the Kappa statistic. While agreement can be high, if one classification category dominates, kappa can be significantly reduced (Warrens, 2010; Feinstein &amp;amp; Cicchetti, 1990). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Of the 120 observations that were initially selected, 97 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value of 0.82 demonstrates almost perfect agreement between the automated report and reviewer. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Reliability: N, % Agreement, Kappa (95% Confidence Interval) &lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Denominator: 120, 85.0%, 0.31 (0.10&amp;ndash;0.52) &lt;br /&gt;&#xD;&#xA;Numerator: 97, 91%, 0.82 (0.70&amp;ndash;0.93)&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Feinstein AR, Cicchetti DV. High agreement but low kappa: I. The problems of two paradoxes. J Clin Epidemiol. 1990;43(6):543-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2348207&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Physician Consortium for Performance Improvement® (PCPI®). Preventive care and screening performance measurement set. Chicago (IL): American Medical Association (AMA); 2016 Apr. 39 p.  [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Warrens MJ. A formal proof of a paradox associated with Cohen’s kappa. J Classif. 2010;27:322-32.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older seen for at least two visits or at least one preventive visit during the measurement period&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Documentation of medical reason(s) for not screening for unhealthy alcohol use (e.g., limited life expectancy, other medical reasons)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who were screened for unhealthy alcohol use using a systematic screening method* at least once within the last 24 months AND who received brief counseling** if identified as an unhealthy alcohol user&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Systematic Screening Method&lt;/em&gt;: For the purposes of this measure, one of the following systematic methods to assess unhealthy alcohol use must be utilized. Systematic screening methods and thresholds for defining unhealthy alcohol use include: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Alcohol Use Disorders Identification Test (AUDIT) Screening Instrument (score greater than or equal to 8) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AUDIT-C Screening Instrument (score greater than or equal to 4 for men; score greater than or equal to 3 for women) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Single Question Screening: How many times in the past year have you had 5 (for men) or 4 (for women and all adults older than 65 years) or more drinks in a day? (response greater than or equal to 2) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**&lt;em&gt;Brief Counseling&lt;/em&gt;: Brief counseling for unhealthy alcohol use refers to one or more counseling sessions, a minimum of 5-15 minutes, which may include: feedback on alcohol use and harms; identification of high risk situations for drinking and coping strategies; increased motivation and the development of a personal plan to reduce drinking.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Alcohol Use Disorders Identification Test (AUDIT) Screening Instrument &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AUDIT-C Screening Instrument &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #3: unhealthy alcohol use: screening &amp;amp; brief counseling.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Preventive Care and Screening Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Preventive Care and Screening Measure Development Work Group&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Members&lt;/strong&gt;*&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Martin C. Mahoney, MD, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;) (family medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stephen D. Persell, MD, MPH (&lt;em&gt;Co-Chair&lt;/em&gt;) (internal medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gail M. Amundson, MD, FACP (internal medicine/geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joel V. Brill MD, AGAF, FASGE, FACG (gastroenterology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Steven B. Clauser, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Will Evans, DC, PhD, CHES (chiropractic) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ellen Giarelli, EdD, RN, CRNP (nurse practitioner) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amy L. Halverson, MD, FACS (colon &amp;amp; rectal surgery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Charles M. Helms, MD, PhD (infectious disease) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kay Jewell, MD, ABHM (internal medicine/geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Daniel Kivlahan, PhD (psychology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul Knechtges, MD (radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;George M. Lange, MD, FACP (internal medicine/geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Trudy Mallinson, PhD, OTR/L/NZROT (occupational therapy) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jacqueline W. Miller, MD, FACS (general surgery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adrienne Mims, MD, MPH (geriatric medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;G. Timothy Petito, OD, FAAO (optometry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rita F. Redberg, MD, MSc, FACC (cardiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barbara Resnick, PhD, CRNP (nurse practitioner) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sam JW Romeo, MD, MBA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Carol Saffold, MD (obstetrics &amp;amp; gynecology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert A. Schmidt, MD (radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Samina Shahabbudin, MD (emergency medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Melanie Shahriary RN, BSN (cardiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;James K. Sheffield, MD (health plan representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Arthur D. Snow, MD, CMD (family medicine/geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard J. Snow, DO, MPH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Brooke Steele, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Brian Svazas, MD, MPH, FACOEM, FACPM (preventive medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David J. Weber, MD, MPH (infectious disease) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Deanna R. Willis, MD, MBA, FAAFP (family medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Charles M. Yarborough, III, MD, MPH (occupational medicine) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kerri Fei, MSN, RN &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kendra Hanley, MS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Karen Kmetik, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Liana Lianov, MD, MPH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kimberly Smuk, BS, RHIA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Litjen Tan, MS, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Samantha Tierney, MPH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Yoast, PhD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;PCPI Consultants&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rebecca Kresowik &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Timothy Kresowik, MD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The composition and affiliations of the work group members are listed as originally convened in 2007 and are not up-to-date.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;reg; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Oct 1&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Apr" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Coding/specifications updates occur annually. The Physician Consortium for Performance Improvement (PCPI) has a formal measurement review process that stipulates regular (usually on a three-year cycle, when feasible) review of the measures. The process can also be activated if there is a major change in scientific evidence, results from testing or other issues are noted that materially affect the integrity of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Apr&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Physician Consortium for Performance Improvement&amp;reg; (PCPI). Preventive care &amp;amp; screening physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2008 Sep. 34 p. [8 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement/pcpi-measures.page?&quot; title=&quot;AMA-PCPI Web site&quot;&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg; Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For further information, please contact AMA staff by e-mail at &lt;a href=&quot;mailto:cqi@ama-assn.org&quot;&gt;cqi@ama-assn.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 13, 2009. The information was verified by the measure developer on March 25, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template June 9, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 8, 2016. The information was verified by the measure developer on June 30, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complete Physician Performance Measurement Sets (PPMS) are published by the American Medical Association, on behalf of the Physician Consortium for Performance Improvement.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Medical Association, Clinical Performance Evaluation, 330 N. Wabash Ave, Chicago, IL 60611.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Physician Consortium for Performance Improvement® (PCPI®). Preventive care and screening performance measurement set. Chicago (IL): American Medical Association (AMA); 2016 Apr. 39 p.  [50 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

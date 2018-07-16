@@ -1,0 +1,262 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Neonatal blood stream infection: percentage of discharges with healthcare-associated bloodstream infection per 1,000 discharges for newborns and outborns with birth weight of 500 grams or more but less than 1,500 grams; with gestational age between 24 and 30 weeks; or with birth weight of 1,500 grams or more and death, an operating room procedure, mechanical ventilation, or transferring from another hospital within two days of birth.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Neonatal quality indicator 3 technical specifications: neonatal blood stream infection rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: neonatal blood stream infection rate (NQI 3). Washington (DC): National Quality Forum (NQF); 2014 Jan 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of discharges with healthcare-associated bloodstream infection per 1,000 discharges for newborns and outborns with birth weight of 500 grams or more but less than 1,500 grams; with gestational age between 24 and 30 weeks; or with birth weight of 1,500 grams or more and death, an operating room procedure, mechanical ventilation, or transferring from another hospital within two days of birth.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Health care-associated bacteremia is a significant problem for infants admitted into neonatal intensive care units (NICUs) and other hospital units. This is especially true for very low birth weight infants who are at high risk for these infections due to their immature immune systems and need for invasive monitoring and supportive care (Adams-Chapman &amp;amp; Stoll, 2002; Bloom et al., 2003; Clark et al., &quot;Prevention,&quot; 2004; Clark et al., &quot;Nosocomial,&quot; 2004; Gaynes et al., 1996; Payne et al., 2004; Sohn et al., 2001; Stoll et al., 2002). Reported health care-associated infection rates range from 6% to 33%, but the rate varies widely among different centers (Adams-Chapman &amp;amp; Stoll, 2002; Bloom et al., 2003; Clark et al., &quot;Nosocomial,&quot; 2004; Sohn et al., 2001; Stoll et al., 2002). Mortality rates are high and infections result in increased length of stay as well as increased hospital costs and charges (Adams-Chapman &amp;amp; Stoll, 2002; Bloom et al., 2003; Clark et al., &quot;Nosocomial,&quot; 2004; Horbar et al., 2001; Kilbride et al., &quot;Implementation,&quot; 2003; Sohn et al., 2001; Stoll et al., 2002). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Effective preventive measures range from simple hand-washing protocols or closed medication delivery systems to more elaborate multidisciplinary quality improvement plans involving hand-washing, nutrition, skin care, respiratory care, vascular access, and diagnostic practices. All of these interventions have been shown to substantially reduce infection rates, albeit in nonrandomized studies using historical or concurrent control units (Adams-Chapman &amp;amp; Stoll, 2002; Aly et al., 2005; Bloom et al., 2003; Clark et al., &quot;Prevention,&quot; 2004; Clark et al., &quot;Nosocomial,&quot; 2004; Horbar et al., 2001; Lam, Lee, &amp;amp; Lau, 2004; Kilbride et al., &quot;Implementation,&quot; 2003; Kilbride et al., &quot;Evaluation,&quot; 2003; Ng et al., 2004; Schelonka et al., 2006). For example, six Vermont Oxford Network NICUs reduced their rates of coagulase-negative staphylococcus infections from 22.0% in 1994 to 16.6% in 1996 after implementing a quality improvement model (versus a much smaller decrease from 15.4% to 14.5% at 66 comparison NICUs) (Horbar et al., 2001). A similar reduction from 24.6% to 16.4% was achieved with a multi-modality, multi-hospital intervention focusing on hand hygiene with an effective agent before and after every patient contact, eliminating hand jewelry and artificial nails, using maximal barrier precautions during central venous catheter insertion, decreasing the number of skin punctures, reducing the duration of intravenous lipid and deep line use, and improving the diagnosis of health care-associated infections. (Kilbride et al., &quot;Implementation,&quot; 2003; Kilbride et al., &quot;Evaluation,&quot; 2003).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is intended to identify adverse events of bloodstream infection that occur in the hospitalization of interest and may be prevented through improved processes or structures of care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Adams-Chapman I, Stoll BJ. Prevention of nosocomial infections in the neonatal intensive care unit. Curr Opin Pediatr. 2002 Apr;14(2):157-64. [80 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11981284&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Aly H, Herson V, Duncan A, Herr J, Bender J, Patel K, El-Mohandes AA. Is bloodstream infection preventable among premature infants? A tale of two cities. Pediatrics. 2005 Jun;115(6):1513-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15930211&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bloom BT, Craddock A, Delmore PM, Kurlinski JP, Voelker M, Landfish N, Rodriguez-Pierce M, Swanton D, Rossi J, Ehlen J, Harmon C, Deterding J, Houser F. Reducing acquired infections in the NICU: observing and implementing meaningful differences in process between high and low acquired infection rate centers. J Perinatol. 2003 Sep;23(6):489-92. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=13679937&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark R, Powers R, White R, Bloom B, Sanchez P, Benjamin DK Jr. Nosocomial infection in the NICU: a medical complication or unavoidable problem. J Perinatol. 2004 Jun;24(6):382-8. [100 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15116140&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark R, Powers R, White R, Bloom B, Sanchez P, Benjamin DK Jr. Prevention and treatment of nosocomial sepsis in the NICU. J Perinatol. 2004 Jul;24(7):446-53. [139 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15129228&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gaynes RP, Edwards JR, Jarvis WR, Culver DH, Tolson JS, Martone WJ. Nosocomial infections among neonates in high-risk nurseries in the United States. National Nosocomial Infections Surveillance System. Pediatrics. 1996 Sep;98(3 Pt 1):357-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8784356&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Horbar JD, Rogowski J, Plsek PE, Delmore P, Edwards WH, Hocker J, Kantak AD, Lewallen P, Lewis W, Lewit E, McCarroll CJ, Mujsce D, Payne NR, Shiono P, Soll RF, Leahy K, Carpenter JH. Collaborative quality improvement for neonatal intensive care. NIC/Q Project Investigators of the Vermont Oxford Network. Pediatrics. 2001 Jan;107(1):14-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11134428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kilbride HW, Powers R, Wirtschafter DD, Sheehan MB, Charsha DS, LaCorte M, Finer N, Goldmann DA. Evaluation and development of potentially better practices to prevent neonatal nosocomial bacteremia. Pediatrics. 2003 Apr;111(4 Pt 2):e504-18. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12671171&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kilbride HW, Wirtschafter DD, Powers RJ, Sheehan MB. Implementation of evidence-based potentially better practices to decrease nosocomial infections. Pediatrics. 2003 Apr;111(4 Pt 2):e519-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12671172&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lam BC, Lee J, Lau YL. Hand hygiene practices in a neonatal intensive care unit: a multimodal intervention and impact on nosocomial infection. Pediatrics. 2004 Nov;114(5):e565-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15492360&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: neonatal blood stream infection rate (NQI 3). Washington (DC): National Quality Forum (NQF); 2014 Jan 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ng PC, Wong HL, Lyon DJ, So KW, Liu F, Lam RK, Wong E, Cheng AF, Fok TF. Combined use of alcohol hand rub and gloves reduces the incidence of late onset infection in very low birthweight infants. Arch Dis Child Fetal Neonatal Ed. 2004 Jul;89(4):F336-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15210670&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Payne NR, Carpenter JH, Badger GJ, Horbar JD, Rogowski J. Marginal increase in cost and excess length of stay associated with nosocomial bloodstream infections in surviving very low birth weight infants. Pediatrics. 2004 Aug;114(2):348-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15286215&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Schelonka RL, Scruggs S, Nichols K, Dimmitt RA, Carlo WA. Sustained reductions in neonatal nosocomial infection rates following a comprehensive infection control intervention. J Perinatol. 2006 Mar;26(3):176-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16341027&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sohn AH, Garrett DO, Sinkowitz-Cochran RL, Grohskopf LA, Levine GL, Stover BH, Siegel JD, Jarvis WR, Pediatric Prevention Network. Prevalence of nosocomial infections in neonatal intensive care unit patients: Results from the first national point-prevalence survey. J Pediatr. 2001 Dec;139(6):821-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11743507&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stoll BJ, Hansen N, Fanaroff AA, Wright LL, Carlo WA, Ehrenkranz RA, Lemons JA, Donovan EF, Stark AR, Tyson JE, Oh W, Bauer CR, Korones SB, Shankaran S, Laptook AR, Stevenson DK, Papile LA, Poole WK. Late-onset sepsis in very low birth weight neonates: the experience of the NICHD Neonatal Research Network. Pediatrics. 2002 Aug;110(2 Pt 1):285-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12165580&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Blood stream infection; septicemia; bacteremia; staphylococcal or Gram-negative bacterial infection; newborns; outborns&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All newborns and outborns with either: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A birth weight of 500 to 1,499 grams (Birth Weight Categories 2, 3, 4 and 5); or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Any-listed International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for gestational age between 24 and 30 weeks; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and death (DISP=20); or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and any-listed ICD-9-CM procedure codes for operating room procedure; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and any-listed ICD-9-CM procedure codes for mechanical ventilation; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and transferring from another health care facility within two days of birth &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with either: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for other septicemia; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Any secondary ICD-9-CM diagnosis codes for newborn septicemia or bacteremia and any secondary ICD-9-CM diagnosis codes for staphylococcal or Gram-negative bacterial infection &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;In the 2008 State Inpatient Data (SID) there were 5,090 bloodstream infection events out of 106,899 high risk newborns, for a rate of 46.7 per 1,000. Approximately 47% of these events are coded as NOT present on admission. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The incidence of health care-associated bacteremia increases with decreasing birth weight. Other risk factors include central venous catheter use, prolonged time using parenteral nutrition, prolonged time on mechanical ventilation, use of H2-blocking agents, and overcrowding or heavy staff loads (Adams-Chapman &amp;amp; Stoll, 2002; Barton, Hodgman, &amp;amp; Pavlova, 1999; Gaynes et al., 1996; Stoll et al., 2002). The most common causative organisms are coagulase-negative staphylococci, Staphylococcus aureus, enterococci, Enterobacter sp, and Escherichia coli (Adams-Chapman &amp;amp; Stoll, 2002; Clark et al., 2004; Gaynes et al., 1996; Horbar et al., 2001; Payne et al., 2004; Sohn et al., 2001; Stoll et al., 2002). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Adams-Chapman I, Stoll BJ. Prevention of nosocomial infections in the neonatal intensive care unit. Curr Opin Pediatr. 2002 Apr;14(2):157-64. [80 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11981284&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barton L, Hodgman JE, Pavlova Z. Causes of death in the extremely low birth weight infant. Pediatrics. 1999 Feb;103(2):446-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9925839&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark R, Powers R, White R, Bloom B, Sanchez P, Benjamin DK Jr. Nosocomial infection in the NICU: a medical complication or unavoidable problem. J Perinatol. 2004 Jun;24(6):382-8. [100 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15116140&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gaynes RP, Edwards JR, Jarvis WR, Culver DH, Tolson JS, Martone WJ. Nosocomial infections among neonates in high-risk nurseries in the United States. National Nosocomial Infections Surveillance System. Pediatrics. 1996 Sep;98(3 Pt 1):357-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8784356&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Horbar JD, Rogowski J, Plsek PE, Delmore P, Edwards WH, Hocker J, Kantak AD, Lewallen P, Lewis W, Lewit E, McCarroll CJ, Mujsce D, Payne NR, Shiono P, Soll RF, Leahy K, Carpenter JH. Collaborative quality improvement for neonatal intensive care. NIC/Q Project Investigators of the Vermont Oxford Network. Pediatrics. 2001 Jan;107(1):14-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11134428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: neonatal blood stream infection rate (NQI 3). Washington (DC): National Quality Forum (NQF); 2014 Jan 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Payne NR, Carpenter JH, Badger GJ, Horbar JD, Rogowski J. Marginal increase in cost and excess length of stay associated with nosocomial bloodstream infections in surviving very low birth weight infants. Pediatrics. 2004 Aug;114(2):348-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15286215&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sohn AH, Garrett DO, Sinkowitz-Cochran RL, Grohskopf LA, Levine GL, Stover BH, Siegel JD, Jarvis WR, Pediatric Prevention Network. Prevalence of nosocomial infections in neonatal intensive care unit patients: Results from the first national point-prevalence survey. J Pediatr. 2001 Dec;139(6):821-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11743507&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stoll BJ, Hansen N, Fanaroff AA, Wright LL, Carlo WA, Ehrenkranz RA, Lemons JA, Donovan EF, Stark AR, Tyson JE, Oh W, Bauer CR, Korones SB, Shankaran S, Laptook AR, Stevenson DK, Papile LA, Poole WK. Late-onset sepsis in very low birth weight neonates: the experience of the NICHD Neonatal Research Network. Pediatrics. 2002 Aug;110(2 Pt 1):285-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12165580&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Includes approximately 6 million pediatric discharges for 2,500 hospitals (&quot;Healthcare Cost and Utilization Project [HCUP] State Inpatient Databases [SID],&quot; 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. The signal to noise ratio is the ratio of the between hospital variance (signal) to the within hospital variance (noise). The formula is signal / (signal + noise). The ratio itself is only a diagnostic for the degree of variance in the risk-adjusted rate systematically associated with the provider. Therefore, what matters is the magnitude of the variance in the &quot;smoothed&quot; rate (that is, the variance in the risk-adjusted rate after the application of the univariate shrinkage estimator based on the signal ratio). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. Updated testing results including both benign and malignant cases:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;What the data demonstrate is systematic variation in the provider level rate of 0.419 to 69.167 per 1,000 from the 5th to 95th percentile after a signal ratio of 0.831 is applied as the shrinkage estimator (that is, after accounting for variation due to random factors). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. See the &lt;a href=&quot;http://www.hcup-us.ahrq.gov/kidoverview.jsp&quot;&gt;HCUP Kids' Inpatient Database (KID) Web site&lt;/a&gt; (&quot;Healthcare Cost and Utilization Project [HCUP] Kids' Inpatient Database [KID],&quot; 2000; &quot;HCUP KID,&quot; 2003).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. A structured panel review of each indicator was undertaken to evaluate the face validity (from a clinical perspective) of the indicator. Specifically, the panels approach sought to establish consensual validity, which &quot;extends face validity from one expert to a panel of experts who examine and rate the appropriateness of each item&amp;hellip;.&quot; The methodology for the structured review was adapted from the RAND/UCLA Appropriateness Method and consisted of an initial independent assessment of each indicator by clinician panelists using an initial questionnaire, a conference call among all panelists, followed by a final independent assessment by clinician panelists using the same questionnaire. The panel process served to refine definitions of some indicators, add new measures, and dismiss indicators with major concerns from further consideration.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. The multi-specialty Panel rated the indicator as acceptable on overall usefulness as an indicator of potentially preventable complications of care. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) Kids' Inpatient Database (KID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2000.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) Kids' Inpatient Database (KID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2003.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2008.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: neonatal blood stream infection rate (NQI 3). Washington (DC): National Quality Forum (NQF); 2014 Jan 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 24 to 30 weeks&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All newborns and outborns with either: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A birth weight of 500 to 1,499 grams (Birth Weight Categories 2, 3, 4 and 5); or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Any-listed International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for gestational age between 24 and 30 weeks; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and death (DISP=20); or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and any-listed ICD-9-CM procedure codes for operating room procedure; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and any-listed ICD-9-CM procedure codes for mechanical ventilation; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A birth weight greater than or equal to 1,500 grams (Birth Weight Category 6, 7, 8, or 9) and transferring from another health care facility within two days of birth &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes. See also the &lt;em&gt;Pediatric Quality Indicators Appendices&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude cases: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With a principal ICD-9-CM diagnosis code (or secondary diagnosis present on admission*) for sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With a principal ICD-9-CM diagnosis code (or secondary diagnosis present on admission*) for sepsis or bacteremia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With a principal ICD-9-CM diagnosis code (or secondary diagnosis present on admission*) for staphylococcal or Gram-negative bacterial infection &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With birth weight less than 500 grams (Birth Weight Category 1) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With length of stay less than 7 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With missing gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing) or principal diagnosis (DX1=missing) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Only for cases that otherwise qualify for the numerator.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with either: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for other septicemia; or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Any secondary ICD-9-CM diagnosis codes for newborn septicemia or bacteremia and any secondary ICD-9-CM diagnosis codes for staphylococcal or Gram-negative bacterial infection &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The predicted value for each case is computed using a hierarchical model (logistic regression with hospital random effect) and covariates for gender, birthweight (500g groups), modified Centers for Medicare and Medicaid Services (CMS) Diagnosis-Related Group (DRG), congenital anomalies, transfer-in status and the availability of point of origin. The specific covariates retained in the model for this measure are listed in the original measure documentation. The reference population used in the regression is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID) for the year 2010, a database consisting of 43 states and approximately 6 million pediatric discharges. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., hospital). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population rate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for the specific covariates for this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;NQI 3: neonatal blood stream infection rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Agency for Healthcare Research and Quality (AHRQ) Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Pediatric Quality Indicators" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Neonatal Quality Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 5&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure is reviewed and updated on a yearly basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ QI. Neonatal quality indicators #3: technical specifications. Neonatal blood stream infection rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 61 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/TechSpecs/NQI_03_Neonatal_Blood_Stream_Infection_Rate.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AHRQ QI Support Team at E-mail: &lt;a href=&quot;mailto:QIsupport@ahrq.hhs.gov&quot;&gt;QIsupport@ahrq.hhs.gov&lt;/a&gt;; Phone: 301-427-1949.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators (PDI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 98 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Parameter_Estimates_PDI_50_Final.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ARHQ quality indicators. Pediatric quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 13 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Version_50_Benchmark_Tables_PDI.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Mar. various p. This document is available in PDF from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/PDI_Composite_Development.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &amp;nbsp; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the &lt;a href=&quot;http://hcupnet.ahrq.gov/&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 30, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was reviewed and edited by ECRI Institute on July 15, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 19, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 28, 2013 and again on December 3, 2015. The information was verified by the measure developer on January 19, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Neonatal quality indicator 3 technical specifications: neonatal blood stream infection rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: neonatal blood stream infection rate (NQI 3). Washington (DC): National Quality Forum (NQF); 2014 Jan 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

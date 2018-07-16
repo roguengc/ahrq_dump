@@ -1,0 +1,238 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pneumonia: hospital 30-day, all-cause, risk-standardized mortality rate (RSMR) following pneumonia hospitalization.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 condition-specific measures updates and specifications report: hospital-level 30-day risk-standardized mortality measures. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 98 p.  [29 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure estimates a hospital-level, 30-day risk-standardized mortality rate (RSMR) for patients discharged from the hospital with a principal diagnosis of pneumonia or a principle discharge diagnosis of sepsis with a secondary discharge diagnosis of pneumonia. Mortality is defined as death from any cause within 30 days of the start of the index admission. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) annually reports the measure for individuals who are 65 years and older and are Medicare Fee-for-Service (FFS) beneficiaries hospitalized in non-federal short-term acute care hospitals (including Indian Health Services hospitals) and critical access hospitals.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospitalization for pneumonia is common and associated with considerable risk of morbidity and mortality. Many current hospital interventions are known to decrease the risk of death within 30 days of hospital admission. Current process-based performance measures, however, cannot capture all the ways that care within the hospital might influence outcomes. As a result, many stakeholders, including patient organizations, are interested in outcomes measures that would permit groups of providers to assess their relative outcomes performance for the purpose of internal quality improvement or public reporting. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Since the most commonly available data across hospitals in the United States are administrative billing data, a measure is most widely applicable if it makes use of these data. Because there are concerns about the adequacy of administrative data, the measures using these data should be, if possible, validated against measures based on higher quality data (e.g., chart data). The Centers for Medicare &amp;amp; Medicaid Services (CMS) also believes that an outcomes measure for public reporting should have the following properties: the method by which the measure is calculated and information about its performance are publicly available; the patient sample accurately reflects patients treated for the condition at each hospital (e.g., transfers out are included, patients likely not to have pneumonia despite their International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] code are excluded, etc.); the measure is adjusted for conditions present on admission, not those that develop during the hospitalization; the measure is based on a standard period of outcome assessment; the measure is adjusted for past health care utilization history; risk factors are clinically coherent (not just data driven); statistical methods take into account the structure of the data (e.g., patients within hospitals); and results are reported in a way that reflects the degree of certainty about a hospital's performance. In CMS's assessment, no popular outcomes measure for pneumonia satisfies all of these criteria. Accordingly, CMS has sought to develop a measure with these properties. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale University, under CMS contract through the Colorado Foundation for Medical Care, Mathematica Policy Research. Pneumonia 30-day mortality. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2006 Apr 28. 7 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pneumonia; sepsis; 30-day mortality rate&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure cohort consists of admissions for Medicare Fee-for-Service (FFS) beneficiaries aged 65 years or older and discharged from non-federal acute care hospitals and critical access hospitals, having a principal discharge diagnosis of pneumonia or a principle discharge diagnosis of sepsis with a secondary discharge diagnosis of pneumonia.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the denominator is the number of deaths expected based on the nation's performance with that hospital's case mix.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the measure cohort.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;2017 Condition-specific Measures Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measures&lt;/em&gt; for more details. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure counts death from any cause within 30 days of the start of the index admission.&lt;/p&gt;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the numerator of the ratio is the number of deaths within 30 days predicted based on the hospital's performance with its observed case mix.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the outcome.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;2017 Condition-specific Measures Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measures&lt;/em&gt; for more details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;More than one million hospitalizations each year in the United States are caused by pneumonia (Lindenauer et al., 2012; Centers for Disease Control and Prevention [CDC], 2017). The annual mortality rate (deaths per 100,000 population) is 16.9 (CDC, 2017). Among patients aged 65 years or over in the United States, pneumonia is the second leading cause of hospitalization, and is the leading infectious cause of death (Fry et al., 2005; Bratzler et al., 2011). Many current hospital interventions have been shown to be associated with lower risk of death within 30 days of hospital admission (Lee et al., 2014). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bratzler DW, Normand SL, Wang Y, O'Donnell WJ, Metersky M, Han LF, Rapp MT, Krumholz HM. An administrative claims model for profiling hospital 30-day mortality rates for pneumonia patients. PLoS ONE. 2011 Apr 12;6(4):e17401. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21532758 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). FastStats: pneumonia. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2017 Jan 20&amp;nbsp;[10/31/2017]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fry AM, Shay DK, Holman RC, Curns AT, Anderson LJ. Trends in hospitalizations for pneumonia among persons aged 65 years or older in  the United States, 1988-2002. JAMA. 2005 Dec 7;294(21):2712-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16333006&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lee JS, Nsa W, Hausmann LR, Trivedi AN, Bratzler DW, Auden D, Mor MK, Baus K, Larbi FM, Fine MJ. Quality of care for elderly patients hospitalized for pneumonia in the United States, 2006 to 2010. JAMA Intern Med. 2014 Nov;174(11):1806-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25201438 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lindenauer PK, Lagu T, Shieh MS, Pekow PS, Rothberg MB. Association of diagnostic coding with trends in hospitalizations and mortality of patients with pneumonia, 2003-2009. JAMA. 2012 Apr 4;307(13):1405-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22474204 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Assessment of Updated Models&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The pneumonia measure estimates hospital-specific 30-day all-cause risk-standardized mortality rates (RSMRs) using a hierarchical logistic regression model. Refer to Section 2 in the original measure documentation for a summary of the measure methodology and model risk-adjustment variables. Refer to prior methodology and technical reports for further details. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) evaluated and validated the performance of the models, using July 2013 to June 2016 data for the 2017 reporting period. They also evaluated the stability of the risk-adjustment model over the three-year measurement period by examining the model variable frequencies, model coefficients, and the performance of the risk-adjustment model in each year. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS assessed logistic regression model performance in terms of discriminant ability for each year of data and for the three-year combined period. They computed two summary statistics to assess model performance: the predictive ability and the area under the receiver operating characteristic (ROC) curve (c-statistic). CMS also computed between-hospital variance for each year of data and for the three-year combined period. If there were no systematic differences between hospitals, the between-hospital variance would be zero. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of these analyses are presented in Section 4.5 of the original measure documentation. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pneumonia Mortality 2017 Model Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Frequency of Pneumonia Model Variables&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS examined the change in the frequencies of clinical and demographic variables. Frequencies of model variables were stable over the measurement period. The largest changes in the frequencies (those greater than 2% absolute change) include: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Increases in Asthma (10.9% to 14.0%), Respiratory arrest; Cardio-respiratory failure and shock (24.3% to 26.5%), and Septicemia, sepsis, systemic inflammatory response syndrome/shock (12.8% to 15.1%) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decreases in Iron deficiency or other/unspecified anemias and blood disease (60.5% to 58.4%) and Cerebrovascular disease (25.4% to 23.0%) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Pneumonia Model Parameters and Performance&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Table 4.5.2 in the original measure documentation shows hierarchical logistic regression model variable coefficients by individual year and for the combined three-year dataset. Table 4.5.3 in the original measure documentation shows the risk-adjusted odds ratios (ORs) and 95% confidence intervals for the pneumonia mortality model by individual year and for the combined three-year dataset. Overall, the variable effect sizes were relatively constant across years. In addition, model performance was stable over the three-year time period; the c-statistic increased slightly from 0.71 to 0.72.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 condition-specific measures updates and specifications report: hospital-level 30-day risk-standardized mortality measures. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 98 p.  [29 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 65 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges July 1, 2013 through June 30, 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;An &lt;em&gt;index admission&lt;/em&gt; is the hospitalization to which the mortality outcome is attributed and includes admissions for patients: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Having a principal discharge diagnosis of:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Pneumonia* (including aspiration pneumonia); or, &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Sepsis (not including severe sepsis) with a secondary diagnosis of pneumonia (including aspiration pneumonia) coded as present on admission (POA) and no secondary diagnosis of severe sepsis coded as POA** &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Enrolled in Medicare Fee-for-Service (FFS) Part A and Part B for the 12 months prior to the date of admission, and enrolled in Part A during the index admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Aged 65 or over &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Not transferred from another acute care facility &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) codes used to define the pneumonia cohort for discharges on or after October 1, 2015:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A48.1 Legionnaires' disease &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J10.00 Influenza due to other identified influenza virus with unspecified type of pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J10.01 Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J10.08 Influenza due to other identified influenza virus with other specified pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J11.00 Influenza due to unidentified influenza virus with unspecified type of pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J11.08 Influenza due to unidentified influenza virus with specified pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.0 Adenoviral pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.1 Respiratory syncytial virus pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.2 Parainfluenza virus pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.3 Human metapneumovirus pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.81 Pneumonia due to SARS-associated coronavirus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.89 Other viral pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J12.9 Viral pneumonia, unspecified &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J13 Pneumonia due to Streptococcus pneumoniae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J14 Pneumonia due to Hemophilus influenzae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.0 Pneumonia due to Klebsiella pneumoniae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.1 Pneumonia due to Pseudomonas &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.20 Pneumonia due to staphylococcus, unspecified &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.211 Pneumonia due to Methicillin susceptible Staphylococcus aureus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.212 Pneumonia due to Methicillin resistant Staphylococcus aureus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.29 Pneumonia due to other staphylococcus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.3 Pneumonia due to streptococcus, group B &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.4 Pneumonia due to other streptococci &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.5 Pneumonia due to Escherichia coli &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.6 Pneumonia due to other aerobic Gram-negative bacteria &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.7 Pneumonia due to Mycoplasma pneumoniae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.8 Pneumonia due to other specified bacteria &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J15.9 Unspecified bacterial pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J16.0 Chlamydial pneumonia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J16.8 Pneumonia due to other specified infectious organisms &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J18.0 Bronchopneumonia, unspecified organism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J18.1 Lobar pneumonia, unspecified organism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J18.8 Other pneumonia, unspecified organism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J18.9 Pneumonia, unspecified organism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J69.0 Pneumonitis due to inhalation of food and vomit &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**Principal discharge diagnosis codes included in cohort if combined with a secondary diagnosis of pneumonia coded as POA AND no secondary diagnosis of severe sepsis (R65.20 Severe sepsis without septic shock or R65.21 Severe sepsis with septic shock) coded as POA is present:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A02.1 Salmonella sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A22.7 Anthrax sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A26.7 Erysipelothrix sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A32.7 Listerial sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A40.0 Sepsis due to streptococcus, group A &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A40.1 Sepsis due to streptococcus, group B &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A40.3 Sepsis due to Streptococcus pneumoniae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A40.8 Other streptococcal sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A40.9 Streptococcal sepsis, unspecified &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.01 Sepsis due to Methicillin susceptible Staphylococcus aureus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.02 Sepsis due to Methicillin resistant Staphylococcus aureus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.1 Sepsis due to other specified staphylococcus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.2 Sepsis due to unspecified staphylococcus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.3 Sepsis due to Hemophilus influenzae &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.4 Sepsis due to anaerobes &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.50 Gram-negative sepsis, unspecified &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.51 Sepsis due to Escherichia coli (E. coli) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.52 Sepsis due to Pseudomonas &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.53 Sepsis due to Serratia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.59 Other Gram-negative sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.81 Sepsis due to Enterococcus &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.89 Other specified sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A41.9 Sepsis, unspecified organism &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A42.7 Actinomycotic sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A54.86 Gonococcal sepsis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;B37.7 Candidal sepsis &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: International Classification of Diseases, Ninth Revision (ICD-9) code lists for discharges prior to October 1, 2015 can be found in the &lt;em&gt;&lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?cid=1228774398696&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Condition-specific Mortality Measures Updates and Specifications Report&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Discharged alive on the day of admission or the following calendar day who were not transferred to another acute care facility &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inconsistent or unknown vital status or other unreliable demographic (age and gender) data &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Enrolled in the Medicare hospice program any time in the 12 months prior to the index admission, including the first day of the index admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discharged against medical advice &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For patients with more than one eligible admission for pneumonia in a given year, only one index admission for that condition is randomly selected for inclusion in the cohort. Additional admissions within that year are excluded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The measure counts death from any cause within 30 days of the start of the index admission.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-standardized mortality rate (RSMR) is calculated as the ratio of the number of &quot;predicted&quot; deaths to the number of &quot;expected&quot; deaths at a given hospital, multiplied by the national observed mortality rate. For each hospital, the numerator of the ratio is the number of deaths within 30 days predicted based on the hospital's performance with its observed case mix.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This outcome measure does not have a traditional numerator and denominator like a core process measure; thus, this field is used to define the outcome.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;See the &lt;em&gt;&lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic/Page/QnetTier3&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;2017 Condition-specific Measures Updates and Specifications Report. Hospital-level 30-day Risk-standardized Mortality Measures&lt;/a&gt;&lt;/em&gt; for more details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Death" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Risk-Adjustment Variables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In order to account for differences in case mix among hospitals, the measure adjusts for variables (for example, age, comorbid diseases, and indicators of patient frailty) that are clinically relevant and have relationships with the outcome. For each patient, risk-adjustment variables are obtained from inpatient, outpatient, and physician Medicare administrative claims data extending 12 months prior to, and including, the index admission.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure adjusts for case mix differences among hospitals based on the clinical status of the patient at the time of the index admission. Accordingly, only comorbidities that convey information about the patient at that time or in the 12 months prior, and not complications that arise during the course of the hospitalization, are included in the risk adjustment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure does not adjust for socioeconomic status (SES) because the association between SES and health outcomes can be due, in part, to differences in the quality of healthcare that groups of patients with varying SES receive. The intent is for the measure to adjust for patient demographic and clinical characteristics while illuminating important quality differences. As part of the National Quality Forum's (NQF's) endorsement process for this measure, the Centers for Medicare &amp;amp; Medicaid Services (CMS) completed analyses for the two-year Sociodemographic Trial Period. Although univariate analyses found that the patient-level observed (unadjusted) mortality rates are higher for dual-eligible patients (for patients living in lower Agency for Healthcare Research and Quality [AHRQ] SES Index census block groups) and African-American patients compared with all other patients, analyses in the context of a multivariable model demonstrated that the effect size of these variables was small, and that the c-statistics for the models are similar with and without the addition of these variables.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to Appendix D of the original measure documentation for the list of comorbidity risk-adjustment variables and the list of complications that are excluded from risk adjustment if they occur only during the index admission. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital-level 30-day RSMR following pneumonia.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Hospital Inpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Mortality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="Yale-New Haven Health Services Corporation/Center for Outcomes Research and Evaluation under contract to Centers for Medicare &amp; Medicaid Services - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was developed primarily by a team of clinical and statistical experts from the Centers for Medicare &amp;amp; Medicaid Services, Mathematica Policy Research, Colorado Foundation for Medical Care, Oklahoma Foundation for Medical Quality, and Yale University. The following experts helped to develop the measure:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Randy Poulsen, PhD, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lein Han, PhD, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mel Ingber, PhD, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neil Gittings, MA, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Renee Mentnech, MS, CMS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Myles Maxfield, PhD, Mathematica Policy Research &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Angela Merrill, PhD, Mathematica Policy Research &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Eric M. Schone, PhD, Mathematica Policy Research &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Risa Hayes, CPC, Colorado Foundation for Medical Care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Deb R. Chromik-Ralston, BS, Colorado Foundation for Medical Care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dale W. Bratzler, DO, MPH, Oklahoma Foundation for Medical Quality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Wato Nsa, MD, PhD, Oklahoma Foundation for Medical Quality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Harlan M. Krumholz, MD, SM, Yale University School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amy S. Rich, MPH, Yale University School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yongfei Wang, MSc, Yale University School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jennifer A. Mattera, MPH, Yale University/Yale-New Haven Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yun Wang, PhD, Yale University/Yale-New Haven Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sharon-Lise T. Normand, PhD, MSc, Harvard School of Public Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hongyu Zhao, PhD, Yale University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inyoung Kim, PhD, Yale University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Shih-Yieh Ho, PhD, Qualidigm &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Oct 3&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Inpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2018 Apr&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital compare: a quality tool provided by Medicare. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2017 Oct 3]. This is available from the &lt;a href=&quot;https://www.medicare.gov/hospitalcompare/search.html?&quot; title=&quot;Medicare Web site&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 Medicare hospital quality chartbook. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2017. Available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/OutcomeMeasures.html&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 condition-specific mortality measures updates and specifications report: supplemental ICD-10 code lists for use with claims for discharges on or after October 1, 2015. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2017. Available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;cid=1163010421830&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 23, 2009. The information was verified by the measure developer on December 29, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on November 8, 2010. The information was verified by the measure developer on December 17, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 18, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 23, 2012. The information was verified by the measure developer on October 19, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 4, 2013. The information was verified by the measure developer on January 10, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on July 20, 2015. The information was verified by the measure developer on September 23, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on October 17, 2017. The information was verified by the measure developer on November 9, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2017 condition-specific measures updates and specifications report: hospital-level 30-day risk-standardized mortality measures. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 98 p.  [29 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

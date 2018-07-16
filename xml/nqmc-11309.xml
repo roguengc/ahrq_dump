@@ -1,0 +1,247 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Medicare spending per beneficiary (MSPB): cost to Medicare for services performed by hospitals and other healthcare providers during an MSPB episode.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: Medicare spending per beneficiary (MSPB). Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jul 21. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measures: Population Cost" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the cost to Medicare for services performed by hospitals and other healthcare providers during a Medicare Spending per Beneficiary (MSPB) episode.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Medicare Spending per Beneficiary (MSPB) Measure evaluates hospitals' efficiency relative to the efficiency of the national median hospital. Specifically, the MSPB Measure assesses the cost to Medicare for services performed by hospitals and other healthcare providers during an MSPB episode, which is composed of the periods immediately prior to, during, and following a patient's hospital stay.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An MSPB score that is less than 1 indicates that a given hospital spends less than the national episode-weighted median MSPB Amount across all hospitals during a given performance period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In the United States, healthcare costs consume an ever-increasing amount of our nation's resources. One source of these rising healthcare costs is payment systems that reward medical inputs rather than outcomes. Medicare is transforming from a system that rewards volume of service to one that rewards efficient, effective care and reduces delivery system fragmentation. To advance this transformation, the Centers for Medicare &amp;amp; Medicaid Services (CMS) provides financial incentives to hospitals based on their performance on selected quality measures. These measures include evaluations of hospitals' clinical process of care, patient perspective of care, outcomes, and efficiency. By measuring the spending through the Medicare Spending per Beneficiary (MSPB) Measure, CMS aims to reward hospitals that can provide efficient care at a lower cost to Medicare. The fiscal year (FY) 2012 and FY 2013 Inpatient Prospective Payment System (IPPS) Final Rules contains additional discussion of the MSPB Measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: Medicare spending per beneficiary (MSPB). Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jul 21. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Medicare spending per beneficiary (MSPB); cost; resource use &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The median Medicare Spending per Beneficiary (MSPB) Amount across all episodes nationally (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A hospital's average Medicare Spending per Beneficiary (MSPB) Amount, which is defined as the sum of standardized, risk-adjusted spending across all of a hospital's eligible episodes divided by the number of episodes for that hospital (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The growth of Medicare expenditures has put enormous strain on federal and state budgets, employers, and families. Total Medicare expenditures in 2015 were $647.6 billion, which constituted 3.6 percent of gross domestic product (GDP). Estimates state that Medicare expenditures could grow up to 6.0 to 9.1 percent of GDP by 2090, indicating a need to address the current level of Medicare spending. Of the total Medicare expenditures, $188.3 billion, or 30 percent, was spent on hospital benefits under Medicare Parts A and B (The Boards of Trustees, Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, 2016). The Medicare Spending per Beneficiary (MSPB)-Hospital Measure focuses on quantifying spending during and related to hospital stays to allow hospitals to identify areas where spending is most concentrated and coordinate with other healthcare providers, which can help counteract these rising costs. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Despite the fact that the U.S. leads the world in health expenditures per capita, the value that patients receive for these expenditures may be below that of other countries (National Quality Forum [NQF], 2010). In particular, one source of inefficiency that creates rising healthcare costs includes payment systems that reward medical inputs rather than outcomes (Centers for Medicare and Medicaid Services [CMS], 2011). Transforming Medicare and other public and private insurers from systems that reward volume of service to ones that reward efficient, effective care and reduce delivery system fragmentation offers the possibility of reducing cost and improving patient outcomes. To advance this transformation, CMS instituted the MSPB-Hospital measure. Section 1886(o)(2)(B)(ii) of the Social Security Act, as established by Section 3001 of the Patient Protection and Affordable Care Act (ACA), requires that CMS implement a measure of Medicare spending per beneficiary as part of its Hospital Value-Based Purchasing (VBP) initiatives. By measuring the cost of care through a measure of Medicare spending per beneficiary, CMS aims to recognize hospitals that can provide high quality care at a lower cost to Medicare. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The MSPB-Hospital measure aims to incentivize hospitals to coordinate care and reduce unnecessary utilization during the period immediately prior to, during, and in the 30 days after a hospital discharge. Currently, Medicare's prospective payment system (PPS) reimburses hospitals on a case mix-adjusted, flat-rate basis, incentivizing hospitals to serve patients as efficiently as possible. However, hospitals could also have an incentive to discharge patients early to reduce the cost to their facility. Such early discharge of patients may decrease quality of care and increases costs to Medicare. For example, a 2014 study showed that the cost of an additional day of an inpatient stay was offset by expected cost savings from readmission of 15 to 65 percent (Carey, 2015). In addition, improved care coordination between acute and post-acute providers could stem the rising cost of post-acute care through avenues such as reducing unnecessary hospital readmission. In 2015, skilled nursing facility and home health costs accounted for $47.5 billion of Medicare's expenditures (The Boards of Trustees, Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, 2016). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Unlike other resource use measures reported on Hospital Compare, the MSPB-Hospital measure is not condition-specific. Because a hospital's MSPB-Hospital measure uses all Medicare Part A and Part B claims for episodes during the period of performance, the MSPB-Hospital measure evaluates hospitals' efficiency across admissions for all conditions. However, as it is currently used in conjunction with existing quality measures available on Hospital Compare and reported as part of the CMS Hospital Inpatient Quality Reporting (IQR) and Hospital VBP Programs, the MSPB-Hospital measure can identify efficient providers that provide high-quality, low-cost care (CMS, n.d.). Assessing the MSPB-Hospital measure alongside existing quality measures follows the NQF precedent of defining efficient care to be a measure of cost of care associated with a specified level of quality of care. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Carey K. Measuring the hospital length of stay/readmission cost trade-off under a bundled payment mechanism. Health Econ. 2015 Jul;24(7):790-802. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24803387&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Hospital Compare. [Web site]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). National Health Expenditure data. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2011 Aug.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). National Quality Forum measure information form: Medicare spending per beneficiary (MSPB) - hospital. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Sep 11. 23 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF). Resource use measurement white paper: commenting draft. Washington (DC): National Quality Forum (NQF); 2010 Sep 13. 71 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Boards of Trustees, Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust. The 2016 annual report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Jun 22. 261 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In the development and validation of the Medicare Spending per Beneficiary (MSPB) Measure, the Centers for Medicare &amp;amp; Medicaid Services (CMS) assessed reliability by considering the extent to which assessments of a hospital using different but randomly selected subsets of patients produce similar measures of hospital performance. That is, CMS took a &quot;test-retest&quot; approach in which hospital performance is measured once using a random subset of patients, then measured again using a second subset (over the same time period) that excludes the MSPB episodes chosen for the first sample. By comparing the correlation of a hospital's MSPB Measure calculated using the two mutually exclusive samples, one can identify the relationship of a hospital's score across multiple samples. The Spearman rank correlation for a hospital across samples is 0.835. Using these samples, CMS additionally calculated quintile rank stability across samples, where quintile ranks were calculated by randomly dividing hospitals with greater than or equal to 50 observations into equal halves and calculating each hospital's MSPB quintile rank within each half. Ranks across halves were then compared. Seventy-two percent of hospitals in the bottom quintile in one sample are in the bottom quintile in the next; similarly, 73 percent of hospitals in the top quintile in one sample are in the top quintile in the next, suggesting high reliability. Further, 90 percent of the hospitals in the top quintile in one sample remain in the top two quintiles in the other sample. In sum, these results indicate a stable, precise measure. This analysis was performed in 2012 as part of testing for National Quality Forum (NQF) endorsement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: Medicare spending per beneficiary (MSPB). Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jul 21. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). National Quality Forum measure information form: Medicare spending per beneficiary (MSPB) - hospital. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Sep 11. 23 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Effective" />
+      <FieldValue Value="Efficient" />
+      <FieldValue Value="Population-centered" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Affordable Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Quality Care More Affordable&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Efficiency" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Performance period spans January 1 through December 31 to include episodes with discharges January 1 through December 1&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The median Medicare Spending per Beneficiary (MSPB) Amount across all episodes* nationally, weighted by episode.**&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Beneficiary populations eligible for the MSPB Measure calculation are made up of Medicare beneficiaries enrolled in Medicare Parts A and B who were discharged from short-term acute hospitals during the period of performance. Specifically, Medicare Part A and Medicare Part B claims from beneficiaries with an index admission within a subsection (d) hospital are included in the MSPB episode if the beneficiary has been enrolled in Medicare Part A and Part B for the period 90 days prior to the start of an episode (i.e., 93 days prior to the date of the index admission) until the 30 days after discharge. Defining the population in this manner ensures that each beneficiary's claims record contains sufficient fee-for-service data both for measuring spending levels and for risk adjustment purposes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Only claims for beneficiaries admitted to subsection (d) hospitals during the period of performance are included in the calculation of the MSPB Measure. Subsection (d) hospitals are hospitals in the 50 States and D.C. other than psychiatric hospitals, rehabilitation hospitals, hospitals whose inpatients are predominantly under 18 years old, hospitals whose average inpatient length of stay exceeds 25 days, and hospitals involved extensively in treatment for or research on cancer. The claims for inpatient admissions to subsection (d) hospitals are grouped into &quot;stays&quot; by beneficiary, admission date, and provider. Episodes are included in the calculation of the MSPB Measure if they have a discharge date that falls within the period of performance.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Episode Definition&lt;/em&gt;: An MSPB episode will include all claims with start date falling between 3 days prior to an Inpatient Prospective Payment System (IPPS) hospital admission (also known as the &quot;index admission&quot; for the episode) through 30 days post-hospital discharge. An episode includes the time period 30 days post-hospital discharge in order to emphasize the importance of care transitions and care coordination in improving patient care. Only discharges occurring prior to 30 days before the end of the measurement period are counted as index admissions. Admissions which occur within 30 days of discharge from another index admission are not considered to be index admissions.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Payments made by Medicare and the beneficiary (i.e., allowed charges) are counted in the MSPB episode as long as the start of the claim falls within the episode window of 3 days prior to the index admission through 30 days post-hospital discharge. The MSPB Measure calculation does not pro-rate the cost of care that extends beyond the 30 days post-hospital discharge. IPPS outlier payments (and outlier payments in other provider settings) are also included in the calculation of the MSPB Measure.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**The national median is a weighted median. For example, if there are two hospitals and one hospital had an MSPB of 1.5 and another had one of 0.5 but the first had 4 episodes and the second only 1, then the median would be 1.5 (i.e., 1.5, 1.5, &lt;strong&gt;1.5&lt;/strong&gt;, 1.5, 0.5).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Populations excluded from the MSPB calculation are any episodes where at any time 90 days before or during the episode, the beneficiary is enrolled in a Medicare Advantage plan or Medicare is the secondary payer. Episodes where the beneficiary becomes deceased during the episode are also excluded. Regarding beneficiaries whose primary insurance becomes Medicaid during an episode due to exhaustion of Medicare Part A benefits, Medicaid payments made for services rendered to these beneficiaries are excluded; however, all Medicare Part A payments made before benefits are exhausted and all Medicare Part B payments made during the episode are included. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Further, any episode in which the index admission inpatient claim has a $0 actual payment or a $0 standardized payment is excluded. In addition, acute-to-acute transfers (where a transfer is defined based on the claim discharge code) are not considered index admissions. In other words,&amp;nbsp;these cases do not generate new MSPB episodes; neither the hospital that transfers a patient to another subsection (d) hospital nor the receiving subsection (d) hospital will have an index admission or associated MSPB episode attributed to them. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Admissions to hospitals that Medicare does not reimburse through the IPPS system (e.g., cancer hospitals, critical access hospitals, hospitals in Maryland) are not considered index admissions and are therefore not eligible to begin an MSPB episode. If an acute-to-acute hospital transfer or a hospitalization in a PPS-exempt hospital type happens during the 30-day window following an included index admission, however, it will be counted in the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;A hospital's average Medicare Spending per Beneficiary (MSPB) Amount, which is defined as the sum of standardized,* risk-adjusted spending across all of a hospital's eligible episodes divided by the number of episodes for that hospital&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Price Standardization&lt;/em&gt;: To capture differences in beneficiary resource use that a hospital can influence through appropriate practices and care coordination, the MSPB Measure removes sources of variation that are not directly related to decisions to utilize care, such as local or regional price differences. The MSPB Measure relies on a detailed price standardization methodology to exclude geographic payment rate differences. In other words, the MSPB Measure adjusts observed payments for Medicare geographic adjustment factors, such as the hospital wage index and geographic practice cost index (GPCI). Refer to the original measure documentation for the price standardization methodology.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;See the denominator exclusions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Mean/Median" />
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To account for case-mix variation and other factors, the Medicare Spending per Beneficiary (MSPB) risk-adjustment methodology adjusts the MSPB Measure for age and severity of illness. The model broadly follows the Centers for Medicare &amp;amp; Medicaid Services-hierarchical condition category (CMS-HCC) risk-adjustment methodology, which is derived from Medicare Parts A and B claims and is used in the Medicare Advantage program. Although the Medicare Advantage risk-adjustment model includes 24 age/sex variables, the MSPB methodology does not adjust for sex and only includes 12 age categorical variables. Severity of illness is measured using 79 HCC indicators derived from the beneficiary's claims during the period 90 days prior to the start of the episode, an indicator of whether the beneficiary recently required long-term care, and the Medicare Severity Diagnosis-Related Group (MS-DRG) of the index hospitalization. The 79 HCC indicators are specified in Version 22 (V22) of the HCC model, and the HCC V22 model includes a mapping of International Classification of Diseases, Ninth Revision (ICD-9) diagnosis codes to condition categories (CCs) and International Classification of Diseases, Tenth Revision (ICD-10) diagnosis codes to CCs. Episodes where the beneficiary is not enrolled in both Medicare Part A and Medicare Part B for the 90 days prior to the episode are excluded. This &quot;look back period&quot; captures beneficiaries' comorbidities in the risk adjustment. The MSPB risk-adjustment methodology also includes status indicator variables for whether the beneficiary qualifies for Medicare through disability or age and End-Stage Renal Disease (ESRD). In addition, the model accounts for disease interactions by including interactions between HCCs and/or enrollment status variables that are included in the Medicare Advantage model. This is included because the presence of certain comorbidities increases costs in a greater way than predicted by the HCC indicators alone. The MSPB risk-adjustment method does not control for the beneficiary's sex and race.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For a complete description of MSPB risk adjustment methodology, see the &quot;Measure Calculation&quot; section of the original measure documentation. Additionally, Tables 1 through 6 in the original measure documentation present the final set of risk-adjustment variables. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;MSPB-1: Medicare spending per beneficiary (MSPB).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Hospital Inpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Medicare Spending Per Beneficiary (MSPB) Measure" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="Econometrica, Inc, under contract to Centers for Medicare and Medicaid Services - For Profit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Sep 11&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Inpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;cid=1228772057350&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Further information about the MSPB Measure is also available on the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier3&amp;amp;cid=1228772053996&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital compare: a quality tool provided by Medicare. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2015 May 27]. This is available from the &lt;a href=&quot;https://www.medicare.gov/hospitalcompare/Data/efficiency-cost-reduction-domain.html&quot; title=&quot;Medicare Web site&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on October 5, 2015. The information was verified by the measure developer on November 6, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on November 8, 2017. The information was verified by the measure developer on December 7, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: Medicare spending per beneficiary (MSPB). Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jul 21. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

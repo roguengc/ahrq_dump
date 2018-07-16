@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Perinatal care: percentage of newborns that were exclusively fed breast milk during the newborn's entire hospitalization.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of newborns that were exclusively fed breast milk during their entire hospitalization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure is reported as an overall rate which includes all newborns that were exclusively fed breast milk during the entire hospitalization.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Exclusive breast milk feeding (BF) for the first 6 months of neonatal life has long been the expressed goal of World Health Organization (WHO), Department of Health and Human Services (DHHS), American Academy of Pediatrics (AAP) and American College of Obstetricians and Gynecologists (ACOG). ACOG (2007) has recently reiterated its position. A recent Cochrane review substantiates the benefits (Kramer &amp;amp; Kakuma, 2002). Much evidence has now focused on the prenatal and intrapartum period as critical for the success of exclusive (or any) BF (Centers for Disease Control and Prevention [CDC], 2007; Petrova, Hegyi, &amp;amp; Mehta, 2007; Shealy et al., 2005; Taveras et al., 2004). Exclusive breast milk feeding rate during birth hospital stay has been calculated by the California Department of Public Health for the last several years using newborn genetic disease testing data. Healthy People 2010 and the CDC have also been active in promoting this goal.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians and Gynecologists, Committee on Health Care for Underserved Women. ACOG Committee Opinion No. 361: Breastfeeding: maternal and infant aspects. Obstet Gynecol. 2007 Feb;109(2 Pt 1):479-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17267864&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Breastfeeding trends and updated national health objectives for exclusive breastfeeding--United States, birth years 2000-2004. MMWR Morb Mortal Wkly Rep. 2007 Aug 3;56(30):760-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17673896&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kramer MS, Kakuma R. Optimal duration of exclusive breastfeeding. Cochrane Database Syst Rev. 2002;(1):CD003517. [107 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11869667&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Petrova A, Hegyi T, Mehta R. Maternal race/ethnicity and one-month exclusive breastfeeding in association with the in-hospital feeding modality. Breastfeed Med. 2007 Jun;2(2):92-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17661580&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shealy KR, Li R, Benton-Davis S, Grummer-Strawn LM. The CDC guide to breastfeeding interventions. Atlanta (GA): US Department of Health and Human Services, Centers for Disease Control and Prevention; 2005. 67 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Taveras EM, Li R, Grummer-Strawn L, Richardson M, Marshall R, Rego VH, Miroshnik I, Lieu TA. Opinions and practices of clinicians associated with continuation of exclusive breastfeeding. Pediatrics. 2004 Apr;113(4):e283-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15060254&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Exclusive breast milk feeding; newborns&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Single term newborns discharged alive from the hospital (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Newborns that were fed breast milk only since birth&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Breastfeeding is associated with decreased risk for many early-life diseases and conditions, including otitis media, respiratory tract infections, atopic dermatitis, gastroenteritis, type 2 diabetes, sudden infant death syndrome, and obesity. Breastfeeding also is associated with health benefits to women, including decreased risk for type 2 diabetes, ovarian cancer, and breast cancer (Ip et al., 2007). Exclusive breastfeeding is defined as a newborn receiving only breast milk and no other liquids or solids except for drops or syrups consisting of vitamins, minerals, or medicines (World Health Organization [WHO], 1991). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2007, Healthy People 2010 objectives for breastfeeding initiation and duration included two new objectives on exclusive breastfeeding to increase the proportion of mothers who exclusively breastfeed their infants through age 3 months to 60% and through age 6 months to 25% [objectives 16-19d and 16-19e] (U.S. Department of Health and Human Services [DHHS], 2000). The Healthy People 2020 objectives for exclusive breastfeeding were continued through age 3 months with a goal of 46.2% and age 6 months with a goal of 25.5% [objectives MICH-21.4 and MICH-21.5]. Also included is the related objective MICH-24: increase the proportion of live births that occur in facilities that provide recommended care for lactating mothers and their babies (DHHS, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Centers for Disease Control and Prevention (CDC) developed a Guide to Breastfeeding Interventions in 2005 for the promotion and support of breastfeeding based on detailed input from the spectrum of breastfeeding experts which can be used to help hospitals achieve the Healthy People 2020 objective MICH-24. Institutional changes, i.e., attaining Baby Friendly Hospital Initiative status, individual interventions including increased rooming-in of mothers and newborns, early skin to skin contact and discontinuing policies that are not evidence based have been shown to increase breastfeeding initiation and duration rates as well (Shealy et al., 2005). According to the CDC (2011), mothers who want to breastfeed who do not receive hospital support will stop early. The CDC encourages hospitals to partner with Baby-Friendly hospitals to learn how to improve maternity care, use the CDC's Maternity Practice in Infant Nutrition and Care (mPINC) survey data to prioritize changes to improve maternity care practices and stop distributing formula samples and give-aways to breastfeeding mothers. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Hospital support for breastfeeding: preventing obesity begins in hospitals. CDC vital signs. [internet]. 2011&amp;nbsp;[accessed 2011 Sep 26]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ip S, Chung M, Raman G, et al. Breastfeeding and maternal and infant health outcomes in developed countries. [internet]. Rockville (MD): U.S. Department of Health and Human Services; 2007&amp;nbsp;[accessed 2011 Sep 27]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shealy KR, Li R, Benton-Davis S, Grummer-Strawn LM. The CDC guide to breastfeeding interventions. Atlanta (GA): U.S. Department of Health and Human Services, Centers for Disease Control and Prevention; 2005. 85 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS). Healthy people 2010. [internet]. Washington (DC): 2000&amp;nbsp;[accessed 2011 Sep 26]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS). Healthy people 2020. [internet]. Washington (DC): 2010&amp;nbsp;[accessed 2011 Sep 26]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;World Health Organization (WHO). Indicators for assessing breastfeeding practices. [internet]. Geneva, Switzerland: World Health Organization (WHO); 1991&amp;nbsp;[accessed 2011 Sep 27]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Twenty-six contracted performance measurement systems (PMS) agreed to support the perinatal care measures. Joint Commission staff defined and developed a database structure for electronic receipt of measure data and a verification process was implemented to assure that measures were embedded into the measurement system's technical infrastructures and into their data collection tools in accord with Joint Commission specifications. Joint Commission staff also verified data collection tools and provided education regarding the performance measure set to PMS vendors, who in turn provided education and ongoing support to their contracted hospitals. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Once sufficient data to support this effort were received by The Joint Commission, a reliability assessment of the measures and individual data elements was conducted from October 2011 through January 2012. A data collection tool was developed to facilitate the reabstraction of selected medical records and assessment of the reliability of the data elements. Reliability test site visits were conducted by Joint Commission staff at a subset of 12 randomly-selected hospitals. Selection of the sites was based on multiple characteristics, including hospital demographics, bed size and type of facility. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the course of the reliability site visits, electronic and paper medical records were blindly reabstracted by Joint Commission staff. Reabstracted data elements were then compared with the hospital's originally abstracted data on a data element to data element basis. Differences in abstraction were investigated and adjudicated in order to understand the reasons for any disparities. In addition, structured focus group discussions were held at each site to gather additional feedback on the measures. A resource evaluation was also completed the site visit hospitals to assess the cost and time associated with data collection effort. Feedback from the focus group discussions has been incorporated into the measure &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement, The Joint Commission, Oakbrook Terrace, IL). Personal communication. 2013 Sep 20. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Newborn&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges July 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Liveborn newborns discharged alive from the hospital with &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code&lt;/em&gt; for single liveborn newborn (as defined in the appendices of the original measure documentation)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Admitted to the neonatal intensive care unit (NICU) at this hospital during the hospitalization &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;ICD-10-CM Other Diagnosis Codes&lt;/em&gt; for galactosemia (as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;International Classification of Diseases, Tenth Revision, Procedure Coding System (ICD-10-PCS) Principal Procedure Code or ICD-10-PCS Other Procedure Codes&lt;/em&gt; for parenteral nutrition (as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Experienced death &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length of Stay (LOS) greater than 120 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients transferred to another hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are not term or with less than 37 weeks gestation completed &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Newborns that were fed breast milk only since birth&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Perinatal Care (PC) Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xA;    &lt;li&gt;PC-05: Exclusive Breast Milk Feeding Flowchart &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PC-05: Exclusive breast milk feeding.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Quality Core Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Perinatal Care" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No external funding was received.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Perinatal Care Technical Advisory Panel (PC TAP) recommended which National Quality Forum (NQF)-endorsed Perinatal Care measures should be included in the set. Members of the PC TAP are enumerated at: &lt;a href=&quot;http://www.jointcommission.org/assets/1/18/TAP_Members_Web_List.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;http://www.jointcommission.org/assets/1/18/TAP_Members_Web_List.pdf&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with National Quality Forum (NQF) and The Joint Commission's Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 May 1&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Obstetrics and Gynecology" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Inpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This Perinatal Care measure has been adapted from the following National Quality Forum (NQF)-endorsed measure:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclusive Breastfeeding During Birth Hospitalization [California Maternal Quality Care Collaborative] &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every six months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for Joint Commission national quality core measures, version 2015B. Oakbrook Terrace (IL): The Joint Commission; Effective 2015 Oct 1. 327 p.  &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://manual.jointcommission.org/bin/view/Manual/WebHome&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by The Joint Commission on January 15, 2010 and reviewed accordingly by ECRI Institute on February 8, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on November 16, 2010 and reviewed accordingly by ECRI Institute on March 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on September 20, 2013 and reviewed accordingly by ECRI Institute on November 15, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on July 21, 2014 and reviewed accordingly by ECRI Institute on September 22, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on October 7, 2015. The information was verified by the measure developer on October 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on June 14, 2016. The information was verified by the measure developer on June 29, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for Joint Commission National Quality Core Measures [Version 2016A, July 2016] is periodically updated by The Joint Commission. Users of the Specifications Manual for Joint Commission National Quality Core Measures must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

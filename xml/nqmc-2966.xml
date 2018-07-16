@@ -1,0 +1,259 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Family-centered care (FCC): proportion of children whose parents routinely received &lt;em&gt;all&lt;/em&gt; aspects of family-centered care.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Schor E. Assessing health system provision of well-child care: the Promoting Healthy Development Survey. Pediatrics. 2001 May;107(5):1084-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11331691&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Reuland CH, Halfon N, Schor EL. Measuring the quality of preventive and developmental services for young children: national estimates and patterns of clinicians' performance. Pediatrics. 2004 Jun;113(6 Suppl):1973-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15173469&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Bethell C, Peck Reuland C, Walker C, Brockwood K, Latzke B, Read D. In-office administration of the promoting healthy development survey - reduced-item version. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; 79 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Promoting healthy development survey - PLUS (PHDS-PLUS). Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). The promoting healthy development survey. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; 2001. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Patient Experience&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the proportion of children whose parents indicated  that they routinely received &lt;em&gt;all&lt;/em&gt; aspects of family-centered care (FCC).  Topics specifically focus on the following components of FCC:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;whether the health care provider understands specific needs of child and concerns of parent,&lt;/li&gt;   &#xD;&#xA;&lt;li&gt;builds confidence in the parent,&lt;/li&gt;   &#xD;&#xA;&lt;li&gt;explains things in a way that the parent can understand, and&lt;/li&gt;&#xD;&#xA;&lt;li&gt;shows respect for a family's values, customs, and how they prefer to raise their child.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Family-centered care (FCC) is an integral part of the preventive and developmental services recommended by the American Academy of Pediatrics (AAP), as well as an element of medical home.  This measure, as part of the Promoting Health Development Survey (PHDS), captures parent-reported information about the communication and partnership between the provider and the parent that compose FCC which could not otherwise be obtained through medical records or administrative data.  Few quality measures have been available that provide specific information about preventive health care for young children, especially on aspects of care for which parents and families are a reliable source of information about the quality of their child's health care.  The PHDS provides direct feedback from parents about the delivery and quality of preventive services for their children.  The PHDS was developed for the purpose of assisting providers, consumers, purchasers, and policymakers in assessing the degree to which health plans and practitioners provide developmental services as recommended in guidelines set forth by the AAP and the Maternal and Child Health Bureau's Bright Futures initiative.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Family-centered care&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children age 3 months to 48 months who received a well-child visit in the last 12 months and whose parent answered at least half of the items in the &quot;Family-centered Care (FCC)&quot; scale on the Promoting Healthy Development Survey (PHDS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children whose parent responded, &quot;Usually&quot; OR &quot;Always&quot; to all of the items in the &quot;Family-centered Care (FCC)&quot; scale (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical evidence" />
+      <FieldValue Value="Focus groups" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Overall poor quality for the performance measured" />
+      <FieldValue Value="Use of this measure to improve performance" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Abrams M, Halfon N, Sareen H, Scott Collins K. Partnering with parents to promote the healthy development of young children enrolled in Medicaid: results from a survey assessing the quality of preventive and developmental services for young children enrolled in Medicaid in three states. Washington (DC): The Commonwealth Fund; 2002 Sep. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Schor E. Assessing health system provision of well-child care: the Promoting Healthy Development Survey. Pediatrics. 2001 May;107(5):1084-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11331691&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Collaborative inter-organizational quality improvement" />
+      <FieldValue Value="External oversight/Medicaid" />
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="National reporting" />
+      <FieldValue Value="Quality of care research" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children age 3 months to 48 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children age 3 months to 48 months who received a well-child visit in the last 12 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Children age 3 months to 48 months who received a well-child visit in the last 12 months and whose parent answered at least half of the items in the &quot;Family-centered Care (FCC)&quot; scale on the Promoting Healthy Development Survey (PHDS)&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient Characteristic" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window precedes index event " />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Children whose parent responded, &quot;Usually&quot; OR &quot;Always&quot; to all of the items in the &quot;Family-centered Care (FCC)&quot; scale&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;From the responses, a composite measure score is calculated* in which a higher score is associated with better quality.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Note&lt;/strong&gt;: Scoring process:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ol style=&quot;font-size:8pt;&quot;&gt;&#xD;&#xA;&lt;li&gt;Individual items are recoded so that &quot;Never&quot; OR &quot;Sometimes&quot; responses are recoded into 0 and &quot;Usually&quot; OR &quot;Always&quot; responses are recoded into 100.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Threshold scoring version: Mean = 100.&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Encounter or point in time" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Patient survey" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Not Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Non-weighted Score/Composite/Scale" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Analysis by high-risk subgroup (stratification on vulnerable populations)" />
+      <FieldValue Value="Analysis by subgroup (stratification on patient factors, geographic factors, etc.)" />
+    </Field>
+    <Field FieldID="69" OrdBy="1120" ID="362" Name="Description of Allowance for Patient Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Although no stratification is required, the Promoting Healthy Development Survey (PHDS) includes a number of variables that allow for stratification of the findings by possible vulnerability:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Child demographic characteristics (e.g., the child's age, race)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Child health and descriptive characteristics (e.g., children at high risk for developmental, behavioral or social delays, special health care needs)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Parent health characteristics (e.g., children whose parents are experiencing symptoms of depression)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="External comparison at a point in time" />
+      <FieldValue Value="External comparison of time trends" />
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;1999: Pilot Testing by Mail in Three Health Plans&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the Promoting Healthy Development Survey (PHDS) quality measure scales have strong construct validity and internal consistency (reliability).  Findings are displayed in the article, &quot;Assessing Health System Provision of Well-child Cared: the Promoting Healthy Development Survey.&quot;&lt;/li&gt;&#xD;&#xA;&lt;li&gt;In-depth cognitive testing of the draft survey was conducted with 15 families representing a range of socioeconomic and demographic groups, as well as different types of health insurance coverage, age of child, age and sex or parent, and number of children in family.  Survey design and formatting was finalized with input from a group of experts and family representatives.  Reliability assessments indicated the PHDS to be written at the 8th-9th grade reading level.  Cognitive testing confirmed the readability of the PHDS for people across a range of educational levels.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2000: Implementation by Mail to Medicaid Clients&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability).  These findings are displayed in the CAHMI Report, &quot;Summary Testing and Findings of the PHDS in Maine.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2000: Implementation by Mail to Washington Medicaid Clients&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability).  These findings are displayed in the CAHMI Report, &quot;PHDS Results: In Washington State.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2000-2001: Implementation by Telephone Three-State Medicaid Clients&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Cognitive interviews were conducted with 20 parents of children 3 to 48 months old who were enrolled in Medicaid.  Five of these interviews were conducted in-person; the remaining 15 were conducted over the telephone in order to assess the response burden and cognitive ease of the PHDS when using a telephone administration.  Using behavior coding methods, for each item in the PHDS, instances where the respondent required clarification or did not appropriately answer an item were noted.  Also, items where the interviewer had difficulty asking the question without edits to the wording were noted.  Survey modifications were made based on findings in order to improve the reliability, validity and cognitive ease of the PHDS items.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;The PHDS was administered by telephone to parents in 3 state Medicaid programs.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability). These findings are displayed in the report, &quot;Partnering with Parents to Promote the Healthy Development of Young Children Enrolled in Medicaid.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2000: A Majority of the PHDS Included in the National Survey of Early Childhood Health (NSECH)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability). These findings are displayed in the article, &quot;Measuring the quality of preventive and developmental services for young children: National estimates and patterns of clinicians' performance.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2001-2003: Development and Implementation of the Provider-Level PHDS. October 2001-March 2003&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Focus groups and cognitive interviews with 35 health care providers in Vermont and Washington and 20 parents of young children in Vermont to inform item-reduction, administration specifications, and reporting templates.&lt;/li&gt;&#xD;&#xA;&lt;lI&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability). These findings are displayed in the CAHMI reports, &quot;Overview of the Round 1 Implementation of the PHDS in Mousetrap&quot; and &quot;University Pediatrics: Round 2 -- In-Office Implementation of the PHDS Key Findings.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;2002-2004: Implementation by Telephone in Four Medicaid Agencies&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability). These findings are displayed in the CAHMI report, &quot;Hearing the Voices of Parents: Results from a Survey Assessing the Quality of Preventive and Developmental Services for Young Children Enrolled in Medicaid in Four States.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;December 2003 - March 2004 Implementation of the PHDS in Kaiser Permanente, System, Office and Provider-Level Analysis Conducted&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Psychometric analyses demonstrated that the PHDS quality measure scales have strong construct validity and internal consistency (reliability). These findings are displayed in the draft publication, &quot;What drives the quality of preventive and development services provided to young children? Findings from a multi-level, provider and patient-centered method to assess quality.&quot;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Abrams M, Halfon N, Sareen H, Scott Collins K. Partnering with parents to promote the healthy development of young children enrolled in Medicaid: results from a survey assessing the quality of preventive and developmental services for young children enrolled in Medicaid in three states. Washington (DC): The Commonwealth Fund; 2002 Sep. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Schor E. Assessing health system provision of well-child care: the Promoting Healthy Development Survey. Pediatrics. 2001 May;107(5):1084-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11331691&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C. CAHMI quality measures: promoting healthy development survey. Summary of testing and findings in Maine. Portland (OR): Child and Adolescent Health Measurement Initiative (CAHMI); 2000 Sep. 51 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Reuland CH, Halfon N, Schor EL. Measuring the quality of preventive and developmental services for young children: national estimates and patterns of clinicians' performance. Pediatrics. 2004 Jun;113(6 Suppl):1973-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15173469&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Child and adolescent health measurement initiative: Washington State Healthy options. Promoting healthy development survey (PHDS): 2000 results. Portland (OR): Child and Adolescent Health Measurement Initiative, Foundation for Accountability; 2000. 59 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Overview of the round 1 implementation of the PHDS in mousetrap and university pediatrics. Portland (OR): Child and Adolescent Health Measurement Initiative (CAHMI); 27 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). What drives the quality of preventive and development services provided to young children? Findings from a multi-level, provider and patient-centered method to assess quality. Portland (OR): Child and Adolescent Health Measurement Initiative (CAHMI); 2006. 38 p.  [60 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Reuland C, Bethell C. Hearing the voices of parents: measuring and improving preventive and developmental services provided to young children. Portland (OR): Child and Adolescent Health Measurement Initiative (CAHMI); 2004 Jun. 97 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Family-centered care (FCC): proportion of children whose parents routinely received family-centered care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Promoting Healthy Development Survey (PHDS)" />
+    </Field>
+    <Field FieldID="75" OrdBy="1305" ID="475" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Family-Centered Care (FCC)" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Child and Adolescent Health Measurement Initiative - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Child and Adolescent Health Measurement Initiative - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Commonwealth Fund&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Christina Bethell, PhD, MBA, MPH; Colleen Reuland, MS; Brooke Latzke, BS&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="1335" ID="376" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2001 Jan" />
+    </Field>
+    <Field FieldID="86" OrdBy="1360" ID="381" Name="Revision Date" Type="date">
+      <FieldValue Value="2006 Dec" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Schor E. Assessing health system provision of well-child care: the Promoting Healthy Development Survey. Pediatrics. 2001 May;107(5):1084-94. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11331691&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Reuland CH, Halfon N, Schor EL. Measuring the quality of preventive and developmental services for young children: national estimates and patterns of clinicians' performance. Pediatrics. 2004 Jun;113(6 Suppl):1973-83. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15173469&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Bethell C, Peck Reuland C, Walker C, Brockwood K, Latzke B, Read D. In-office administration of the promoting healthy development survey - reduced-item version. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; 79 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). Promoting healthy development survey - PLUS (PHDS-PLUS). Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Child and Adolescent Health Measurement Initiative (CAHMI). The promoting healthy development survey. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative; 2001. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Family-centered Care (FCC): Proportion of Children whose Parents Routinely Received Family-centered Care,&quot; is published in &quot;Promoting Healthy Development Survey (mail version),&quot; &quot;In-office Administration of the Promoting Healthy Development Survey - Reduced-item Version (office version),&quot; and &quot;Promoting Healthy Development Survey - PLUS (PHDS-PLUS) (telephone version).&quot;  This survey is available from the &lt;a href=&quot;http://cahmi.org/pages/Sections.aspx?section=8&quot; target=&quot;_blank&quot; title=&quot;CAHMI Web site&quot;&gt;Child and Adolescent Health Measurement Initiative (CAHMI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;For further information, please contact the Child and Adolescent Health Measurement Initiative (CAHMI) at: 707 SW Gaines Street, Portland, OR 97239-3098; Phone: 503-494-1930; Fax: 503-494-2473; Web site: &lt;a href=&quot;http://www.cahmi.org&quot; title=&quot;CAHMI Web site&quot; target=&quot;_blank&quot;&gt;www.cahmi.org&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Child and Adolescent Health Measurement Initiative (CAHMI). The promoting healthy development survey: implementation guidelines. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative, Oregon Health &amp; Science University; 179 p. This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://cahmi.org/ViewDocument.aspx?DocumentID=182&quot; title=&quot;CAHMI Web site&quot; target=&quot;_blank&quot;&gt;Child and Adolescent Health Measurement Initiative (CAHMI) Web site&lt;/a&gt;.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Child and Adolescent Health Measurement Initiative (CAHMI). The promoting healthy development survey - PLUS: implementation guidelines. Portland (OR): CAHMI - The Child and Adolescent Health Measurement Initiative, Oregon Health &amp; Science University; 320 p.  This document is available in PDF from &lt;a href=&quot;http://cahmi.org/ViewDocument.aspx?DocumentID=192&quot; title=&quot;CAHMI Web site&quot; target=&quot;_blank&quot;&gt;CAHMI Web site&lt;/a&gt;.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 26, 2007.  The information was verified by the measure developer on September 19, 2007.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&amp;#169; CAHMI - Child and Adolescent Health Measurement Initiative&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The Child and Adolescent Health Measurement Initiative (CAHMI) quality measure tools (including sampling, administration, analysis and reporting specifications) are available for free on the CAHMI Web site (&lt;a href=&quot;http://www.cahmi.org&quot; title=&quot;CAHMI Web site&quot; target=&quot;_blank&quot;&gt;www.cahmi.org&lt;/a&gt;) thanks to past and current support from the Packard Foundation, Commonwealth Fund and the Robert Wood Johnson Foundation.  All CAHMI quality measures are copyrighted by the CAHMI.  Should you use any of the material from NQMC, please reference it appropriately.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

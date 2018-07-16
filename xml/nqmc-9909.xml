@@ -1,0 +1,243 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): percentage of ESRD patients aged 6 months and older receiving hemodialysis and/or peritoneal dialysis during the time from October 1 (or when the influenza vaccine became available) to March 31 who: 1) receive an influenza vaccination, or 2) were assessed and offered an influenza vaccination but decline, or 3) were assessed and determined to have a medical contraindication(s) to the influenza vaccination.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kidney Care Quality Alliance (KCQA). KCQA NQF-endorsed performance measure technical specifications. Washington (DC): Kidney Care Quality Alliance (KCQA); 2015 May 19. 1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of end stage renal disease (ESRD) patients aged 6 months and older receiving hemodialysis and/or peritoneal dialysis during the time from October 1 (or when the influenza vaccine became available) to March 31 who: &lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Receive an influenza vaccination (computed and reported separately); or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and offered an influenza vaccination but decline (computed and reported separately); or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and determined to have a medical contraindication(s) to the influenza vaccination (computed and reported separately).&lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure will promote adherence to existing clinical practice guidelines on influenza immunization in the end-stage renal disease (ESRD) population and will consequently reduce patient complication, hospitalization, and mortality rates. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As noted in the most recent guidelines released by the Center for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices (ACIP) and the American Academy of Pediatrics (AAP), routine annual influenza vaccination is recommended for all persons aged 6 months and older, and is particularly important for individuals at increased risk for severe complications from influenza&amp;ndash;including patients with ESRD (Grohskopf et al., 2014; Committee on Infectious Diseases &amp;amp; AAP, 2014). The body of evidence upon which these guidelines and this measure are based indicate that infectious disease is the second leading cause of death among ESRD patients and that pulmonary infectious mortality is tenfold higher in the ESRD population than in the general population (Gilbertson et al., 2003; Sarnak &amp;amp; Jaber, 2001; Thompson et al., 2004; Poehling et al., 2006; Izurieta et al., 2000). Especially among the young (Poehling et al., 2006; Izurieta et al., 2000), the aged (Gross et al., 1995; Nichol et al., 1999; Nichol et al., 1994; Nichol et al., 1998; Foster et al., 1992), and those with increased comorbidity (Nichol et al., 1999; Nichol et al., 1994; Nichol et al., 1998; Foster et al., 1992), influenza vaccination has been demonstrated to be a safe and efficacious means of decreasing the likelihood of hospitalization and mortality and reduces healthcare costs (Nichol et al., 1999; Nichol et al., 1994; Nichol et al., 1998; Foster et al., 1992; Arguedas, Solet, &amp;amp; Lindert, 2010; Plennevaux et al., 2010; Scharp&amp;eacute; et al., 2008; Edvardsson et al., 1996). A goal of the &quot;Healthy People 2010&quot; program was to immunize 90% of the elderly and other high-risk individuals against influenza (U.S. Department of Health and Human Services [DHHS], 2000; &quot;Influenza and pneumococcal,&quot; 2001). Yet despite this and well-established recommendations for annual vaccination in patients with ESRD (&quot;Prevention and control,&quot; 1998), less than 66 percent of all ESRD patients received the influenza vaccination in 2010 (U.S. Renal Dialysis System [USRDS], 2015). The pediatric ESRD population vaccination rate remains very low, with only approximately 37% of all ESRD patients under the age of 19 receiving the vaccine in 2010 (USRDS, 2015). Note: The goal for influenza immunization of the elderly and other high-risk individuals for &quot;Healthy People 2020&quot; is unchanged from the 2010 goal at 90% (DHHS, 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;These findings strongly support existing clinical practice guidelines and the underlying construct of the Kidney Care Quality Alliance (KCQA) Influenza Immunization Measure&amp;ndash;i.e., to reduce the frequency of infectious complications and improve patient survival, all ESRD patients should be immunized annually against influenza, absent a documented medical contraindication.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Arguedas A, Soley C, Lindert K. Responses to 2009 H1N1 vaccine in children 3 to 17 years of age. N Engl J Med. 2010 Jan 28;362(4):370-2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20042746&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Committee On Infectious Diseases, American Academy Pediatrics. Recommendations for prevention and control of influenza in children, 2014-2015. Pediatrics. 2014 Nov;134(5):e1503-19. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25246619&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Edvardsson VO, Flynn JT, Deforest A, Kaiser BA, Schulman SL, Bradley A, Palmer J, Polinsky MS, Baluarte HJ. Effective immunization against influenza in pediatric renal transplant recipients. Clin Transplant. 1996 Dec;10(6 Pt 1):556-60. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8996778&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Foster DA, Talsma A, Furumoto-Dawson A, Ohmit SE, Margulies JR, Arden NH, Monto AS. Influenza vaccine effectiveness in preventing hospitalization for pneumonia in the elderly. Am J Epidemiol. 1992 Aug 1;136(3):296-307. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1415151&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gilbertson DT, Unruh M, McBean AM, Kausz AT, Snyder JJ, Collins AJ. Influenza vaccine delivery and effectiveness in end-stage renal disease. Kidney Int. 2003 Feb;63(2):738-43. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12631142&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Grohskopf LA, Olsen SJ, Sokolow LZ, Bresee JS, Cox NJ, Broder KR, Karron RA, Walter EB, Centers for Disease Control and Prevention. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices (ACIP) -- United States, 2014-15 influenza season. MMWR Morb Mortal Wkly Rep. 2014 Aug 15;63(32):691-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25121712&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gross PA, Hermogenes AW, Sacks HS, Lau J, Levandowski RA. The efficacy of influenza vaccine in elderly persons. A meta-analysis and review of the literature. Ann Intern Med. 1995 Oct 1;123(7):518-27. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7661497&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Influenza and pneumococcal vaccination levels among persons aged &gt; or = 65 years--United States, 1999. MMWR Morb Mortal Wkly Rep. 2001 Jun 29;50(25):532-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11446571&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Izurieta HS, Thompson WW, Kramarz P, Shay DK, Davis RL, DeStefano F, Black S, Shinefield H, Fukuda K. Influenza and the rates of hospitalization for respiratory disease among infants and young children. N Engl J Med. 2000 Jan 27;342(4):232-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10648764&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nichol KL, Baken L, Nelson A. Relation between influenza vaccination and outpatient visits, hospitalization, and mortality in elderly persons with chronic lung disease. Ann Intern Med. 1999 Mar 2;130(5):397-403. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10068413&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nichol KL, Margolis KL, Wuorenma J, Von Sternberg T. The efficacy and cost effectiveness of vaccination against influenza among elderly persons living in the community. N Engl J Med. 1994 Sep 22;331(12):778-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8065407&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nichol KL, Wuorenma J, von Sternberg T. Benefits of influenza vaccination for low-, intermediate-, and high-risk senior citizens. Arch Intern Med. 1998 Sep 14;158(16):1769-76. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9738606&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Plennevaux E, Sheldon E, Blatter M, Reeves-Hoché MK, Denis M. Immune response after a single vaccination against 2009 influenza A H1N1 in USA: a preliminary report of two randomised controlled phase 2 trials. Lancet. 2010 Jan 2;375(9708):41-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20018365&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Poehling KA, Edwards KM, Weinberg GA, Szilagyi P, Staat MA, Iwane MK, Bridges CB, Grijalva CG, Zhu Y, Bernstein DI, Herrera G, Erdman D, Hall CB, Seither R, Griffin MR, New Vaccine Surveillance Network. The underrecognized burden of influenza in young children. N Engl J Med. 2006 Jul 6;355(1):31-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16822994&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Prevention and control of influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP). Centers for Disease Control and Prevention. MMWR Recomm Rep: Morb Mortal Wkly Rep. 1998 May 1;47(RR-6):1-26. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9590726&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sarnak MJ, Jaber BL. Pulmonary infectious mortality among patients with end-stage renal disease. Chest. 2001 Dec;120(6):1883-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11742917&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scharpé J, Evenepoel P, Maes B, Bammens B, Claes K, Osterhaus AD, Vanrenterghem Y, Peetermans WE. Influenza vaccination is efficacious and safe in renal transplant recipients. Am J Transplant. 2008 Feb;8(2):332-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18162092&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thompson WW, Shay DK, Weintraub E, Brammer L, Bridges CB, Cox NJ, Fukuda K. Influenza-associated hospitalizations in the United States. JAMA. 2004 Sep 15;292(11):1333-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15367555&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS). Healthy people 2010. 2nd ed. With &quot;Understanding and improving health&quot; and &quot;Objectives for improving health&quot;. Washington (DC): U.S. Government Printing Office; 2000 Nov 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services (DHHS). Healthy People 2020. Washington (DC): U.S. Government Printing Office; 2010. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Renal Dialysis System. USRDS 2014 annual data report: atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institutes of Health (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ESRD); hemodialysis; peritoneal dialysis; influenza vaccination&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All end stage renal disease (ESRD) patients aged 6 months and older receiving hemodialysis and/or peritoneal dialysis during the time from October 1 (or when the influenza vaccine became available) to March 31 &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients from the denominator who: &lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xA;    &lt;li&gt;Received an influenza vaccination (documented by the provider or reported receipt from another provider by the patient); or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and offered an influenza vaccination but declined; or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and determined to have a medical contraindication(s) of anaphylactic hypersensitivity to eggs or other component(s) of the vaccine, history of Guillain-Barr&amp;eacute; syndrome within 6 weeks after a previous influenza vaccination, bone marrow transplant within the past 6 months (less than 6 months prior to encounters between October 1 and March 31) &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Testing Protocol&lt;/strong&gt;&lt;br /&gt;&#xA;The Kidney Care Quality Alliance (KCQA) undertook testing of its end stage renal disease (ESRD) measures through a prospective cohort study at a nationally drawn sample of 53 dialysis facilities containing a mix of for-profit and not-for-profit providers; hospital-affiliated and freestanding facilities within large, small, and independent dialysis organizations; urban, suburban, and rural settings; and facilities both with and without electronic health records (EHRs). Approximately 25 patients per facility were sought, resulting in a final sample size of 1,115 patients. Both facility and patient samples were structured to be generally representative of the national industry profile as identified by the United States Renal Data Systems (USRDS) 2007 Annual Data Report. Facility records were used as the data source, and standardized, paper-based data collection sheets constructed from the endorsed specifications were employed during data collection (see the &quot;Companion Documents&quot; field for the data collection form). &lt;/p&gt;&#xA;&lt;p&gt;Following the year-long data collection period, on-site data-integrity audits were performed at 11 of the 53 facilities (21%). Audit sites were selected to provide a cross-section of facilities reflective of the sample profile. Selection criteria included geographic location, facility type (e.g., for-profit vs. not-for-profit, urban vs. rural), and EHR use. Pertinent data were reabstracted from the patients' medical records and were compared to the information submitted by the facility throughout the pilot to assess the measure's reliability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Influenza Immunization Testing Results&lt;/strong&gt;&lt;br /&gt;&#xA;&lt;em&gt;Performance&lt;/em&gt;: Influenza vaccination data were provided for 1,104 of the 1,115 patients (99.0%) in the study sample. The performance rate for the measure was calculated as follows:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Performance rate&lt;/strong&gt; =&lt;/p&gt;&#xA;&lt;p class=&quot;Center&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;# Pts Vaccinated + # Pts Who Decline Vaccine + # Pts with Medical Contraindication&lt;/span&gt;&lt;br /&gt;&#xA;ESRD Pts Aged 18 Years and Older&lt;/p&gt;&#xA;&lt;p class=&quot;Center&quot;&gt;= (958 + 120 + 5) / 1,115 = &lt;strong&gt;97.1%&lt;/strong&gt;*​​​&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Reliability&lt;/em&gt;: Inter-rater reliability was assessed during the on-site data integrity audits through a direct comparison of data submitted by the facilities throughout the pilot to data reabstracted by the auditor(s), and was quantitatively summarized using Cohen's Kappa with confidence intervals. The resulting Kappa statistic was found to be 0.6568 with a confidence interval of 0.5210 to 0.7926. Based on the literature, this value indicates &quot;substantial&quot; agreement and excellent reproducibility for the measure. In addition to the Kappa value, the percent agreement between the auditor and facility abstractors (i.e., the reliability percentage) was calculated and was found to be excellent at 98.1%. These two values demonstrate that the KCQA Influenza Immunization measure is reliable.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*Despite the high overall performance rate, performance for each individual facility ranged from 78% to 100%, demonstrating a performance gap.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977 Mar;33(1):159-74. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=843571&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 6 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;October 1 (or when the influenza vaccine became available) to March 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All end stage renal disease (ESRD) patients aged 6 months and older receiving hemodialysis and/or peritoneal dialysis during the time from October 1 (or when the influenza vaccine became available) to March 31&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of patients from the denominator who: &lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xA;    &lt;li&gt;Received an influenza vaccination (documented by the provider or reported receipt from another provider by the patient); or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and offered an influenza vaccination but declined; or &lt;/li&gt;&#xA;    &lt;li&gt;Were assessed and determined to have a medical contraindication(s) of anaphylactic hypersensitivity to eggs or other component(s) of the vaccine, history of Guillain-Barr&amp;eacute; syndrome within 6 weeks after a previous influenza vaccination, bone marrow transplant within the past 6 months (less than 6 months prior to encounters between October 1 and March 31) &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Only inactivated virus should be used in the end stage renal disease (ESRD) population.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Provider characteristics" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;NQF 0226: Influenza immunization in the ESRD population.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Performance Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Kidney Care Quality Alliance - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Kidney Care Quality Alliance - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Kidney Care Partners&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Kidney Care Quality Alliance Steering Committee Members:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Raymond M. Hakim, MD, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;)&amp;mdash;Fresenius Medical Care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gail S. Wick, BSN, RN, CNN (&lt;em&gt;Co-Chair&lt;/em&gt;)&amp;mdash;American Nephrology Nurses Association &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dolph Chianchiano, JD&amp;mdash;National Kidney Foundation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard S. Goldman, MD&amp;mdash;Renal Physicians Association &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barbara Fivush, MD&amp;mdash;American Society of Pediatric Nephrology &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Maureen Michael, BSN, MBA&amp;mdash;National Renal Administrators Association &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Allen Nissenson, MD&amp;mdash;DaVita &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Barry M. Straube, MD&amp;mdash;Centers for Medicare and Medicaid Services (Liaison Member) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Feb 25&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Kidney Care Quality Alliance. KCQA performance measures: detailed technical specifications. Washington (DC): Kidney Care Quality Alliance (KCQA); 2010 Jan. 6 p. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Kidney Care Partners at 2550 M Street, NW, Washington, DC 20037; Phone: 703-830-9192; Web site: &lt;a href=&quot;http://www.kidneycarepartners.com&quot; title=&quot;Kidney Care Partners Web site&quot;&gt;www.kidneycarepartners.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 7, 2010. The information was verified by the measure developer on February 1, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 13, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 10, 2015. The information was verified by the measure developer on July 13, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&amp;copy; 2015 Kidney Care Quality Alliance. All Rights Reserved.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Full measure specifications for the individual measure, &quot;Influenza Immunization in the ESRD Population,&quot; are available from the Kidney Care Partners Web Site (&lt;a href=&quot;http://www.kidneycarepartners.com&quot; title=&quot;Kidney Care Partners Web Site&quot;&gt;www.kidneycarepartners.com&lt;/a&gt;). Check the Kidney Care Partners Web Site regularly for the most recent version of the specifications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kidney Care Quality Alliance (KCQA). KCQA NQF-endorsed performance measure technical specifications. Washington (DC): Kidney Care Quality Alliance (KCQA); 2015 May 19. 1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,227 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Prostate cancer: percentage of patients, regardless of age, with a diagnosis of prostate cancer at low (or very low) risk of recurrence receiving interstitial prostate brachytherapy, OR external beam radiotherapy to the prostate, OR radical prostatectomy, OR cryotherapy who did not have a bone scan performed at any time since diagnosis of prostate cancer.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Prostate cancer: avoidance of overuse of bone scan for staging low risk prostate cancer patients. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess percentage of patients, regardless of age, with a diagnosis of prostate cancer at low (or very low) risk of recurrence receiving interstitial prostate brachytherapy, OR external beam radiotherapy to the prostate, OR radical prostatectomy, OR cryotherapy who did not have a bone scan performed at any time since diagnosis of prostate cancer.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: A higher score indicates appropriate treatment of patients with prostate cancer at low (or very low) risk of recurrence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A bone scan is generally not required for staging prostate cancer in men with a low (or very low) risk of recurrence and receiving primary therapy. This measure is written as a negative measure so that the performance goal is 100%, consistent with the other measures for this condition. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Recommendation Statement&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;Routine use of a bone scan is not required for staging asymptomatic men with clinically localized prostate cancer when their prostate-specific antigen (PSA) level is equal to or less than 20.0 ng/mL (American Urological Association Education and Research, Inc., 2013). &lt;/p&gt;&#xA;&lt;p&gt;For symptomatic patients and/or those with a life expectancy of greater than 5 years, a bone scan is appropriate for patients with any of the following: 1) T1 disease with PSA over 20 ng/mL or T2 disease with PSA over 10 ng/mL; 2) a Gleason score of 8 or higher; 3) T3 to T4 tumors; or 4) symptomatic disease (National Comprehensive Cancer Network [NCCN], 2015).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Urological Association Education and Research, Inc. PSA testing for the pretreatment staging and posttreatment management of prostate cancer: 2013 Revision of 2009 Best Practice Statement. Linthicum (MD): American Urological Association Education and Research, Inc.; 2013. 17 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Prostate cancer: avoidance of overuse of bone scan for staging low risk prostate cancer patients. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: prostate cancer. Version 1. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prostate cancer; low or very low risk of recurrence; interstitial prostate brachytherapy; external beam radiotherapy; radical prostatectomy; cryotherapy; bone scan&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with a diagnosis of prostate cancer at low (or very low) risk of recurrence receiving interstitial prostate brachytherapy, OR external beam radiotherapy to the prostate, OR radical prostatectomy, OR cryotherapy (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who did not have a bone scan performed at any time since diagnosis of prostate cancer (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a measure testing project in 2011 with the American Society for Radiation Oncology (ASTRO) and American Urological Association (AUA), to ensure one Prostate Cancer measure was reliable and evaluated for accuracy of the measure numerator, denominator and exception case identification. The testing project was conducted utilizing chart, claims, and electronic health record (EHR) data. Inter-rater reliability was tested. Five sites participated in the testing of the measures. Two sites were in suburban settings, two sites were in urban settings, and one had multiple practice sites in urban, rural and suburban settings. Site A was a hospital-based practice with 21 physicians. Site B was a physician-owned private practice with four physicians. Site C was a physician-owned private practice with 41 physicians. Site D was an academic practice with nine physicians. Site E was an academic practice with 14 physicians.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Measure Tested&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Prostate Cancer: Avoidance of Overuse Measure &amp;ndash; Isotope Bone Scan for Staging Low-Risk Patients &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from chart records were used to calculate inter-rater reliability for the measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There were 94 observations from five sites used for the denominator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide-by-zero in the statistic formula when only one response was used. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Of the 94 observations that were initially selected, 94 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide-by-zero in the statistic formula when only one response was used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability: N, % Agreement, Kappa (95% Confidence Interval)&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Overall Reliability: 94, 100%, Non-Calculable (Non-Calculable, Non-Calculable)* &lt;br /&gt;&#xD;&#xA;Denominator: 94, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)* &lt;br /&gt;&#xD;&#xA;Numerator: 94, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)* &lt;br /&gt;&#xD;&#xA;Exception: 94, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)* &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure demonstrates perfect reliability, as shown in results from the above analysis. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Cannot calculate kappa statistics when only one response (Yes/Yes) was used, as this causes a divide-by-zero error in the statistic formula.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Urological Association (AUA). Prostate cancer performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Aug. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Male (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;January 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients, regardless of age, with a diagnosis of prostate cancer at low (or very low) risk of recurrence receiving interstitial prostate brachytherapy, OR external beam radiotherapy to the prostate, OR radical prostatectomy, OR cryotherapy&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Risk Strata Definitions&lt;/em&gt;:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Very Low Risk&lt;/em&gt;: Prostate-specific antigen (PSA) less than 10 ng/mL; AND Gleason score 6 or less; AND clinical stage T1c; AND presence of disease in fewer than 3 biopsy cores; AND less than or equal to 50% prostate cancer involvement in any core; AND PSA density less than or equal to 0.15 ng/mL/cm&amp;sup3; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Low Risk&lt;/em&gt;: PSA less than 10 ng/mL; AND Gleason score 6 or less; AND clinical stage T1c to T2a &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Intermediate Risk&lt;/em&gt;: PSA 10 to 20 ng/mL; OR Gleason score 7; OR clinical stage T2b to T2c. Note: Patients with multiple adverse factors may be shifted into the high risk category. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;High Risk&lt;/em&gt;: PSA greater than 20 ng/mL; OR Gleason score 8 to 10; OR clinically localized stage T3a. Note: Patients with multiple adverse factors may be shifted into the very high risk category. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;&lt;em&gt;Very High Risk&lt;/em&gt;: Clinical stage T3b to T4; OR primary Gleason pattern 5; OR more than 4 cores with Gleason score 8 to 10. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;External Beam Radiotherapy&lt;/em&gt;: Refers to 3D conformal radiation therapy (3D-CRT), intensity modulated radiation therapy (IMRT), stereotactic body radiotherapy (SBRT), and proton beam therapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for data criteria and associated value sets. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Documentation of reason(s) for performing a bone scan (including documented pain, salvage therapy, other medical reasons, bone scan ordered by someone other than reporting physician) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patients who did not have a bone scan performed at any time since diagnosis of prostate cancer&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for data criteria and associated value sets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prostate cancer: avoidance of overuse of bone scan for staging low risk prostate cancer patients.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Prostate Cancer Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="PCPI Foundation - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+      <FieldValue Value="American Urological Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;#174; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Oct 26&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Jun" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xA;&lt;p&gt;This measure updates a previous version: American Medical Association-convened Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;reg;), American Urological Association (AUA). Prostate cancer performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Aug. 19 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://ecqi.healthit.gov/ep/ecqms-2017-performance-period/prostate-cancer-avoidance-overuse-bone-scan-staging-low-risk&quot; title=&quot;eCQI Resource Center Web site&quot; target=&quot;_blank'&quot;&gt;eCQI Resource Center Web site&lt;/a&gt;. Additional information available from the &lt;a href=&quot;https://www.thepcpi.org/programs-initiatives/measurement-science/measure-directory/pcpi-stewarded-measures/&quot; title=&quot;PCPI Web site&quot;&gt;PCPI Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: &lt;a href=&quot;mailto:PCPImeasures@thepcpi.org&quot;&gt;PCPImeasures@thepcpi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 3, 2008. The information was verified by the measure developer on December 4, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on September 28, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 9, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited again by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 5, 2013. The information was not verified by the measure developer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on January 5, 2016. The information was verified by the measure developer on January 21, 2016.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 11, 2017. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: &lt;a href=&quot;mailto:PCPImeasures@thepcpi.org&quot;&gt;PCPImeasures@thepcpi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Prostate cancer: avoidance of overuse of bone scan for staging low risk prostate cancer patients. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

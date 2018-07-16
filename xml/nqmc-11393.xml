@@ -1,0 +1,230 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): risk-adjusted standardized hospitalization ratio (SHR) for dialysis facility patients.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized hospitalization ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 71 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the risk-adjusted standardized hospitalization ratio (SHR) for dialysis facility patients. This measure is calculated as a ratio, but can also be expressed as a rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospitalization rates are an important indicator of patient morbidity and quality of life. On average, dialysis patients are admitted to the hospital twice a year and spend an average of 11.2 days in the hospital per year (U.S. Renal Data System, 2015). Hospitalizations account for approximately 40 percent of total Medicare expenditures for end stage renal disease (ESRD) patients (U.S. Renal Dialysis System, 2015). Measures of the frequency of hospitalization have the potential to help efforts to control escalating medical costs, and to play an important role in identifying potential problems and helping facilities provide cost-effective health care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;At the end of 2013 there were 661,648 patients being dialyzed of which 117,162 were new (incident) ESRD patients (U.S. Renal Dialysis System, 2015). In 2013, total Medicare costs for the ESRD program were $30.9 billion, a 1.6% increase from 2012 (U.S. Renal Dialysis System, 2015). Correspondingly, hospitalization costs for ESRD patients are very high with Medicare costs of over $10.3 billion in 2013. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Hospitalization measures have been in use in the Dialysis Facility Reports (formerly Unit-Specific Reports) since 1995. The Dialysis Facility Reports are used by the dialysis facilities and ESRD networks for quality improvement, and by ESRD state surveyors for monitoring and surveillance. In particular, the standardized hospital ratio (SHR) for Admissions is used by ESRD state surveyors in conjunction with other standard criteria for prioritizing and selecting facilities to survey and has been found to be predictive of citations in the past (ESRD State Outcomes List).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized hospitalization ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 71 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Renal Dialysis System. USRDS 2015 annual data report: atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institutes of Health (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ESRD); dialysis; hospitalization&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of hospital admissions that would be expected among eligible patients at the facility during the reporting period, given the patient mix at the facility (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of inpatient hospital admissions among eligible patients at the facility during the reporting period (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The reliability of the standardized hospital ratio (SHR) was assessed using data among Medicare end stage renal disease (ESRD) dialysis patients during 2010-2013. If the measure were a simple average across individuals in the facility, the usual approach for determining measure reliability would be a one-way analysis of variance (ANOVA), in which the between and within facility variation in the measure is determined. The inter-unit reliability (IUR) measures the proportion of the total variation of a measure that is attributable to the between-facility variation. The SHR, however, is not a simple average and the developer instead estimates the IUR using a bootstrap approach, which uses a resampling scheme to estimate the within facility variation that cannot be directly estimated by ANOVA. A small IUR (near 0) reveals that most of the variation of the measures between facilities is driven by random noise, indicating the measure would not be a good characterization of the differences among facilities, whereas a large IUR (near 1) indicates that most of the variation between facilities is due to the real difference between facilities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SHR calculation only included facilities with at least 5 patient years at risk.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Overall, the developer found that IURs for the one-year SHRs have a range of 0.70-0.72 across the years 2010, 2011, 2012 and 2013, which indicates that over two-thirds of the variation in the one-year SHR can be attributed to the between-facility differences and less than one-third to within-facility variation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This value of IUR indicates a high degree of reliability. When stratified by facility size, the developer finds that, as expected, larger facilities have greater IUR.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer has assessed the validity of the measure through various comparisons of this measure with other quality measures in use, using Spearman correlations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure is also maintained on face validity. Hospitalization measures were reviewed by a technical expert panel (TEP) in 2007 and overall measures based on admissions and on days were recommended for inclusion in the Dialysis Facility Reports. In 2015, a TEP was held specifically to consider prevalent comorbidity adjustments for inclusion in the measure. The TEP's recommendations are reflected in the risk adjustment methodology. In addition, hospitalization is a major cost factor in the management of ESRD patients as noted earlier, further establishing a very strong case for face validity of the SHR admissions measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SHR Admissions measure is correlated with the standardized mortality ratio (SMR) for each individual year from 2010-2013, where Spearman's correlation ranged from 0.27 to 0.30, with all four correlations being highly significant (p less than 0.0001). Also, for each year from 2011-2013, the SHR was correlated with the Standardized Readmission Ratio (SRR) (Spearman's rho = 0.54, 0.50, 0.48; p less than 0.0001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, SHR Admissions is negatively correlated in each of the four years with percent of patients in the facility with arteriovenous (AV) fistula (Spearman's rho = -0.12, -0.15, -0.12, -0.13). Thus higher values of SHR are associated with lower usage of AV fistulas. Further, SHR admissions is positively correlated in each of the four years with percent of patients with catheter greater than or equal to 90 days (Spearman's rho = 0.21, 0.21, 0.18, 0.16), indicating that higher values of SHR are associated with increased use of catheters. These correlations are all highly significant (p less than 0.001). For each year of 2010 through 2013, the SHR Admissions is also found to be negatively correlated with the percent of hemodialysis patients with Kt/V greater than or equal to 1.2, again in the direction expected (Spearman's who = -0.11, -0.13, -0.10, -0.11; p less than 0.0001). Lower SHRs are associated with a higher percentage of patients receiving adequate dialysis dose.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SHR correlates with outcomes, processes of care, and causes of hospitalization that are commonly thought to be potentially related to poor quality of care. Higher hospitalization was associated with higher facility mortality rates and similarly with higher readmissions. The developer found higher values of SHR are associated with lower usage of AV fistulas, higher catheter use, and suboptimal dialysis adequacy. The 2007 TEP considered the possibility of developing cause specific SHRs, but recommended the use of all-cause SHR measures due to various reasons including the lack of clear research to indicate what causes (i.e., reason for admission) should be selected as valid indicators of poor ESRD care, and issues associated with inter-rater reliability in assessing cause of hospitalization. The TEP reached a strong consensus that the all-cause measure would be reliable and valid and the measure would typically be related to quality of care. The developer has some crude measures of cause of hospitalization which they have used to assess the relationship between the all-cause measure and cause specific components. These measures are useful in assessing the overall SHR measures, but the developer cautions that the cause specific hospitalizations have not been tested or validated at this time. All correlations are in the expected direction and highly significant, (p less than 0.0001). Thus these preliminary analyses show that the overall hospitalization rate also correlates with specific causes that are commonly thought to be potentially related to poor quality of care. In 2015, a TEP was held specifically to consider prevalent comorbidity adjustments for inclusion in this measure (and SMR). The TEP's recommendations are reflected in the risk adjustment methodology.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized hospitalization ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 71 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of hospital admissions that would be expected among eligible patients at the facility during the reporting period, given the patient mix at the facility&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As patients can receive dialysis treatment at more than one facility in a given year, the developer assigns each patient day to a facility (or no facility, in some cases) based on a set of conventions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Though a patient's follow-up in the database can be incomplete during the first 90 days of end stage renal disease (ESRD) therapy, the developer only includes a patient's follow-up in the tabulations after that patient has received chronic renal replacement therapy for at least 90 days. Thus, hospitalizations, mortality and survival during the first 90 days of ESRD do not enter into the calculations. This minimum 90-day period also assures that most patients are eligible for Medicare, either as their primary or secondary insurer. It also excludes from analysis patients who die or recover renal function during the first 90 days of ESRD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In order to exclude patients who only received temporary dialysis therapy, the developer assigns patients to a facility only after they have been on dialysis there for the past 60 days. This 60 day period is used both for patients who started ESRD for the first time and for those who returned to dialysis after a transplant. That is, hospitalizations during the first 60 days of dialysis at a facility do not affect the standardized hospitalization ratio (SHR) of that facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for information on identifying facility treatment histories for each patient and days at risk for Medicare dialysis patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;See Inclusions above.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of inpatient hospital admissions among eligible patients at the facility during the reporting period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The numerator is calculated through use of Medicare claims data. When a claim is made for an inpatient hospitalization, the patient is identified and attributed to a dialysis facility following rules discussed in the denominator. The numerator is the count of all such hospitalizations over the reporting period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Outcome" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The regression model used to compute a facility's &quot;expected&quot; number of hospitalizations for this measure contains many factors thought to be associated with hospitalization rates. Specifically, the model adjusts for patient age, sex, diabetes as cause of end stage renal disease (ESRD), duration of ESRD, nursing home status, body mass index (BMI) at incidence, individual comorbidities at incidence, and calendar year. The stage 1 model allows the baseline hospitalization rates to vary between strata, which are defined by facilities, but assumes that the regression coefficients are the same across all strata; this approach is robust to possible differences between facilities in the patient mix being treated. In essence, it avoids a possible confounding between facility effects and patient covariates as can arise, for example, if patients with favorable values of the covariate tend to be treated at facilities with better treatment policies and outcomes. Thus, for example, if patients with diabetes as a cause of ESRD tended to be treated at better facilities, one would underestimate the effect of diabetes unless the model is adjusted for facility. In this model, this is done by stratification. Refer to the original measure documentation for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Standardized hospitalization ratio (SHR) measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Arbor Research Collaborative for Health, in collaboration with the University of Michigan Kidney and Epidemiology Cost Center (UM-KECC), develop, maintain, and update the End Stage Renal Disease (ESRD) Quality Measures for the Centers for Medicare &amp;amp; Medicaid Services (CMS), under the Quality Measure Development and Maintenance contract with CMS.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2018 Feb 26&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Dialysis Facility Compare (DFC)" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Standardized hospitalization ratio (SHR) for admissions measure information form. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 6 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/Downloads/CMS-ESRD-Measures-Manual-2017.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the &lt;a href=&quot;https://dialysisdata.org/content/esrd-measures&quot; title=&quot;Dialysis Data Web site&quot;&gt;Dialysis Data Web site&lt;/a&gt; or contact Casey Parrotte at the Kidney Epidemiology and Cost Center, The University of Michigan, 1415 Washington Heights, Suite 3645 SPHI, Ann Arbor, MI 48109-2029; Phone: 734-763-6611; Fax: 734-763-4004; Email: &lt;a href=&quot;mailto:parrotte@med.umich.edu&quot;&gt;parrotte@med.umich.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 5, 2014. The information was verified by the measure developer on February 6, 2015. &lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on May 22, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure justification form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized hospitalization ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 71 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

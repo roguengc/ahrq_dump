@@ -1,0 +1,228 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Diabetes mellitus: percentage of patients aged 18 years and older with a diagnosis of diabetes mellitus who were evaluated for proper footwear and sizing at least once within 12 months.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Podiatric Medical Association (APMA). Diabetic foot and ankle care physician performance measurement set. Bethesda (MD): American Podiatric Medical Association; 2014 Aug. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of diabetes mellitus who were evaluated for proper footwear and sizing at least once within 12 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Foot ulceration is the most common single precursor to lower extremity amputations among persons with diabetes. Shoe trauma, in concert with loss of protective sensation and concomitant foot deformity, is the leading event precipitating foot ulceration in persons with diabetes. Treatment of infected foot wounds accounts for up to one-quarter of all inpatient hospital admissions for people with diabetes in the United States. Peripheral sensory neuropathy in the absence of perceived trauma is the primary factor leading to diabetic foot ulcerations. Approximately 45% to 60% of all diabetic ulcerations are purely neuropathic. In people with diabetes, 22.8% have foot problems -- such as amputations and numbness -- compared with 10% of nondiabetics. Over the age of 40 years old, 30% of people with diabetes have loss of sensation in their feet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Clinical Recommendation Statements&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;The multifactorial etiology of diabetic foot ulcers is evidenced by the numerous pathophysiologic pathways that can potentially lead to this disorder. Among these are two common mechanisms by which foot deformity and neuropathy may induce skin breakdown in persons with diabetes. The first mechanism of injury refers to prolonged low pressure over a bony prominence (i.e., bunion or hammertoe deformity). This generally causes wounds over the medial, lateral, and dorsal aspects of the forefoot and is associated with tight or ill-fitting shoes (American College of Foot and Ankle Surgeons/American College of Foot and Ankle Orthopedics and Medicine [ACFAS/ACFAOM] Clinical Practice Guidelines).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Podiatric Medical Association (APMA). Diabetic foot and ankle care physician performance measurement set. Bethesda (MD): American Podiatric Medical Association; 2014 Aug. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Diabetes mellitus; foot ulceration prevention; evaluation of proper footwear&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of diabetes mellitus (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were evaluated for proper footwear and sizing at least once within 12 months (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Fifteen per cent of patients with diabetes will develop a foot ulcer at some point in their life. Ill-fitting footwear frequently contributes to foot ulceration. A good fitting shoe is an essential component in the management of the diabetic foot. The objective of this study was to assess the feet and footwear of patients with diabetes to determine whether they are wearing the correct-sized shoes. &lt;em&gt;Methods&lt;/em&gt;: One-hundred patients with diabetes who were attending the general diabetic clinic had their foot length measured using a 'Clarks' shoe shop device and foot width using a pair of callipers. Measurements were taken whilst seated and standing. Shoe dimensions were also assessed by recording the manufactured shoe length and using callipers to assess shoe width. A calibrated measuring stick standardised shoe lengths. Neurovascular status and the presence of deformities in the foot were also recorded. &lt;em&gt;Results&lt;/em&gt;: One-third of diabetic patients were wearing the correct shoes on either foot whilst seated or whilst standing. However, only 24% of patients were wearing shoes that were of the correct length and width for both feet whilst seated and 20% upon standing. Seventeen percent of patients appeared in both groups. No significance was found between any other variables, such as sensory neuropathy. &lt;em&gt;Conclusions&lt;/em&gt;: Many patients with diabetes wear shoes that do not fit, particularly, shoes that are too narrow for their foot width. Assessing the appropriateness of footwear maybe an important part of foot examination (Harrison et al., 2007). &lt;/li&gt;&#xA;    &lt;li&gt;Poorly fitting footwear has frequently been cited as an etiologic factor in the pathway to diabetic foot ulceration. However, the researchers are unaware of any reports in the medical literature specifically measuring shoe size versus foot size in this high-risk population. Researchers assessed the prevalence of poorly fitting footwear in individuals with and without diabetic foot ulceration. They evaluated the shoe size of 440 consecutive patients (94.1% male; mean +/- standard deviation [SD] age, 67.2 +/- 12.5 years) presenting to an interdisciplinary teaching clinic. Of this population, 58.4% were diagnosed as having diabetes, and 6.8% had active diabetic foot ulceration. Only 25.5% of the patients were wearing appropriately sized shoes. Individuals with diabetic foot ulceration were 5.1 times more likely to have poorly fitting shoes than those without a wound (93.3% versus 73.2%; odds ratio [OR], 5.1; 95% confidence interval [CI], 1.2-21.9; P = .02). This association was also evident when assessing only the 32.3% of the total population with diabetes and loss of protective sensation (93.3% versus 75.0%; OR, 4.8; 95% CI, 1.1-20.9; P = .04). Poorly fitting shoes seem to be more prevalent in people with diabetic foot wounds than in those without wounds with or without peripheral neuropathy. This implies that appropriate meticulous screening for shoe-foot mismatches may be useful in reducing the risk of lower-extremity ulceration (Nixon et al., 2006). &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Podiatric Medical Association (APMA). Diabetic foot and ankle care physician performance measurement set. Bethesda (MD): American Podiatric Medical Association; 2014 Aug. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Harrison SJ, Cochrane L, Abboud RJ, Leese GP. Do patients with diabetes wear shoes of the correct size?. Int J Clin Pract. 2007 Nov;61(11):1900-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17935549&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nixon BP, Armstrong DG, Wendell C, Vazquez JR, Rabinovich Z, Kimbriel HR, Rosales MA, Boulton AJ. Do US veterans wear appropriately sized shoes?: the Veterans Affairs shoe size selection study. J Am Podiatr Med Assoc. 2006 Jul-Aug;96(4):290-2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16868320&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Measures Tested&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Measures from the Diabetes Mellitus: Foot and Ankle Care measure set tested in the American Podiatric Medical Association (APMA) Testing project: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Ulcer Prevention - Evaluation of Footwear &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peripheral Neuropathy - Neurological Evaluation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Three physician office sites participated in this measure testing project. Originally, four sites were identified and selected by Dr. James R. Christina, Director of Scientific Affairs for the APMA. One site withdrew due to time constraints resulting from a change in practice ownership. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;All three physician office sites participating in this measure testing project represented urban settings on the East Coast. The practices each had two or more physicians, with physicians actively involved with APMA. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Two trained data abstractors performed on-site chart reviews the weeks of October 1 and November 5, 2012. Testing was performed on paper medical records at one physician office site and in the electronic health record (EHR) environment for two physician office sites. The case samples for chart reviews were randomly selected from eligible patients seen at two of the test sites between January 1 and December 31, 2011. Due to a change in the billing system, one test site requested a change in the chart sample timeframe to October 1, 2011 through May 1, 2012 to allow for accurate identification of eligible patients. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Testing Performed and Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Feasibility&lt;/em&gt;: Test site personnel completed a data collection questionnaire to provide information about the presence and location of each data element comprising the two measures within the medical record to assess the feasibility of data capture, calculation and reporting of the performance measures in a timely manner and at reasonable cost.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: This test revealed that it was feasible to implement these performance measures at the test sites with some EHR modifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validation Against the Gold Standard Reliability&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Parallel-forms reliability testing was performed by comparing manual abstraction of the data elements necessary to construct the measure from the medical records with Physician Quality Reporting System (PQRS) claims submission. Agreement was calculated between the two methods at the level of the numerator, denominator and exception (if applicable). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;To validate inclusion in the numerator, the practice sites provided various identification methods. Two practices provided a report of the sampled list of patients per encounter with the PQRS codes submitted. The third site provided instructions on viewing the billing codes per dates or invoice within each patient's medical record.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Agreement rates were calculated and reported with kappa statistics with 95% confidence intervals to recognize any agreement that could be attributable to chance alone.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: The measures were found to be highly reliable with agreement rates ranging from 93 to 100%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the APMA &lt;em&gt;2012 Measure Testing Project: Diabetic Foot &amp;amp; Ankle Care&lt;/em&gt; for additional testing details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Podiatric Medical Association (APMA). 2012 measure testing project: diabetic foot &amp; ankle care. Des Moines (IA): Telligen; 2012. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 18 years and older with a diagnosis of diabetes mellitus&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: International Classification of Diseases, Ninth Revision (ICD-9) diagnosis codes, Current Procedural Terminology Evaluation and Management (CPT E/M) service codes, CPT procedure codes, and patient demographics (age, gender, etc.) are used to identify patients who are included in the measure's denominator. An ICD-9 diagnosis code to identify patients with a diagnosis of diabetes mellitus and a CPT E/M service code or a CPT procedure code are required for denominator inclusion. Refer to the original measure documentation for coding details.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Clinician documented that patient was not an eligible candidate for footwear evaluation measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patients who were evaluated for proper footwear and sizing at least once within 12 months&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Evaluation for proper footwear includes a foot examination documenting the vascular, neurological, dermatological and structural/biomechanical findings. The foot should be measured using a standard measuring device and counseling on appropriate footwear should be based on risk categorization. &lt;/li&gt;&#xA;    &lt;li&gt;G-codes are used to report the numerator of the measure. Refer to the original measure documentation for coding details. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #POD 3: diabetic foot &amp; ankle care, ulcer prevention - evaluation of footwear.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Diabetic Foot and Ankle Care Physician Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Podiatric Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Podiatric Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Podiatric Medical Association&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Podiatry Work Group&lt;/em&gt;: Vickie R. Driver, DPM (&lt;em&gt;Co-chair&lt;/em&gt;); Matthew G. Garoufalis, DPM (&lt;em&gt;Co-chair&lt;/em&gt;); A. Anthony Haro, III, DPM; Jengyu Lai, DPM; Stephen M. Pribut, DPM; Victor J. Quijano, Jr., DPM; John Steven Steinberg, DPM; James S. Wrobel, DPM, MS; R. Daniel Davis, DPM; Craig Gastwirth, DPM; David G. Armstrong, DPM, PhD &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;American Podiatric Medical Association&lt;/em&gt;: James R. Christina, DPM &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;American College of Foot and Ankle Surgeons&lt;/em&gt;: Robert G. Frykberg, DPM, MPH; Thomas Zygonis, DPM &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;American College of Foot and Ankle Orthopedics and Medicine&lt;/em&gt;: James Stavosky, DPM; Rodney Stuck, DPM &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Centers for Medicare and Medicaid Services&lt;/em&gt;: Latousha D. Leslie, RN BSN, MS&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;There were no potential conflicts of interest to report in the development of these measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Dec 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Podiatric Medical Association (APMA), American College of Foot and Ankle Surgeons, American College of Foot and Ankle Orthopedics and Medicine, Centers for Medicare and Medicaid Services. Diabetic foot and ankle care physician performance measurement set. Bethesda (MD): American Podiatric Medical Association, Inc.; 2007 Aug. 11 p. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Podiatric Medical Association (APMA) at 9312 Old Georgetown Road, Bethesda, MD 20814-1621; Phone: 301-581-9200; Web site: &lt;a href=&quot;http://www.apma.org/&quot; title=&quot;American Podiatric Medical Association Web site&quot;&gt;www.apma.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on October 3, 2008. The information was verified by the measure developer on November 12, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 8, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 3, 2015. The information was verified by the measure developer on July 6, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 17, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Podiatric Medical Association (APMA). Diabetic foot and ankle care physician performance measurement set. Bethesda (MD): American Podiatric Medical Association; 2014 Aug. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

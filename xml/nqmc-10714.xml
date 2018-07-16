@@ -1,0 +1,258 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Short-stay nursing home care: percent of residents who did not receive, due to medical contraindication, the seasonal influenza vaccine.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of short-stay residents who did not receive, due to medical contraindication, the influenza vaccination during the most recent influenza season.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is a very important measure of quality of care in all inpatient care facilities including the nursing homes, inpatient rehabilitation facilities (IRFs), and long-term care hospitals (LTCHs) that serve patients at-risk of influenza owing to existing medical co-morbidities. Although influenza is prevalent among all population groups, the rates of death and serious complications related to influenza are highest among those age 65 or older and those with medical complications that put them at higher risk. Frail elderly are especially vulnerable and subject to complications of influenza. Morbidity and mortality related to influenza are often reported in conjunction with data related to pneumonia and these conditions frequently lead to death in the elderly population.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Using data collected by the Centers for Disease Control and Prevention (CDC), Gorina and colleagues (2008) found that, in 2004, pneumonia and influenza jointly represented the seventh-most common cause of death for persons age 65 or older in the United States. In 2004, almost 60,000 deaths were caused by influenza and pneumonia, and more than 85% of those were among the elderly (Gorina et al., 2008). Additionally, the death rate from influenza and pneumonia is nearly 130 times higher among persons aged 85 or older compared to individuals 45 to 54 years of age (Gorina et al., 2008). In the same year approximately 123,000 death certificates identified influenza and pneumonia as a secondary cause of death (Gorina et al., 2008). Furthermore, in the same year, the average hospital stay for the more than 200,000 influenza-related hospitalization cases was approximately 5.3 days at a cost of $6,900 per stay (Milenkovic, Russo, &amp;amp; Elixhauser, 2006).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Influenza and pneumonia are now reported as the fifth-leading cause of death among persons age 65 or older in the United States (Centers for Medicare &amp;amp; Medicaid Services [CMS], 2011). As of 2011, there are over 200,000 hospitalizations from influenza, on average, every year (CMS, 2011). An average of 36,000 Americans die annually due to influenza and its complications and most are people 65 years of age and over (CMS, 2011). Vaccination of residents in nursing homes and patients in IRFs and LTCHs against influenza is an important mechanism to reduce serious illness and mortality in these patient care facilities. Given that many individuals receiving health care services in these post-acute care settings are elderly and/or have medical conditions, they are within the target population for influenza vaccination (Zorowitz, 2010). Among adults age 65 years or older, only 72.1% were vaccinated during the 2006&amp;ndash;2007 influenza season (CDC, 2008), and only 69.6% of adults age 65 or older were vaccinated in the 2009&amp;ndash;2010 season (CDC, 2011)&amp;mdash;rates well below the Healthy People 2010 and Healthy People 2020 target of 90% for this age group (Office of Disease Prevention and Health Promotion [ODPHP], 2000; ODPHP, 2011).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS currently uses MDS 2.0 data to publicly report an influenza vaccination quality measure (QM) for nursing home residents. The first quarter (Q1) 2007 statewide average vaccination rates for the post-acute care population ranged from 56.9% to 85.4%, with a 73.2% national average (Colorado Foundation for Medical Care, 2007). According to the information currently available on the Nursing Home Compare Web site, the national average for the percentage of short-stay residents given the influenza vaccine has increased to 82% (CMS, n.d.).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is intended to encourage nursing homes, IRFs and LTCHs to focus on this important aspect of clinical care by assessing residents or patients on their seasonal influenza immunization status and providing immunization, as deemed clinically appropriate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). 2009-10 flu season: final estimates for 2009-10 seasonal influenza and influenza A (H1N1) 2009 monovalent vaccination coverage - United States, August 2009 through May, 2010. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011 May 13.&amp;nbsp; [9 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). State-specific influenza vaccination coverage among adults--United States, 2006-07 influenza season. MMWR Morb Mortal Wkly Rep. 2008 Sep 26;57(38):1033-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18818582&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Nursing home compare. [Web site]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Immunizations. [internet]. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2011 May&amp;nbsp;[updated 2014 Dec 15]; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Colorado Foundation for Medical Care. Environmental scan: review of the literature, clinical guidelines, and other sources of information pertinent to the CMS publicly reported nursing home quality measures. Englewood (CO): Colorado Foundation for Medical Care; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gorina Y, Kelly T, Lubitz J, Hines Z. Trends in influenza and pneumonia among older persons in the United States. Hyattsville (MD): Centers for Disease Control and Prevention (CDC), National Center for Health Statistics; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Milenkovic M, Russo CA, Elixhauser A. Hospital stays for influenza, 2004. Rockville (MD): Agency for Health Care Policy and Research (AHRQ); 2006. &amp;nbsp;(Healthcare Cost and Utilization Project statistical brief; no. 16).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents or patients who were assessed and appropriately given the seasonal influenza vaccine (short stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 20. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Disease Prevention and Health Promotion (ODPHP). Healthy people 2010. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2000.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Disease Prevention and Health Promotion (ODPHP). Immunization and infectious diseases. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2011 Jun.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Zorowitz RD. Stroke rehabilitation quality indicators: raising the bar in the inpatient rehabilitation facility. Top Stroke Rehabil. 2010 Jul-Aug;17(4):294-304. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20826417&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Nursing home; short-stay; influenza vaccination&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All short-stay residents with a selected influenza vaccination assessment, except those with exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Residents meeting the following criteria on the selected influenza vaccination assessment:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Resident was ineligible due to contraindication(s) (e.g., anaphylactic hypersensitivity to eggs or other components of the vaccine, history of Guillain-Barr&amp;eacute; syndrome within 6 weeks after a previous influenza vaccination, bone marrow transplant within the past 6 months). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;According to the environmental scan conducted by the Colorado Foundation for Medical Care (2007), several expert organizations, such as the Advisory Committee on Immunization Practices (Fiore et al., 2010), target influenza prevention through annual vaccination of post-acute care facility residents or patients and staff. Influenza vaccine can be cost-effective and successful in preventing influenza. However, despite evidence demonstrating the efficacy of the influenza vaccine, coverage remains low among residents (Colorado Foundation for Medical Care, 2007). A study conducted in 2002 by Nichol and Goodman found that vaccination of healthy elderly adults was associated with a 36% reduction in hospitalization for pneumonia or influenza (95% confidence interval [CI]: 2% to 39%), an 18% reduction in hospitalization for all respiratory conditions (95% CI: -6% to 37%), and a 40% reduction in death (95% CI: 14% to 38%). Vaccination was also associated with cost savings in all scenarios evaluated (Nichol &amp;amp; Goodman, 2002). Influenza vaccination is recommended for those over the age of 65 and those with medical conditions, which describes the population of all post-acute care facilities, making it an appropriate quality measure with the potential to reduce the number of infections and their associated healthcare costs (Fiore et al., 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;There is a demonstrated gap in vaccination among adults age 65 years or older. Although the influenza vaccine can be successful in preventing the flu, vaccination rates remain low among nursing home residents (Gorina et al., 2008; CDC, 2008), owing, in part, to patient confusion, poor documentation of vaccination status by health care providers, and limited availability of records from previous facilities (Colorado Foundation for Medical Care, 2007). According to the CDC, among adults age 65 years or older, only 72.1% were vaccinated during the 2006&amp;ndash;2007 influenza season (CDC, 2008), and only 69.6% were vaccinated in the 2009&amp;ndash;2010 season (CDC, 2011)&amp;mdash;both much lower figures than the Healthy People 2010 and Healthy People 2020 target of 90% for this age group (Office of Disease Prevention and Health Promotion [ODPHP], 2000; ODPHP, 2011).&#xD;&#xA;    &lt;p&gt;A study of the implementation of a pneumococcal vaccination standing order on an inpatient hospital serving geriatric patients found that after implementing the order, the vaccination rate increased from 0% to 15.4%, and vaccination opportunity rate increased from 8% to 59.1% (Eckrode, Church, &amp;amp; English, 2007). This indicates that there is a wide range of performance among facilities that are measuring vaccination rates and those that are not. In its analysis of quality measures using Minimum Data Set (MDS) data from the first quarter of 2006, the University of Colorado found that this measure could be reported for 75.7% of facilities and had variability across facilities in the rates of influenza immunization. The quality measure varied from 35.7% at the 10th percentile to 98.1% at the 90th percentile (Brega et al., 2008). &lt;/p&gt;&#xD;&#xA;    &lt;p&gt;While no studies have been conducted specific to inpatient rehabilitation facilities (IRFs) and long-term care hospitals (LTCHs), the similarities between the patient populations in LTCHs and IRFs and the population in health care settings, such as nursing homes (which have been studied) indicate that the measure is applicable in LTCH and IRF settings and the opportunity for improvement exists in LTCHs and IRFs.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A study that examined racial disparities in receipt and documentation of influenza vaccinations among nursing home residents concluded that racial disparities exist in vaccination coverage among United States (U.S.) nursing home residents (Li &amp;amp; Mukamel, 2010).&#xD;&#xA;    &lt;p&gt;Racial segregation among nursing facilities has been shown to be a major factor driving racial disparities in the nursing home population, primarily for African Americans. In 2000, a study drawing on national MDS and Online Survey, Certification, and Reporting (OSCAR) data found that two-thirds of all black residents were living in just 10% of all facilities (Smith et al., 2007). A 2002 survey of a stratified sample of 39 nursing facilities and 181 residential care/assisted living facilities in four states had similar findings (Howard et al., 2002). Facilities serving African Americans have demonstrated a lower level of quality care than those serving whites, with lower staff to resident ratios and higher deficiency ratings (Grabowski, 2007). Minority groups in general, and African Americans in particular, have also had more limited access to nursing facility care than whites (National Center for Health Statistics [NCHS], CDC, 1997). A search of PubMed did not reveal any recently published research studies related to racial and ethnic disparities for influenza immunization in post-acute care facilities; however, differences in influenza vaccination between whites and non-white Medicare beneficiaries and Medicare beneficiaries in general have been documented. Therefore, these differences are likely found in IRFs and LTCHs as well (Flowers, Sinclair, &amp;amp; Figueiredo, 2008). Among adults age 18 or older, there are higher rates of seasonal influenza vaccinations in rural areas (53.7%) compared with urban areas (47.1%), but there is no published information specific to the elderly or to nursing home residents (NCHS, CDC, 2009). &lt;/p&gt;&#xD;&#xA;    &lt;p&gt;Bardenheier and colleagues (2004) conducted a study to identify nursing facility resident-specific characteristics associated with vaccination coverage and at baseline. Results of bivariate analysis showed that residents with cognitive, psychiatric, or neurologic problems were more likely to be vaccinated than those without these conditions. Results of the multilevel analysis also showed that the presence of cognitive deficits was one of the strongest resident characteristics associated with receipt of immunizations, controlling facility variation (Bardenheier et al., 2004). &lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bardenheier B, Shefer A, McKibben L, Roberts H, Bratzler D. Characteristics of long-term-care facility residents associated with receipt of influenza and pneumococcal vaccinations. Infect Control Hosp Epidemiol. 2004 Nov;25(11):946-54. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15566029&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brega A, Goodrich G, Nuccio E, Hittle D. Transition of publicly reported nursing home quality measures to MDS 3.0-draft. Denver (CO): Division of Health Care Policy and Research University of Colorado at Denver; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). 2009-10 flu season: final estimates for 2009-10 seasonal influenza and influenza A (H1N1) 2009 monovalent vaccination coverage - United States, August 2009 through May, 2010. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011 May 13.&amp;nbsp; [9 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). State-specific influenza vaccination coverage among adults--United States, 2006-07 influenza season. MMWR Morb Mortal Wkly Rep. 2008 Sep 26;57(38):1033-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18818582&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Colorado Foundation for Medical Care. Environmental scan: review of the literature, clinical guidelines, and other sources of information pertinent to the CMS publicly reported nursing home quality measures. Englewood (CO): Colorado Foundation for Medical Care; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Eckrode C, Church N, English WJ. Implementation and evaluation of a nursing assessment/standing orders-based inpatient pneumococcal vaccination program. Am J Infect Control. 2007 Oct;35(8):508-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17936141&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fiore AE, Uyeki TM, Broder K, Finelli L, Euler GL, Singleton JA, Iskander JK, Wortley PM, Shay DK, Bresee JS, Cox NJ, Centers for Disease Control and Prevention (CDC). Prevention and control of influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Recomm Rep. 2010 Aug 6;59(RR-8):1-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20689501&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flowers F, Sinclair S, Figueiredo C. Racial and ethnic disparities in influenza and pneumococcal immunization rates among Medicare beneficiaries. Washington (DC): AARP Public Policy Institute; 2008. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gorina Y, Kelly T, Lubitz J, Hines Z. Trends in influenza and pneumonia among older persons in the United States. Hyattsville (MD): Centers for Disease Control and Prevention (CDC), National Center for Health Statistics; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Grabowski DC. The admission of blacks to high-deficiency nursing homes. Med Care. 2004 May;42(5):456-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15083106&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Howard DL, Sloane PD, Zimmerman S, Eckert JK, Walsh JF, Buie VC, Taylor PJ, Koch GG. Distribution of African Americans in residential care/assisted living and nursing homes: more evidence of racial disparity. Am J Public Health. 2002 Aug;92(8):1272-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144983&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Li Y, Mukamel DB. Racial disparities in receipt of influenza and pneumococcus vaccinations among US nursing-home residents. Am J Public Health. 2010 Apr 1;100 Suppl 1:S256-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20147674&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC). Health, United States 1996-97 and injury chartbook. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 1997. 341 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC). Health, United States 2008, with chartbook. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2009. 589 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents or patients who were assessed and appropriately given the seasonal influenza vaccine (short stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 20. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nichol KL, Goodman M. Cost effectiveness of influenza vaccination for healthy persons between ages 65 and 74 years. Vaccine. 2002 May 15;20 Suppl 2:S21-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12110251&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Disease Prevention and Health Promotion (ODPHP). Healthy people 2010. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2000.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Disease Prevention and Health Promotion (ODPHP). Immunization and infectious diseases. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2011 Jun.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith DB, Feng Z, Fennell ML, Zinn JS, Mor V. Separate and unequal: racial segregation and disparities in quality across U.S. nursing homes. Health Aff (Millwood). 2007 Sep-Oct;26(5):1448-58. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17848457&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Long-term Care Facilities - Other" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 180 days&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The most recently completed influenza vaccination season, which begins on October 1 and ends on March 31 of the following year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All short-stay* residents with a selected influenza vaccination assessment, except those with exclusions&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Short-stay&lt;/strong&gt;: An episode with cumulative days in facility (CDIF) less than or equal to 100 days as of the end of the target period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Resident's age on target date of selected influenza vaccination assessment is 179 days or less&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Residents meeting the following criteria on the selected influenza vaccination assessment:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Resident was ineligible due to contraindication(s) (e.g., anaphylactic hypersensitivity to eggs or other components of the vaccine, history of Guillain-Barr&amp;eacute; syndrome within 6 weeks after a previous influenza vaccination, bone marrow transplant within the past 6 months). &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;This measure is only calculated once a year with a target period of October 1 of the prior year to June 30 of the current year and reports for the October 1 through March 31 influenza vaccination season. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for details. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Inpatient Rehabilitation Facility Patient Assessment Instrument (IRF-PAI) Version 1.2 for Inpatient &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Long-Term Care Hospital (LTCH) Continuity Assessment Record &amp;amp; Evaluation (CARE) Data Set Version 2.01 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent of residents who did not receive, due to medical contraindication, the seasonal influenza vaccine (short-stay).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Nursing Home Quality Initiative Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Short-stay Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RTI International - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest exist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 6&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was adapted from the following source:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Influenza vaccination for all nursing home residents and pneumococcal vaccination of residents age 65 or older (Centers for Disease Control and Prevention [CDC]) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual and endorsement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarter 2 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the CMS Web site at &lt;a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

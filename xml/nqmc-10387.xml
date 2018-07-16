@@ -1,0 +1,248 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pressure ulcer: percentage of stage III or IV pressure ulcers per 1,000 discharges for patients ages 17 years and younger.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 2 technical specifications: pressure ulcer rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pressure ulcer rate (PDI 2). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of stage III or IV pressure ulcers per 1,000 discharges for patients ages 17 years and younger. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure summary represents the overall rate and includes metrics for discharges grouped by risk category. See also the &quot;Basis for Disaggregation&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This indicator is intended to flag cases of pressure ulcer that arise during a hospital stay. Acutely ill and immobilized neonates and children are at risk for pressure ulcer (PU) development. PUs cause considerable harm to patients and may lead to increased hospital costs and length of stay. PUs may predispose the patient to infection, sepsis, and treatment that may require surgical intervention. Occipital PUs may cause permanent alopecia, embarrassment, and body image disturbances (McCord et al., 2004). Over 82% of the PU events in adults are thought to preventable (Baharestani &amp;amp; Ratliff, 2011). Given the anatomical and physiological differences between adults and children, the number of preventable events in children and neonates may differ, as suggested by the relatively large number of events (49% of true positive events) in one study that were categorized by pediatric practitioners as not clearly preventable (Scanlon et al., 2008). However, stakeholder groups such as the Pediatric Affinity Group (n.d.) (American Academy of Pediatrics, Child Health Corporation of America, National Association of Children's Hospital and Related Institutions, and National Initiative for Children's Healthcare Quality) agree that the goal should be to eliminate PU in the pediatric population and that PU in pediatric patients should and can be prevented.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baharestani MM, Ratliff CR. Pressure ulcers in neonates and children: an NPUAP white paper. Adv Skin Wound Care. 2007 Apr;20(4):208, 210, 212, 214, 216, 218-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17415029&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McCord S, McElvain V, Sachdeva R, Schwartz P, Jefferson LS. Risk factors associated with pressure ulcers in the pediatric intensive care unit. J Wound Ostomy Continence Nurs. 2004 Jul-Aug;31(4):179-83.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pressure ulcer rate (PDI 2). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pediatric Affinity Group. How-to-guide: prevent pressure ulcers -- pediatric supplement. Cambridge (MA): Institute for Healthcare Improvement (IHI); 28 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scanlon MC, Harris JM 2nd, Levy F, Sedman A. Evaluation of the agency for healthcare research and quality pediatric quality indicators. Pediatrics. 2008 Jun;121(6):e1723-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18474532&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pediatrics; pressure ulcer (PU)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Surgical and medical discharges for patients ages 17 years and younger (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for pressure ulcer and any secondary ICD-9-CM diagnosis codes for pressure ulcer stage III or IV (or unstageable) (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Using data from 19 states from 2006 to 2008, with over five million pediatric hospitalizations, HealthGrades (Reed &amp;amp; May, 2010) reported that pediatric patients who experienced this event had 6.15% mortality and a total excess cost of $1.3 billion. In a study utilizing data from the Healthcare Cost and Utilization Project (HCUP) from 2000 to 2007, Friedman et al. (2011) reported a 34.5% increase in pressure ulcer (PU) rates from 2000 to 2007. It is unclear whether this increase is due to improved reporting or increasing prevalence during pediatric hospitalizations. The authors cautioned that &quot;present on admission data&quot; were not used and the sample of hospitals varied over the years. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;However, similar results were reported from an earlier study by Sedman and colleagues (2005), using the National Association of Children's Hospitals and Related Institutions aggregate Case Mix Comparative Database for 1999 to 2002, with 1.92 million discharges from 31 states (50 hospitals in 1999, increasing to 67 in 2002). In this study, PU rates increased each year from 4.14 per 1000 discharges in 1999 to 4.33 per 1000 discharges in 2002. Pressure ulcers were noted frequently for children with poor perfusion (i.e., those undergoing extracorporeal membrane oxygenation or requiring adrenergic agents to support blood pressure, with resultant poor skin perfusion). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In a case control study using nearest-neighbor propensity score matching, the Agency for Healthcare Research and Quality (AHRQ) pediatric-specific Patient Safety Indicators (PSIs) were used to identify adverse events in 431,524 discharges from 38 freestanding, academic, not-for-profit pediatric hospitals affiliated with the Child Health Corporation of American and participating in the Pediatric Health Information System database in 2006. They reported a PU rate of 4.52 per 1,000 discharges, which is similar to the AHRQ reported rate of 4.33 per 1,000 discharges for the same year. Records with a PU event had mean excess length of stay of 8.07 days and mean excess hospital charges of $59,225, relative to matched controls. The excess charges came from all hospital cost centers, including pharmacy ($10,959), supplies ($4,663), laboratory ($7,276), imaging ($1,284), and other clinical activities ($11,345). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman B, Berdahl T, Simpson LA, McCormick MC, Owens PL, Andrews R, Romano PS. Annual report on health care for children and youth in the United States: focus on trends in hospital use and quality. Acad Pediatr. 2011 Jul-Aug;11(4):263-79.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pressure ulcer rate (PDI 2). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sedman A, Harris JM 2nd, Schulz K, Schwalenstocker E, Remus D, Scanlon M, Bahl V. Relevance of the Agency for Healthcare Research and Quality Patient Safety Indicators for children's hospitals. Pediatrics. 2005 Jan;115(1):135-45. [17 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15579669&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The first annual HealthGrades Pediatric Patient Safety in American Hospitals Study. Golden (CO): HealthGrades; 2010 Aug. 25 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Includes approximately 6 million pediatric discharges for 2,500 hospitals (Healthcare Cost and Utilization Project [HCUP] State Inpatient Databases [SID],&quot; 2008). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. The signal to noise ratio is the ratio of the between hospital variance (signal) to the within hospital variance (noise). The formula is signal / (signal + noise). The ratio itself is only a diagnostic for the degree of variance in the risk-adjusted rate systematically associated with the provider. Therefore, what matters is the magnitude of the variance in the &quot;smoothed&quot; rate (that is, the variance in the risk-adjusted rate after the application of the univariate shrinkage estimator based on the signal ratio). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. What the data demonstrate is systematic variation in the provider level rate of 0.647 to 3.222 per 1,000 from the 5th to 95th percentile after a signal ratio of 0.324 is applied as the shrinkage estimator (that is, after accounting for variation due to random factors). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;California data from 2005 to 2007, which included &quot;present on admission&quot; (POA) reporting, were used to determine the percentage of hospitals with patient volumes sufficient to readily use the Quality Indicator (QI) for tracking performance over time. The unadjusted event rate was 3.1 per 1,000 when POA cases were not excluded and 1.4 per 1,000 when POA information was used, as in current AHRQ software. Only 4 of 353 California hospitals (1.1%), with 24% of the eligible discharges statewide, had sufficient patient volume to detect a hypothetical doubling of the Pediatric Quality Indicator (PDI) 01 rate. This problem could be minimized by focusing public reporting of this indicator on hospitals that meet a minimum pediatric volume threshold, or by incorporating it into a more robust composite measure (Bardach, Chien, &amp;amp; Dudley, 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. The most recent study of the criterion validity of PDI 02 was based on a consecutive sample of 254 flagged cases from 28 participating hospitals in the National Association of Children's Hospitals and Related Institutions (NACHRI) from 2003 through 2005 (Scanlon et al., 2008). Records were reviewed independently by clinicians at each site, who lacked formal training but were guided by teleconference discussions. A previous review of 118 flagged cases from 14 self-selected children's hospitals in the NACHRI Pediatric Patient Safety Indicators (PSI) Collaborative (Scanlon et al., 2006) used similar methods.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Forty-four distinct professional clinical organizations and hospital associations were invited to submit nominations. These organizations were selected based on the applicability of the specialty or subspecialty to the candidate quality indicators. Refer to the original measure documentation for additional information on panel selection.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Four panels were formed to evaluate indicators grouped as follows: Medical and surgical indicators, surgical only indicators, neonatal indicators and prevention indicators. All panels had diversity in the geographic location of panelists, and their type of practice. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Criterion validity is analyzed by calculating positive predictive value (PPV), which is defined as the percentage of reported events that are confirmed as true events based upon application of a &quot;criterion (gold) standard.&quot; In the cited studies, the criterion standard was based on review of randomly or chronologically sampled medical records by an experienced clinician, using a standard data collection tool and guidelines. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. Face validity was systematically assessed using an expert panel process, as described in original submission documents (McDonald et al., 2006). Specifically, this indicator was reviewed by a pediatric specialty panel with ten pediatric clinicians, including one neonatologist, one infectious disease specialist, one ambulatory care pediatrician, one hospitalist, one cardiovascular surgeon, one oncologist, two surgeons, one interventional radiologist, and one critical care physician. Median ratings were 7 (on a scale of 1 to 9) with indeterminate agreement on usefulness for internal quality improvement, 7 with indeterminate agreement for comparative reporting, and 7 with indeterminate agreement for preventability. Interestingly, the expert panel felt that the indicator was most useful when tracking high risk populations, including patients with hemiplegia, paraplegia, quadriplegia (e.g., due to cerebral palsy), spina bifida, muscular dystrophies, and neurologic impairment due to trauma. Panelists also noted that &quot;skin breakdown&quot; or &quot;sores&quot; in newborns rarely stem from gravity alone, but rather from friction from equipment and other processes. These sores may not be identified as decubiti, so they are likely to be coded differently. For this reason, newborns were excluded from the PDI 02 denominator. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Studies targeting the validity of administrative data to measure hospital-acquired pressure ulcers (HAPU) in the pediatric population are limited. The larger, more recent study published in 2008 estimated a PPV of 54%, which is substantially higher than the PPV estimates for the adult version of this indicator (e.g., 30% [95% confidence interval (CI), 22% to 40%] and 26% [95% CI, 22% to 30%] for PSI 03). Fewer details are reported from the earlier (2006) study, but Table 1 in that paper suggests a PPV of at least 54% to 64%. The great majority of false positives were due to ulcers that were actually present on admission (i.e., 93 of 116 false positives in the NACHRI study), which would automatically be excluded by users with POA data. Adjusting for the availability of POA data, the estimated PPV in the 2008 NACHRI study was 86%. The remaining false positives were largely attributable to confusion over skin irritation or breakdown, due to friction or tape, versus pressure-related injury. Coding variation was especially notable in small infants, who have since been excluded from the PDI 02 denominator. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;No data about the sensitivity of PDI 02 are available at this time, although the limited data available for PSI 03 suggests a need for further study. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bardach NS, Chien AT, Dudley RA. Small numbers limit the use of the inpatient pediatric quality indicators for hospital comparison. Acad Pediatr. 2010 Jul-Aug;10(4):266-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20599180&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2008.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McDonald K, Romano P, Davies S, Haberland C, Geppert J, Ku A, Choudhry K. Measures of pediatric health care quality based on hospital administrative data: the pediatric quality indicators. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2006 Sep. 130 p.  [82 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pressure ulcer rate (PDI 2). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scanlon MC, Harris JM 2nd, Levy F, Sedman A. Evaluation of the agency for healthcare research and quality pediatric quality indicators. Pediatrics. 2008 Jun;121(6):e1723-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18474532&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scanlon MC, Miller M, Harris JM, Schulz K, Sedman A. Targeted chart review of pediatric patient safety events identified by the Agency for Healthcare Research and Quality’s patient safety indicators methodology. J Patient Saf. 2006;2:191-7.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 17 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;User may specify the time window; generally one calendar year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Surgical and medical discharges for patients ages 17 years and younger. Surgical and medical discharges are defined by specific Diagnosis-Related Group (DRG) or Medicare Severity-DRG (MS-DRG) codes.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for DRG and MS-DRG codes. See also the &lt;em&gt;Pediatric Quality Indicators Appendices&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude cases:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for pressure ulcer (see above) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With any secondary ICD-9-CM diagnosis codes for pressure ulcer (see above) present on admission and any secondary ICD-9-CM diagnosis codes for pressure ulcer stage III or IV (or unstageable, see above) present on admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With any-listed ICD-9-CM procedure codes for debridement or pedicle graft before or on the same day as the major operating room procedure (surgical cases only) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With any-listed ICD-9-CM procedure codes for debridement or pedicle graft as the only major operating room procedure (surgical cases only) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With length of stay of less than five (5) days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from a hospital (different facility) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from a Skilled Nursing Facility (SNF) or Intermediate Care Facility (ICF) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from another health care facility &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major Diagnostic Categories (MDC) 9 (skin, subcutaneous tissue, and breast) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;MDC 14 (pregnancy, childbirth, and puerperium) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With missing gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing) or principal diagnosis (DX1=missing) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for pressure ulcer stage III or IV (or unstageable)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure includes metrics for discharges grouped by the following risk categories:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Numerator&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;High Risk Category&lt;/span&gt;: Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for pressure ulcer and any secondary ICD-9-CM diagnosis codes for pressure ulcer stage III or IV (or unstageable). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Low Risk Category&lt;/span&gt;: Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for pressure ulcer and any secondary ICD-9-CM diagnosis codes for pressure ulcer stage III or IV (or unstageable). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Denominator&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;High Risk Category&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with any-listed ICD-9-CM diagnosis codes for hemiplegia, paraplegia, or quadriplegia or any-listed ICD-9-CM diagnosis codes for spina bifida or any-listed ICD-9-CM diagnosis codes for anoxic brain damage or any-listed ICD-9-CM procedure codes for continuous mechanical ventilation. Surgical and medical discharges are defined by specific Diagnosis-Related Group (DRG) or Medicare Severity-DRG (MS-DRG) codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Low Risk Category&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, without any-listed ICD-9-CM diagnosis codes for hemiplegia, paraplegia, or quadriplegia and without any-listed ICD-9-CM diagnosis codes for spina bifida and without any-listed ICD-9-CM diagnosis codes for anoxic brain damage and without any-listed ICD-9-CM procedure codes for continuous mechanical ventilation. Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The predicted value for each case is computed using a hierarchical model (logistic regression with hospital random effect) and covariates for gender, birthweight (500g groups), age in days (29 to 60, 61 to 90, 91+), age in years (in 5-year age groups), modified Centers for Medicare &amp;amp; Medicaid Services (CMS) Diagnosis-Related Group (DRG), and Agency for Healthcare Research and Quality (AHRQ) Clinical Classifications Software (CSS) comorbidities. The reference population used in the regression is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID) for the year 2008, a database consisting of 43 states and approximately 6 million pediatric discharges. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., hospital). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population rate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for the covariates used in this measure. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PDI 2: pressure ulcer rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Agency for Healthcare Research and Quality (AHRQ) Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Pediatric Quality Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Oct 21&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure is reviewed and updated on a yearly basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ QI. Pediatric quality indicators #2: technical specifications. Pressure ulcer rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 3 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 61 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/TechSpecs/PDI_02_Pressure_Ulcer_Rate.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AHRQ QI Support Team at E-mail: &lt;a href=&quot;mailto:QIsupport@ahrq.hhs.gov&quot;&gt;QIsupport@ahrq.hhs.gov&lt;/a&gt;; Phone: 301-427-1949.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators (PDI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 98 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Parameter_Estimates_PDI_50_Final.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ARHQ quality indicators. Pediatric quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 13 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Version_50_Benchmark_Tables_PDI.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Mar. various p. This document is available in PDF from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/PDI_Composite_Development.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &amp;nbsp; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the &lt;a href=&quot;http://hcupnet.ahrq.gov/&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 28, 2007. The information was verified by the measure developer on March 31, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 25, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was reviewed and edited by ECRI Institute on July 15, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 19, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 28, 2013 and again on December 1, 2015. The information was verified by the measure developer on January 19, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 2 technical specifications: pressure ulcer rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 5 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: pressure ulcer rate (PDI 2). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 16 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

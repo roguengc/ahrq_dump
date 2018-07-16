@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Home health care: percentage of home health episodes of care during which the patient's ability to bathe improved or stayed the same as at admission.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Crisler KS, Hittle DF, Conway KS, West LR, Shaughnessy PW, Richard AA, Powell MC, Lawlor KL, Donelan-McCall NS, Beaudry JM, Baillie LL, Schlenker RE, Engle K. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 3, Research and clinical supporting documents [9 supporting documents]. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hittle DF, Crisler KS, Beaudry JM, Conway KS, Shaughnessy PW, West LR, Richard AA. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 4, OASIS chronicle and recommendations. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Home Health Quality Measures – Outcomes. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Mar. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shaughnessy PW, Crisler KS, Hittle DF, Schlenker RE, Conway KS, West LR, Powell MC, Richard AA. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 1, Policy and program overview. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shaughnessy PW, Hittle DF, Crisler KS, Powell MC, Richard AA, Kramer AM, Schlenker RE, Steiner JF, Donelan-McCall NS, Beaudry JM, Engle K, Conway KS, West LR. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 2, Research and technical overview. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of home health episodes of care during which the patient's ability to bathe improved or stayed the same as at admission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients need certain physical abilities and capacities (motor skills, symptom relief) to bathe themselves in the bath or shower. Many patients who receive home health care have chronic illnesses or disabilities that lead to difficulty performing the tasks of bathing and/or may need help from another person or special equipment to accomplish this activity. The required physical abilities for bathing can be maintained by managing patient symptoms or through rehabilitative services. Home health care staff can encourage patients to be as independent as possible, can evaluate patients' needs, and can teach them how to use special devices or equipment to maintain their ability to perform some activities without the assistance of another person. Maintaining patients' ability to bathe themselves contributes to patient comfort, hygiene, skin integrity, and quality of life and can allow them to live as long as possible in their own environment. Stabilization in bathing may be a sign that they are meeting the goals of their care plan, making it a reasonable evaluation indicator of effective and high-value home health care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A report on agency performance on this measure is provided to home health agencies (HHAs) as part of the Outcome-Based Quality Improvement (OBQI) Outcome Report. The OBQI reports allow the agency to compare their agency's rates in the current year compared to prior years and to national reference rates (i.e., benchmarking) values. HHAs can use the OBQI outcome measures as part of a systematic approach to continuously improving the quality of care they provide by targeting care practices that influence specific patient functioning and health status. Therefore, the measure is important to making significant gains in health care quality and improving health outcomes for a specific high impact aspect of healthcare where there is variation in performance.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of measure scores demonstrates that 1) there is room for improvement with respect to this quality measure; and 2) considerable variability exists in the performance of agencies on the risk-adjusted measure, suggesting that it captures an aspect of care that is under the agency's control.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Deitz D. (Abt Associates, Cambridge, MA). Personal communication. 2012 May 18. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Home health care; activities of daily living (ADLs); stabilization; bathing&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of home health episodes of care ending with a discharge during the reporting period, other than those covered by generic or measure-specific exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of home health episodes of care where the value recorded on the discharge assessment indicates the same or less impairment in bathing themselves at discharge than at start (or resumption) of care (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Deitz D. (Abt Associates, Cambridge, MA). Personal communication. 2012 May 18. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;As part of the National Outcome-Based Quality Improvement (OBQI) Demonstration project when OASIS was originally designed and tested, several tests of validity were conducted for each OASIS item, including the items used to calculate this measure. The items passed each of the following validity assessments:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Consensus validity by expert researcher/clinical panels for outcome measurement and risk factor measurement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consensus validity by expert clinical panels for patient assessment and care planning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Criterion or convergent/predictive validity for outcome measurement/risk factor measurement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Convergent/predictive validity: case mix adjustment for payment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Validation by patient assessment and care planning &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Validation by outcome enhancement&lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Descriptions for these validation assessments are contained in the accompanying descriptions taken from &lt;em&gt;Volume 4: OASIS Chronicle and Recommendation&lt;/em&gt; (2001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The primary reliability testing for this measure took place as part of the National OBQI Demonstration project when OASIS was originally designed and tested. In spring 1997, 41 patients from two agencies and in fall 1998, 25 patients from three different agencies were assessed by two registered nurse (RN) level assessors who were provided training on assessment methods. The results from these studies are collectively referred to as &quot;Study 1.&quot; Study 2 was an independent inter-rater reliability study conducted by Katherine Berg of Brown University (1999) with 144 patients. Study 3 was a concurrent assessment of inter-rater reliability by Madigan, Tullai-McGinness, and Fortinsky (2001) with 88 patients from 21 agencies.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goldberg HB, Delargy D, Schmitz RJ, Moore T, Wrobel M, Berg K. Interim reliability report: Medicare home health case-mix project. Appendix G. Case-Mix Adjustment for a National home health prospective payment system. Second interim report. Cambridge (MA): Abt Associates; G.3-G.25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hittle DF, Crisler KS, Beaudry JM, Conway KS, Shaughnessy PW, West LR, Richard AA. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 4, OASIS chronicle and recommendations. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;How to obtain meaningful and reliable results with OASIS data. In: Madigan, Tullai-McGinness, Fortinsky. Presentation at the annual meeting of the National Association for Home Care; October 2001; Las Vegas (NV).&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;OASIS 2: Home Health Quality Measures - supporting information. [internet]. Cambridge (MA): Abt Associates, Inc., Domestic Health Division; [accessed 2012 Oct 16]. [1 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Home Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Rolling 12 month period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;br /&gt;&#xD;&#xA;&lt;/strong&gt;Number of home health episodes of care ending with a discharge during the reporting period, other than those covered by generic or measure-specific exclusions &lt;/p&gt;&#xD;&#xA;&lt;p&gt;All home health episodes:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With an OASIS assessment for both the beginning and end point &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With an end point that occurs in the reporting year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Other than those covered by denominator exclusions &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Measure-specific Exclusions&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Home health episodes of care for which:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;At start/resumption of care OASIS item M1830 &quot;Bathing&quot; = 6, indicating the patient had maximum impairment in bathing; OR &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The value recorded of OASIS item 1700 &quot;Cognitive Functioning&quot; = 4, indicating that the patient was totally dependent due to disturbances such as constant disorientation, coma, persistent vegetative state or delirium. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The value recorded on M1710 &quot;When Confused&quot; or M1720 &quot;When Anxious&quot; is Not Applicable (NA) on the start (or resumption) of care, indicating the patient is non-responsive; OR &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient did not have a discharge assessment because the episode of care ended in transfer to inpatient facility or death at home; OR &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All episodes covered by the generic exclusions &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Generic Exclusions&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Home health episodes of care that are exempt from the OASIS reporting requirement, including:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pediatric home health patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health patients receiving maternity care only &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health clients receiving non-skilled care only &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Home health patients for which neither Medicare or neither Medicare nor Medicaid is a payment source &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of home health episodes of care where the value recorded on the discharge assessment indicates the same or less impairment in bathing themselves at discharge than at start (or resumption) of care&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Stabilization in Bathing is coded as follows:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;1 (YES) IF: The value recorded for the OASIS item M1830 on the discharge assessment is numerically less than or equal to the value recorded on the start (or resumption) of care assessment, indicating the same or less impairment at discharge compared to start of care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;0 (NO) IF: The value recorded for the OASIS item M1830 on the discharge assessment is numerically greater than the value recorded on the start (or resumption) of care assessment, indicating more impairment at discharge compared to start of care. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Episode of care" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Functional Status" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Outcome and Assessment Information Set (OASIS) for Home Care&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Logistic regression models for risk adjustment were developed using three million episodes of care based on OASIS national repository data from assessments submitted between January 1, 2010 and September 30, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Details of the model are available from the &lt;em&gt;Home Health Agency Quality Measures: Logistic Regression Models for Risk Adjustment&lt;/em&gt; at the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/downloads/HHQILogisticRegressionModelsforRiskAdjustmentUpdated.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stabilization in bathing.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Outcome and Assessment Information Set (OASIS)" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Outcome-Based Quality Improvement (OBQI) Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Center for Health Services Research, University of Colorado, under contract to Centers for Medicare and Medicaid Services - Academic Affiliated Research Institute" />
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Robert Wood Johnson Foundation&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;New York State Department of Health&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Peter W. Shaughnessy, PhD; Kathryn S. Crisler, MS, RN; Robert E. Schlenker, PhD; David F. Hittle, PhD; Martha C. Powell, PhD; Angela Arnold Richard, MS, RN; Andrew M. Kramer, MD; Eugene J. Nuccio, PhD; and other staff of the Center for Health Services Research, University of Colorado&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;: This measure has been updated. The National Quality Measures Clearinghouse is working to update this summary.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIQualityMeasures.html&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CMS at 7500 Security Boulevard, Baltimore, MD 21244; Web site: &lt;a href=&quot;https://www.cms.gov/&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Department of Health &amp;amp; Human Services, Center for Medicare &amp;amp; Medicaid Services. Home health agency quality measures: technical documentation of OASIS-based patient outcome measures. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Jul. 22 p. This document is available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIQualityMeasures.html&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Department of Health and Human Services, Centers for Medicare &amp;amp; Medicaid Services. Home health agency patient-related characteristics reports: technical documentation of measures. Revision 2. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2013 Jun. 113 p. This document is available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HomeHealthQualityInits/HHQIQualityMeasures.html&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;CMS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on October 5, 2004. The information was verified by the measure developer on December 17, 2004 and was reviewed and edited on September 26, 2005. The information was verified by the measure developer on October 15, 2009 and again on May 27, 2010. This NQMC summary was retrofitted into the new template on June 28, 2011. This NQMC summary was updated by ECRI Institute on July 17, 2013. The information was verified by the measure developer on November 14, 2013. The information was reaffirmed by the measure developer on April 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Crisler KS, Hittle DF, Conway KS, West LR, Shaughnessy PW, Richard AA, Powell MC, Lawlor KL, Donelan-McCall NS, Beaudry JM, Baillie LL, Schlenker RE, Engle K. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 3, Research and clinical supporting documents [9 supporting documents]. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hittle DF, Crisler KS, Beaudry JM, Conway KS, Shaughnessy PW, West LR, Richard AA. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 4, OASIS chronicle and recommendations. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Home Health Quality Measures – Outcomes. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Mar. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shaughnessy PW, Crisler KS, Hittle DF, Schlenker RE, Conway KS, West LR, Powell MC, Richard AA. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 1, Policy and program overview. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shaughnessy PW, Hittle DF, Crisler KS, Powell MC, Richard AA, Kramer AM, Schlenker RE, Steiner JF, Donelan-McCall NS, Beaudry JM, Engle K, Conway KS, West LR. OASIS and outcome-based quality improvement in home health care: research and demonstration findings, policy implications, and considerations for future change. Vol. 2, Research and technical overview. Denver (CO): Center for Health Services Research, University of Colorado Health Sciences Center; 2002 Feb 1. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

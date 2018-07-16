@@ -1,0 +1,231 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Sickle cell disease (SCD): percentage of children younger than 18 years of age identified as having SCD presenting to an ED with fever, who had a pulse oximetry reading, complete blood count, reticulocyte count, and blood culture within 60 minutes following initial contact during the measurement year.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: appropriate emergency department blood testing for children with sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium; 2014 Apr. 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children younger than 18 years of age identified as having sickle cell disease (SCD) presenting to an emergency department (ED) with fever, who had a pulse oximetry reading, complete blood count, reticulocyte count, and blood culture within 60 minutes following initial contact during the measurement year. A higher proportion indicates better performance, as reflected by appropriate treatment.&lt;/p&gt;&#xA;&lt;p&gt;This measure uses medical record data to calculate four rates; each specified action must occur within 60 minutes following initial contact in the ED: &lt;/p&gt;&#xA;&lt;ol start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;The percentage of children who had a pulse oximetry performed. &lt;/li&gt;&#xA;    &lt;li&gt;The percentage of children who had a complete blood count performed. &lt;/li&gt;&#xA;    &lt;li&gt;The percentage of children who had a reticulocyte count performed. &lt;/li&gt;&#xA;    &lt;li&gt;The percentage of children who had a blood culture performed. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;An overall rate is calculated as the percentage of children who had a pulse oximetry reading, complete blood count, reticulocyte count, and blood culture within the same 60 minute period following initial contact in the ED.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Approximately 2,000 infants are born with sickle cell disease (SCD) in the United States each year, a condition that occurs predominantly in people of African and Hispanic descent. SCD is a chronic hematologic disorder, characterized by the presence of hemoglobin S. From infancy onward, the presence of this hemoglobin variant can lead to an array of serious medical conditions. Because children with SCD are susceptible to spleen damage, a condition that compromises their ability to deal with infection, they are at high risk for developing septicemia and meningitis from &lt;em&gt;Streptococcus pneumoniae&lt;/em&gt; and other encapsulated bacteria. These illnesses can rapidly become life-threatening. Any temperature greater the 38 degrees Celsius (100.4 degrees Fahrenheit) should be immediately evaluated; this often requires a visit to the emergency department (ED) for timely treatment. Assessment for fever in children with SCD should include a pulse oximetry reading, complete blood count, reticulocyte count, and a blood culture. Ideally, the values collected in the ED can be compared with baseline values that should be available as part an established database profile. There are no existing quality measures for appropriate blood testing in children with SCD.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: appropriate emergency department blood testing for children with sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium; 2014 Apr. 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Sickle cell disease (SCD); fever; blood testing (pulse oximetry reading, complete blood count, reticulocyte count, blood culture); infants; children; adolescents&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The eligible population for the denominator is the number of children younger than 18 years of age identified as having sickle cell disease (SCD) who presented to an emergency department (ED) with fever (defined as 38 degrees C [100.4 degrees F] or above) during the measurement year (January 1 to December 31) as documented in the medical record (see the related &quot;Denominator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The eligible population for the numerator is the number of children younger than 18 years of age identified as having sickle cell disease (SCD) presenting to an emergency department (ED) with fever (defined as 38 degrees C [100.4 degrees F] or above) during the measurement year (January 1 to December 31), who had 1) a pulse oximetry reading, 2) a complete blood count, 3) a reticulocyte count, and 4) a blood culture within 60 minutes following initial contact (see the related &quot;Numerator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Prevalence and Incidence&lt;/em&gt;&lt;br /&gt;&#xA;Sickle cell disease (SCD) is one of the most common genetic disorders in the United States (U.S.) (Kavanagh et al., 2011). The National Heart, Lung and Blood Institute (NHLBI) (2002) estimates that 2,000 infants are born with SCD in the U.S. each year. SCD affects 70,000 to 100,000 children and adults in the U.S., predominantly those of African and Hispanic descent (Hassell, 2010). &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Pathology and Severity&lt;/em&gt;&lt;br /&gt;&#xA;Vaso-occlusion (the sudden blockage of a blood vessel caused by the sickle shape of abnormal blood cells) is responsible for most complications of SCD, including pain episodes, sepsis, stroke, acute chest syndrome, priapism, leg ulcers, osteonecrosis and renal insufficiency (Steinberg, 1999). In addition, SCD can have hemolytic and infectious complications that result in morbidity and mortality in children with the condition (Kavanagh et al., 2011). &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Burden in Daily Life&lt;/em&gt;&lt;br /&gt;&#xA;The effect of SCD on children and families is significant; severe pain episodes and hospitalizations restrict daily activities and reflect negatively on school attendance and performance, as well as on sleep and social activities (Lemanek, Ranalli, &amp;amp; Lukens, 2009; Alvim et al., 2005). Although medical management of SCD continues to improve over time, 196 children in the United States died from SCD-related causes between 1999 and 2002 (Yanni et al., 2009). &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Cost&lt;/em&gt;&lt;br /&gt;&#xA;In a study of health care utilization among low income children with SCD between 2004 and 2007, 27% of these children required inpatient hospitalization and 39% used emergency care during a year. Of these children, 63% averaged one well-child visit per year and 10% had at least one outpatient visit with a specialist (Raphael et al., 2009). Patients with SCD use many parts of the health care system, incurring significant costs. In 2009, mean hospital charges for children with SCD and a hospital stay were $23,000 for children with private insurance and $18,200 for children enrolled in Medicaid (HCUPnet, Healthcare Cost and Utilization Project, 2012). Kauf et al. (2009) estimate the lifetime cost of health care per patient with SCD to be approximately $460,000.&lt;/p&gt;&#xA;&lt;p&gt;See the original measure documentation for additional evidence supporting the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alvim RC, Viana MB, Pires MA, Franklin HM, Paula MJ, Brito AC, Oliveira TF, Rezende PV. Inefficacy of piracetam in the prevention of painful crises in children and adolescents with sickle cell disease. Acta Haematol. 2005;113(4):228-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15983428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hassell KL. Population estimates of sickle cell disease in the U.S. Am J Prev Med. 2010 Apr;38(4 Suppl):S512-21. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20331952&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;HCUPnet. Healthcare Cost and Utilization Project. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality; 2006-2009&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kauf TL, Coates TD, Huazhi L, Mody-Patel N, Hartzema AG. The cost of health care for children and adults with sickle cell disease. Am J Hematol. 2009 Jun;84(6):323-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19358302&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kavanagh PL, Sprinz PG, Vinci SR, Bauchner H, Wang CJ. Management of children with sickle cell disease: a comprehensive review of the literature. Pediatrics. 2011 Dec;128(6):e1552-74.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lemanek KL, Ranalli M, Lukens C. A randomized controlled trial of massage therapy in children with sickle cell disease. J Pediatr Psychol. 2009 Nov-Dec;34(10):1091-6.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Heart, Lung and Blood Institute (NHLBI). The management of sickle cell disease. 4th ed. Bethesda (MD): National Institutes of Health, National Heart, Lung and Blood Institute, Division of Blood Diseases and Resources; 2002 Jun. 188 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: appropriate emergency department blood testing for children with sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium; 2014 Apr. 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Raphael JL, Dietrich CL, Whitmire D, Mahoney DH, Mueller BU, Giardino AP. Healthcare utilization and expenditures for low income children with sickle cell disease. Pediatr Blood Cancer. 2009 Feb;52(2):263-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18837428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinberg MH. Management of sickle cell disease. N Engl J Med. 1999 Apr 1;340(13):1021-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10099145&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yanni E, Grosse SD, Yang Q, Olney RS. Trends in pediatric sickle cell disease-related mortality in the United States, 1983-2002. J Pediatr. 2009 Apr;154(4):541-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19028391&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xA;&lt;em&gt;Data and Methods&lt;/em&gt;. The testing data consisted of an audit of medical records from the three largest centers serving sickle cell disease (SCD) patients in Michigan during 2012: Children's Hospital of Michigan (CHM, Detroit), Hurley Medical Center (Hurley, Flint), and the University of Michigan Health System (UMHS, Ann Arbor). Combined, these sites treat the majority of children with SCD in Michigan. Medical records for all children with SCD meeting the measure specification criteria during the measurement year were abstracted at each site. Abstracting was conducted in two phases; during Phase 1, 435 records were abstracted among the three sites. In Phase 2, an additional 237 cases were abstracted at one site. In total, 672 unique records were reviewed for children with SCD to test this measure. &lt;/p&gt;&#xA;&lt;p&gt;Reliability of medical record data was determined through re-abstraction of patient record data to calculate the inter-rater reliability (IRR) between abstractors. Broadly, IRR is the extent to which the abstracted information is collected in a consistent manner (Keyton et al., 2004). Low IRR may be a sign of poorly executed abstraction procedures, such as ambiguous wording in the data collection tool, inadequate abstractor training, or abstractor fatigue. For this measure, the medical record data collected by two nurse abstractors were compared. &lt;/p&gt;&#xA;&lt;p&gt;Measuring IRR at the beginning of the abstraction is imperative to identify any misinterpretations early on. It is also important to assess IRR throughout the abstraction process to ensure that the collected data maintain high reliability standards. Therefore, the IRR was evaluated during Phase 1 at each site to address any reliability issues before beginning data abstraction at the next site. &lt;/p&gt;&#xA;&lt;p&gt;IRR was determined by calculating both percent agreement and Kappa statistics. While abstraction was still being conducted at each site, IRR assessments were conducted for 5% of the total set of unique patient records that were abstracted during Phase 1 of data collection. Two abstractors reviewed the same medical records; findings from these abstractions were then compared, and a list of discrepancies was created. &lt;/p&gt;&#xA;&lt;p&gt;Three separate IRR meetings were conducted, all of which included a review of multiple SCD measures that were being evaluated. Because of eligibility criteria, not all patients were eligible for all measures. Therefore, records for IRR were not chosen completely at random; rather, records were selected to maximize the number of measures assessed for IRR at each site. &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;. For each of the measure numerators, 14 of 435 unique patient records (3%) from Phase 1 of the abstraction process were assessed for IRR across the three testing sites. Additionally, in order for a record to be abstracted for this measure, patients must meet a specific medical criterion (fever). Therefore, IRR was also assessed for this eligibility criterion. For fever, 29 of 435 unique patient records (7%) from Phase 1 of the abstraction process were assessed for IRR across the three testing sites. &lt;/p&gt;&#xA;&lt;p&gt;Table 5 of the original measure documentation shows the percent agreement and Kappa statistic for each numerator and the fever eligibility criterion of this measure for each site and across all sites. The overall agreement for three of the numerators (complete blood count, reticulocyte, and blood culture) was 100% and the Kappa was 1.00, indicating a perfect IRR level was achieved. The overall agreement for the pulse oximetry numerator was 64% with a Kappa statistic of 0.10. The overall agreement for fever, an eligibility criterion, was 90% and the Kappa was 0.79. Note that the Kappa value is affected by the prevalence of the finding under consideration, similar to a positive predictive value being influenced by the prevalence of the condition. For rare findings, very low values of Kappa may not necessarily reflect low rates of overall agreement (Viera &amp;amp; Garrett, 2005).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xA;&lt;em&gt;Face Validity&lt;/em&gt;. The face validity of this measure was established by a national panel of experts and advocates for families of children with SCD convened by the Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). The Q-METRIC expert panel included nationally recognized experts in SCD, representing hematology, pediatrics, and SCD family advocacy. In addition, measure validity was considered by experts in state Medicaid program operations, health plan quality measurement, health informatics, and health care quality measurement. In total, the Q-METRIC SCD panel included 14 experts, providing a comprehensive perspective on SCD management and the measurement of quality metrics for states and health plans. &lt;/p&gt;&#xA;&lt;p&gt;The Q-METRIC expert panel concluded that this measure has a high degree of face validity through a detailed review of concepts and metrics considered to be essential to effective SCD management and treatment. Concepts and draft measures were rated by this group for their relative importance. This measure was highly rated, receiving an average score of 8.1 (with 9 as the highest possible score). &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Validity of Abstracted Data&lt;/em&gt;. This measure was tested using medical record data. This source is considered the gold standard for clinical information; our findings indicate that these data have a high degree of face validity. This measure was tested among a total of 123 children younger than 18 years of age with SCD (Table 6 of the original measure documentation). Overall, appropriate blood testing was conducted within 60 minutes of initial contact in the ED for 10% of children with SCD (range among the three hospitals: 7% to 10%). Pulse oximetry was conducted within 60 minutes of initial contact in the ED on 51% of children (range: 39% to 100%). Similarly, a complete blood count was conducted within 60 minutes of initial contact in the ED for 25% of children (range: 20% to 26%); a reticulocyte count was conducted within 60 minutes of initial contact in the ED for 24% of children (range: 20% to 25%); a blood culture was conducted within 60 minutes of initial contact in the ED for 39% of children (range: 7% to 44%).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Keyton J, King T, Mabachi N, Manning J, Leonard L, Schill D. Content analysis procedure book. Lawrence (KS): University of Kansas; 2004. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: appropriate emergency department blood testing for children with sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium; 2014 Apr. 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Viera AJ, Garrett JM. Understanding interobserver agreement: the kappa statistic. Fam Med. 2005 May;37(5):360-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15883903&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;The eligible population for the denominator is the number of children younger than 18 years of age identified as having sickle cell disease (SCD) who presented to an emergency department (ED) with fever (defined as 38 degrees C [100.4 degrees F] or above) during the measurement year (January 1 to December 31) as documented in the medical record.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Eligible children are restricted to those with SCD variants identified in Table 1 of the original measure documentation, based on appropriate International Classification of Diseases, Ninth Revision (ICD-9) codes as documented in the medical record. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Intake Period&lt;/em&gt;: January 1 through December 31 of the measurement year. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Inpatient stays, outpatient visits, urgent care visits, and acute care (evaluation and management) visits with a primary care physician are excluded from the calculation. &lt;/li&gt;&#xA;    &lt;li&gt;Children with a diagnosis in the sampled medical record indicating one of the sickle cell disease variants listed in Table 3 of the original measure documentation should not be included in the eligible population &lt;em&gt;unless&lt;/em&gt; there is also a diagnosis for a sickle cell variant listed in Table 1. &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The eligible population for the numerator is the number of children younger than 18 years of age identified as having sickle cell disease (SCD) presenting to an emergency department (ED) with fever (defined as 38 degrees C [100.4 degrees F] or above) during the measurement year (January 1 to December 31), who had 1) a pulse oximetry reading, 2) a complete blood count, 3) a reticulocyte count, and 4) a blood culture within 60 minutes following initial contact.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Four individual numerators and one overall composite of the four numerators are calculated: &lt;/p&gt;&#xD;&#xA;&lt;ol start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pulse oximetry &amp;ndash; The number of eligible children who had a pulse oximetry reading performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Complete blood count &amp;ndash; The number of eligible children who had a complete blood count performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Reticulocyte count &amp;ndash; The number of eligible children who had a reticulocyte count performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Blood culture &amp;ndash; The number of children who had a blood culture performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Overall &amp;ndash; The number of eligible children who had pulse oximetry, a complete blood count, a reticulocyte count, and a blood culture performed within the same 60-minute period. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Initial Contact: &lt;/em&gt;Child's first presentation to ED staff. Use the earliest time stamp in the medical record. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence of a pulse oximetry reading, blood count, reticulocyte count, and blood culture is determined through medical record review of ED visits. Documentation in the medical record must include, at minimum, a note containing the time(s) at which pulse oximetry, a complete blood count, a reticulocyte count, and a blood culture were performed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The outpatient blood tests for the management of SCD are identified in Table 2 of the original measure documentation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is disaggregated according to the following definitions of the numerator:&lt;/p&gt;&#xA;&lt;ol start=&quot;1&quot;&gt;&#xA;    &lt;li&gt;Pulse oximetry &amp;ndash; The number of eligible children who had a pulse oximetry reading performed within 60 minutes following initial contact in the emergency department (ED). &lt;/li&gt;&#xA;    &lt;li&gt;Complete blood count &amp;ndash; The number of eligible children who had a complete blood count performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xA;    &lt;li&gt;Reticulocyte count &amp;ndash; The number of eligible children who had a reticulocyte count performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xA;    &lt;li&gt;Blood culture &amp;ndash; The number of eligible children who had a blood culture performed within 60 minutes following initial contact in the ED. &lt;/li&gt;&#xA;    &lt;li&gt;Overall &amp;ndash; The number of eligible children who had pulse oximetry, a complete blood count, a reticulocyte count, and a blood culture performed within the same 60-minute period. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This measure is calculated as four rates as well as an overall rate that is a composite of the four individual rates.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Appropriate emergency department blood testing for children with sickle cell disease.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Sickle Cell Disease Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) under the CHIPRA Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020516.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Sickle Cell Disease Measure Developers&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kevin J. Dombkowski, DrPH, MS, Research Associate Professor of Pediatrics, School of Medicine, University of Michigan &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;C. Jason Wang, MD, PhD, Associate Professor of Pediatrics, Stanford School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gary L. Freed, MD, MPH, Professor of Pediatrics, School of Medicine; Professor of Health Management and Policy, School of Public Health, University of Michigan &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Samir Ballas, MD, Professor, Division of Hematology, Thomas Jefferson University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mary E. Brown, President and Chief Executive Officer, Sickle Cell Disease Association, California &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;George Buchanan, MD, Pediatric Hematologist, University of Texas Southwest Medical Center at Dallas &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cathy Call, BSN, MSC, Senior Policy Analyst and Director for Health Quality Research, Altarum Institute &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J. Mitchell Harris, PhD, Director Research and Statistics, Children's Hospital Association (formerly NACHRI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kevin Johnson, Professor and Vice Chair of Biomedical Informatics, Vanderbilt University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Peter Lane, MD, Pediatric Hematologist-Oncologist, Children's Healthcare of Atlanta Pediatric Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Don Lighter, MD, MBA, FAAP, FACHE, Director, The Institute for Health Quality Research and Education &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sue Moran, BSN, MPH, Director of the Bureau of Medicaid Program Operations and Quality Assurance, Michigan Department of Community Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Suzette Oyeku, MD, Assistant Professor of Pediatrics, Albert Einstein College &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lynnie Reid, Parent Representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joseph Singer, MD, Vice President Clinical Affairs, HealthCore, Inc. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Elliott Vichinsky, MD, Pediatric Hematology-Oncology, Children's Hospital and Research Center &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Winfred Wang, MD, Hematologist, St. Jude Children's Hospital &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Apr" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://chear.org/sites/default/files/stories/pdfs/scd1_confirmtesting.pdf&quot; title=&quot;Q-METRIC Web site&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Web site&lt;/a&gt;. &lt;a href=&quot;http://www.chear.org/qmetric&quot; title=&quot;Q-METRIC Web site&quot;&gt;Support documents&lt;/a&gt; are also available.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Q-METRIC at 300 North Ingalls Street, Room 6C08, SPC 5456, Ann Arbor, MI 48109-5456; Phone: 734-232-0657; Fax: 734-764-2599.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 23, 2015. This NQMC summary was verified by the measure developer on March 2, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 7, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inform Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) if users implement the measures in their health care settings. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: appropriate emergency department blood testing for children with sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium; 2014 Apr. 46 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

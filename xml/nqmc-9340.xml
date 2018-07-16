@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Children at risk: percentage of children in the eligible population who turned age 1, 2 or 3 years identified at risk for developmental, behavioral and social delays who were referred for follow up.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life. Portland (OR): Oregon Health and Science University; 2013 Nov. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life: medical chart review specifications. Portland (OR): Oregon Health &amp; Science University; 2012 Mar. 41 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children in the eligible population who turned age 1, 2 or 3 years who had concerning results from a standardized screening test that assessed risk for developmental, behavioral and social delays and who had a referral for follow-up services documented in the medical record by their first, second, or third birthday, respectively. This includes providers beyond early intervention (EI).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Academy of Pediatrics (AAP) defines a developmental delay as a &quot;condition in which a child is not developing and/or achieving skills according to the expected time frame.&quot; A child that is developmentally challenged may face many barriers throughout life; these barriers are even more severe if a delay in development is not detected early. Delayed or disordered development can lead to further health and behavior problems, including failure in school and social and emotional problems (Council on Children With Disabilities et al., 2006).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Early identification of developmental disabilities through surveillance and screening can lead to timely evaluation, diagnosis and appropriate treatment, including developmental intervention. Developmental surveillance should be a component of every preventive care visit. Standardized developmental screening tools should be used when such surveillance identifies concerns about a child's development. Furthermore, it is recommended that standardized screening for developmental, behavioral and social delays occur at the 9-, 18-, and 24-month OR 30-month well visits.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pediatricians are not usually successful in identifying children with developmental delays without use of a standardized tool. (Hix-Small et al., 2007). These measures will encourage the use of standardized tools for developmental screening, as delineated by guidelines. Children who are identified earlier are more likely to have developmental promotion activities that can further improve the likelihood that they will be able to start school ready to learn.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is focused on accessing the Bright Futures recommendations related to developmental screening using a standardized tool and the related follow-up and care coordination steps articulated in the AAP statement on developmental screening to which the Bright Futures recommendations are based. This measure builds off the work and recommendations of the Assuring Better Child Health and Development (ABCD) effort related to screening, follow-up and care coordination.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council on Children With Disabilities, Section on Developmental Behavioral Pediatrics, Bright Futures Steering Committee, Medical Home Initiatives for Children With Special Needs Project Advisory Committee. Identifying infants and young children with developmental disorders in the medical home: an algorithm for developmental surveillance and screening. Pediatrics. 2006 Jul;118(1):405-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16818591&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Glascoe FP, Shapiro HL. Introduction to developmental and behavioral screening. Dev Behav Pediatr Online. 2007;:various.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hagan JF, Shaw JS, Duncan P, editor(s). Bright futures: guidelines for health supervision of infants, children and adolescents. 3rd ed. Arlington (VA): National Center for Education in Maternal and Child Health; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hix-Small H, Marks K, Squires J, Nickel R. Impact of implementing developmental screening at 12 and 24 months in a pediatric practice. Pediatrics. 2007 Aug;120(2):381-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17671065&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kaye N, May J. Findings from the ABCD Screening Academy: state policy improvements that support effective identification of children at risk for developmental delay. Portland (ME): National Academy for State Health Policy; 2009 Mar. 9 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kaye N, Rosenthal J. Improving the delivery of health care that supports young children’s healthy mental development: update on Accomplishments and Lessons from a Five-State Consortium. Portland (ME): National Academy for State Health Policy; 2008 Feb. 65 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life. Portland (OR): Oregon Health and Science University; 2013 Nov. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Plaza C, Rosenthal J, Hinkle L. The enduring influence of the Assuring Better Child Health and Development (ABCD) Initiative. Portland (ME): 2013 Jun 28. 28 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Developmental, behavioral and social delays; standardized screening tool; referral for follow-up services; at-risk children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children in the eligible population who turned 1, 2, or 3 years who had concerning results from a standardized screening test that assessed risk for developmental, behavioral and social delays that was documented in the medical record during the measurement year (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Children in the corresponding denominator who had a referral for follow-up services documented in the medical record by their first, second, or third birthday, respectively (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Approximately 12% to 18% of United States (U.S.) children may have a developmental and behavioral problem. However, only about two percent of children from birth to two years old receive the necessary early intervention services (Hix-Small et al., 2007). A child who is identified as having a delay in development by the time he starts school and participates in early intervention programs is more likely to graduate high school, hold a job, live independently, and avoid teen pregnancy, delinquency and violent crimes&amp;mdash;representing a saved cost to society of between $30,000 and $100,000 per child (Glascoe &amp;amp; Shapiro, 2007). Studies have shown that developmental surveillance based on non-standardized clinical judgment and observation alone does not accurately identify children with delays. Therefore, national recommendations call for routine, standardized screening of children three times in the first three years (at the 9-, 18- and 24- or 30-month well-visit). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Findings from the National Survey of Children's Health show that only 19.5% of children are screened in the first five years of life. Despite the evidence, the use of standardized developmental screening tools is uncommon; only about 20% of physicians routinely use developmental screening tests (The Commonwealth Fund, 2008). One study found that pediatricians failed to identify and refer 60% to 80% of children with developmental delays in a timely manner. Another study found that 68% of children with delays were not detected by pediatricians. Though many significant delays occur before school age, less than 50% of children with delays are identified before starting school&amp;mdash;leading to missed opportunities for treatment (Hix-Small et al., 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies suggest income disparities exist for developmental screening. One study found that only 23% of low-income children receive recommended preventive and developmental services (Bethell et al., 2002). The Early Intervention Periodic Screening, Diagnosis and Treatment (EPSDT) benefit for Medicaid children includes screening at each visit; however, as of 2007, 28 states were engaged in lawsuits due to a failure to properly deliver this service (Glascoe &amp;amp; Shapiro, 2007). Another study found that children most at risk for school difficulty were those whose mothers had less than a high school education, those who came from single-mother families, those who had received public assistance, and those who lived in families in which the primary language was not English (High, 2008). Specifically related to screening, the National Survey of Children's Health found that while improvements were needed in increasing screening for all children, significant variations existed in the rates of screening by race-ethnicity and insurance status. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Studies also suggest that the use of a validated developmental screening questionnaire is more cost-effective method to identify developmental delay when compared to yearly professional assessments. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Both research and demonstrated quality improvement activities such as the Assuring Better Child Health and Development (ABCD) Screening Academy have shown that providers can feasibly and sustainably implement standardized screening, and when done so, more children are referred to Early Intervention and other services and that the kinds and types of referrals performed are more appropriate than was previously done without standardized screening. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A recent American Academy of Pediatrics (AAP) Periodic Survey of Fellows found that the percentage of pediatricians who reported using more than one standardized tool more than doubled between 2002 and 2009, demonstrating significant improvement after changes in AAP policy, enhanced guidance on reimbursement, and increased emphasis on developmental screening through research and educational programs as well as the new Bright Futures guidelines. However, approximately half of the pediatricians reported that they did not routinely use the recommended formal screening tools with patients younger than 36 months of age. Many pediatricians continue to rely on informal checklists completed by the pediatrician, office staff, and/or parents. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When a child has a positive screening result for a developmental problem, developmental and medical evaluations to identify the specific developmental disorders and related medical problems are warranted. Children diagnosed with developmental disorders should be identified as children with special health care needs; chronic-condition management for these children should be initiated. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;It is important to note that is measure does not included standardized screening for a specific domain of development (e.g., social emotional screening via the ASQ-SE, autism screening) as it is anchored to recommendations focused on global developmental screening using tools that focus on identifying risk for developmental, behavioral and social delays. National recommendations also call for autism screening at the 18-month and 24-month well-visit and future, separate measures may specified and build off the data collection efforts used for this measure to capture domain-specific screening. Additionally, many of the ABCD states included a distinct focus on complementary, but separate, screening specifically focused on social-emotional development (using tools such as the ASQ-SE). Similarly, future efforts may maximize the data collection efforts for this measure to include additional specifications focused specifically on social-emotional screening so that a separate measure may be calculated. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bethell C, Peck C, Abrams M, Halfon N, Sareen H, Scott Collins K. Partnering with parents to promote the healthy development of young children enrolled in Medicaid: results from a survey assessing the quality of preventive and developmental services for young children enrolled in Medicaid in three states. Washington (DC): The Commonwealth Fund; 2002 Sep. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Glascoe FP, Shapiro HL. Introduction to developmental and behavioral screening. Dev Behav Pediatr Online. 2007;:various.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;High PC. School readiness. Pediatrics. 2008 Apr;121(4):e1008-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18381499&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hix-Small H, Marks K, Squires J, Nickel R. Impact of implementing developmental screening at 12 and 24 months in a pediatric practice. Pediatrics. 2007 Aug;120(2):381-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17671065&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life. Portland (OR): Oregon Health and Science University; 2013 Nov. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Commonwealth Fund. Quality matters, May/June 2008. [internet]. Washington (DC): The Commonwealth Fund; 2008 May 6&amp;nbsp;[16 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure was tested in eight managed care organizations who participated in the Assuring Better Child Health and Development (ABCD) III Performance Improvement Project in Oregon. Each managed care organization identified a sample that met the inclusion criterion. A total of 1,082 medical charts were reviewed and data analyzed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life. Portland (OR): Oregon Health and Science University; 2013 Nov. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 3 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator 1&lt;/span&gt;: Children in the eligible population who turned 1 year who had concerning results from a standardized screening test that assessed risk for developmental, behavioral and social delays (Fields 2.4 through 2.14*) that was documented in the medical record during the measurement year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator 2&lt;/span&gt;: Children in the eligible population who turned 2 years who had concerning results from a standardized screening test that assessed risk for developmental, behavioral and social delays (Fields 2.4 through 2.14) that was documented in the medical record during the measurement year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator 3&lt;/span&gt;: Children in the eligible population who turned 3 years who had concerning results from a standardized screening test that assessed risk for developmental, behavioral and social delays (Fields 2.4 through 2.14) that was documented in the medical record during the measurement year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator 4&lt;/span&gt;: The entire sample. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For children to be considered referred, they have had:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A screening test for risk for developmental, behavioral and social delays using a standardized screening tool (Field 2.1). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Concerning screening results documented in the medical record by their provider (Fields 2.4 through 2.14). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;*Field numbers correspond to OPIP Medical Abstraction Tool.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Eligible population:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Continuous Enrollment&lt;/em&gt;:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;For children 1 year: 31 days - 1 year of age. Calculate 31 days of age by adding 31 days to the child's date of birth. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;For children 2 years: Children who are enrolled continuously for 12 months prior to the child's 2nd birthday. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;For children 3 years: Children who are enrolled continuously for 12 months prior to the child's 3rd birthday. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Allowable Gap&lt;/em&gt;: No more than one gap in enrollment of up to 45 days during the measurement year. To determine continuous enrollment for a Medicaid beneficiary for whom enrollment is verified monthly, the beneficiary may not have more than a 1-month gap in coverage (i.e., a beneficiary whose coverage lapses for 2 months [60 days] is not considered continuously enrolled). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Anchor Date&lt;/em&gt;: Enrolled on the member's 1st, 2nd or 3rd birthday. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Event/Diagnosis&lt;/em&gt;: Age-specific well-child visit:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;For children 1 year: The 9 month well-child visit. This visit includes any well-child visit between 8 and 10.99 months of age. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;For children 2 years: The 18 month well-child visit. This visit includes any well-child visit between 17 and 21.99 months of age. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;For children 3 years: The 24 month well-child visit. This visit includes any well-child visit between 22 months and 32.50 months of age. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Exclude eligible children from the denominator for whom the provider made a note about not administering the standardized screening tool due to existing, identified conditions, and/or for whom the screening tool would not, in their clinical judgment, be applicable or useful. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medical factors addressed and noted in the chart by the provider about why they didn't administer the screening tool. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator 1&lt;/span&gt;: Children in Denominator 1 who had a referral for follow-up services* documented in the medical record (Fields 3.1 and/or 3.14**) by their 1st birthday &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator 2&lt;/span&gt;: Children in Denominator 2 who had a referral for follow-up services* documented in the medical record (Fields 3.1 and/or 3.14) by their 2nd birthday &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator 3&lt;/span&gt;: Children in Denominator 3 who had a referral for follow-up services* documented in the medical record (Fields 3.1 and/or 3.14) by their 3rd birthday &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator 4&lt;/span&gt;: Children in Denominator 4 who had a referral for follow-up services* documented in the medical record (Fields 3.1 and/or 3.14) by their 1st, 2nd or 3rd birthday &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;*This includes providers beyond early intervention (EI).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;**Field numbers correspond to OPIP Medical Abstraction Tool.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Developmental, behavioral and social delays screening documentation must include all of the following:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;A note indicating the date on which the test (screening) was performed (Field 2.2), and &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The standardized tool used (Field 2.3), and &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Evidence of a screening result or screening score (Fields 2.4 through 2.14). &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Referral documentation must include all of the following:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;The date of referral (Fields 3.1 and/or 3.14) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Current recommended tools that meet these criteria:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Ages and Stages Questionnaire (ASQ) - 2 months &amp;ndash; 5 years &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Ages and Stages Questionnaire - 3rd Edition (ASQ-3) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Battelle Developmental Inventory Screening Tool (BDI-ST) - Birth &amp;ndash; 95 months &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Bayley Infant Neuro-developmental Screen (BINS) - 3 months &amp;ndash; 2 years &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Brigance Screens-II - Birth &amp;ndash; 90 months &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Child Development Inventory (CDI) - 18 months &amp;ndash; 6 years &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Infant Development Inventory - Birth &amp;ndash; 18 months &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Parents' Evaluation of Developmental Status (PEDS) - Birth &amp;ndash; 8 years &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The following five step scoring process is recommended for this measure:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Step 1: Determine the denominator (See specifications for each measure)&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Identify the denominator for each age-specific indicator &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Step 2: Determine the numerator (See specifications for each measure) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Step 3: Calculate the age-specific indicators (1-3) by dividing the numerator by the denominator and multiplying by 100 to get a percentage. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Step 4: Create the measure based on the age-specific measures.&#xD;&#xA;        &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;            &lt;li&gt;Numerator: Numerator for Indicator 1 + Numerator for Indicator 2+ Numerator for Indicator3 (Divided by) &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;Denominator: Denominator for Indicator 1 + Denominator for Indicator 2+ Denominator for Indicator 3 &lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Step 5: Multiply by 100 to get the proportion percentage &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Oregon Pediatric Improvement Partnership (OPIP) Medical Abstraction Tool&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Report three age stratifications and a total rate for all eligible children:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;1 year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;3 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The total is the sum of the age stratifications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #3: proportion of children identified at risk for developmental, behavioral and social delays and/or with developmental disabilities who were referred for follow-up.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Developmental Screening in the First Three Years of Life" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Colleen Reuland on behalf of the Oregon Pediatric Improvement Partnership at Oregon Health and Science University - Independent Author(s)" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Oregon Pediatric Improvement Partnership - Academic Institution" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This medical chart specifications were developed under the rubric of a contract from the Oregon Division of Medical Assistance (now termed Oregon Health Authority) as part of the Assuring Better Child Health and Development (ABCD) efforts.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ms. Reuland led the measure development in collaboration with the Charles Gallia, PhD. The measure specifications were reviewed by the advisory committee of the Oregon Assuring Better Child Health and Development (ABCD) effort that included managed care plans, other state agency representatives, pediatric primary care providers, specialists in pediatric development, private health care providers and public health, particularly maternal/child health and early child education and mental health professionals.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The author does not have a conflict of interest or financial interest to disclose.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://oregon-pip.org/resources/ABCD%20III_MedChartReview-%20FINAL%20FOR%20NQMC.pdf&quot; title=&quot;OPIP Web site&quot;&gt;Oregon Pediatric Improvement Partnership (OPIP) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Colleen Peck Reuland, MS, Executive Director of OPIP at 707 SW Gaines Road, Portland, OR 97239-3098; Phone: 503-494-0456; Fax: 503-494-1542; Web site: &lt;a href=&quot;http://www.oregon-pip.org&quot; title=&quot;OPIP Web site&quot;&gt;www.oregon-pip.org&lt;/a&gt;; Email: &lt;a href=&quot;mailto:reuland@ohsu.edu&quot;&gt;reuland@ohsu.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 13, 2014. The information was verified by the measure developer on June 18, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Colleen Peck Reuland, MS, Executive Director of the Oregon Pediatric Improvement Partnership (OPIP) at 707 SW Gaines Road, Portland, OR 97239-3098; Phone: 503-494-0456; Fax: 503-494-1542; Web site: &lt;a href=&quot;http://www.oregon-pip.org&quot;&gt;www.oregon-pip.org&lt;/a&gt;; Email: &lt;a href=&quot;mailto:reuland@ohsu.edu&quot;&gt;reuland@ohsu.edu&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life. Portland (OR): Oregon Health and Science University; 2013 Nov. 21 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Oregon Pediatric Improvement Partnership. Standardized developmental screening, referral to early intervention (EI) for children identified at risk for developmental, behavioral and social delays and provider feedback from EI, in the first three years of life: medical chart review specifications. Portland (OR): Oregon Health &amp; Science University; 2012 Mar. 41 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

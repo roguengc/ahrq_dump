@@ -1,0 +1,243 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Utilization of the PHQ-9 to monitor depression symptoms for adolescents and adults: percentage of members 12 and older with a diagnosis of major depression or dysthymia who are included in an electronic clinical data system (ECDS).&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of members 12 years of age and older with a diagnosis of major depression or dysthymia who are included in an electronic clinical data system (ECDS).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related National Quality Measures Clearinghouse (NQMC) summary of the National Committee for Quality Assurance (NCQA) measure &lt;a href=&quot;/content.aspx?id=49849&quot; title=&quot;Measure Summary&quot; target=&quot;_blank&quot;&gt;Utilization of the PHQ-9 to monitor depression symptoms for adolescents and adults: percentage of members 12 and older with a diagnosis of major depression or dysthymia who are covered by an electronic clinical data system (ECDS) who have either a PHQ-9 or PHQ-A score present in their record&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Major depressive disorder (MDD) is a leading cause of disability worldwide, affecting an estimated 120 million people (Murray et al., 2012). The lifelong prevalence is estimated to range from 10 to 15 percent (L&amp;eacute;pine &amp;amp; Briley, 2011). In the United States (U.S.), 15.7 percent of people report that at some point in their lifetime they were told by a health care professional that they had depression (Centers for Disease Control and Prevention [CDC], 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Depression is also associated with other chronic medical conditions and increased morbidity and mortality. The mortality risk for suicide in depressed patients is more than 20-fold greater than in the general population (Bostwick &amp;amp; Pankratz, 2000). In terms of other chronic conditions, depression is associated with a 60 percent increased risk of type 2 diabetes (Mezuk et al., 2008) and has been identified as a risk factor for development of cardiovascular disease (Van der Kooy et al., 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In adolescents, depression can also result in serious long-term morbidities such as generalized anxiety disorder and panic disorder or lead to engagement in risky behaviors such as substance use (Taylor et al., 1996; Foley, Carlton, &amp;amp; Howell, 1996; Friedman et al., 1996). Adolescent-onset depression increases the risk of attempted suicide by five-fold, compared with nondepressed adolescents (Garber et al., 2009). Most adolescents who commit suicide - the third leading cause of death among 15 to 24 year olds - have a previous history of depression (Williams et al., 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Depression has large effects on both health care costs and lost productivity. Adolescents with depression have higher medical expenditures, including those related to general and mental health care, than adolescents without a diagnosis of depression (O'Connor et al., 2009). A recent study showed a relationship between the severity of depression symptoms and work function in working-age adults, and found that for every 1-point increase in the Patient Health Questionnaire (PHQ-9) score (a measure of depression severity), patients experienced an additional mean productivity loss of 1.65 percent. In a survey study, Birnbaum et al. (2010) found that major depressive disorder severity is significantly associated with increased treatment usage and costs, unemployment, disability and reduced work performance. When the results of the study were projected to the U.S. workforce, it was estimated that monthly depression-related worker productivity losses had human capital costs of nearly $2 billion.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Numerous studies have found that patient outcomes improve when there is collaboration between a primary care doctor, case manager and a mental health specialist to screen for depression, monitor symptoms, provide treatment and refer to specialty care as needed (Von Korff &amp;amp; Goldberg, 2001; Gilbody et al., 2006; Thota et al., 2012; Katon &amp;amp; Seelig, 2008; Un&amp;uuml;tzer et al., 2002). Standardized instruments are useful in identifying meaningful change in clinical outcomes over time. Guidelines recommend that providers establish and maintain regular follow-up with patients diagnosed with depression and use a standardized tool to track symptoms (Mitchell et al., 2013; Cheung et al., 2007).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Birnbaum HG, Kessler RC, Kelley D, Ben-Hamadi R, Joish VN, Greenberg PE. Employer burden of mild, moderate, and severe major depressive disorder: mental health services utilization and costs, and work performance. Depress Anxiety. 2010;27(1):78-89. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19569060&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bostwick JM, Pankratz VS. Affective disorders and suicide risk: a reexamination. Am J Psychiatry. 2000 Dec;157(12):1925-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11097952&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Anxiety and depression effective treatments exist: people with depression and anxiety should seek help as early as possible to reduce health effects and improve quality of life. Based on 2006 Behavior Risk Factor Surveillance System. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2009.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cheung AH, Zuckerbrot RA, Jensen PS, Ghalib K, Laraque D, Stein RE, GLAD-PC Steering Group. Guidelines for Adolescent Depression in Primary Care (GLAD-PC): II. Treatment and ongoing management. Pediatrics. 2007 Nov;120(5):e1313-26. [91 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17974724&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Foley HA, Carlton CO, Howell RJ. The relationship of attention deficit hyperactivity disorder and conduct disorder to juvenile delinquency: legal implications. Bull Am Acad Psychiatry Law. 1996;24(3):333-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8889133&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman RM, Katz-Levey JW, Manderscheid RW, Sondheimer DL. Prevalence of serious emotional disturbance in children and adolescents. In: Manderscheid RW, Sonnenschein MA, editor(s). Mental health, United States. Rockville (MD): Substance Abuse and Mental Health Services Administration; 1996. p. 71-8.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Garber J, Clarke GN, Weersing VR, Beardslee WR, Brent DA, Gladstone TR, DeBar LL, Lynch FL, D'Angelo E, Hollon SD, Shamseddeen W, Iyengar S. Prevention of depression in at-risk adolescents: a randomized controlled trial. JAMA. 2009 Jun 3;301(21):2215-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19491183&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gilbody S, Bower P, Fletcher J, Richards D, Sutton AJ. Collaborative care for depression: a cumulative meta-analysis and review of longer-term outcomes. Arch Intern Med. 2006 Nov 27;166(21):2314-21. [72 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17130383&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Katon WJ, Seelig M. Population-based care of depression: team care approaches to improving outcomes. J Occup Environ Med. 2008 Apr;50(4):459-67. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18404019&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lépine JP, Briley M. The increasing burden of depression. Neuropsychiatr Dis Treat. 2011;7(Suppl 1):3-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21750622&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mezuk B, Eaton WW, Albrecht S, Golden SH. Depression and type 2 diabetes over the lifespan: a meta-analysis. Diabetes Care. 2008 Dec;31(12):2383-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19033418&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mitchell J, Trangle M, Degnan B, Gabert T, Haight B, Kessler D, Mack N, Mallen E, Novak H, Rossmiller D, Setterlund L, Somers K, Valentino N, Vincent S. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Sep. 129 p.  [334 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Murray CJ, Vos T, Lozano R, Naghavi M, Flaxman AD, Michaud C, Ezzati M, Shibuya K, Salomon JA, Abdalla S, Aboyans V, Abraham J, Ackerman I, Aggarwal R, Ahn SY, Ali MK, Alvarado M, Anderson HR, Anderson LM, Andrews KG, Atkinson C, Baddour LM, Bahalim AN, Barker-Collo S, Barrero LH, Bartels DH, Basáñez MG, Baxter A, Bell ML, Benjamin EJ, Bennett D, Bernabé E, Bhalla K, Bhandari B, Bikbov B, Bin Abdulhak A, Birbeck G, Black JA, Blencowe H, Blore JD, Blyth F, Bolliger I, Bonaventure A, Boufous S, Bourne R, Boussinesq M, Braithwaite T, Brayne C, Bridgett L, Brooker S, et al. Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010. Lancet. 2012 Dec 15;380(9859):2197-223. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23245608&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;O'Connor EA,  Whitlock EP,  Beil TL,  Gaynes BN. Screening for depression in adult patients in primary care settings: A systematic evidence review. Ann Intern Med. 2009 Dec 1;151(11):793-803. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19949145&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Taylor E, Chadwick O, Heptinstall E, Danckaerts M. Hyperactivity and conduct problems as risk factors for adolescent development. J Am Acad Child Adolesc Psychiatry. 1996 Sep;35(9):1213-26. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8824065&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thota AB, Sipe TA, Byard GJ, Zometa CS, Hahn RA, McKnight-Eily LR, Chapman DP, Abraido-Lanza AF, Pearson JL, Anderson CW, Gelenberg AJ, Hennessy KD, Duffy FF, Vernon-Smiley ME, Nease DE Jr, Williams SP, Community Preventive Services Task Force. Collaborative care to improve the management of depressive disorders: a community guide systematic review and meta-analysis. Am J Prev Med. 2012 May;42(5):525-38. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22516495&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Unützer J, Katon W, Callahan CM, Williams JW Jr, Hunkeler E, Harpole L, Hoffing M, Della Penna RD, Noel PH, Lin EH, Arean PA, Hegel MT, Tang L, Belin TR, Oishi S, Langston C. Collaborative care management of late-life depression in the primary care setting: a randomized controlled trial. JAMA. 2002 Dec 11;288(22):2836-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12472325&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Van der Kooy K, van Hout H, Marwijk H, Marten H, Stehouwer C, Beekman A. Depression and the risk for cardiovascular diseases: systematic review and meta analysis. Int J Geriatr Psychiatry. 2007 Jul;22(7):613-26. [45 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17236251&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Von Korff M, Goldberg D. Improving outcomes in depression. BMJ. 2001 Oct 27;323(7319):948-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11679372&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Williams SB, O'Connor EA, Eder M, Whitlock EP. Screening for child and adolescent depression in primary care settings: a systematic evidence review for the US Preventive Services Task Force. Pediatrics. 2009 Apr;123(4):e716-35. [88 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19336361&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Major depression; dysthymia; electronic clinical data system (ECDS); adolescents &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Members age 12 years and older as of January 1 of the measurement year with an active diagnosis of major depression or dysthymia (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All members for whom a plan can receive HEDIS measure electronic clinical data system (ECDS) data (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA's) Committee on Performance Measurement and Board of Directors. Where applicable, measures also are assessed for construct validity using the Pearson correlation test. All measures undergo formal reliability testing of the performance measure score using beta-binomial statistical analysis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Mar 16. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Behavioral Health Care" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 12 years and older&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Members age 12 years and older as of January 1 of the measurement year with an active diagnosis of major depression or dysthymia&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To identify the eligible population:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Identify all members in claims with an active diagnosis of major depression or dysthymia (Major Depression and Dysthymia Value Set) that starts before the beginning of the measurement year or during the measurement year. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Identify all members from the previous step with an active diagnosis of depression that starts before or occurs during an outpatient encounter (Depression Encounter Value Set) during the measurement year. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Members must have been continuously enrolled during the measurement year.&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Allowable Gap&lt;/em&gt;: No more than one gap in enrollment of up to 45 days during the measurement year. To determine continuous enrollment for a Medicaid beneficiary for whom enrollment is verified monthly, the member may not have more than a 1-month gap in coverage.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for steps to identify the eligible population.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude members with an active diagnosis from any of the following value sets, at any time during the measurement year:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Bipolar disorder (Bipolar Disorder Value Set: Bipolar Disorder ECDS Value Set; Other Bipolar Disorder Value Set) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Personality disorder (Personality Disorder Value Set) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Psychotic disorder (Psychotic Disorders Value Set) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Autism spectrum disorder (Pervasive Developmental Disorder Value Set) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/catalog/category/view/s/hedis-2016/id/58/&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase HEDIS Volume 2, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All members for whom a plan can receive HEDIS measure electronic clinical data system (ECDS) data&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;ECDS&lt;/em&gt;: A structured, electronic version of a patient's comprehensive medical experiences, maintained over time, that may include some or all key administrative clinical data relevant to care (e.g., demographics, progress notes, problems, medications, vital signs, past medical history, social history, immunizations, laboratory data, radiology reports). The ECDS provides automated access to comprehensive information and can create data files for quality reporting. The ECDS may also support other care-related activities directly or indirectly through various interfaces, including evidence-based decision support, quality management and outcome reporting. To qualify for this measure, ECDS data must be automated data that is accessible by the healthcare team at the point of care (e.g., electronic health records, registries and case management or disease management systems to which any provider interacting with the member has access to the clinical interface). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/catalog/category/view/s/hedis-2016/id/58/&quot; title=&quot;NCQA Web site&quot;&gt;NCQA Web site&lt;/a&gt; to purchase HEDIS Volume 2, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure requires that separate rates be reported for commercial, Medicare, and Medicaid product lines. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Report four age stratifications and a total rate:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;12 to 17 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;18 to 44 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;45 to 64 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;65+ years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The total rate is the sum of the age stratifications. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Utilization of the PHQ-9 to monitor depression symptoms for adolescents and adults (DMS): inclusion in ECDS rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="HEDIS 2016: Health Plan Collection" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Measures Collected Using Electronic Clinical Data Systems" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;&gt;National Committee for Quality Measurement (NCQA) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical update. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct 1. 12 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the National Committee for Quality Assurance (NCQA) at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 14, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Content adapted and reproduced with permission from the National Committee for Quality Assurance (NCQA). HEDIS&amp;reg; is a registered trademark of NCQA. HEDIS measures and specifications were developed by and are owned and copyrighted by NCQA. HEDIS measures and specifications are not clinical guidelines and do not establish a standard of medical care. NCQA makes no representations, warranties, or endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measures or specifications. Limited proprietary coding is contained in the measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. NCQA disclaims all liability for use or accuracy of any coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Anyone desiring to use or reproduce the measure abstracts without modification for a non-commercial purpose may do so without obtaining any approval from NCQA. All commercial uses of the measure abstracts must be approved by NCQA and are subject to a license at the discretion of NCQA. To purchase copies of the full measures and specifications, which contain additional distribution and use restrictions, contact NCQA Customer Support at 888-275-7585 or visit &lt;a href=&quot;https://www.ncqa.org/publications&quot; title=&quot;National Committee for Quality Assurance (NCQA) Web site&quot;&gt;www.ncqa.org/publications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,243 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Outpatient surgery: facility-level, post-surgical risk-standardized hospital visit ratio (RSHVR) of the predicted to expected number of all-cause, unplanned hospital visits within 7 days of a same-day surgery at a hospital outpatient department (HOPD) among Medicare fee-for-service (FFS) patients aged 65 years and older.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the facility-level, post-surgical risk-standardized hospital visit ratio (RSHVR) of the predicted to expected number of all-cause, unplanned hospital visits within 7 days of a same-day surgery at a hospital outpatient department (HOPD) among Medicare fee-for-service (FFS) patients aged 65 years and older.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure will be publically reported in both the Outpatient Quality Reporting (OQR) program.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Outpatient same-day surgery is exceedingly common in the United States. Unanticipated hospital visits following same-day surgery reflect quality of care. While most outpatient surgery is safe, there are well-described and potentially preventable adverse events that occur after outpatient surgery, which can result in unanticipated hospital visits. Similarly, direct admissions after surgery that are primarily caused by non-clinical patient considerations, such as lack of transport home upon discharge, or facility logistical issues, such as delayed start of surgery, are common causes of unanticipated yet preventable hospital admissions following same-day surgery. A quality measure of hospital visits following outpatient same-day surgery can improve transparency, inform patients and providers, and foster quality improvement.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Outpatient surgery; inpatient admission; observation stay; emergency department (ED) visit&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Outpatient same-day surgeries performed at hospital outpatient departments (HOPDs) for Medicare fee-for-service (FFS) patients aged 65 years and older with the exception of eye surgeries and same day surgeries performed concurrently with high-risk procedures (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The outcome is all-cause unplanned hospital visits, defined as 1) an inpatient admission directly after the surgery or 2) an unplanned hospital visit (emergency department [ED] visit, observation stay, or unplanned inpatient admission) occurring after discharge from the HOPD and within 7 days of the outpatient surgery.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Due to advances in surgical and anesthetic techniques, nearly 70% of all surgical procedures in the United States (U.S.) are now performed in the outpatient setting (Cullen, Hall, &amp;amp; Golosinskiy, 2009), with many of these performed at hospital outpatient departments (HOPDs) as same-day surgeries (Russo et al., 2006). Same-day surgery offers significant patient benefits as compared with inpatient surgery, including shorter waiting times, avoidance of hospitalizations, and rapid return home (Lemos, Jarrett, &amp;amp; Phillip, 2006). Furthermore, same-day surgery costs significantly less than an equivalent inpatient surgery and therefore presents a significant cost saving opportunity to the health system (Lemos, Jarrett, &amp;amp; Phillip, 2006). With the ongoing shift towards outpatient surgery, assessing the quality of surgical care provided by HOPDs has become increasingly important. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A hospital visit following same-day surgery is an unexpected and potentially preventable outcome for patients who have a low anticipated risk. In the literature reported, hospital visit rates following surgery vary from 0.5% to 9.0% based on the type of surgery, outcome measured (admissions alone or admissions and emergency department [ED] visits), and timeframe for measurement after surgery (Majholm et al., 2012; Linares-Gil et al., 1997; Fleisher et al. 2004; Coley et al, 2002; Hollingsworth et al., 2012; Bain et al., 1999; Fortier, Chung, &amp;amp; Su, 1998; Aldwinckle &amp;amp; Montgomery, 2004). These hospital visits can occur due to a range of well-described adverse events, including major adverse events such as bleeding, wound infection, septicemia, and venous thromboembolism. Patients also frequently report minor adverse events such as uncontrolled pain, nausea, and vomiting that may result in unplanned hospitalization following surgery. Furthermore, admissions for primarily non-clinical reasons, such as lack of transport home, and admissions for logistical issues, such as delayed start of surgery, are common causes of unanticipated and potentially avoidable hospital admissions following same-day surgery. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospital visit rates vary among HOPDs, suggesting variation in surgical care quality among HOPDs (Bain et al., 2007). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Aldwinckle RJ, Montgomery JE. Unplanned admission rates and postdischarge complications in patients over the age of 70 following day case surgery. Anaesthesia. 2004 Jan;59(1):57-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14687100&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bain J, Kelly H, Snadden D, Staines H. Day surgery in Scotland: patient satisfaction and outcomes. Qual Health Care. 1999 Jun;8(2):86-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10557683 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Coley KC, Williams BA, DaPos SV, Chen C, Smith RB. Retrospective evaluation of unanticipated admissions and readmissions after same  day surgery and associated costs. J Clin Anesth. 2002 Aug;14(5):349-53. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12208439&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cullen KA, Hall MJ, Golosinskiy A. Ambulatory surgery in the United States, 2006. Natl Health Stat Report. 2009 Jan 28;(11):1-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19294964&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fleisher LA, Pasternak LR, Herbert R, Anderson GF. Inpatient hospital admission and death after outpatient surgery in elderly patients: importance of patient and system characteristics and location of care. Arch Surg. 2004 Jan;139(1):67-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14718279&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fortier J, Chung F, Su J. Unanticipated admission after ambulatory surgery--a prospective study. Can J Anaesth. 1998 Jul;45(7):612-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9717590&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hollingsworth JM, Saigal CS, Lai JC, Dunn RL, Strope SA, Hollenbeck BK, Urologic Diseases in America Project. Surgical quality among Medicare beneficiaries undergoing outpatient urological surgery. J Urol. 2012 Oct;188(4):1274-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22902012 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lemos P, Jarrett P, Phillip B, editor(s). Day surgery: development and practice. London (UK): International Association for Ambulatory Surgery (IASS); 2006 Apr. 346 p.  [52 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Linares-Gil MJ, Pelegri-Isanta MD, Pi-Siqués F, Amat-Rafols S, Esteva-Ollé MT, Gomar C. Unanticipated admissions following ambulatory surgery. Ambul Surg. 1997;5(4):183-8.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Majholm B, Engbæk J, Bartholdy J, Oerding H, Ahlburg P, Ulrik AM, Bill L, Langfrits CS, Møller AM. Is day surgery safe? A Danish multicentre study of morbidity after 57,709 day surgery procedures. Acta Anaesthesiol Scand. 2012 Mar;56(3):323-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22335277 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Russo A, Elixhauser A, Steiner C, Wier L. Hospital-based ambulatory surgery, 2007: statistical brief #86. Healthcare Cost and Utilization Project (HCUP) statistical briefs. Rockville (MD): Agency for Healthcare research and Quality (AHRQ); 2006. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation-Center for Outcomes Research and Evaluation (YNHHSC/CORE). 2016 measure updates and specifications report: hospital visits after hospital outpatient surgery measure (risk-standardized hospital visits within 7 days after hospital outpatient surgery measure). Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Jun. 58 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services (CMS) tested the final measure specifications against the National Quality Forum's (NQF's) criteria for scientific soundness and importance, including evaluating the measure score variation. Using a 20% sample of Medicare data from 2010, the national observed rate of hospital visits following same-day surgery at hospital outpatient departments (HOPDs) was 10.0%. The facility-level risk-standardized hospital visit ratio (RSHVR) showed significant variation. Using bootstrapping techniques, CMS constructed 95% interval estimates (similar to confidence intervals) and used the estimates to place HOPDs into three performance categories: worse than expected, no different than expected, and better than expected. Based on this technique they categorized 80 HOPDs as worse than expected, 4,119 as no different than expected, and 35 as better than expected.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yale New Haven Health Services Corporation-Center for Outcomes Research and Evaluation (YNHHSC/CORE). 2016 measure updates and specifications report: hospital visits after hospital outpatient surgery measure (risk-standardized hospital visits within 7 days after hospital outpatient surgery measure). Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Jun. 58 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 65 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Encounter dates: January 1 to December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Outpatient same-day surgeries performed at hospital outpatient departments (HOPDs) for Medicare fee-for-service (FFS) patients aged 65 years and older with the exception of eye surgeries and same day surgeries performed concurrently with high-risk procedures&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Included Populations&lt;/em&gt;: The target population is Medicare FFS patients aged 65 years and older undergoing same-day surgery (those that do not typically require an overnight stay) at HOPDs. The measure is limited to patients who have been enrolled in Part A and Part B Medicare for the 12 months prior to the date of surgery to ensure adequate data for identifying comorbidities for risk adjustment. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure includes surgeries for which a physician claim identifies a qualifying surgery as having been performed in an outpatient setting, and matches to a hospital facility claim to identify the HOPD where the surgery took place. Surgeries for which a facility claim is not filed are not included in the measure cohort.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&quot;Same-day surgeries&quot; are substantive surgeries listed on Medicare's list of covered ambulatory surgery center (ASC) procedures. The lists are posted on the &lt;a href=&quot;https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/ASCPayment/11_Addenda_Updates.html&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure cohort does not include eye surgeries. Although eye surgery is considered a substantive surgery, its risk profile is more representative of &quot;minor&quot; surgery, in that it is characterized by high volume and a low outcome. The CMS includes cystoscopy with intervention because it is a common procedure, often performed for therapeutic intervention by surgical teams, and our preliminary analysis indicated an outcome rate and causes of hospital visits post-procedure similar to other surgeries in the measure cohort. Where multiple procedures occur concurrently, CMS only includes surgeries that are performed concurrently with another low to moderate risk procedure. CMS does not include same-day surgeries performed concurrently with a higher risk procedure such as an inpatient-only surgery. Refer to the original measure documentation and the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Measure Updates and Specifications Report: Hospital Visits after Hospital Outpatient Surgery Measure (Risk-standardized Hospital Visits within 7 Days after Hospital Outpatient Surgery Measure)&lt;/a&gt;&lt;/em&gt; for additional details (see the &quot;Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Surgeries for patients without continuous enrollment in Medicare FFS Parts A and B in the 7 days after the surgery. The measure excludes these patients to ensure all patients have full data available for outcome assessment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Surgeries for patients who have an emergency department (ED) visit on the same day but billed on a separate claim, unless ED visit has a diagnosis indicative of a complication of care. The measure excludes these surgeries because the sequence of events in not clear. However, the measure does not exclude surgeries with same-day, separate-claim ED visits if the diagnoses are indicative of a complication of care because we want to continue to capture these outcomes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The outcome is all-cause unplanned hospital visits, defined as 1) an inpatient admission directly after the surgery or 2) an unplanned hospital visit (emergency department [ED] visit, observation stay, or unplanned inpatient admission) occurring after discharge from the hospital outpatient department (HOPD) and within 7 days of the outpatient surgery.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Admissions identified as planned by the planned admission algorithm are not counted in the outcome. The &quot;algorithm&quot; is a set of criteria for classifying admissions as planned using Medicare claims. The algorithm identifies admissions that are typically planned and may occur within 7 days of an outpatient colonoscopy. Centers for Medicare &amp;amp; Medicaid Services (CMS) based the planned admission algorithm on three principles: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;A few specific, limited types of care are always considered planned (transplant surgery, maintenance chemotherapy, rehabilitation); &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Otherwise, a planned admission is defined as a non-acute admission for a scheduled procedure; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admissions for acute illness or for complications of care are never planned. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;The planned admission algorithm uses a flowchart and four tables of procedures and conditions to operationalize these principles and to classify inpatient admissions as planned. ED visits and observation stays are never considered planned. The flowchart and tables are available in the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Measure Updates and Specifications Report: Hospital Visits after Hospital Outpatient Surgery Measure (Risk-standardized Hospital Visits within 7 Days after Hospital Outpatient Surgery Measure)&lt;/a&gt;&lt;/em&gt; (see the &quot;Companion Documents&quot; field).&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Measure Updates and Specifications Report: Hospital Visits after Hospital Outpatient Surgery Measure (Risk-standardized Hospital Visits within 7 Days after Hospital Outpatient Surgery Measure)&lt;/a&gt;&lt;/em&gt; for International Classification of Diseases, Ninth Revision (ICD-9) and International Classification of Diseases, Tenth Revision (ICD-10) codes for procedures that are always or potentially planned.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Outcome" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Planned Admission Algorithm Flowchart&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The approach to risk adjustment is tailored to, and appropriate for, a publicly reported outcome measure as articulated in published scientific guidelines. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure uses a two-level hierarchical logistic regression model to estimate risk-standardized hospital visit ratio (RSHVRs). This approach accounts for the clustering of patients within hospital outpatient departments (HOPDs) and variation in sample size. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The risk-adjustment model has 25 patient-level variables (age and 24 comorbidity variables) and 2 surgical complexity variables. With the exception of morbid obesity, which is defined using an individual International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) or International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) diagnosis code, we define comorbidity variables using CMS Condition Categories (CCs), which are clinically meaningful groupings of many thousands of ICD-9-CM and ICD-10-CM diagnosis codes. Certain CCs are considered possible complications of care and are not risk-adjusted for if they only occur at the surgery. See the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Measure Updates and Specifications Report: Hospital Visits after Hospital Outpatient Surgery Measure (Risk-standardized Hospital Visits within 7 Days after Hospital Outpatient Surgery Measure)&lt;/a&gt;&lt;/em&gt; (see the &quot;Companion Document&quot; field) for CCs that are considered possible complications of care and are not risk-adjusted for if they only occur at the surgery. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure risk adjusts for surgical procedural complexity using two variables. First, it adjusts for surgical procedural complexity using the Work Relative Value Unit (RVU) of the procedure. Work RVUs are assigned to each Current Procedural Terminology (CPT) code and approximate surgical procedural complexity by incorporating elements of physician time and effort. For patients with multiple concurrent CPT procedure codes, we risk adjust for the CPT code with the highest Work RVU value. Second, it classifies each surgery into an anatomical body system group using the Agency for Healthcare Research and Quality (AHRQ) Clinical Classification System (CCS). The measure uses the body system variable, in addition to the Work RVU of the surgery, to account for organ-specific difference in risk and complications which are not adequately captured by the Work RVU alone. This approach to risk adjustment for surgical procedural complexity is similar to that described in the literature and used for risk adjustment in the American College of Surgeons' National Surgical Quality Improvement Program. The coding list for the body systems is available on the &lt;a href=&quot;https://www.hcup-us.ahrq.gov/tools_software.jsp&quot; title=&quot;AHRQ Healthcare Cost and Utilization Project (HCUP) Web site&quot;&gt;AHRQ Healthcare Cost and Utilization Project (HCUP) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Patient-Level Risk-Adjustment Variables&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Patient-Level Risk-Adjustment Variables&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Patient-level Variables&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;&gt;Risk-adjusted Variables&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Demographics&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Age (years greater than 65)&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Comorbidities&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Cancer &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Diabetes and diabetes mellitus (DM) complications &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Disorders of fluid/electrolyte/acid-base &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Intestinal obstruction perforation &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Inflammatory bowel disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Bone/joint/muscle infections/necrosis &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Hematological disorders including coagulation defects and iron deficiency &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Dementia or senility &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Psychiatric disorders &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Hemiplegia, paraplegia, paralysis, functional disability &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Other significant central nervous system (CNS) disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Cardiorespiratory arrest, failure and respiratory dependence &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Congestive heart failure &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Ischemic heart disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Hypertension and hypertensive disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Arrhythmias &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Vascular disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Chronic lung disease &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Urinary tract infection (UTI) and other urinary tract disorders &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Pelvic inflammatory disease and other specified female genital disorders &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Chronic ulcers &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Cellulitis, local skin infection &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Prior significant fracture &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Morbid obesity &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Procedural complexity&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;&#xD;&#xA;            &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;                &lt;li&gt;Work RVU &lt;/li&gt;&#xD;&#xA;                &lt;li&gt;Agency for Healthcare Research and Quality (AHRQ) surgery body system &lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;            &lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;Full details of the development of the risk standardization model for this measure are available in the &lt;em&gt;&lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;2016 Measure Updates and Specifications Report: Hospital Visits after Hospital Outpatient Surgery Measure (Risk-standardized Hospital Visits within 7 Days after Hospital Outpatient Surgery Measure)&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;OP-36: CMS outcome measures (claims-based): hospital visits after hospital outpatient surgery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Hospital Outpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Outpatient Surgery" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States Department of Health and Human Services&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Yale New Haven Health Services Corporation/Center for Outcomes Research and Evaluation (YNHHSC/CORE) developed the measure for the Centers for Medicare &amp;amp; Medicaid Services (CMS) under a contract supporting the development of ambulatory care outcome measures..&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Nov 27&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2018 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1196289981244&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Yale New Haven Health Services Corporation-Center for Outcomes Research and Evaluation (YNHHSC/CORE). 2016 measure updates and specifications report: hospital visits after hospital outpatient surgery measure (risk-standardized hospital visits within 7 days after hospital outpatient surgery measure). Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Jun. 58 p. Available from the &lt;a href=&quot;https://www.qualitynet.org/dcs/ContentServer?cid=1228776203288&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier4&amp;amp;c=Page&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 22, 2018. The information was verified by the measure developer on May 3, 2018. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Hospital Outpatient Quality Reporting Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services. Users of the Hospital OQR Specifications Manual must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Current Procedural Terminology (CPT) codes, descriptions, and other data only are copyright 2013 American Medical Association (AMA). All rights reserved. CPT is a registered trademark of the AMA. Applicable FARS\DFARS Restrictions Apply to Government Use. Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

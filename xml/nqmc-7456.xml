@@ -1,0 +1,235 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Pediatric kidney disease: percentage of calendar months within a 12-month period during which patients aged 17 years and younger with a diagnosis of ESRD undergoing maintenance hemodialysis in an outpatient dialysis facility have an assessment of the adequacy of volume management from a nephrologist.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Renal Physicians Association, American Society of Pediatric Nephrology, American Medical Association-convened Physician Consortium for Performance Improvement. Pediatric kidney disease: performance measurement set, measures for accountability. Chicago (IL): American Medical Association; 2011 Aug. 35 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of calendar months within a 12-month period during which patients aged 17 years and younger with a diagnosis of end-stage renal disease (ESRD) undergoing maintenance hemodialysis in an outpatient dialysis facility have an assessment of the adequacy of volume management from a nephrologist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Management of hypertension in dialysis patients includes the management of fluid status. Poor extracellular volume control may exacerbate hypertension, and so it is important to optimize ultrafiltration, volume status, and dry weight to control blood pressure in an effort to improve patient outcomes.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;1.2 The following parameters of nutritional status and growth should be considered in combination for evaluation in children with chronic kidney disease (CKD) stages 2 to 5 and 5D.&lt;/p&gt;&#xD;&#xA;&lt;ol class=&quot;Note&quot; style=&quot;list-style-type: lower-roman;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dietary intake (3-day diet record or three 24-hour dietary recalls) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length- or height-for-age percentile or standard deviation score (SDS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length or height velocity-for-age percentile or SDS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Estimated dry weight and weight-for-age percentile or SDS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Body mass index (BMI)-for-height-age percentile or SDS &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Head circumference-for-age percentile or SDS (less than 3 years old only) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Normalized protein catabolic rate (nPCR) in hemodialyzed adolescents with CKD stage 5D &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Kidney Foundation. KDOQI clinical practice guideline for nutrition in children with CKD: 2008 update. Am J Kidney Dis. 2009 Mar;53(3 Suppl 2):S1-124.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Kidney Foundation. KDOQI clinical practice guidelines and clinical practice recommendations for 2006 updates: hemodialysis adequacy, peritoneal dialysis adequacy and vascular access. Am J Kidney Dis. 2006 Jul;48(Suppl 1):S1-322.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Renal Physicians Association, American Society of Pediatric Nephrology, American Medical Association-convened Physician Consortium for Performance Improvement. Pediatric kidney disease: performance measurement set, measures for accountability. Chicago (IL): American Medical Association; 2011 Aug. 35 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic kidney disease (CKD); end-stage renal disease (ERSD); hemodialysis; volume management assessment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All calendar months during which patients aged 17 years and younger with a diagnosis of end-stage renal disease (ESRD) are undergoing maintenance hemodialysis in an outpatient dialysis facility&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Calendar months during which patients have an assessment of the adequacy of volume management from a nephrologist (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Prevalence and Incidence&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;End-stage renal disease (ESRD), which is a rare but important health problem among children, occurs in about 5 to 10 children per million each year. The disease is a chronic condition; even renal transplantation does not mean lifelong cure. Quality-of-life studies have shown that life without native kidney function is very difficult for children and their families. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Pediatric ESRD patients (less than 20 years of age) constitute a very small proportion of the total ESRD population. However, they pose unique challenges to providers and to the health care system, which must address not only the primary renal disorder but the many extrarenal manifestations that affect growth and development as well. In North America, children younger than 20 years of age account for less than 2% of the total ESRD patient population, and the prevalence of patients aged 0 to 19 years has grown a modest 32% since 1990. This is in contrast to the 126% growth experienced by the entire ESRD population over the same time period. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The prospective, population-based ItalKid registry, including almost 1,200 chronic kidney disease (CKD) children with various renal diseases over a 10-year period, reported a prevalence of 23% of patients suffering from severe kidney disease with chronic renal insufficiency (CRI). The incidence of renal replacement therapy was 7.3 per year per 100 patients with CRI, and the risk of developing ESRD by age 20 was 68%. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Mortality&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;CKD in children is a devastating illness, and the mortality rate for children with ESRD receiving dialysis therapy is between 30 and 150 times that of the general pediatric population. In fact, the expected remaining lifetime for a child 0 to 14 years of age and on dialysis is only 20 years. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Early transplantation appears indicated to prevent exposure to the increased risks associated with dialysis therapy. Yet mortality rates among children who undergo transplantation remain in excess of those in the normal population. The challenge ahead is to reduce the incidence of the cardiovascular and malignant diseases that account for the bulk of long-term mortality among children with end-stage renal disease. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Cost&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;While CKD has been characterized from population-level estimates in the National Health and Nutrition Examination Survey (NHANES) data, much of the disease is silent and unrecognized, complicating any full assessment of its impact.&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;As identified from diagnosis codes reported on claims, CKD has grown from just 3.3 percent in 1998 to 9.5 percent in 2008. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Costs for CKD patients are now 23 percent of Medicare expenditures in the fee-for-service sector; when added to costs for ESRD patients, it appears that 31 percent of all Medicare expenditures are incurred by patients with a diagnosis of kidney disease. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Despite this high disease burden, the rate of progression to ESRD has been relatively stable over the last several years, suggesting either that CKD patients are dying at a higher rate before they reach ESRD or that their rate of progression to ESRD has slowed. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With Medicare spending for ESRD at $26.8 billion, and non-Medicare spending at $12.7 billion, total ESRD costs in 2008 reached nearly $39.5 billion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Medicare costs per person per year were nearly $66,000 overall, ranging from $26,668 for transplant patients to $77,506 for those receiving hemodialysis therapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 1993, costs for Medicare patients with CKD accounted for 3.8 percent of overall Medicare expenditures. By 2008, this had grown to 14.2 percent, in part reflecting growth in the number of recognized CKD patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ESRD costs rose 13.2 percent in 2008, to $26.8 billion, and accounted for 5.9 percent of the Medicare budget. Total Medicare spending for erythropoiesis stimulating agents fell 2.3 percent in 2008, to $1.8 billion. Costs for intravenous (IV) vitamin D hormone increased 12 percent, reaching $491 million, while spending on IV iron increased 4.8 percent, to $267 million. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Total hemodialysis expenditures rose 9.3 percent in 2008&amp;mdash;up from 3.8 percent in 2007&amp;mdash;to reach $19.4 billion. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;In a national study of primary care physicians and nephrologists, recommendations for laboratory and radiological evaluation of patients with progressive CKD were variable, and few (35%) physicians' recommendations were adherent to established clinical practice guidelines. Most physicians recommended additional testing, which was associated with increased cost of patient evaluations. High levels of additional testing were most common among physicians adhering to guidelines, especially primary care physicians and physicians with fewer years in practice. Both under-testing (nonadherence to guideline recommendations) and additional testing (ordering tests beyond guideline recommendations) contributed to variation with profound cost implications. If patterns of the recommended care observed in this study were extrapolated to reflect patterns of care for patients with incident Stage 3 CKD nationally, the aggregate additional cost of the evaluation for approximately 1 million patients with progressive CKD could amount to $45 million annually.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2003, the Council of American Kidney Societies (CAKS) identified 19 barriers to improved patient outcomes in CKD. Rettig, Norris and Nissenson compared the original 19 barriers identified to where things stood in 2007-2008 (see Table 2, &quot;Barriers preventing improved patient outcomes in CKD: The Chronic Kidney Disease Initiative,&quot; in the original measure documentation). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, CKD constitutes a microcosm of one of the deepest problems confronting the U.S. health care system: how to move from a system that is focused almost exclusively on procedure-oriented treatment of chronic disease to a system that strikes a reasonable balance between therapeutic and preventive services. Perhaps the modeling contribution of kidney disease of the U.S. health care system is at hand: if this domain of the medical commons can be fixed, then the lessons for the larger system may become clearer for both clinicians and policy makers.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Disparities&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A recent report from a selected group of pediatric nephrologists showed that while 73% of white children and adolescents utilized peritoneal dialysis (PD) as their first modality, only 60% of black children and adolescents were initiated on this therapy. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ESRD is more common in certain racial and ethnic groups. African Americans have the highest incidence of treated ESRD in the U.S. Higher rates of kidney disease have been noted in other ethnic groups in the U.S. including Hispanic/Latino Americans, Asian/Pacific Islanders, and American Indians, compared with Caucasians. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;African Americans have the highest reported prevalence and incidence of treated ESRD. Overall, African Americans are four times more likely to progress to ESRD compared to whites (988 vs. 254 patients per million) and at a higher-than-average risk for developing ESRD in the Southeastern U.S. Diabetes is the leading cause of ESRD in all racial and ethnic groups, but occurs at a much higher rate among African Americans, Hispanics and Native Americans (422, 382.9, and 307.2 vs. 115 per million, respectively) compared to whites. In addition, African Americans have the highest rate of hypertension-related ESRD, which far exceeds other racial and ethnic groups. As a result, hypertension remains a close second to diabetes mellitus (DM) as the leading cause of ESRD in the African-American community. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hispanic Americans have a diabetes rate more than twice that of whites, and are twice as likely to progress to ESRD than whites. Furthermore, the higher prevalence of diabetes among Hispanic individuals is only partially explained by the increased rate of ESRD progression. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Registry level data from the United States Renal Data System (USRDS) show that U.S. Asians have a 34% higher age and gender adjusted risk of ESRD compared to U.S. whites and have a 12-fold increase in the prevalence of ESRD since 1980. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The American Indian (AI) and Alaska Native (AN) population of the U.S. was estimated to be 3.3 million people in 2007, a 65% increase from the 1990 population of 2 million. Diabetes prevalence among AI/AN is 2.2 times higher than for non-Hispanic whites and more than 16% of all AIs/ANs aged 20 years and older are diabetic. In some tribes, such as the Pima and Zuni, 30%&amp;ndash;50% of the adult population is diabetic. More than two thirds of AIs/ANs who initiated treatment for ESRD in 2005 developed kidney failure also had a diagnosis of diabetes, virtually all (95%) Type 2. By the end of 2005, the prevalence of ESRD among AI/AN was 2.3 times greater than that of non-Hispanic white Americans. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In the U.S., black individuals shoulder a disproportionate burden of end-stage renal disease, comprising 32% of the end-stage renal disease population, but only 13% of the general population. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ESRD is one of the most dramatic examples of health disparities, with rates for minorities ranging from 1.5 to 4.0 times those of age-adjusted white counterparts, despite similar rates for the early stages of CKD. Although CKD is associated with increased rates of premature mortality, adjusted ESRD survival rates are paradoxically better for minorities. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;More than one third of U.S. dialysis patients are black, a threefold over-representation. The mortality of dialysis patients with ESRD is approximately 21% annually. In contrast to the course of other chronic illnesses in the U.S., black dialysis patients enjoy improved survival compared with white patients. This paradoxic difference is unexplained by socioeconomic status or currently identified biological factors. A reasonable hypothesis would suggest psychosocial factors underlie this dramatic disparity. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;The Physician Consortium for Performance Improvement (PCPI) believes that performance measure data should be stratified by race, ethnicity, and primary written and spoken language to assess disparities and initiate subsequent quality improvement activities addressing identified disparities. These categories are consistent with recent national efforts to standardize the collection of race and ethnicity data. A 2008 National Quality Forum (NQF) report endorsed 45 practices including stratification by the aforementioned variables. A 2009 Institute of Medicine (IOM) report &quot;recommends collection of the existing Office of Management and Budget (OMB) race and Hispanic ethnicity categories as well as more fine-grained categories of ethnicity (referred to as granular ethnicity and based on one's ancestry) and language need (a rating of spoken English language proficiency of less than very well and one's preferred language for health-related encounters).&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Attainment of dry weight remains a major clinical problem and challenge in current-day dialysis therapies. Considering its impact on cardiovascular diseases, the relation between excess fluid, sodium, interdialytic weight gain, hypertension and cardiac diseases needs more attention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Charles RF, Powe NR, Jaar BG, Troll MU, Parekh RS, Boulware LE. Clinical testing patterns and cost implications of variation in the evaluation of CKD among US physicians. Am J Kidney Dis. 2009 Aug;54(2):227-37. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19371991&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Choi AI, Rodriguez RA, Bacchetti P, Bertenthal D, Hernandez GT, O'Hare AM. White/black racial differences in risk of end-stage renal disease and death. Am J Med. 2009 Jul;122(7):672-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19559170&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cukor D, Kimmel PL. Education and end of life in chronic kidney disease: disparities in black and white. Clin J Am Soc Nephrol. 2010 Feb;5(2):163-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20089490&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Furth SL, Powe NR, Hwang W, Neu AM, Fivush BA. Racial differences in choice of dialysis modality for children with end-stage renal disease. Pediatrics. 1997 Apr;99(4):E6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9099781&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McDonald SP, Craig JC, Australian and New Zealand Paediatric Nephrology Association. Long-term survival of children with end-stage renal disease. N Engl J Med. 2004 Jun 24;350(26):2654-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15215481&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Norris K, Nissenson AR. Race, gender, and socioeconomic disparities in CKD in the United States. J Am Soc Nephrol. 2008 Jul;19(7):1261-70. [96 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18525000&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Palmer Alves T, Lewis J. Racial differences in chronic kidney disease (CKD) and end-stage renal disease (ESRD) in the United States: a social and economic dilemma. Clin Nephrol. 2010 Nov;74 Suppl 1:S72-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20979968&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Race, ethnicity, and language data: standardization for health care quality improvement. AHRQ publication no. 10-0058-EF. [internet]. Rockville (MD): Agency for Healthcare Research and Quality; 2010 Mar&amp;nbsp;[accessed 2011 May 16]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rettig RA, Norris K, Nissenson AR. Chronic kidney disease in the United States: a public policy imperative. Clin J Am Soc Nephrol. 2008 Nov;3(6):1902-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18922986&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Renal Data System. USRDS 2010 annual data report: atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases; 2010. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Warady BA, Chadha V. Chronic kidney disease in children: the global perspective. Pediatr Nephrol. 2007 Dec;22(12):1999-2009. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17310363&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wuhl E, Schaefer F. Therapeutic strategies to slow chronic kidney disease progression. Pediatr Nephrol. 2008 May;23(5):705-16. [111 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18335252&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wystrychowski G, Levin NW. Dry weight: sine qua non of adequate dialysis. Adv Chronic Kidney Dis. 2007 Jul;14(3):e10-6. [63 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17603970&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Several of the measures presented here represent updates to existing measures for chronic kidney disease (CKD) and end-stage renal disease (ESRD). They have been utilized in the adult population, in their previous specifications, in national performance measurement projects such as the Centers for Medicare &amp;amp; Medicaid Services (CMS) Physician Quality Reporting Initiative (PQRI) project. In addition, specific research projects, including a project Physician Consortium for Performance Improvement (PCPI), have been conducted to test the reliability of these measures in an adult population in various settings. Results of these testing projects have been considered and resulted in modifications to the measures, where appropriate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Feasibility Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PCPI measure testing project found the measures to be feasible in the adult population. Their use in the PQRI program also indicates general feasibility in the adult population.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PCPI measure testing project in the adult population found the measure reliability in the almost perfect range. For CKD measures, kappas ranged from 0.89 to 0.99. For ESRD measures, kappas ranged from 0.96 to 0.99. Agreement percentages from interrater reliability testing ranged from 95.5% to 99.8%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Other measures in the set are being made available without any prior testing. The PCPI recognizes the importance of testing all of its measures and encourages testing of the Kidney Disease measurement set by organizations or individuals positioned to do so. The Measure Testing Protocol was most recently approved by the PCPI in 2011 and is available on the PCPI Web site (see Position Papers at &lt;a href=&quot;http://www.physicianconsortium.org&quot;&gt;www.physicianconsortium.org&lt;/a&gt;); interested parties are encouraged to review this document and to contact PCPI professional staff. The PCPI will welcome the opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Renal Physicians Association, American Society of Pediatric Nephrology, American Medical Association-convened Physician Consortium for Performance Improvement. Pediatric kidney disease: performance measurement set, measures for accountability. Chicago (IL): American Medical Association; 2011 Aug. 35 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 17 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Equity" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;12 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All calendar months during which patients aged 17 years and younger with a diagnosis of end-stage renal disease (ESRD) are undergoing maintenance hemodialysis in an outpatient dialysis facility&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Calendar months during which patients have an assessment of the adequacy of volume management* from a nephrologist&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Adequacy of volume management for a patient on dialysis is determined by assessing whether or not the patient achieved a target end dialysis weight after receiving dialysis, by a comparison of the patient-specific target end dialysis weight and the actual post dialysis weight.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #1: adequacy of volume management.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Pediatric Kidney Disease Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Renal Physicians Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Society of Pediatric Nephrology - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+      <FieldValue Value="Renal Physicians Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Louis H. Diamond, MBChB, FCP (SA), FACP, FHIMSS (&lt;em&gt;Work Group Co-Chair&lt;/em&gt;) (Nephrology, Methodology); Barbara Fivush, MD (&lt;em&gt;Work Group Co-Chair&lt;/em&gt;) (Nephrology - Pediatrics); Paul M. Palevsky, MD, FACP, FCCD, FASN (&lt;em&gt;Work Group Co-Chair&lt;/em&gt;) (Nephrology - Adult); Eileen D. Brewer, MD (Nephrology - Pediatrics); John W. Foreman, MD (Nephrology - Pediatrics); Richard S. Goldman, MD (Nephrology - Adult, Methodology); Stuart L. Goldstein, MD (Nephrology - Pediatrics); John Hartman, MD (Nephrology - Adult); Richard Hellman, MD, FACP, FACE (Endocrinology, Methodology); Jean L. Holley, MD, FACP (Nephrology - Adult); Edward R. Jones, MD (Nephrology - Adult); Craig B. Langman, MD (Nephrology - Pediatrics); Rajnish Mehrotra, MD (Nephrology - Adult); Alvin H. Moss, MD (Nephrology - Adult); Sharon A. Perlman, MD (Nephrology - Pediatrics); Paul D. Rockswold, MD, MPH (Preventive Medicine and Family Medicine); Candace C. Walworth, MD (Nephrology - Adult); Bradley Warady, MD (Nephrology - Pediatrics); Steven J. Wassner, MD, FAAP (Nephrology - Pediatrics); Jerry Yee, MD (Nephrology - Adult); Karen M. Kolbusz, RN, BSN, MBA (The Joint Commission Liaison)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Renal Physicians Association&lt;/em&gt;: Dale Singer, MHA; Amy Beckrich&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Society of Pediatric Nephrology&lt;/em&gt;: Kathryn Schubert, MPP&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Pediatrics&lt;/em&gt;: Junelle Speller&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Mark Antman, DDS, MBA; Katherine Ast, MSW, LCSW; Elvia Chavarria, MPH; Keri Christensen, MS; Kerri Fei, RN, MSN; Kendra Hanley, MS; Diedra Joseph, MPH; Stephanie Moncada, MS; Pamela O'Neil, MPH; Molly Siegel, MS; Kimberly Smuk, BS, RHIA; Greg Wozniak, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Kidney Disease Work Group had any disqualifying material interests under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy. A summary of non-disqualifying interests disclosed on Work Group members' Material Interest Disclosure Statements (not including information concerning family member interests) is provided in the original measure documentation. Completed Material Interest Disclosure Statements are available upon request.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2011 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Physician Consortium for Performance Improvement (PCPI) stipulates a regular review of measures every 3 years or when there is a major change in scientific evidence, results from testing, or other issues noted that materially affect the integrity of the measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in March 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Renal Physicians Association (RPA) at 1700 Rockville Pike, Suite 220, Rockville, MD 20852; Phone: 301-468-3515; Fax: 301-468-3511; E-mail: &lt;a href=&quot;mailto:rpa@renalmd.org&quot;&gt;rpa@renalmd.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.renalmd.org/&quot; title=&quot;RPA Web site&quot;&gt;www.renalmd.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 24, 2012. The information was verified by the measure developer on November 5, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on March 11, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Renal Physicians Association (RPA) at 1700 Rockville Pike, Suite 220, Rockville, MD 20852; Phone: 301-468-3515; Fax: 301-468-3511; E-mail: &lt;a href=&quot;mailto:rpa@renalmd.org&quot;&gt;rpa@renalmd.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.renalmd.org/&quot; title=&quot;RPA Web site&quot;&gt;www.renalmd.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Renal Physicians Association, American Society of Pediatric Nephrology, American Medical Association-convened Physician Consortium for Performance Improvement. Pediatric kidney disease: performance measurement set, measures for accountability. Chicago (IL): American Medical Association; 2011 Aug. 35 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

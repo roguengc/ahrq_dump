@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Thoracic surgery: percentage of patients aged 18 years and older undergoing elective lung resection for lung cancer who developed any of the specified postoperative complications.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Society of Thoracic Surgeons (STS). General thoracic surgery database: NQMC measure submission. Chicago (IL): Society of Thoracic Surgeons (STS); 2016 Dec. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older undergoing elective lung resection (open or video-assisted thoracoscopic surgery [VATS] wedge resection, segmentectomy, lobectomy, bilobectomy, sleeve lobectomy, pneumonectomy) for lung cancer who developed any of the following postoperative complications: reintubation, need for tracheostomy, initial ventilator support greater than 48 hours, acute respiratory distress syndrome (ARDS), pneumonia, pulmonary embolus, bronchopleural fistula, bleeding requiring reoperation, myocardial infarction or operative mortality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Lung cancer is the second most common cancer (National Cancer Institute [NCI], &quot;Common,&quot; 2016; NCI, &quot;Cancer,&quot; 2016). An estimated 224,390 new cases of lung cancer are expected in 2016, accounting for about 13.3% of cancer diagnoses. Lung cancer accounts for more deaths than any other cancer in both men and women (American Cancer Society [ACS], 2016). Providing outcomes data to participating thoracic surgery sites allows benchmarking of practice group results against the Society of Thoracic Surgeons (STS) national results and allows demonstration of improvement when quality improvement (QI) efforts are undertaken. These outcomes data aid clinicians and patients in making informed clinical decisions and also compare risk‐adjusted outcomes for quality improvement purposes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Cancer Society (ACS). Estimated deaths for the four major cancers by sex and age group, 2016. Atlanta (GA): American Cancer Society (ACS); 2016. 1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Cancer Institute (NCI). Cancer statistics. [internet]. Bethesda (MD): National Institutes of Health (NIH); 2016 Mar 14.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Cancer Institute (NCI). Common cancer types. [internet]. Bethesda (MD): National Institutes of Health (NIH); 2016 Feb 1.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Society of Thoracic Surgeons (STS). General thoracic surgery database: NQMC measure submission. Chicago (IL): Society of Thoracic Surgeons (STS); 2016 Dec. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Thoracic surgery; elective lung resection; lung cancer; postoperative complications; reintubation; tracheostomy; initial ventilator support greater than 48 hours; acute respiratory distress syndrome (ARDS); pneumonia; pulmonary embolus; bronchopleural fistula; bleeding requiring reoperation; myocardial infarction; operative mortality&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients aged 18 years and older undergoing elective lung resection (open or video-assisted thoracoscopic surgery [VATS] wedge&#xA;resection, segmentectomy, lobectomy, bilobectomy, sleeve lobectomy, pneumonectomy) for lung cancer (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients aged 18 years and older undergoing elective lung resection (open or video-assisted thoracoscopic surgery [VATS] wedge resection, segmentectomy, lobectomy, bilobectomy, sleeve lobectomy, pneumonectomy) for lung cancer who developed any of the following postoperative complications: reintubation, need for tracheostomy, initial ventilator support greater than 48 hours, acute respiratory distress syndrome (ARDS), pneumonia, pulmonary embolus, bronchopleural fistula, bleeding requiring reoperation, myocardial infarction or operative mortality (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;General Thoracic Surgery Database (GTSD) participating sites are randomly selected for participation in the Society of Thoracic Surgeons (STS) GTSD Audit, which is designed to evaluate the accuracy, consistency, and comprehensiveness of data collection and ultimately validate the integrity of the data contained in the database. Telligen, formerly the Iowa Foundation for Medical Care, has conducted audits on behalf of STS since 2006. In 2015, ten percent of randomly selected STS GTSD participants (N = 25, an increase from 24 in 2014 and 18 in 2013) were audited. The audit process involves re‐abstraction of data for 20 cases records (at least 15 lobectomy and up to 5 esophagectomy) and comparison of 40 STS GTSD V2.2 individual data elements with those submitted to the data warehouse. Agreement rates are calculated for each variable, each variable category and overall. In 2015, the overall aggregate agreement rate was 97.02%, demonstrating that the data contained in the STS GTSD are both comprehensive and highly accurate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data Analysis&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Aggregate agreement rates were computed for all facilities by calculation of the sum of all facilities' numerators divided by the sum of all facilities' denominators, for each individual variable, each variable category and overall. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Chi-square statistics were calculated to identify any possible relationships between the data collection process variables and agreement rates. Tests where the chi-square statistic had a probability of less than 5% (p less than 0.05) were considered to show statistically significant differences in agreement rate between the levels of the process measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Agreement Rate Results &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Database validity was evaluated by re-abstraction of defined variables from the medical records and comparison to submitted data. Agreement rates were calculated at the individual variable level, category level and overall. Aggregate agreement rates are presented in the table in the original measure documentation. There were 14,854 total variables abstracted and of those 14,412 variables matched, resulting in an overall agreement rate of 97.02%. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Process Variable Correlation Tables &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The relationships between process variables and overall agreement rates were examined and included: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Facility data collection performed from electronic medical records or a combination of paper and electronic medical records and overall agreement rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Facility data collection method (concurrent/retrospective/both) and overall agreement rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Data collection performed by a single abstractor or multiple staff and overall agreement rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Attendance at the annual data managers' meeting, STS Advances in Quality and Outcomes (AQO) Conference, and overall agreement rate &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Agreed upon abstraction location for data elements documented in multiple locations and overall agreement rate &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Relationship between Data Collection Source &amp;amp; Agreement Rate&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Facilities using an electronic health record (EHR) for data collection had higher agreement rates, 97.36%, than those facilities using both paper medical records and an EHR, 96.31%. There were no facilities that used paper medical records alone (p less than 0.0004). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Relationship between Data Collection Method &amp;amp; Agreement Rate &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Facilities collecting data retrospectively have higher agreement rates, 97.55%, than those facilities collecting data concurrently, 96.18%, or both, 96.38% (p equal to or less than 0.0001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Relationship between Data Collection Performed by a Single Abstractor or Multiple Staff &amp;amp; Agreement Rate &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Facilities with a single individual performing data abstraction have higher agreement rates, 98.02%, than those facilities that have multiple individuals performing data abstraction, 96.24% (p less than 0.0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Relationship between Attendance at AQO Conference &amp;amp; Agreement Rate&lt;/em&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Facilities having staff attend the annual AQO Conference have higher agreement rates, 97.25%, than those that do not have staff attend, 96.11% (p less than 0.0012). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Relationship between Have an Agreed Upon Location &amp;amp; Agreement Rate &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Facilities that utilize an agreed upon location for data elements recorded in multiple locations have higher agreement rates, 97.31%, than facilities that do not utilize an agreed upon location, 93.61% (p less than 0.0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, validity is regularly assessed by an expert panel of general thoracic surgeons assembled by the STS General Thoracic Surgery Database Task Force, the STS Quality Measurement Task Force, and the STS Task Force on Quality Initiatives, all of which report to the STS Workforce on National Databases.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Society of Thoracic Surgeons (STS). General thoracic surgery database: NQMC measure submission. Chicago (IL): Society of Thoracic Surgeons (STS); 2016 Dec. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;36 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients aged 18 years and older undergoing elective lung resection (open or video-assisted thoracoscopic surgery [VATS] wedge resection, segmentectomy, lobectomy, bilobectomy, sleeve lobectomy, pneumonectomy) for lung cancer&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Details&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Lung cancer (LungCancer &amp;ndash; Society of Thoracic Surgeons [STS] General Thoracic Surgery Database [GTSD] sequence number 830) is marked &quot;yes&quot; and category of disease &amp;ndash; primary (CategoryPrim &amp;ndash; STS GTSD sequence number 1300) is marked as one of the following (International Classification of Diseases, Ninth Revision [ICD-9], International Classification of Diseases, Tenth Revision [ICD-10]):&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Lung cancer, main bronchus, carina (162.2, C34.00) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Lung cancer, upper lobe (162.3, C34.10) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Lung cancer, middle lobe (162.4, C34.2) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Lung cancer, lower lobe (162.5, C34.30) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Lung cancer, location unspecified (162.9, C34.90) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient has lung cancer (as defined in #1 above) and primary procedure is one of the specific Current Procedural Terminology (CPT) codes for lung resection (refer to the original measure documentation for specific CPT codes) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Status of operation (Status &amp;ndash; STS GTSD sequence number 1420) is marked as &quot;elective&quot; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Only analyze the first operation of the hospitalization meeting criteria 1 to 3 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients aged 18 years and older undergoing elective lung resection (open or video-assisted thoracoscopic surgery [VATS] wedge resection, segmentectomy, lobectomy, bilobectomy, sleeve lobectomy, pneumonectomy) for lung cancer who developed any of the following postoperative complications: reintubation, need for tracheostomy, initial ventilator support greater than 48 hours, acute respiratory distress syndrome (ARDS), pneumonia, pulmonary embolus, bronchopleural fistula, bleeding requiring reoperation, myocardial infarction or operative mortality &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Numerator Details&lt;/em&gt;: Number of patients undergoing elective lung resection for lung cancer for whom: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Postoperative events (POEvents &amp;ndash; Society of Thoracic Surgeons [STS] General Thoracic Surgery Database [GTSD] sequence number 1710) is marked &quot;yes&quot; and one of the following items is marked &quot;yes&quot;:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Reintubation (Reintube &amp;ndash; STS GTSD v 2.2, sequence number 1850)/respiratory failure (RespFail &amp;ndash; STS GTSD sequence number 1800) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Need for tracheostomy (Trach &amp;ndash; STS GTSD sequence number 1860) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Initial ventilator support greater than 48 hours (Vent &amp;ndash; STS GTSD sequence number 1840) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Acute respiratory distress syndrome (ARDS &amp;ndash; STS GTSD sequence number 1790) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Pneumonia (Pneumonia &amp;ndash; STS GTSD sequence number 1780) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Pulmonary embolus (PE &amp;ndash; STS GTSD sequence number 1820) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Bronchopleural fistula (Bronchopleural &amp;ndash; STS GTSD sequence number 1810) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Myocardial infarction (MI &amp;ndash; STS GTSD sequence number 1900)&#xD;&#xA;        &lt;p&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Unexpected return to the operating room (OR) (ReturnOR &amp;ndash; STS GTSD sequence number 1720) is marked &quot;yes&quot; and primary reason for return to OR (ReturnORRsn &amp;ndash; STS GTSD sequence number 1730) is marked &quot;bleeding&quot; &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;or&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One of the following fields is marked &quot;dead&quot;&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Discharge status (MtDCStat &amp;ndash; STS GTSD sequence number 2200) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Status at 30 days after surgery (Mt30Stat &amp;ndash; STS GTSD sequence number 2240) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Society of Thoracic Surgeons General Thoracic Surgery Database (GTSD) Major Procedure Data Collection Form Version 2.3&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Society of Thoracic Surgeons (STS) General Thoracic Database (GTDB) was queried for all patients treated with resection for primary lung cancer between January 1, 2002 and June 30, 2008. Three separate multivariable risk models were constructed (mortality, major morbidity, and composite mortality or major morbidity).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Thoracic surgeons participating in the STS GTDB perform lung cancer resections with a low mortality and morbidity. Predictors of mortality include the following: pneumonectomy, bilobectomy, American Society of Anesthesiology rating, Zubrod performance status, renal dysfunction, induction chemoradiation therapy, steroids, age, urgent procedures, male gender, forced expiratory volume in one second, and body mass index. These models have excellent performance characteristics and will help surgeons and patients estimate perioperative risk and provide risk-adjusted outcomes for quality improvement.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to &lt;em&gt;STS Database Risk Models: Predictors of Mortality and Major Morbidity for Lung Cancer Resection&lt;/em&gt; (see the &quot;Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Risk-adjusted morbidity and mortality for lung resection for lung cancer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="General Thoracic Surgery Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Society of Thoracic Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Society of Thoracic Surgeons - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Society of Thoracic Surgeons (STS) General Thoracic Surgery Database Task Force. Please contact STS for list of members.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Oct 17&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Society of Thoracic Surgeons (STS) at 633 N. Saint Clair Street, Floor 23, Chicago, IL 60611; Phone: 312-202-5800; Fax: 312-202-5801; Web site: &lt;a href=&quot;http://www.sts.org/&quot; title=&quot;The Society of Thoracic Surgeons Web site&quot;&gt;http://www.sts.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kozower BD, Sheng S, O'Brien SM, Liptay MJ, Lau CL, Jones DR, Shahian DM, Wright CD. STS database risk models: predictors of mortality and major morbidity for lung cancer resection. Ann Thorac Surg. 2010 Sep;90(3):875-81; discussion 881-3. Available from the &lt;a href=&quot;http://www.annalsthoracicsurgery.org/article/S0003-4975(10)00873-8/pdf&quot; title=&quot;Annals of Thoracic Surgery Web site&quot;&gt;Annals of Thoracic Surgery Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 9, 2017. The information was verified by the measure developer on February 7, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Society of Thoracic Surgeons (STS). General thoracic surgery database: NQMC measure submission. Chicago (IL): Society of Thoracic Surgeons (STS); 2016 Dec. 31 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

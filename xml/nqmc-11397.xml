@@ -1,0 +1,222 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: hemodialysis vascular access: long-term catheter rate. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 35 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Based upon data from the Centers for Medicare &amp;amp; Medicaid Services (CMS) Fistula First/Catheter Last initiative, a gradual trend towards lower catheter use has been observed among prevalent maintenance hemodialysis (HD) patients in the U.S., declining from approximately 28% in 2006 to approximately 18% by August 2015. Furthermore, the percentage of maintenance HD patients using a catheter for at least three months has declined as well over this time period from nearly 12% to 10.8%. Continued monitoring of chronic catheter use is needed to sustain this trend.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is intended to be jointly reported with the Hemodialysis Vascular Access: Standardized Fistula Rate (see the related NQMC summary, &lt;a href=&quot;/summaries/summary/51318&quot; title=&quot;Measure Summary #11396&quot; target=&quot;_blank&quot;&gt;End stage renal disease [ESRD]: adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula [AVF] as the sole means of vascular access&lt;/a&gt;). These two vascular access quality measures, when used together, consider AVF use as a positive outcome and prolonged use of a tunneled catheter as a negative outcome. With the growing recognition that some patients have exhausted options for an AVF, or have comorbidities that may limit the success of AVF creation, joint reporting of the measures accounts for all three vascular access options. The fistula measure adjusts for patient factors where fistula placement may be either more difficult or not appropriate and acknowledges that in certain circumstances an AV graft may be the best access option. This paired incentive structure that relies on both measures reflects consensus best practice, and supports maintenance of the gains in vascular access success achieved via the Fistula First/Catheter Last Project over the last decade.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information form: hemodialysis vascular access: long-term catheter rate. Washington (DC): National Quality Forum (NQF); 2018 Feb 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ESRD); hemodialysis (HD); long-term catheter use&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients at least 18 years old as of the first day of the reporting month who are determined to be maintenance hemodialysis (HD) patients (in-center and home HD) for the complete reporting month at the same facility (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The numerator is the number of adult patient-months in the denominator who were on maintenance hemodialysis (HD) using a catheter continuously for three months or longer as of the last HD session of the reporting month (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer used January 2014&amp;ndash;December 2014 CROWNWeb data to calculate facility-level annual performance scores. The National Quality Forum (NQF)-recommended approach for determining measure reliability is a one-way analysis of variance (ANOVA), in which the between-facility variation (&amp;sigma;_b^2) and the within-facility variation (&amp;sigma;_(t,w)^2) in the measure is determined. The inter-unit reliability (IUR) measures the proportion of the total variation of a measure (i.e., &amp;sigma;_b^2+&amp;sigma;_(t,w)^2) that is attributable to the between-facility variation, the true signal reflecting the differences across facilities. The developer assessed reliability by calculating IUR for the annual performance scores. If the measure were a simple average across individuals in the facility, the usual ANOVA approach would be used. The yearly based measure, however, is not a simple average and the developer&amp;nbsp;instead estimate the IUR using a bootstrap approach, which uses a resampling scheme to estimate the within facility variation that cannot be directly estimated by ANOVA. A small IUR (near 0) reveals that most of the variation of the measures between facilities is driven by random noise, indicating the measure would not be a good characterization of the differences among facilities, whereas a large IUR (near 1) indicates that most of the variation between facilities is due to the real difference between facilities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The reliability calculation only included facilities with at least 11 patients during the entire year.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The IUR is 0.765, which indicates that 76.5% of the variation in the annual long-term catheter rate can be attributed to between-facility differences in performance (signal) and about 23.5% to the within-facility variation (noise).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The result of IUR testing suggests a high degree of reliability.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Validity was assessed using Poisson regression models to measure the association between facility level quintiles of performance scores and the 2014 standardized mortality ratio (SMR, NQF 0369) and 2014 standardized hospitalization ratio (SHR, NQF 1463). Facility-level performance scores were divided into quintiles (Q1 to Q5), and the relative risk (RR) of mortality (and hospitalization, separately) was calculated for each quintile, using the combined Q1 and Q2 as the reference group. Thus, a RR greater than 1.0 would indicate a higher RR of mortality or hospitalization, compared to the lowest performance score quintiles.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2015, a vascular access technical expert panel (TEP) was convened to provide input on the development of access measures, and specifically input on exclusions for both catheter and fistula measures, and for fistula, risk adjustment factors to be considered. The TEP felt that minimizing catheter use is paramount and that while catheters may potentially be acceptable for some patients, they addressed this through identifying patient level exclusion criteria rather than risk adjustment. The candidate catheter measure was reviewed and validated by the TEP in 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Quintiles of the performance scores were defined as follows:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Q1*: 0.0% - less than 6.24% &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q2*: 6.24% - less than 9.12% &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q3: 9.12% - less than 12.00% &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q4: 12.00% - less than 16.21% &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q5: 16.21% - less than 58.16% &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;*Q1 and Q2 as reference&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Results from the Poisson model indicated that the percent of patient-months with a long-term catheter was significantly associated with the risks of mortality and hospitalization.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the 2014 SMR, the RR of mortality increased as the performance measure quintile increased from the reference group (combined Q1 and Q2). For quintile 3, RR=1.03 (95% CI: 1.01, 1.05; p=0.006), quintile 4, RR=1.03 (95% CI: 1.01, 1.05; p=0.008), and quintile 5, RR=1.09 (95% CI: 1.07, 1.12; p less than 0.001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Similarly for the 2014 SHR, the RR of hospitalization increased as the performance measure quintile increased from the reference group (combined Q1 and Q2). For quintile 3, RR=1.08 (95% CI: 1.08, 1.08; p less than 0.001), quintile 4, RR=1.10 (95% CI: 1.10, 1.10; p less than 0.001), and quintile 5, RR=1.16 (95% CI: 1.15, 1.16; p less than 0.001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Results of the Poisson regression suggest the predictive relationship of higher catheter use with higher mortality and hospitalization, as measured by the respective standardized mortality and hospitalization rates, compared to facilities with a lower proportion of patients with a long-term catheter.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information form: hemodialysis vascular access: long-term catheter rate. Washington (DC): National Quality Forum (NQF); 2018 Feb 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting month&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients at least 18 years old as of the first day of the reporting month who are determined to be maintenance hemodialysis (HD) patients (in-center and home HD) for the complete reporting month at the same facility&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients are required to have been treated by the same facility for the complete month in order to be assigned to that facility for the reporting month.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The monthly patient count at a facility includes all eligible prevalent and incident patients. The number of patient-months over a time period is the sum of patients reported for the months covered by the time period. An individual patient may contribute up to 12 patient-months per year.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclusions that are implicit in the denominator definition include:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Pediatric patients (less than 18 years old) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients on peritoneal dialysis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient-months under in-center or home HD for less than a complete reporting month at the same facility &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;In addition, the following exclusions are applied to the denominator:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with a catheter that have limited life expectancy:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients under hospice care in the current reporting month &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with metastatic cancer in the past 12 months &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with end stage liver disease in the past 12 months &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with coma or anoxic brain injury in the past 12 months &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The numerator is the number of adult patient-months in the denominator who were on maintenance hemodialysis (HD) using a catheter continuously for three months or longer as of the last HD session of the reporting month&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The number of patient-months with a long-term catheter in use. Long-term catheter use is defined as using a catheter, at the same facility, for at least three consecutive complete months as of the last day of the reporting month.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For a given month, if any of the following CROWNWeb &quot;Access Type IDs&quot; (16,18,19,20,21,&quot;&amp;middot;&quot;) has been recorded, a catheter is considered in use. If a catheter has been observed for three consecutive months (i.e., in the reporting month and the immediate two preceding months) at the same facility, the reporting month is counted in the numerator. Access Type ID &quot;16&quot; represents arteriovenous (AV) fistula combined with a catheter, &quot;18&quot; represents AV graft combined with a catheter, &quot;19&quot; represents catheter only, &quot;20&quot; represents port access only, &quot;21&quot; represents other/unknown, and &quot;&amp;middot;&quot; represents missing. If a patient changes dialysis facilities, the counting of the three consecutive complete months restarts at the new facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Calculation Algorithm/Measure Logic Diagram: Hemodialysis Vascular Access: Long-term Catheter Rate&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hemodialysis vascular access: long-term catheter rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Joseph Vassalotti, MD, FASN, FNKF&lt;br /&gt;&#xD;&#xA;Chief Medical Officer, National Kidney Foundation&lt;br /&gt;&#xD;&#xA;Associate Professor of Medicine, Division of Nephrology&lt;br /&gt;&#xD;&#xA;Mount Sinai Medical Center&lt;br /&gt;&#xD;&#xA;New York, NY&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Monet Carnahan, RN, BSN, CDN&lt;br /&gt;&#xD;&#xA;Renal Care Coordinator Program Manager&lt;br /&gt;&#xD;&#xA;Fresenius Medical Center (FMC)&lt;br /&gt;&#xD;&#xA;Franklin, TN&lt;br /&gt;&#xD;&#xA;American Nephrology Nurses Association&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Derek Forfang&lt;br /&gt;&#xD;&#xA;Patient Leadership Committee Chair, ESRD Network 17&lt;br /&gt;&#xD;&#xA;Board Member, Intermountain End State Renal Disease Network Inc.&lt;br /&gt;&#xD;&#xA;Beneficiary Advisory Council (Vice Chair), The National Forum of ESRD Networks&lt;br /&gt;&#xD;&#xA;Board Member, The National Forum of ERSD Networks&lt;br /&gt;&#xD;&#xA;San Pablo, CA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Lee Kirskey, MD&lt;br /&gt;&#xD;&#xA;Attending staff, Department of Vascular Surgery&lt;br /&gt;&#xD;&#xA;Cleveland Clinic Foundation&lt;br /&gt;&#xD;&#xA;Cleveland, OH&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nance Lehman&lt;br /&gt;&#xD;&#xA;Board Member&lt;br /&gt;&#xD;&#xA;Dialysis Patient Citizens (DPC)&lt;br /&gt;&#xD;&#xA;Billings, MT&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Charmaine Lok, MD, MSc, FRCPC (C)&lt;br /&gt;&#xD;&#xA;Medical Director of Hemodialysis and Renal Management Clinics&lt;br /&gt;&#xD;&#xA;University Health Network&lt;br /&gt;&#xD;&#xA;Professor of Medicine&lt;br /&gt;&#xD;&#xA;University of Toronto&lt;br /&gt;&#xD;&#xA;Toronto, ON&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Lynn Poole, FNP-BC, CNN NCC&lt;br /&gt;&#xD;&#xA;Fistula First Catheter Last Project Clinical Lead&lt;br /&gt;&#xD;&#xA;ESRD National Coordinating Center&lt;br /&gt;&#xD;&#xA;Lake Success, NY&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Rudy Valentini, MD&lt;br /&gt;&#xD;&#xA;Chief Medical Officer&lt;br /&gt;&#xD;&#xA;Children's Hospital of Michigan (CHM)&lt;br /&gt;&#xD;&#xA;Professor of Pediatrics, Division of Nephrology&lt;br /&gt;&#xD;&#xA;Wayne State University School of Medicine&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Daniel Weiner, MD, MS&lt;br /&gt;&#xD;&#xA;Nephrologist, Tufts Medical Center&lt;br /&gt;&#xD;&#xA;Associate Medical Director, DCI Boston&lt;br /&gt;&#xD;&#xA;Associate Professor of Medicine, Tufts University School of Medicine &lt;br /&gt;&#xD;&#xA;Boston, MA&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Dec 9&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.dialysisdata.org/content/esrd-measures&quot; title=&quot;Dialysis Data Web site&quot;&gt;Dialysis Data Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Casey Parrotte at the Kidney Epidemiology and Cost Center, The University of Michigan, 1415 Washington Heights, Suite 3645 SPHI, Ann Arbor, MI 48109-2029; Phone: 734-763-6611; Fax: 734-763-4004; Email: &lt;a href=&quot;mailto:parrotte@med.umich.edu&quot;&gt;parrotte@med.umich.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 22, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: hemodialysis vascular access: long-term catheter rate. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 May. 35 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

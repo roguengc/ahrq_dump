@@ -1,0 +1,228 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Oncology: percentage of female patients aged 18 years and older with Stage I (T1b) through IIIC, estrogen receptor (ER) or progesterone receptor (PR) positive breast cancer who were prescribed tamoxifen or aromatase inhibitor (AI) during the 12-month reporting period.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Breast cancer: hormonal therapy for Stage I (T1b)-IIIC estrogen receptor/progesterone receptor (ER/PR) positive breast cancer. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 May 5&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of female patients aged 18 years and older with Stage I (T1b) through IIIC, estrogen receptor (ER) or progesterone receptor (PR) positive breast cancer who were prescribed tamoxifen or aromatase inhibitor (AI) during the 12-month reporting period. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Despite evidence suggesting the role of adjuvant endocrine therapy in lowering the risk of tumor recurrence, many female patients who should be receiving this therapy are not. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure assesses whether patients with a certain stage of breast cancer [I (T1b) through IIIC] and estrogen receptor (ER) or progesterone receptor (PR) positive (ER/PR+) are currently receiving the therapy. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;There are allowable medical, patient, and system reasons to document instances in which a woman with Stage I (T1b) through IIIC, ER/PR+ may not be a candidate for the therapy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Recommendation Statement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: upper-roman;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Women diagnosed with hormone receptor-positive breast cancer who are pre- or perimenopausal should be offered adjuvant endocrine therapy with:&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;Tamoxifen for an initial duration of 5 years. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;After 5 years, women should receive additional therapy based on menopausal status.&#xD;&#xA;        &lt;ol style=&quot;list-style-type: lower-roman;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;            &lt;li&gt;If women are pre- or perimenopausal, or if menopausal status is unknown or cannot be determined, they should be offered continued tamoxifen for a total duration of 10 years. &lt;/li&gt;&#xD;&#xA;            &lt;li&gt;If women have become definitively postmenopausal, they should be offered continued tamoxifen for a total duration of 10 years or switching to up to 5 years of an aromatase inhibitor (AI), for a total duration of up to 10 years of adjuvant endocrine therapy. &lt;/li&gt;&#xD;&#xA;        &lt;/ol&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women diagnosed with hormone receptor-positive breast cancer who are postmenopausal should be offered adjuvant endocrine therapy with one of the following options:&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;Tamoxifen for a duration of 10 years Or &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;An AI for a duration of 5 years. There are insufficient data currently to recommend an AI for a duration of greater than 5 years. Or &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Tamoxifen for an initial duration of 5 years, then switching to an AI for up to 5 years, for a total duration of up to 10 years of adjuvant endocrine therapy. Or &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Tamoxifen for a duration of 2 to 3 years and switching to an AI for up to 5 years, for a total duration of up to 7 to 8 years of adjuvant endocrine therapy. &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women who are postmenopausal and are intolerant of either tamoxifen or an AI should be offered the alternative type of adjuvant endocrine therapy.&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;If women have received an AI but discontinued treatment at less than 5 years, they may be offered tamoxifen for a total of 5 years. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;If women have received tamoxifen for 2 to 3 years, they should be offered switching to an AI for up to 5 years, for a total duration of up to 7 to 8 years of adjuvant endocrine therapy. &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Women who have received 5 years of tamoxifen as adjuvant endocrine therapy should be offered additional adjuvant endocrine treatment.&#xD;&#xA;    &lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;If women are postmenopausal, they should be offered continued tamoxifen for a total duration of 10 years or switching to up to 5 years AI, for a total duration of up to 10 years of adjuvant endocrine therapy. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;If women are pre- or perimenopausal, or menopausal status cannot be ascertained, they should be offered 5 additional years of tamoxifen, for a total duration of 10 years of adjuvant endocrine therapy (Burstein et al., 2014). &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Patients with invasive breast cancers that are ER- or PR-positive should be considered for adjuvant endocrine therapy regardless of patient age, lymph node status, or whether adjuvant chemotherapy is to be administered (National Comprehensive Cancer Network [NCCN], 2015).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The most firmly established adjuvant endocrine therapy is tamoxifen for both premenopausal and postmenopausal women. In women with ER-positive breast cancer, adjuvant tamoxifen decreases the annual odds of recurrence by 39% and the annual odds of death by 31% irrespective of the use of chemotherapy, patient age, menopausal status, or axillary lymph node (ALN) status. In patients receiving both tamoxifen and chemotherapy, chemotherapy should be given first, followed by sequential tamoxifen. Prospective, randomized trials have demonstrated that 5 years of tamoxifen is more effective than 1 to 2 years of tamoxifen (NCCN, 2015). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with lymph node involvement or with tumors greater than 1 cm in diameter are appropriate candidates for adjuvant systemic therapy. For women with lymph node-negative, hormone receptor-negative tumors greater than 1 cm in diameter, chemotherapy is recommended. For those with lymph node-negative, hormone receptor-positive breast cancer tumors greater than 0.5 cm, the panel recommends endocrine therapy with the consideration of chemotherapy (NCCN, 2015). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burstein HJ, Temin S, Anderson H, Buchholz TA, Davidson NE, Gelmon KE, Giordano SH, Hudis CA, Rowden D, Solky AJ, Stearns V, Winer EP, Griggs JJ. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: American Society of Clinical Oncology clinical practice guideline focused update. J Clin Oncol. 2014 Jul 20;32(21):2255-69. [40 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24868023&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Breast cancer: hormonal therapy for Stage I (T1b)-IIIC estrogen receptor/progesterone receptor (ER/PR) positive breast cancer. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 May 5&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: breast cancer. Version 3. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Breast cancer; estrogen receptor (ER); progesterone receptor (PR); tamoxifen; aromatase inhibitor (AI) therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All female patients aged 18 years and older with a diagnosis of breast cancer with Stage I (T1b) through IIIC, estrogen receptor (ER) or progesterone receptor (PR) positive breast cancer (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were prescribed tamoxifen or aromatase inhibitor (AI) during the 12-month reporting period (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a measure testing project in 2011 with American Society of Clinical Oncology (ASCO) and American Society for Radiation Oncology (ASTRO), to ensure the &lt;em&gt;Breast Cancer: Hormonal Therapy for Stage IC-IIIC Estrogen Receptor/Progesterone Receptor (ER/PR) Positive Breast Cancer&lt;/em&gt; measure was reliable and evaluated for accuracy of the measure numerator, denominator and exception case identification. The testing project was conducted utilizing chart data. Inter-rater reliability was tested. Five sites participated in the testing of the measures. Two sites were in urban settings, two sites were in suburban settings, and one had multiple practice sites in urban, rural and suburban settings. Site A was a hospital-based practice with 21 physicians. Site B was a physician-owned private practice with four physicians. Site C was a physician-owned private practice with 41 physicians. Site D was an academic practice with nine physicians. Site E was an academic practice with 14 physicians.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from chart records were used to calculate inter-rater reliability for the measures. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing Results&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;There were 156 observations from five sites used for the denominator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide-by-zero in the statistic formula when only one response was used. &lt;/p&gt;&#xA;&lt;p&gt;Of the 156 observations that were initially selected, 156 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide-by-zero in the statistic formula when only one response was used. &lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Reliability: N, % Agreement, Kappa (95% Confidence Interval)&lt;/span&gt;&lt;br /&gt;&#xA;Denominator: 156, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)*&lt;br /&gt;&#xA;Numerator: 156, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)*&lt;br /&gt;&#xA;Exceptions: 156, 100.00%, Non-Calculable (Non-Calculable, Non-Calculable)*&lt;/p&gt;&#xA;&lt;p&gt;This measure demonstrates perfect reliability, as shown in results from the above analysis. &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*Cannot calculate kappa statistics when only one response (Yes/Yes) was used, as this causes a divide-by-zero error in the statistic formula.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Society for Therapeutic Radiology and Oncology (ASTRO), American Society of Clinical Oncology (ASCO). Oncology performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Sep. 36 p.  [5 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="37" OrdBy="200" ID="579" Name="National Guideline Clearinghouse Link" Type="xref">
+      <FieldValue Value="&lt;a href=&quot;http://www.guideline.gov/content.aspx?id=50300&quot; target=&quot;_blank&quot;&gt;(1) American Society of Clinical Oncology clinical practice guideline: update on adjuvant endocrine therapy for women with hormone receptor&amp;ndash;positive breast cancer. (2) Adjuvant endocrine therapy for women with hormone receptor&amp;ndash;positive breast cancer: American Society of Clinical Oncology clinical practice guideline focused update. (3) Adjuvant endocrine therapy for women with hormone receptor&amp;ndash;positive breast cancer: American Society of Clinical Oncology clinical practice guideline update on ovarian suppression.&lt;/a&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Female (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The 12-month reporting period (January 1 through December 31)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All female patients aged 18 years and older with a diagnosis of breast cancer with stage I (T1b) through IIIC, estrogen receptor (ER) or progesterone receptor (PR) positive breast cancer&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Date of breast cancer diagnosis is defined as date of pathologic diagnosis. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for data criteria and associated value sets. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Documentation of medical reason(s) for not prescribing tamoxifen or aromatase inhibitor (AI) (e.g., patient's disease has progressed to metastatic, patient is receiving a gonadotropin-releasing hormone analogue, patient has received oophorectomy, patient is receiving radiation or chemotherapy, patient's diagnosis date is within 120 days of the end of the 12-month reporting period, other medical reason) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of patient reason(s) for not prescribing tamoxifen or AI (e.g., patient refusal, other patient reasons) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of system reason(s) for not prescribing tamoxifen or AI (e.g., patient is currently enrolled in a clinical trial, other system reasons) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The denominator exception &quot;Clinical Trial Participant&quot; data element should be specific to breast cancer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who were prescribed* tamoxifen or aromatase inhibitor (AI) during the 12-month reporting period&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for data criteria and associated value sets.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Prescribed&lt;/em&gt;: May include prescription given to the patient for tamoxifen or AI at one or more visits in the 12-month period OR patient already taking tamoxifen or AI as documented in the current medication list.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Breast cancer: hormonal therapy for stage I (T1b)-IIIC estrogen receptor/progesterone receptor (ER/PR) positive breast cancer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Oncology Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="PCPI Foundation - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+      <FieldValue Value="American Society for Radiation Oncology - Medical Specialty Society" />
+      <FieldValue Value="American Society of Clinical Oncology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;reg; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Mar 28&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xA;&lt;p&gt;This measure updates a previous version: American Medical Association-convened Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;reg;), American Society for Therapeutic Radiology and Oncology (ASTRO), American Society of Clinical Oncology (ASCO). Oncology performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Sep. 36 p. [5 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://ecqi.healthit.gov/ep/ecqms-2017-performance-period/breast-cancer-hormonal-therapy-stage-i-t1b-iiic-estrogen&quot; title=&quot;eCQI Resource Center Web site&quot; target=&quot;_blank'&quot;&gt;eCQI Resource Center Web site&lt;/a&gt;. Additional information available from the &lt;a href=&quot;https://www.thepcpi.org/programs-initiatives/measurement-science/measure-directory/pcpi-stewarded-measures/&quot; title=&quot;PCPI Web site&quot;&gt;PCPI Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: &lt;a href=&quot;mailto:PCPImeasures@thepcpi.org&quot;&gt;PCPImeasures@thepcpi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on September 8, 2008. The information was verified by the measure developer on October 16, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on September 28, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 7, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited again by ECRI Institute on April 27, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on January 20, 2016. The information was verified by the measure developer on February 10, 2016.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 11, 2017. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: &lt;a href=&quot;mailto:PCPImeasures@thepcpi.org&quot;&gt;PCPImeasures@thepcpi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;eCQI Resource Center. Breast cancer: hormonal therapy for Stage I (T1b)-IIIC estrogen receptor/progesterone receptor (ER/PR) positive breast cancer. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 May 5&amp;nbsp;[5]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Eye care: percentage of patients aged 18 years and older with a diagnosis of uncomplicated cataract who had cataract surgery and had any of a specified list of surgical procedures in the 30 days following cataract surgery which would indicate the occurrence of any of the following major complications: retained nuclear fragments, endophthalmitis, dislocated or wrong power IOL, retinal detachment, or wound dehiscence.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Academy of Ophthalmology. Eye care I and II performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 55 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of uncomplicated cataract who had cataract surgery and had any of a specified list of surgical procedures in the 30 days following cataract surgery which would indicate the occurrence of any of the following major complications: retained nuclear fragments, endophthalmitis, dislocated or wrong power intraocular lens (IOL), retinal detachment, or wound dehiscence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Complications that may result in a permanent loss of vision following cataract surgery are uncommon. This short-term outcome of surgery indicator seeks to identify those complications from surgery that can reasonably be attributed to the surgery and surgeon and which reflect situations which - if untreated - generally result in significant avoidable vision loss that would negatively impact patient functioning. Further, it seeks to reduce surgeon burden and enhance accuracy in reporting by focusing on those significant complications that can be assessed from administrative data alone and which can be captured by the care of another physician or the provision of additional, separately coded, postoperative services. Finally, it focuses on patient safety and monitoring for events that, while hopefully uncommon, can signify important issues in the care being provided. For example, the need to reposition or exchange an intraocular lens (IOL) reflects in part &quot;wrong power&quot; IOL placement, a major patient safety issue. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In order to achieve these ends, the indicator excludes patients with other known, pre-operative ocular conditions that could impact the likelihood of developing a complication. Based on the results of the Cataract Appropriateness Project at RAND, other published studies, and one analysis performed on a national Managed Care Organizations (MCO) data base, the exclusion codes would preserve over 2/3 of all cataract surgery cases for analysis. Thus, this provides a &quot;clean&quot; indicator that captures care for the large majority of patients undergoing cataract surgery.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following clinical recommendation statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines and represent the evidence base for the measure&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This is an outcome measure. As such, there are no statements in the guideline specific to this measurement topic.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Academy of Ophthalmology. Eye care I and II performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 55 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cataract surgery; major complications; retained nuclear fragments, endophthalmitis, dislocated or wrong power intraocular lens [IOL], retinal detachment, wound dehiscence&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older who had cataract surgery and no significant ocular conditions impacting the surgical complication rate (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who had one or more specified operative procedures for any of the following major complications within 30 days following cataract surgery: retained nuclear fragments, endophthalmitis, dislocated or wrong power intraocular lens (IOL), retinal detachment, or wound dehiscence&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The advances in technology and surgical skills over the last 30 years have made cataract surgery much safer and more effective although complications that threaten vision do occur. For example, a study of more than 220,000 Medicare beneficiaries who underwent cataract surgery between 1994 and 2006 found that more than 1,000, or about 0.5%, of patients had at least one severe postoperative complication (American Academy of Ophthalmology [AAO], 2011).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In a review, Taban et al. (2005) found a postoperative rate of endophthalmitis of 0.128%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Additionally, in a review of Medicare claims data between 1994 and 2006, Stein et al. (2011) reported a one-year postoperative rate of retinal detachment of 0.26%.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The occurrence of one of these events is associated with a significant potential for vision loss that is otherwise avoidable. With an annual volume of 2.8 million cataract surgeries in the U.S., a 2% rate would mean that over 36,000 surgeries are accompanied by these complications. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology Cataract and Anterior Segment Panel. Cataract in the adult eye. San Francisco (CA): American Academy of Ophthalmology (AAO); 2011. 89 p.  [855 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Academy of Ophthalmology. Eye care I and II performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 55 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stein JD, Grossman DS, Mundy KM, Sugar A, Sloan FA. Severe adverse events after cataract surgery among Medicare beneficiaries. Ophthalmology. 2011 Sep;118(9):1716-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21640382&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Taban M, Behrens A, Newcomb RL, Nobe MY, Saedi G, Sweet PM, McDonnell PJ. Acute endophthalmitis following cataract surgery: a systematic review of the literature. Arch Ophthalmol. 2005 May;123(5):613-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15883279&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on several measure testing projects in 2012 and 2015 to ensure the Cataracts &amp;ndash; Complications within 30 Days Following Cataracts Surgery measure and Cataracts &amp;ndash; 20/40 or Better Visual Acuity within 90 Days Following Cataracts Surgery measures are reliable and evaluated for accuracy of the measure numerator, denominator and exception case identification. The testing projects were conducted utilizing electronic health record data and registry data. Parallel forms reliability and signal-to-noise reliability were tested. One site participated in the parallel forms testing of the measures. Site A was a physician-owned multi-location suburban practice in a large Midwestern city with four physicians. Signal-to-noise reliability was assessed using 2013 data acquired from the Centers for Medicare &amp;amp; Medicaid Services Physician Quality Reporting System Group Practice Reporting Option (GPRO) database. An analysis of the measure exclusions was conducted using 2013 Medicare 5% Beneficiary claims data.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Cataracts &amp;ndash; Complications within 30 Days Following Cataracts Surgery&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Parallel Forms Reliability Testing (Site A)&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There were 149 observations from one site used for the denominator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide by zero in the statistic formula when only one response was used.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Of the 149 observations that were initially selected, 149 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value of 0.00 demonstrates poor agreement between the automated report and reviewer. However, upon further review of the testing results, it was determined that the low kappa score results from the limitation of the kappa statistic where while the agreement can be 90% or greater, if one classification category dominates, the kappa can be significantly reduced. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reliability: N, % Agreement, Kappa (95% Confidence Interval)&lt;br /&gt;&#xD;&#xA;Denominator: 149, 100.0%, Non-Calculable* (Non-Calculable, Non-Calculable)* &lt;br /&gt;&#xD;&#xA;Numerator: 149, 99.3%, 0.00 (-0.02, 0.00)** &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Cannot calculate kappa statistics when only one response (Yes/Yes) was used, as this causes a divide-by-zero error in the statistic formula.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**This is an example of the limitation of the Kappa statistic. While the agreement can be 90% or greater, if one classification category dominates, the kappa can be significantly reduced.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Signal-to-Noise Reliability Testing&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For this measure, the reliability at the minimum level of quality reporting events (10) was 0.87. The average number of quality reporting events for physicians included is 53.3. The reliability at the average number of quality reporting events was 0.97. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure has high reliability when evaluated at the minimum level of quality reporting events and high reliability at the average number of quality events. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Exclusions Analysis&lt;/span&gt;&lt;br /&gt;&#xD;&#xA;Medicare 5% Beneficiary claims data sample, there were 46,715 unique individuals who had a cataract procedure in the first nine months of 2013 with a total of 70,773 procedures. Using the criteria for the measure, 36,988 (52.2%) procedures had a cataract measure exclusion associated with the procedure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Academy of Ophthalmology. Eye care I and II performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 55 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older who had cataract surgery and no significant ocular conditions impacting the surgical complication rate&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with any one of a specified list of significant ocular conditions that impact the surgical complication rate &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who had one or more specified operative procedures for any of the following major complications within 30 days following cataract surgery: retained nuclear fragments, endophthalmitis, dislocated or wrong power intraocular lens (IOL), retinal detachment, or wound dehiscence&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #3 cataracts: complications within 30 days following cataract surgery requiring additional surgical procedures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Eye Care I and II Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Eye Care II Measure Development Work Group&lt;/span&gt;&lt;/strong&gt;*&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Members&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Paul P. Lee, MD, JD (&lt;em&gt;Co-chair&lt;/em&gt;) (ophthalmologist) &lt;br /&gt;&#xD;&#xA;Jinnet B. Fowles, PhD (&lt;em&gt;Co-chair&lt;/em&gt;) (methodologist)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Non-surgical Management Subgroup&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Richard L. Abbott, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lloyd P. Aiello, MD, PhD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Murray Fingeret, OD (optometrist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Andrea Gelzer, MD, MS, FACP (health plan) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mathew MacCumber, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mildred M. G. Olivier, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Marcus G. Piccolo, OD (optometrist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sam J. W. Romeo, MD, MBA (family practice) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Surgical Management Subgroup&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Priscilla P. Arnold, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Andrea Gelzer, MD, MS, FACP (health plan) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Hellman, MD, FACP, FACE (endocrinologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Leon W. Herndon, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jeffrey S. Karlik, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;James L. Rosenzweig, MD, FACE (endocrinologist) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John T. Thompson, MD (ophthalmologist) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Centers for Medicare &amp;amp; Medicaid Services&lt;/em&gt;: Susan Nedza, MD, MBA, FACEP; Sylvia Publ, MBA, RHIA &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Ophthalmology&lt;/em&gt;: Flora Lum, MD &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Facilitators&lt;/em&gt;: Timothy F. Kresowik, MD; Rebecca A. Kresowik&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Committee for Quality Assurance&lt;/em&gt;: Donna Pillittere; Phil Renner, MBA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&lt;sup&gt;&amp;reg;&lt;/sup&gt;(PCPI&lt;sup&gt;&amp;reg;&lt;/sup&gt;)&lt;/em&gt;: Karen S. Kmetik, PhD; Heidi Bossley, MSN, MBA; Stephen Havas, MD, MPH, MS &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The composition and affiliations of the work group members are listed as originally convened in 2006 and are not up to date.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;reg; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Nov 4&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Academy of Ophthalmology, Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Eye care physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 35 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement/pcpi-measures.page?&quot; title=&quot;AMA-PCPI Web site&quot;&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&lt;sup&gt;&amp;reg;&lt;/sup&gt; Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact AMA at 330 N. Wabash Avenue Suite 39300, Chicago, Ill. 60611; Phone: 312-800-621-8335; Fax: 312-464-5706; E-mail: &lt;a href=&quot;mailto:cqi@ama-assn.org&quot;&gt;cqi@ama-assn.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 13, 2008. The information was verified by the measure developer on April 22, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 3, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 3, 2015. The information was verified by the measure developer on January 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complete Physician Performance Measurement Sets (PPMS) are published by the American Medical Association, on behalf of the Physician Consortium for Performance Improvement. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Medical Association, Clinical Performance Evaluation, 330 N. Wabash Ave, Chicago, IL 60611. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Academy of Ophthalmology. Eye care I and II performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 55 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

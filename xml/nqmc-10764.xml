@@ -1,0 +1,223 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Epilepsy: percentage of children with epilepsy, with epilepsy syndrome or category identifiers by 1 year.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12 national report, round 2. London (UK): The Royal College of Paediatrics and Child Health; 2014 Nov. 103 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12, round 2. Full methodology document. London (UK): The Royal College of Paediatrics and Child Health; 2013 Jun. 33 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children with epilepsy, with epilepsy syndrome or category identifiers by 1 year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Epilepsies are amongst the most common significant long-term health conditions of childhood and pose significant challenges for the National Health Service. The Epilepsy12 audit has demonstrated significant improvement in care during its first five years. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Terminology for classification is difficult and constantly evolving. The International League Against Epilepsy (ILAE) terminology forms the best way of assessing appropriateness of terminology. Unclassified is accepted.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Epileptic seizures and epilepsy syndromes in individuals should be classified using a multi-axial diagnostic scheme. The axes that should be considered are: description of seizure (ictal phenomenology); seizure type; syndrome and aetiology (National Institute for Health Clinical Excellence [NICE], 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The choice of first antiepileptic drug (AED) should be determined where possible by syndromic diagnosis and potential adverse effects (Scottish Intercollegiate Guidelines Network [SIGN], 2005).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Institute for Health and Clinical Excellence (NICE). The epilepsies: the diagnosis and management of the epilepsies in adults and children in primary and secondary care. London (UK): National Institute for Health and Clinical Excellence (NICE); 2012 Jan. 117 p.&amp;nbsp;(Clinical guideline; no. 137).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scottish Intercollegiate Guidelines Network (SIGN). Diagnosis and management of epilepsies in children and young people. Edinburgh (Scotland): Scottish Intercollegiate Guidelines Network (SIGN); 2005 Mar. 53 p.&amp;nbsp;(SIGN publication; no. 81).&amp;nbsp; [279 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12 national report, round 2. London (UK): The Royal College of Paediatrics and Child Health; 2014 Nov. 103 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Epilepsy; epilepsy syndrome; International League Against Epilepsy (ILAE) classification; category identifiers; children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of children who had a diagnosis of two or more epileptic seizures at 1 year (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of children with diagnosis of two or more epileptic seizures at 1 year AND who had International League Against Epilepsy (ILAE) syndrome classification (all syndrome types except: grand mal epilepsy, petit mal epilepsy, no epilepsy syndrome stated, other and unclassified) OR any use of category identifier terms&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Epilepsy12 Round 2 is the second cycle of this audit which aimed to re-examine the quality of care for children and young people with epilepsies in the United Kingdom (UK).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Audit Key Findings&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the Clinical Audit Domain 12 clinical performance indicators were applied to a cohort of 3,449 children for whom a 'first paediatric assessment' for a 'paroxysmal episode or episodes' was undertaken during the four months between 1 January and 30 April 2013. In Round 1 the cohort was identified similarly but across a six-month period from 1 August 2009 to 31 January 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Audit Performance Indicator Key Findings&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Ten of the 12 performance indicators were defined identically to those used in Round 1 and were applied to a similarly defined cohort of children in Round 2. Of the 10 clinical performance indicators where longitudinal comparison was possible across rounds, 9 indicators showed a statistically significant improvement across the UK (tertiary involvement being the exception&amp;ndash;point 3 on the chart). The 12 performance indicators results for both rounds are summarised in the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recruitment&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The audit covered England, Northern Ireland, Scotland and Wales. All paediatric services that employ NHS paediatricians that request electroencephalograms (EEGs) and are involved with the care of children and young people with seizures or epilepsy were invited to participate. During Round 1, the UK was split into pragmatic regions and 'audit units'. Each 'audit unit' had defined: Consultant Paediatricians (one of whom acting as the audit unit lead); National Health Service (NHS) Health Boards, Trusts; Hospitals; Community Paediatric services and EEG services. Audit units invited to participate in Round 1 were also invited to participate in Round 2.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data and Quality Analysis&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The data collection system included validation rules to ensure that appropriate and internally consistent data was provided by the participating units. This meant that the overall data quality standard was high. Six records were removed from the dataset as the first paediatric assessment had taken place when the child was less than one month old or an implausible age at first paediatric assessment was recorded. Audit units were able to view provisional data and provide corrected data where appropriate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Epilepsy12 indicators are reported with 95% confidence intervals. The Wilson score method has been used to calculate confidence intervals. The confidence intervals can be used to assess whether there has been a statistically significant change in between Round 1 and Round 2 or between countries. If the 95% confidence intervals do not overlap the difference is statistically significant. Individual Audit Units are identified as a positive outlier (statistically significantly higher than the UK value) if the unit's upper 95% confidence interval is below the lower confidence interval for the UK. This is equivalent to being approximately two standard deviations above the UK value. Units are identified as a negative outlier (statistically significantly lower than the UK value) if the unit's lower 95% confidence interval is above the upper confidence interval for the UK. This is equivalent to being approximately two standard deviations below the UK value.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for performance indicator results and key findings.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12 national report, round 2. London (UK): The Royal College of Paediatrics and Child Health; 2014 Nov. 103 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Emergency Medical Services" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than 1 month and less than 16 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;1 January to 31 October&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of children who had a diagnosis of two or more epileptic seizures at 1 year &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Clinical Cohort Ascertainment&lt;/em&gt;: An initial heterogeneous group will be identified from electroencephalogram (EEG) services who will identify the potentially eligible group by identifying all children referred for a first EEG between 1 January and 31 October 2013. The EEG service will forward a list of all cases identified on a monthly basis to the audit unit lead who will filter the cases to form the cohort by application of inclusion and exclusion criteria. Refer to the original measure documentation for additional information. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Inclusion Criteria&lt;/em&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;First EEG between 1 January and 31 October 2013. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The child has a 'first paediatric assessment' for the 'paroxysmal episode or episodes' between 1 January and 30 April 2013. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Child is older than 1 month and younger than 16 years at 'first paediatric assessment'. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The EEG was prompted by the patient having one or more afebrile paroxysmal episodes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;First Paediatric Assessment&lt;/em&gt;: A 'face to face' assessment by a secondary level/tier doctor in a paediatric service occurring in any non-acute or acute setting. Assessment within emergency department (ED) counts if performed by paediatric team rather than an ED team. Some paediatric neurologists see referrals direct from GP or ED and these would count as both a first paediatric assessment and tertiary input. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Paroxysmal Episodes&lt;/em&gt;: This is the term chosen in this audit to represent the events causing concern. It includes all epileptic and non-epileptic seizures and also seizures of uncertain origin. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Epileptic Seizure&lt;/em&gt;: Clinical manifestation(s) of epileptic (excessive and/or hypersynchronous), usually self-limited activity of neurons in the brain (International League Against Epilepsy [ILAE]). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;All 'paroxysmal episodes' in question were diagnosed as 'febrile seizures'. (Children with a history of febrile seizures being assessed for different afebrile 'paroxysmal episodes' may be included.) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient has had a paediatric assessment previously for similar episode or episodes or epilepsy prior to first paediatric assessment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All the paroxysmal episodes that the patient had were acute symptomatic seizures or occurred within a week of a traumatic head injury. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The patient's care was permanently transferred to a secondary paediatric service outside the 'audit unit' boundaries or an adult service during the year after first paediatric assessment. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Febrile Seizure&lt;/em&gt;: An episode diagnosed by the assessing team as a 'febrile seizure' or 'febrile convulsion' or 'febrile fit'. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Acute Symptomatic Seizures&lt;/em&gt;: Seizures occurring at the time of a diagnosis of an acute disorder (e.g., meningitis, encephalitis, electrolyte disturbance, etc.). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Audit Unit&lt;/em&gt;: One or more secondary tier paediatric services grouped together using pragmatic boundaries agreed by the paediatric audit unit link, the project team and the tertiary link. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of children with diagnosis of two or more epileptic seizures at 1 year AND who had International League Against Epilepsy (ILAE) syndrome classification (all syndrome types except: grand mal epilepsy, petit mal epilepsy, no epilepsy syndrome stated, other and unclassified) OR any use of category identifier terms &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Epilepsy Syndrome&lt;/em&gt;: A complex of clinical features, signs and symptoms that together define a distinctive, recognizable clinical disorder (ILAE). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Epilepsy Syndrome Category&lt;/em&gt;: A group of epilepsies described using the terms idiopathic primary, symptomatic, probably symptomatic and cryptogenic and focal, partial, multifocal or generalized. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;6b. Percentage of children with epilepsy, with epilepsy syndrome or category identifiers by 1 year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Epilepsy12 Performance Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Evidence of Appropriate Assessment and Classification" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Royal College of Paediatrics and Child Health - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Royal College of Paediatrics and Child Health - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Project Board &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dr. Helen Basu, Consultant Paediatric Neurologist, British Paediatric Neurology Association representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alex Bird, Development Officer, Healthcare Quality Improvement Partnership &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ann Brown, Epilepsy Specialist Nurse, Royal College of Nursing representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John Cowman, Director of Operations, Young Epilepsy &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Colin Dunkley, Consultant Paediatrician, Project lead &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Colin Ferrie, Consultant Paediatric Neurologist, Clinical representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jacqueline Fitzgerald, Director of Policy and Research, RCPCH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Martin Kirkpatrick, Consultant Paediatric Neurologist, Scotland and HIS representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Katherine Martin, Consultant in Paediatric Neurodisability, British Academy of Childhood Disability representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Lesley Notghi, Consultant Neurophysiologist, British Society for Clinical Neurophysiology representative &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Angie Pullen, Epilepsy Services Manager, Epilepsy Action &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Yvonne Silove, Associate Director for Quality and Improvement, National Clinical Audit and Patient Outcomes Programme, Healthcare Quality Improvement Partnership &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anissa Tonberg, Policy and Development Manager, Epilepsy Scotland &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Berni Waldron, Epilepsy Specialist Nurse, Audit Facilitator &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Methodology Working Group&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Katherine Bowyer, Neurophysiological Scientist &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Richard Chin, Consultant Paediatric Neurologist &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Colin Dunkley, Consultant Paediatrician &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Colin Ferrie, Consultant Paediatric Neurologist &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Katherine Martin, Consultant in Paediatric Neurodisability &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Berni Waldron, Epilepsy Specialist Nurse &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. William Whitehouse, Senior Lecturer in Paediatric Neurology &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No financial disclosures or potential conflicts of interest&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measures are reviewed with consideration for update as national recommendations are updated and the audit cycle is repeated. This frequency will be removed as the audit evolves to continuous audit models.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the Royal College of Paediatrics and Child Health (RCPCH) Web site:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;a href=&quot;http://www.rcpch.ac.uk/system/files/protected/page/Epilepsy12%20report%202014%20for%20web.pdf&quot; title=&quot;Royal College of Paediatrics and Child Health (RCPCH) Web site&quot;&gt;Epilepsy12 national report, round 2.&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;a href=&quot;http://www.rcpch.ac.uk/system/files/protected/page/Full%20Methodology%20doc%2027Jun2013%20-%20posted%20online%2022Aug13.pdf&quot; title=&quot;Royal College of Paediatrics and Child Health (RCPCH) Web site&quot;&gt;Epilepsy12, round 2. Full methodology document.&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact RCPCH at 5-11 Theobald's Road, London WC1X 8SH, UK; Phone: +44 (0)20 7092 6000; E-mail: &lt;a href=&quot;mailto:epilepsy12@rcpch.ac.uk&quot;&gt;epilepsy12@rcpch.ac.uk&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.rcpch.ac.uk/&quot; title=&quot;Royal College of Paediatrics and Child Health (RCPCH) Web site&quot;&gt;www.rcpch.ac.uk/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 10, 2016. The information was verified by the measure developer on June 26, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12 national report, round 2. London (UK): The Royal College of Paediatrics and Child Health; 2014 Nov. 103 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Royal College of Paediatrics and Child Health. Epilepsy12, round 2. Full methodology document. London (UK): The Royal College of Paediatrics and Child Health; 2013 Jun. 33 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

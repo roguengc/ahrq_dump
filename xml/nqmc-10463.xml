@@ -1,0 +1,236 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Colorectal cancer screening: percentage of patients aged 18 years and older receiving a surveillance colonoscopy, with a history of a prior adenomatous polyp(s) in previous colonoscopy findings, who had an interval of 3 or more years since their last colonoscopy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Gastroenterological Association (AGA). Colonoscopy interval for patients with a history of adenomatous polyps. Bethesda (MD): American Gastroenterological Association (AGA); 2015 Nov 17. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older receiving a surveillance colonoscopy, with a history of a prior adenomatous polyp(s) in previous colonoscopy findings, who had an interval of 3 or more years since their last colonoscopy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Colorectal cancer is the second leading cause of cancer death in the United States. Colonoscopy is the recommended method of surveillance after the removal of adenomatous polyps because it has been shown to significantly reduce subsequent colorectal cancer incidence. The time interval for the development of malignant changes in adenomatous polyps is estimated at 5 to 25 years (Institute for Clinical Systems Improvement [ICSI], 2006). Inappropriate interval recommendations can result in overuse of resources and can lead to significant patient harm. Performing colonoscopy too often not only increases patients' exposure to procedural harm, but also drains resources that could be more effectively used to adequately screen those in need (Lieberman et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Recommendation Statements&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with only 1 or 2 small (less than 1 cm) tubular adenomas with only low-grade dysplasia should have their next follow-up colonoscopy in 5 to 10 years; the precise timing within this interval should be based on other clinical factors (such as prior colonoscopy findings, family history, and the preferences of the patient and judgment of the physician). Patients with 3 to 10 adenomas, or any adenoma greater than or equal to 1 cm, or any adenoma with villous features, or high-grade dysplasia should have their next follow-up colonoscopy in 3 years providing that piecemeal removal has not been performed and the adenoma(s) is removed completely; if the follow-up colonoscopy is normal or shows only 1 or 2 small tubular adenomas with low-grade dysplasia, then the interval for the subsequent examination should be 5 years (Winawer et al., 2006).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with greater than 10 adenomas are thought to be at particularly high risk, and current multi-society guidelines therefore recommend early surveillance colonoscopy in these individuals (less than 3 years) (Lieberman et al., 2012). However, it is important to note that risk is a continuum; an individual with 11 adenomas is not at dramatically higher risk than an individual with 9 or 10 adenomas. Thus, the optimal threshold at which early surveillance colonoscopy becomes worthwhile is subject to debate. For instance, in the United Kingdom, early surveillance colonoscopy is recommended for individuals with even fewer adenomas (greater than or equal to 5 adenomas of any size, or greater than or equal to 3 adenomas with at least one large adenoma). A lower threshold is likely to result in higher colonoscopy utilization, but it may also provide greater clinical benefit (Mart&amp;iacute;nez et al., 2012). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Gastroenterological Association (AGA). Colonoscopy interval for patients with a history of adenomatous polyps. Bethesda (MD): American Gastroenterological Association (AGA); 2015 Nov 17. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute for Clinical Systems Improvement (ICSI). Colorectal cancer screening. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2006 Jun. 50 p.  [71 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lieberman DA, Faigel DO, Logan JR, Mattek N, Holub J, Eisen G, Morris C, Smith R, Nadel M. Assessment of the quality of colonoscopy reports: results from a multicenter consortium. Gastrointest Endosc. 2009 Mar;69(3 Pt 2):645-53. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19251005&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lieberman DA, Rex DK, Winawer SJ, Giardiello FM, Johnson DA, Levin TR. Guidelines for colonoscopy surveillance after screening and polypectomy: a consensus update by the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2012 Sep;143(3):844-57. [85 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22763141&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Martínez ME, Thompson P, Messer K, Ashbeck EL, Lieberman DA, Baron JA, Ahnen DJ, Robertson DJ, Jacobs ET, Greenberg ER, Cross AJ, Atkin W. One-year risk for advanced colorectal neoplasia: U.S. versus U.K. risk-stratification guidelines. Ann Intern Med. 2012 Dec 18;157(12):856-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23247939&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Winawer SJ, Zauber AG, Fletcher RH, Stillman JS, O'Brien MJ, Levin B, Smith RA, Lieberman DA, Burt RW, Levin TR, Bond JH, Brooks D, Byers T, Hyman N, Kirk L, Thorson A, Simmang C, Johnson D, Rex DK. Guidelines for colonoscopy surveillance after polypectomy: a consensus update by  the US Multi-Society Task Force on Colorectal Cancer and the American Cancer Society. CA Cancer J Clin. 2006 May-Jun;56(3):143-59. [83 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16737947&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Colonoscopy; adenomatous polyp; surveillance interval&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older receiving a surveillance colonoscopy, with a history of a prior adenomatous polyp(s) in previous colonoscopy findings (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who had an interval of 3 or more years since their last colonoscopy (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 18 years and older receiving a surveillance colonoscopy, with a history of a prior adenomatous polyp(s) in previous colonoscopy findings&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases)&lt;/em&gt;:&lt;/p&gt;&#xA;&lt;p&gt;Patients aged greater than or equal to 18 years on date of encounter&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Diagnosis for history of adenomatous (colonic) polyp(s) (International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes): Z86.010&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Patient encounter during the reporting period (refer to the original measure documentation for specific Current Procedural Terminology [CPT] or Healthcare Common Procedure Coding System [HCPCS] codes)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;WITHOUT&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Specific CPT Category I Modifiers (refer to the original measure documentation for specific CPT Category I Modifiers)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Clinicians who indicate that the colonoscopy procedure is incomplete or was discontinued should use the procedure number and the addition (as appropriate) of specific modifiers (refer to the original measure documentation for specific&amp;nbsp;CPT Category I Modifiers). Patients who have a coded colonoscopy procedure that has specific modifiers (refer to the original measure documentation for specific CPT Category I Modifiers) will not qualify for inclusion into this measure. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who had an interval of 3 or more years since their last colonoscopy&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Documentation of medical reason(s) for an interval of less than 3 years since the last colonoscopy (e.g., last colonoscopy incomplete, last colonoscopy had inadequate prep, piecemeal removal of adenomas, last colonoscopy found greater than 10 adenomas, or patient at high risk for colon cancer [Crohn's disease, ulcerative colitis, lower gastrointestinal bleeding, personal or family history of colon cancer]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of system reason(s) for an interval of less than 3 years since the last colonoscopy (e.g., unable to locate previous colonoscopy report, previous colonoscopy report was incomplete) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #185: colonoscopy interval for patients with a history of adenomatous polyps &amp;ndash; avoidance of inappropriate use.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Colorectal Cancer Screening" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Gastroenterological Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American College of Gastroenterology - Medical Specialty Society" />
+      <FieldValue Value="American Gastroenterological Association - Medical Specialty Society" />
+      <FieldValue Value="American Society of Gastrointestinal Endoscopy - Medical Specialty Society" />
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Aug 27&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3640" OrdBy="715" ID="702" Name="Core Quality Measures" Type="picklist-choice">
+      <FieldValue Value="Gastroenterology" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Ambulatory Surgery Center Quality Reporting Program" />
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Outpatient Quality Reporting Program" />
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Society for Gastrointestinal Endoscopy, American Gastroenterological Association, Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Endoscopy and polyp surveillance physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 20 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in February 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Gastroenterological Association (AGA) at 4930 Del Ray Avenue, Bethesda, MD 20814; Phone: 301-654-2055; Fax: 301-654-5920; E-mail: &lt;a href=&quot;mailto:measures@gastro.org&quot;&gt;measures@gastro.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.gastro.org/&quot; title=&quot;AGA Web site&quot;&gt;www.gastro.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 26, 2009. The information was verified by the measure developer on April 13, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 18, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stewardship for this measure was transferred from the PCPI to the AGA. AGA informed NQMC that this measure was updated. This NQMC summary was updated by ECRI Institute on March 14, 2016. The information was verified by the measure developer on March 29, 2016.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on February 6, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measures are not clinical guidelines, do not establish a standard of medical care, and have been not tested for all potential applications. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measures, while copyrighted, can be reproduced and distributed, without modification, for noncommercial purposes, e.g., use by health care providers in connection with their practices. Commercial use is defined as the sale, license, or distribution of the Measures for commercial gain, or incorporation of the Measures into a product or service that is sold, licensed or distributed for commercial gain. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Commercial uses of the Measures require a license agreement between the user and the American Medical Association (AMA), (on behalf of the Physician Consortium for Performance Improvement&amp;reg; [PCPI&amp;reg;]) or the American Gastroenterological Association (AGA), or American Society for Gastrointestinal Endoscopy (ASGE) or the American College of Gastroenterology (ACG). Neither the AMA, AGA, ASGE, ACG, PCPI, nor its members shall be responsible for any use of the Measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The AMA's, PCPI's and National Committee for Quality Assurance's significant past efforts and contributions to the development and updating of the Measures is acknowledged. AGA, ASGE and ACG are solely responsible for the review and enhancement (&quot;Maintenance&quot;) of the Measures as of August 14, 2014&lt;/strong&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AGA, ASGE and ACG encourage use of the Measures by other health care professionals, where appropriate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;THE MEASURES AND SPECIFICATIONS ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&amp;copy;2014 American Medical Association, American Gastroenterological Association, American Society for Gastrointestinal Endoscopy and American College of Gastroenterology. All Rights Reserved. Applicable FARS/DFARS Restrictions Apply to Government Use. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Limited proprietary coding is contained in the Measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. The AMA, AGA, ASGE, ACG, the PCPI and its members disclaim all liability for use or accuracy of any Current Procedural Terminology (CPT&amp;reg;) or other coding contained in the specifications. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;CPT&amp;reg; contained in the Measures specifications is copyright 2004-2014 American Medical Association. LOINC&amp;reg; copyright 2004-2013 Regenstrief lnstitute, Inc. SNOMED CLINICAL TERMS (SNOMED CT&amp;reg;) copyright 2004-2013 College of American Pathologists. All Rights Reserved.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Gastroenterological Association (AGA). Colonoscopy interval for patients with a history of adenomatous polyps. Bethesda (MD): American Gastroenterological Association (AGA); 2015 Nov 17. 6 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

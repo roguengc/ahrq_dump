@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Diagnosis and management of type 2 diabetes mellitus (T2DM) in adults: percentage of newly diagnosed patients who are advised about lifestyle modification and nutrition therapy within one year of diagnosis.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Redmon B, Caccamo D, Flavin P, Michels R, O'Connor P, Roberts J, Smith S, Sperl-Hillen J. Diagnosis and management of type 2 diabetes mellitus in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014 Jul. 85 p.  [197 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of newly diagnosed patients ages 18 to 75 years old who are advised about lifestyle modification and nutrition therapy within one year of diagnosis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The priority aim addressed by this measure is to increase the percentage of patients age 18 to 75 years newly diagnosed with type 2 diabetes mellitus (T2DM) who are advised about lifestyle modification and nutrition therapy.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Due to the high percentage of the United States (U.S.) population that is diagnosed with diabetes and the effect diabetes has on other comorbidities, appropriate management will improve the patient's experience of care and the health of the population, reducing office visits, emergency department visits, and cardiovascular complications. Other related conditions will in turn reduce the total cost of care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Appropriate medication management targeting glycemic control, hypertension, and lipid management is important for reducing morbidity and mortality, and improving long-term quality of life for patients diagnosed with T2DM. Lifestyle changes such as nutrition therapy, weight loss, increased exercise, and appropriate education and self-management strategies are pivotal to improved outcomes. Inadequate access to care for chronic disease management as well as the cost of medication can contribute to poor control of T2DM and associated cardiovascular risk factors.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Intensive lifestyle change or programs have been proven effective in delaying or preventing the onset of diabetes by about 50% to 58%. Effective lifestyle changes include setting achievable goals, obtaining weight loss when needed (between 5% and 10% of total body weight is recommended), and increasing physical activity to a minimum of 150 minutes per week (Tuomilehto et al., 1999).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nutrition therapy specifically activates patients by more intensively assessing eating and physical activity behaviors and nutrient intake, and provides counseling that results in improved health and may reduce complication of T2DM. Diabetes nutrition therapy can result in cost savings and improved outcomes such as reduction in glycosylated hemoglobin (A1c). Nutrition therapy can be personalized based upon the patient's needs, comorbidities, existing chronic conditions and other key factors (Ajala, English, &amp;amp; Pinkney, 2013; Estruch et al., 2013; Andrews et al., 2011; Azadbakht et al., 2011; Elhayany et al., 2010; Brehm et al., 2009; Esposito et al., 2009; Robbins et al., 2008; Brunerova et al., 2007; Nield et al., 2007; Ash et al., 2003). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ajala O, English P, Pinkney J. Systematic review and meta-analysis of different dietary approaches to the management of type 2 diabetes. Am J Clin Nutr. 2013 Mar;97(3):505-16. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23364002&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Andrews RC, Cooper AR, Montgomery AA, Norcross AJ, Peters TJ, Sharp DJ, Jackson N, Fitzsimons K, Bright J, Coulman K, England CY, Gorton J, McLenaghan A, Paxton E, Polet A, Thompson C, Dayan CM. Diet or diet plus physical activity versus usual care in patients with newly diagnosed type 2 diabetes: the Early ACTID randomised controlled trial. Lancet. 2011 Jul 9;378(9786):129-39. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21705068&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ash S, Reeves MM, Yeo S, Morrison G, Carey D, Capra S. Effect of intensive dietetic interventions on weight and glycaemic control in overweight men with Type II diabetes: a randomised trial. Int J Obes (Lond). 2003 Jul;27(7):797-802. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12821964&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Azadbakht L, Fard NR, Karimi M, Baghaei MH, Surkan PJ, Rahimi M, Esmaillzadeh A, Willett WC. Effects of the Dietary Approaches to Stop Hypertension (DASH) eating plan on cardiovascular risks among type 2 diabetic patients: a randomized crossover clinical trial. Diabetes Care. 2011 Jan;34(1):55-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20843978&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brehm BJ, Lattin BL, Summer SS, Boback JA, Gilchrist GM, Jandacek RJ, DAlessio DA. One-year comparison of a high-monounsaturated fat diet with a high-carbohydrate diet in type 2 diabetes. Diabetes Care. 2009 Feb;32(2):215-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18957534&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brunerova L, Smejkalova V, Potockova J, Andel M. A comparison of the influence of a high-fat diet enriched in monounsaturated fatty acids and conventional diet on weight loss and metabolic parameters in obese non-diabetic and Type 2 diabetic patients. Diabet Med. 2007 May;24(5):533-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17381504&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Elhayany A, Lustman A, Abel R, Attal-Singer J, Vinker S. A low carbohydrate Mediterranean diet improves cardiovascular risk factors and diabetes control among overweight patients with type 2 diabetes mellitus: a 1-year prospective randomized intervention study. Diabetes Obes Metab. 2010 Mar;12(3):204-9.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Esposito K, Maiorino MI, Ciotola M, Di Palo C, Scognamiglio P, Gicchino M, Petrizzo M, Saccomanno F, Beneduce F, Ceriello A, Giugliano D. Effects of a Mediterranean-style diet on the need for antihyperglycemic drug therapy in patients with newly diagnosed type 2 diabetes: a randomized trial. Ann Intern Med. 2009 Sep 1;151(5):306-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19721018&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, Gómez-Gracia E, Ruiz-Gutiérrez V, Fiol M, Lapetra J, Lamuela-Raventos RM, Serra-Majem L, Pintó X, Basora J, Muñoz MA, Sorlí JV, Martínez JA, Martínez-González MA, PREDIMED Study Investigators. Primary prevention of cardiovascular disease with a Mediterranean diet. N Engl J Med. 2013 Apr 4;368(14):1279-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23432189&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nield L, Moore HJ, Hooper L, Cruickshank JK, Vyas A, Whittaker V, Summerbell CD. Dietary advice for treatment of type 2 diabetes mellitus in adults. Cochrane Database Syst Rev. 2007;(3):CD004097. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17636747&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Redmon B, Caccamo D, Flavin P, Michels R, O'Connor P, Roberts J, Smith S, Sperl-Hillen J. Diagnosis and management of type 2 diabetes mellitus in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014 Jul. 85 p.  [197 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Robbins JM, Thatcher GE, Webb DA, Valdmanis VG. Nutritionist visits, diabetes classes, and hospitalization rates and charges: the Urban Diabetes Study. Diabetes Care. 2008 Apr;31(4):655-60. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18184894&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tuomilehto J, Rastenyte D, Birkenhäger WH, Thijs L, Antikainen R, Bulpitt CJ, Fletcher AE, Forette F, Goldhaber A, Palatini P, Sarti C, Fagard R. Effects of calcium-channel blockade in older patients with diabetes and systolic hypertension. Systolic Hypertension in Europe Trial Investigators. N Engl J Med. 1999 Mar 4;340(9):677-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10053176&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Type 2 diabetes mellitus (T2DM); lifestyle modification; nutrition therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients ages 18 to 75 year old who have type 2 diabetes mellitus (T2DM) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients who are advised about lifestyle modification and nutrition therapy within one year of diagnosis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Diabetes is a chronic disease that afflicts approximately 26.9% of United States (U.S.) residents aged 65 years and older. 1.9 million are diagnosed with diabetes every year, and an additional 7.0 million go undiagnosed and untreated (Centers for Disease Control and Prevention [CDC], 2011). More than 1 in 5 health care dollars in the U.S. goes to the care of people with diagnosed diabetes, costing $245 billion dollars annually. &lt;/li&gt;&#xA;    &lt;li&gt;The benefits of a multifactorial approach to diabetes care are supported by the results of the Steno 2 Study of 160 patients with type 2 diabetes mellitus (T2DM) and microalbuminuria. Multifactorial interventions achieved a 50% reduction in mortality and significant reduction in microvascular complications five years after ending a 7.8-year multifactorial intervention that achieved glycated hemoglobin (A1c) of 7.8%, low-density lipoprotein (LDL) 83 mg/dL, blood pressure (BP) 131/73, compared to a conventional group that achieved A1c 9%, LDL 126 mg/dL and BP 146/78 (Gaede et al., 2008). Results of this study are consistent with the need for reasonable blood glucose control with emphasis on blood pressure and lipid management. &lt;/li&gt;&#xA;    &lt;li&gt;Hospitalized patients with diabetes suffer increased morbidity, mortality, length of stay, and other related hospital costs compared to non-hyperglycemic inpatients (Umpierrez et al., 2002). &lt;/li&gt;&#xA;    &lt;li&gt;Hyperglycemia has been associated with increased infection rates and poorer short-term and long-term outcomes in critically ill patients in the intensive care unit, post-myocardial infarction, and post-surgical settings (van den Berghe et al., 2001). &lt;/li&gt;&#xA;    &lt;li&gt;There is a substantial increase in the prevalence of depression among people with diabetes as compared to the general adult population (Anderson et al., 2001). Depression impacts the ability of a person with diabetes to achieve blood glucose control, which in turn impacts the rate of development of diabetes complications (de Groot et al., 2001; Lustman &amp;amp; Gavard, 2001). &lt;/li&gt;&#xA;    &lt;li&gt;Sleep apnea is a prevalent condition in obese patients with type 2 diabetes and is associated with significant comorbidities including hypertension, cardiovascular disease and insulin resistance. &lt;/li&gt;&#xA;    &lt;li&gt;Up to 21% of patients with T2DM are found to have retinopathy at the time of diagnosis of diabetes mellitus (Fong et al., 2004). Generally retinopathy progresses from mild background abnormalities to preproliferative retinopathy to proliferative retinopathy. &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Anderson RJ, Freedland KE, Clouse RE, Lustman PJ. The prevalence of comorbid depression in adults with diabetes: a meta-analysis. Diabetes Care. 2001 Jun;24(6):1069-78. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11375373&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). National diabetes fact sheet, 2011: fast facts on diabetes. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;de Groot M, Anderson R, Freedland KE, Clouse RE, Lustman PJ. Association of depression and diabetes complications: a meta-analysis. Psychosom Med. 2001 Jul-Aug;63(4):619-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11485116&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fong DS, Aiello L, Gardner TW, King GL, Blankenship G, Cavallerano JD, Ferris FL 3rd, Klein R. Retinopathy in diabetes. Diabetes Care. 2004 Jan;27(Suppl 1):S84-7. [10 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14693935&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gaede P, Lund-Andersen H, Parving HH, Pedersen O. Effect of a multifactorial intervention on mortality in type 2 diabetes. N Engl J Med. 2008 Feb 7;358(6):580-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18256393&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lustman PJ, Gavard JA. Psychosocial aspects of diabetes in adult populations. In: National Diabetes Data Group. Diabetes in America. 2nd ed. Bethesda (MD): National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases; 1995. p. 507-18.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Redmon B, Caccamo D, Flavin P, Michels R, O'Connor P, Roberts J, Smith S, Sperl-Hillen J. Diagnosis and management of type 2 diabetes mellitus in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014 Jul. 85 p.  [197 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Umpierrez GE, Isaacs SD, Bazargan N, You X, Thaler LM, Kitabchi AE. Hyperglycemia: an independent marker of in-hospital mortality in patients with undiagnosed diabetes. J Clin Endocrinol Metab. 2002 Mar;87(3):978-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11889147&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;van den Berghe G, Wouters P, Weekers F, Verwaest C, Bruyninckx F, Schetz M, Vlasselaers D, Ferdinande P, Lauwers P, Bouillon R. Intensive insulin therapy in the critically ill patients. N Engl J Med. 2001 Nov 8;345(19):1359-67. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11794168&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="37" OrdBy="200" ID="579" Name="National Guideline Clearinghouse Link" Type="xref">
+      <FieldValue Value="&lt;a href=&quot;http://www.guideline.gov/content.aspx?id=48544&quot; target=&quot;_blank&quot;&gt;Diagnosis and management of type 2 diabetes mellitus in adults.&lt;/a&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age 18 to 75 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The time frame pertaining to data collection is the past 12 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of patients ages 18 to 75 years old who have type 2 diabetes mellitus (T2DM)&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Data Collection&lt;/strong&gt;: Data should be collected from electronic medical records (EMR) for all patient visits in the past 12 months.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of patients who are advised about lifestyle modification and nutrition therapy within one year of diagnosis&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percentage of newly diagnosed patients who are advised about lifestyle modification and nutrition therapy within one year of diagnosis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Diagnosis and Management of Type 2 Diabetes Mellitus in Adults" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and five sponsoring health plans in Minnesota and Wisconsin.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: Bruce Redmon, MD (&lt;em&gt;Work Group Leader&lt;/em&gt;) (University of Minnesota) (Endocrinology); David Caccamo, MD (HealthPartners Medical Group and Regions Hospital) (Family Medicine); Ryan Michels, PharmD, BCPS (HealthPartners Medical Group and Regions Hospital) (Pharmacy); Patrick O'Connor, MD (HealthPartners Medical Group and Regions Hospital) (Family Medicine); Julie Roberts, MS, RD, CDE (HealthPartners Medical Group and Regions Hospital) (Health Education); JoAnn Sperl-Hillen, MD (HealthPartners Medical Group and Regions Hospital) (Internal Medicine); Steve Smith, MD (Mayo Clinic) (Endocrinology); Penny Louise Flavin, DNP, RN, CNP (Olmsted Medical Center) (Family Practice); Cassie Myers (Institute for Clinical Systems Improvement [ICSI]) (Project Manager); Linda Setterlund, MA, CPHQ (ICSI) (Clinical Systems Improvement Facilitator)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI guidelines and protocols. &lt;/p&gt;&#xA;&lt;p&gt;In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Guidelines We Can Trust (2011). &lt;/p&gt;&#xA;&lt;p&gt;Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.&lt;/p&gt;&#xA;&lt;p&gt;The complete ICSI policy regarding Conflicts of Interest is available at the &lt;a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt;. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Disclosure of Potential Conflicts of Interest&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;David Caccamo, MD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xA;Family Physician, Family Medicine, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: None &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Penny Louise Flavin, DNP, RN, CNP (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xA;Family Practice, Olmsted Medical Center &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: None &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ryan Michels, PharmD, BCPS (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xA;Clinical Pharmacist, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: None &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Patrick O'Connor, MD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xA;Family Medicine/Geriatrics, Senior Clinical Investigator, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: Lipid Management in Adults, Diagnosis and Treatment of Hypertension&lt;br /&gt;&#xA;Research Grants: Received institutional payment for research grants from NIH (National Institutes of Health), AHRQ (Agency for Healthcare Research and Quality, NIMH (National Institute of Mental Health), NHLBI (National Heart, Lung and Blood Institute) and to develop standards of diabetes care for American Diabetes Association &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bruce Redmon, MD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xA;Endocrinology, Professor, University of Minnesota Medical School &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: NIH (National Institutes of Health) related to ongoing diabetes clinical trial, including the Look Ahead study and GRADE study &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: Consults for the University of Minnesota and Optum Insight and is paid directly to the physician's employer&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Julie Roberts, MS, RD, CDE (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xA;Registered Dietician, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: None &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Steve Smith, MD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xA;Endocrinology, Consultant, Medical Director of Patient Education, Mayo Clinic &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xA;Research Grants: None &lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;JoAnn Sperl-Hillen, MD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xA;Internal Medicine, Investigator, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xA;Guideline Related Activities: Has served on guideline group for BMJ Online T2DM guideline &lt;br /&gt;&#xA;Research Grants: Receives programmatic support paid to her institution for the following: Stimulated Diabetes Training for Resident Physicians (NIDDK funded), Primary investigator; Personalized Physician Learning for HTN (NHLBI), co-investigator; Priorities (NHLBI), co-investigator; Hyperlink (NHLBI), co-investigator; travel and expenses paid for by an educational grant from Sanofi through the International Diabetes Center&lt;br /&gt;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The next scheduled revision will occur within 24 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;https://www.icsi.org/guidelines__more/purchase_guidelines/&quot; title=&quot;ICSI Web site&quot;&gt;Institute for Clinical Systems Improvement (ICSI) Web site&lt;/a&gt;. Also available to ICSI members for free at the &lt;a href=&quot;https://www.icsi.org/guidelines__more/member_access/&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt; and to Minnesota health care organizations free by request at the &lt;a href=&quot;https://www.icsi.org/guidelines__more/minnesota_nonmember_access/&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: &lt;a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;&gt;www.icsi.org&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:icsi.info@icsi.org&quot;&gt;icsi.info@icsi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 5, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 13, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Redmon B, Caccamo D, Flavin P, Michels R, O'Connor P, Roberts J, Smith S, Sperl-Hillen J. Diagnosis and management of type 2 diabetes mellitus in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014 Jul. 85 p.  [197 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

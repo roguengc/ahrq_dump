@@ -1,0 +1,221 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Stable coronary artery disease: percentage of patients with stable coronary artery disease who are prescribed aspirin and anti-atherosclerotic medications.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goblirsch G, Bershow S, Cummings K, Hayes R, Kokoszka M, Lu Y, Sanders D, Zarling K. Stable coronary artery disease. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 May. 71 p.  [98 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients age 18 years and older with stable coronary artery disease who are prescribed aspirin and anti-atherosclerotic medications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The priority aim addressed by this measure is to increase the percentage of patients age 18 years and older with a diagnosis of stable coronary artery disease who are prescribed aspirin and anti-atherosclerotic medications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Antiplatelet Therapy&lt;/strong&gt;. Aspirin dose in the range of 75 to 150 mg should be given for the long-term prevention of serious vascular events in high-risk patients, and there may be a reduced benefit when increasing the dose over 150 mg daily. Doses available to most clinicians are in increments of 81 mg; therefore, the recommended dose is 81 mg daily.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients for whom aspirin is contraindicated (or insufficient) should be treated with clopidogrel 75 mg daily indefinitely.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Statins&lt;/strong&gt;. Benefit has been demonstrated in all stable coronary artery disease patients treated with statins, regardless of pretreatment cholesterol levels. This was well demonstrated in the MRC/BHF Heart Protection Study. Simvastatin was shown to reduce major cardiovascular events, including death, non-fatal myocardial infarction, and stroke by 15% to 20% in the subgroup of patients with pretreatment levels of less than 100 mg/dL. A similar reduction in events was also observed in patients without documented coronary artery disease, but with peripheral vascular disease, diabetes or hypertension.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Every effort should be made to ensure all patients with coronary artery disease receive optimal lipid therapy. Statin medications are strongly supported as first-line medications due to compelling evidence of mortality reduction from multiple clinical trials.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;As-needed Nitrates&lt;/strong&gt;. In patients with mild stable coronary artery disease, drug therapy may be limited to short-acting sublingual nitrates on an as-needed basis. Use of lower dose (e.g., 0.3 mg or one-half of a 0.4 mg tablet) may reduce the incidence of side effects such as headache or hypotension in susceptible patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Beta-blocking Agents&lt;/strong&gt;. Beta-blockers should be used in all status post-myocardial infarction patients, based on studies showing mortality reduction. They are also the preferred first-line therapy for reducing symptoms of angina in patients with stable coronary artery disease.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Ranolazine&lt;/strong&gt;. Ranolazine is a stand-alone late sodium channel blocker; it relieves stable angina symptoms and increases exercise tolerance. It demonstrates antianginal and anti-ischemic effects without changing hemodynamic parameters (heart rate or blood pressure). Consider the use of ranolazine when beta-blockers, calcium channel blockers and nitrates are not adequately effective or are not tolerated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Antiplatelet Trialists' Collaboration. Collaborative overview of randomised trials of antiplatelet therapy - I: Preparation of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients. BMJ. 1994;38:81-106.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CAPRIE Steering Committee. A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE). Lancet. 1996 Nov 16;348(9038):1329-39. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8918275&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cucherat M, Boissel JP, Leizorovicz A. Persistent reduction of mortality for five years after one year of acebutolol treatment initiated during acute myocardial infarction. The APSI Investigators. Acebutolol et Prevention Secondaire de l'Infarctus. Am J Cardiol. 1997 Mar 1;79(5):587-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9068513&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Frye RL, Gibbons RJ, Schaff HV, Vlietstra RE, Gersh BJ, Mock MB. Treatment of coronary artery disease. J Am Coll Cardiol. 1989 Apr;13(5):957-68. [172 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2647816&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fuster V, Dyken ML, Vokonas PS, Hennekens C. Aspirin as a therapeutic agent in cardiovascular disease. Special Writing Group. Circulation. 1993 Feb;87(2):659-75. [192 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8425313&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goblirsch G, Bershow S, Cummings K, Hayes R, Kokoszka M, Lu Y, Sanders D, Zarling K. Stable coronary artery disease. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 May. 71 p.  [98 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Harrington RA, Becker RC, Ezekowitz M, Meade TW, O'Connor CM, Vorchheimer DA, Guyatt GH. Antithrombotic therapy for coronary artery disease: the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy. Chest. 2004 Sep;126(3 Suppl):513S-48S. [164 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15383483&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial. Lancet. 2002 Jul 6;360(9326):7-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12114036&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hunninghake DB. Therapeutic efficacy of the lipid-lowering armamentarium: the clinical benefits of aggressive lipid-lowering therapy. Am J Med. 1998 Feb 23;104(2A):9S-13S. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9550501&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Juul-Moller S, Edvardsson N, Jahnmatz B, Rosen A, Sorensen S, Omblus R. Double-blind trial of aspirin in primary prevention of myocardial infarction in patients with stable chronic angina pectoris. The Swedish Angina Pectoris Aspirin Trial (SAPAT) Group. Lancet. 1992 Dec 12;340(8833):1421-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1360557&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kurth T, Glynn RJ, Walker AM, Chan KA, Buring JE, Hennekens CH, Gaziano JM. Inhibition of clinical benefits of aspirin on first myocardial infarction by nonsteroidal antiinflammatory drugs. Circulation. 2003 Sep 9;108(10):1191-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12939216&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ridker PM, Manson JE, Gaziano JM, Buring JE, Hennekens CH. Low-dose aspirin therapy for chronic stable angina. A randomized, placebo-controlled clinical trial. Ann Intern Med. 1991 May 15;114(10):835-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2014943&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sacks FM, Pfeffer MA, Moye LA, Rouleau JL, Rutherford JD, Cole TG, Brown L, Warnica JW, Arnold JM, Wun CC, Davis BR, Braunwald E. The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels. Cholesterol and Recurrent Events Trial investigators. N Engl J Med. 1996 Oct 3;335(14):1001-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8801446&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scandinavian Simvastatin Survival Study Group. Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S). Lancet. 1994 Nov 19;344(8934):1383-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7968073&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shub C. Stable angina pectoris: 1. Clinical patterns. Mayo Clin Proc. 1990 Feb;65(2):233-42. [46 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2406522&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stable coronary artery disease; aspirin&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of stable coronary artery disease patients (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of stable coronary artery disease patients who are prescribed aspirin and anti-atherosclerotic medications (see the related &quot;Numerator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="37" OrdBy="200" ID="579" Name="National Guideline Clearinghouse Link" Type="xref">
+      <FieldValue Value="&lt;a href=&quot;http://www.guideline.gov/content.aspx?id=46241&quot; target=&quot;_blank&quot;&gt;Stable coronary artery disease.&lt;/a&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The time frame pertaining to data collection is monthly.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of stable coronary artery disease patients&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Population Definition&lt;/strong&gt;: All patients age 18 and older with stable coronary artery disease diagnosis.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with documented contraindications to aspirin should be excluded from the denominator of this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of stable coronary artery disease patients who are prescribed aspirin and&amp;nbsp;anti-atherosclerotic medications &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Contraindications to aspirin use are not defined in the guideline*, but left to the provider's discretion. Some commonly found contraindications are allergy to the drug and history of bleeding ulcer or gastric hemorrhage. When contraindications are present, they need to be noted in the patient's record.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Refer to the National Guideline Clearinghouse (NGC) summary of the Institute for Clinical Systems Improvement (ICSI) &lt;a href=&quot;http://www.guideline.gov/content.aspx?id=46241&quot; title=&quot;Guideline Summary&quot; target=&quot;_blank&quot;&gt;Stable Coronary Artery Disease&lt;/a&gt; guideline.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percentage of patients with stable coronary artery disease who are prescribed aspirin and anti-atherosclerotic medications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Stable Coronary Artery Disease" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and five sponsoring health plans in Minnesota and Wisconsin. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: Greg Goblirsch, MD (&lt;em&gt;Work Group Leader&lt;/em&gt;) (River Falls Clinic) (Family Medicine); Spencer Bershow, MD (Fairview Health Services) (Family Medicine); Yun Lu, PharmD, MS (Hennepin County Medical Center) (Pharmacy); Kathy Zarling, RN, MS, CNS (Mayo Clinic) (Nursing); Marek Kokoszka, MD (Park Nicollet Health Services) (Cardiology); Debra M. Sanders, RD (River Falls Medical Clinic) (Dietetics); Kathy Cummings, RN, BSN, MA (Institute for Clinical Systems Improvement [ICSI]) (Project Manager); Rochelle Hayes, BS (ICSI) (Systems Improvement Coordinator)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI guidelines and protocols. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Guidelines We Can Trust (2011). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The complete ICSI policy regarding Conflicts of Interest is available at the &lt;a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Disclosure of Potential Conflicts of Interest&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Spencer Bershow, MD (Work Group Member)&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Family Medicine, Fairview Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Greg T. Goblirsch, MD (Work Group Leader) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medical Director, Family Medicine, River Falls Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Marek J. Kokoszka, MD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Chair, Cardiology, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None&lt;br /&gt;&#xD;&#xA;Guideline Related Activities: Acute Coronary Artery Disease (ICSI) &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Yun Lu, PharmD, MS&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Clinical Pharmacist, Cardiology, Hennepin County Medical Center &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Debra M. Sanders, RD (Work Group Member)&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Registered Dietician, Diabetes Educator, River Falls Medical Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: Registered Dietician Consultant, Lutheran Home, Long Term Care &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Kathy Zarling, RN, MS, CNS (Work Group Member)&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Cardiovascular Clinical Nurse Specialist, Mayo Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The next scheduled revision will occur within 24 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Institute for Clinical Systems Improvement (ICSI). Stable coronary artery disease. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 Apr. 58 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;https://www.icsi.org/guidelines__more/purchase_guidelines/&quot; title=&quot;ICSI Web site&quot;&gt;Institute for Clinical Systems Improvement (ICSI) Web site&lt;/a&gt;. Also available to ICSI members for free at the &lt;a href=&quot;https://www.icsi.org/guidelines__more/member_access/&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt; and to Minnesota health care organizations free by request at the &lt;a href=&quot;https://www.icsi.org/guidelines__more/minnesota_nonmember_access/&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: &lt;a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;&gt;www.icsi.org&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:icsi.info@icsi.org&quot;&gt;icsi.info@icsi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on July 14, 2004. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 9, 2005, June 29, 2006, June 4, 2007, November 18, 2009, October 29, 2012, and again on January 20, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 13, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goblirsch G, Bershow S, Cummings K, Hayes R, Kokoszka M, Lu Y, Sanders D, Zarling K. Stable coronary artery disease. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 May. 71 p.  [98 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

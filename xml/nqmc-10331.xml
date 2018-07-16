@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Occupational health: annual crude rate of work-related inpatient hospitalizations for severe traumatic injury per 100,000 employed persons age 16 years or older.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council of State and Territorial Epidemiologists (CSTE), National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC). Occupational health indicators: a guide for tracking occupational health conditions and their determinants. Atlanta (GA): Council of State and Territorial Epidemiologists (CSTE); 2016 Mar. 145 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measures: Population Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measure: Population Health State" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the annual crude rate of work-related inpatient hospitalizations for severe traumatic injury per 100,000 employed persons age 16 years or older.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;State health agencies, which are vested with the legal authority to require disease reporting and collect health data, play a central role in public health surveillance. Whereas public health surveillance was once focused primarily on infectious diseases, it has expanded in recent years to include surveillance of a wide range of health outcomes and their determinants, including chronic diseases, injuries and health behaviors (Halperin &amp;amp; Horan, 1998). National statistics on occupational injuries and illnesses have been collected largely outside of the public health infrastructure and rely almost entirely on data reported by employers. State health agencies that have access to a wide variety of public health data systems have an important role in the surveillance of occupational diseases, injuries and hazards.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Acute work-related trauma is a leading cause of death and disability among U.S. workers. Changes in hospitalization practices and workers' compensation coverage/reporting may increasingly reduce capture of minor injuries but have little effect on severe injuries. Use of a severity threshold can decrease the impact of changing utilization and service delivery patterns on observed injury trends (Cryer &amp;amp; Langley, 2008; National Center for Health Statistics [NCHS] Expert Group on Injury Severity Measurement, 2004). When hospitalization data are used to calculate occupational injury trends in the absence of severity restriction, observed trends are biased downward (Sears, Bowman, &amp;amp; Hogg-Johnson, 2014). Accurate characterization of injury trends is critical to understanding how we are doing as a nation with regard to occupational injury prevention.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council of State and Territorial Epidemiologists (CSTE), National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC). Occupational health indicators: a guide for tracking occupational health conditions and their determinants. Atlanta (GA): Council of State and Territorial Epidemiologists (CSTE); 2016 Mar. 145 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cryer C, Langley J. Developing indicators of injury incidence that can be used to monitor global, regional and local trends. Dunedin (New Zealand): University of Otago; 2008 Feb. 74 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Halperin W, Horan JM. Surveillance of injuries. Public Health Rep. 1998 Sep-Oct;113(5):424-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9769767&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Health Statistics (NCHS) Expert Group on Injury Severity Measurement. Discussion document on injury severity measurement in administrative datasets. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2004. 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sears JM, Bowman SM, Hogg-Johnson S. Using injury severity to improve occupational injury trend estimates. Am J Ind Med. 2014 Aug;57(8):878-85. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24811970&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Occupational injuries; severe traumatic injury; work-related inpatient hospitalizations&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Employed persons age 16 years or older for the same calendar year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Inpatient hospital discharges with (1) primary payer coded as workers' compensation, AND (2) first-listed diagnosis contained in the specific list of severe traumatic injuries (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Acute work-related trauma is a leading cause of death and disability for U.S. workers. In 2010, more than 4,500 U.S. workers died from occupational injuries (National Institute for Occupational Safety and Health [NIOSH], 2012). Severe traumatic injury can lead to long-term pain and disability and is very costly for workers' compensation systems and society as a whole. The total national medical and productivity cost for occupational injuries was recently estimated at $192 billion annually (Leigh, 2011).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council of State and Territorial Epidemiologists (CSTE), National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC). Occupational health indicators: a guide for tracking occupational health conditions and their determinants. Atlanta (GA): Council of State and Territorial Epidemiologists (CSTE); 2016 Mar. 145 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leigh JP. Economic burden of occupational injury and illness in the United States. Milbank Q. 2011 Dec;89(4):728-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22188353&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Institute for Occupational Safety and Health (NIOSH). Workplace safety and health topics: traumatic occupational injuries. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2012.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In 1998, the Council of State and Territorial Epidemiologists (CSTE), in association with the National Institute for Occupational Safety and Health (NIOSH), convened the NIOSH-States Occupational Health Surveillance Work Group to make recommendations to NIOSH concerning State-based surveillance activities for the coming decade. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Work Group recognized the need to pilot test 19 indicators to assess the feasibility of widespread implementation and to develop specific guidance on how to compute the proposed measures. In summer 2002, the five &quot;Core&quot; states with NIOSH Cooperative Agreements to conduct &quot;Core Occupational Health Surveillance&quot; (California, Massachusetts, Michigan, New York, and Washington) agreed to pilot test the indicators and to create user-friendly &quot;how-to&quot; guides so that other states could calculate the indicators. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Subsequent to the initial pilot testing by the five &quot;Core&quot; states, eight additional states (Connecticut, Maine, Nebraska, New Jersey, New Mexico, North Carolina, Oregon and Wisconsin) pilot tested the &quot;how-to&quot; guides. Feedback from these additional states was incorporated into the development of the final &quot;how-to&quot; guides for 19 indicators in November 2004.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Procedures to review, approve, and implement new indicators were developed by the Work Group. In 2013, a fourteenth health effect indicator (&lt;em&gt;Asthma among Adults Caused or Made Worse by Work&lt;/em&gt;) was developed and pilot tested. The Work Group voted to adopt this as the twenty-first indicator. In 2014, a fifteenth health effect indicator (&lt;em&gt;Work-Related Severe Traumatic Injury Hospitalizations&lt;/em&gt;) was developed and pilot tested. The Work Group voted to adopt this as the twenty-second indicator. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council of State and Territorial Epidemiologists (CSTE), National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC). Occupational health indicators: a guide for tracking occupational health conditions and their determinants. Atlanta (GA): Council of State and Territorial Epidemiologists (CSTE); 2016 Mar. 145 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="National Public Health Programs" />
+      <FieldValue Value="State/Provincial Public Health Programs" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="State/Provincial" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 16 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Population-centered" />
+      <FieldValue Value="Risk Reducing" />
+      <FieldValue Value="Transparency" />
+      <FieldValue Value="Vigilant" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The calendar year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Employed persons age 16 years or older for the same calendar year&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Inpatient hospital discharges with (1) primary payer coded as workers' compensation, AND (2) first-listed diagnosis contained in the specific list of severe traumatic injuries. This list includes those injury diagnostic codes in the range 800 to 959.9 that have been estimated to have an Abbreviated Injury Scale (AIS) severity of 3 or above or that have a high probability of hospital admission.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for administrative codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the &quot;How-To Guide &amp;ndash; Indicator #22&quot; section of the original measure documentation for instructions to calculate the annual crude rate of work-related inpatient hospitalizations for severe traumatic injury per 100,000 employed persons age 16 years and older. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Events with age unknown, residence out-of-state, unknown state of residence, and out-of-state inpatient hospitalizations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="National public health data" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="State/Province public health data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;U.S. Bureau of Labor Statistics, Current Population Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Other Available Data&lt;/strong&gt;: Age, gender, race/ethnicity, and residence zip code &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;: Age, gender, race/ethnicity, zip code specific counts and rates can be used to better define the pattern of work-related hospitalizations. Proportion of all hospitalizations in the state can be examined.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;22.2 Annual crude rate of work-related inpatient hospitalizations for severe traumatic injury per 100,000 employed persons age 16 years or older.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Occupational Health Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Health Effect" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Council of State and Territorial Epidemiologists - Professional Association" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Disease Control and Prevention - Federal Government Agency [U.S.]" />
+      <FieldValue Value="Council of State and Territorial Epidemiologists - Professional Association" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Disease Control and Prevention (CDC)&amp;ndash;National Institute for Occupational Safety and Health (NIOSH) Award 2-R01 OH010094-05: Enhancing State-Based Occupational Health Surveillance Capacity&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Original Work Group Members: National Institute for Occupational Safety and Health (NIOSH)&amp;ndash;Council of State and Territorial Epidemiologists (CSTE) Occupational Health Surveillance Work Group&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Wayne Ball, Utah Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Geoffrey Calvert, NIOSH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Castellan, NIOSH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Letitia Davis, Massachusetts Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Harrison, California Department of Health Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Michael Heumann, Oregon Department of Health Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kim Lim, Maine Department of Labor &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John Myers, NIOSH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Matt London, New York State Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Latoya Osmani, CSTE &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Parker, Minnesota Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kenneth Rosenman, Michigan State University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Roscoe, NIOSH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diana Salzman, Texas Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John Sestito, NIOSH &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Catherine Thomsen, Oregon Department of Human Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Valiante, New Jersey Department of Health and Senior Services &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Core State Members of the Occupational Health Surveillance Pilot Project&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Barbara Materna, California Department of Health Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Florence Reinisch, California Department of Health Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tsegaye Bekle, Massachusetts Department of Public Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Letitia Davis, Massachusetts Department of Public Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rokho Kim, Massachusetts Department of Public Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Thomas Largo, Michigan Department of Community Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Martha Stanbury, Michigan Department of Community Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alicia Fletcher, New York State Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kitty Gelberg, New York State Department of Health &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dave Bonauto, Washington State Department of Labor and Industries &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Christy Curwick, Washington State Department of Labor and Industries &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Current Occupational Health Indicator (OHI) and Work Group Leads&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Marija Borjan, &lt;em&gt;Co-chair&lt;/em&gt; (State Representative from New Jersey) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tristan Victoroff, &lt;em&gt;Co-chair&lt;/em&gt; (NIOSH Representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patricia Schleiff, &lt;em&gt;Co-chair&lt;/em&gt; (NIOSH Representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Amy Patel, &lt;em&gt;Secretary&lt;/em&gt; (CSTE) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alicia Fletcher, &lt;em&gt;OHI Lead&lt;/em&gt; (State Representative from New York) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://c.ymcdn.com/sites/www.cste.org/resource/resmgr/OHIndicators2/2016_Version_OHI_Guidance_Ma.pdf&quot; title=&quot;CSTE Web site&quot;&gt;Council of State and Territorial Epidemiologists (CSTE) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CSTE at 2872 Woodcock Boulevard, Suite 250, Atlanta, GA 30341; Phone: 770-458-3811; Fax: 770-458-8516; Web site: &lt;a href=&quot;https://cste.site-ym.com/&quot; title=&quot;CSTE Web site&quot;&gt;https://cste.site-ym.com/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on September 17, 2015. This NQMC summary was verified by the measure developer on October 19, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Council of State and Territorial Epidemiologists (CSTE), National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC). Occupational health indicators: a guide for tracking occupational health conditions and their determinants. Atlanta (GA): Council of State and Territorial Epidemiologists (CSTE); 2016 Mar. 145 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

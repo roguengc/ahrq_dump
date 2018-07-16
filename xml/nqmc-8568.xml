@@ -1,0 +1,224 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Chronic graft versus host disease (cGVHD): percentage of patients diagnosed with cGVHD with a standardized scoring system used to plan therapy.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Proposed chronic graft versus host disease measure set: questionnaire, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 26 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients diagnosed with chronic graft versus host disease (cGVHD) with a standardized scoring system used to plan therapy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The pathogenesis of chronic graft versus host disease (cGVHD) is poorly understood. Symptoms usually present within 3 years after allogeneic hematopoietic cell transplantation (HCT) and are often preceded by a history of acute GVHD. Manifestations of chronic GVHD may be restricted to a single organ or tissue or may be widespread. Chronic GVHD can lead to debilitating consequences, e.g., joint contractures, loss of sight, end-stage lung disease, or mortality resulting from profound chronic immune suppression leading to recurrent or life-threatening infections. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Support (verbatim) from National Institutes of Health (NIH) Consensus Development Project&lt;/em&gt;: The time-honored description of limited versus extensive chronic GVHD was proposed from only 20 cases published in 1980. The [NIH] Working Group proposes a new global assessment of chronic GVHD severity that is clinically suitable and is appropriate for use as an inclusion criterion in therapeutic clinical trials or as an indication for systemic immunosuppressive treatment. The global scoring system reflects the clinical effect of chronic GVHD on the patient's functional status. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Elements included in the proposed global scoring system include both the number of organs or sites involved and the severity within each affected organ (note that performance status scoring is not incorporated into the global scoring system). The global descriptions of mild, moderate, and severe were chosen to reflect the degree of organ impact and functional impairment due to chronic GVHD. Although scoring is often used at the time of initial diagnosis, evaluating the clinical score periodically during the course of chronic GVHD may revise prognostic expectations and better describe the current severity of chronic GVHD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statement from American Society for Blood and Marrow Transplantation (ASBMT) Task Force on guidelines&lt;/em&gt;: The proposed scoring tool is provisional and will be updated as the results of prospective validation studies become available (see the original measure documentation for details). Use of the tool will add structure to therapeutic options (topical versus systemic) and enable improved clinical trials which will result in further improvements to evidence based guidelines. Early research results indicate the scores calculated using the NIH tool to have prognostic significance. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statements (verbatim) on gap&lt;/em&gt;: Clinical syndromes resembling acute graft versus host disease (aGVHD) are increasingly recognized beyond 100 days after hematopoietic stem cell transplantation (HSCT) and may be labeled as cGVHD. In addition, patients with aGVHD may progress to develop cGVHD with distinctive signs and symptoms of both acute and chronic GVHD. In addition, the old grading system of limited versus extensive GVHD was designed to identify patients needing systemic immune suppression and does not capture the severity of individual organ involvement. Several grading schemes can predict survival following cGVHD. However, all lack consistent scoring and assessment of each involved organ to determine the overall severity of the disease. Recognizing these limitations, the diagnosis and staging working group of the NIH Consensus Development Project on cGVHD proposed standard criteria for diagnosis, organ scoring and global assessment of cGVHD severity. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statement from the ASBMT Task Force on gap&lt;/em&gt;: The most recent standardized scoring system was released in September 2005 and is relatively new to the transplant community. Not all transplant physicians are yet aware of or using the scoring system. We believe there is a critical need for more education to drive awareness of the new system to close the gap in use. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Arai S, Jagasia M, Storer B, Chai X, Pidala J, Cutler C, Arora M, Weisdorf DJ, Flowers ME, Martin PJ, Palmer J, Jacobsohn D, Pavletic SZ, Vogelsang GB, Lee SJ. Global and organ-specific chronic graft-versus-host disease severity according to the 2005 NIH Consensus Criteria. Blood. 2011 Oct 13;118(15):4242-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21791424&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Arora M, Nagaraj S, Witte J, DeFor TE, MacMillan M, Burns LJ, Weisdorf DJ. New classification of chronic GVHD: added clarity from the consensus diagnoses. Bone Marrow Transplant. 2009 Jan;43(2):149-53. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18794869&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Filipovich AH, Weisdorf D, Pavletic S, Socie G, Wingard JR, Lee SJ, Martin P, Chien J, Przepiorka D, Couriel D, Cowen EW, Dinndorf P, Farrell A, Hartzman R, Henslee-Downey J, Jacobsohn D, McDonald G, Mittleman B, Rizzo JD, Robinson M, Schubert M, Schultz K, Shulman H, Turner M, Vogelsang G, Flowers ME. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005 Dec;11(12):945-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16338616&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pidala J, Kurland B, Chai X, Majhail N, Weisdorf DJ, Pavletic S, Cutler C, Jacobsohn D, Palmer J, Arai S, Jagasia M, Lee SJ. Patient-reported quality of life is associated with severity of chronic graft-versus-host disease as measured by NIH criteria: report on baseline data from the Chronic GVHD Consortium. Blood. 2011 Apr 28;117(17):4651-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21355084&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Proposed chronic graft versus host disease measure set: questionnaire, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 26 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shulman HM, Sullivan KM, Weiden PL, McDonald GB, Striker GE, Sale GE, Hackman R, Tsoi MS, Storb R, Thomas ED. Chronic graft-versus-host syndrome in man. A long-term clinicopathologic study of 20 Seattle patients. Am J Med. 1980 Aug;69(2):204-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6996481&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sullivan KM. Graft vs. host disease. In: Blume KG, Forman SJ, Appelbaum FR, editor(s). Thomas' Hematopoietic Cell Transplantation. 3rd ed. Malden (MA): Blackwell Publishing; 2004. p. 635-64.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Chronic graft versus host disease (cGVHD); standardized scoring system; therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of patients in your selection in diagnosed with chronic graft versus host disease (cGVHD) (see the related &quot;Denominator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of patients in your selection diagnosed with chronic graft versus host disease (cGVHD) AND standardized scoring system used to plan therapy (see the related &quot;Numerator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reported incidence rates of chronic graft versus host disease (cGVHD) after allogeneic transplantation range from 6% to 80% according to recipient age, donor type, hematopoietic cell transplantation (HCT) source (peripheral blood, bone marrow, or umbilical cord blood stem cells), graft manipulation (T-cell depletion), and use of post transplantation donor lymphocyte infusion (DLIs). Reliable incidence estimates in different cohorts of HCT recipients are compromised by (1) lack of standardized, widely used diagnostic guidelines; (2) variability in observer experience; (3) limited expert follow-up at a distance from transplant centers; (4) differences in the statistical methods applied (e.g., use of the Kaplan-Meier versus cumulative incidence estimates and variable requirement for some minimal survival [60-100 days] for patients to be considered at risk of chronic GVHD); and (5) the sometimes protean nature of early chronic GVHD symptoms, which mimic alternative diagnoses.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Filipovich AH, Weisdorf D, Pavletic S, Socie G, Wingard JR, Lee SJ, Martin P, Chien J, Przepiorka D, Couriel D, Cowen EW, Dinndorf P, Farrell A, Hartzman R, Henslee-Downey J, Jacobsohn D, McDonald G, Mittleman B, Rizzo JD, Robinson M, Schubert M, Schultz K, Shulman H, Turner M, Vogelsang G, Flowers ME. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005 Dec;11(12):945-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16338616&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Remberger M, Aschan J, Lonnqvist B, Carlens S, Gustafsson B, Hentschke P, Klaesson S, Mattsson J, Ljungman P, Ringden O. An ethnic role for chronic, but not acute, graft-versus-host disease after HLA-identical sibling stem cell transplantation. Eur J Haematol. 2001 Jan;66(1):50-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11168508&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rocha V, Wagner JE Jr, Sobocinski KA, Klein JP, Zhang MJ, Horowitz MM, Gluckman E. Graft-versus-host disease in children who have received a cord-blood or bone marrow transplant from an HLA-identical sibling. Eurocord and International Bone  Marrow Transplant Registry Working Committee on Alternative Donor and Stem Cell Sources. N Engl J Med. 2000 Jun 22;342(25):1846-54. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10861319&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sullivan KM, Agura E, Anasetti C, Appelbaum F, Badger C, Bearman S, Erickson K, Flowers M, Hansen J, Loughran T, et al. Chronic graft-versus-host disease and other late complications of bone marrow transplantation. Semin Hematol. 1991 Jul;28(3):250-9. [75 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1887253&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Chronic Graft Versus Host Disease (cGVHD) measure set was developed by the American Society for Blood and Marrow Transplantation (ASBMT) using a rigorous methodology (adapted from the American Medical Association's Physician Consortium for Performance Improvement [AMA-PCPI] and including field testing) and adapted for use in Practice Improvement Modules (PIMs) by the American Board of Internal Medicine (ABIM).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Joseph TL. (Executive Director, American Society for Blood and Marrow Transplantation). Personal communication. 2013 Jan 21. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;12 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of patients in your selection diagnosed with chronic graft versus host disease (cGVHD) &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Patients can be included in the chart abstraction if:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;They have been seen by the practice within the past 12 months; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Management decisions regarding care are made primarily by providers in the practice. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Select at least 10 of your patients who have had hematopoietic cell transplant (HCT) and cGVHD. Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of patients in your selection diagnosed with chronic graft versus host disease (cGVHD) AND standardized scoring system used to plan therapy&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: This requires documentation in the patient's medical record that a standardized scoring system was used to plan therapy (see the original measure documentation for details).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Blood and Marrow Transplantation/National Institutes of Health (ASBMT/NIH) consensus scoring system&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients diagnosed with cGVHD with a standardized scoring system used to plan therapy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Chronic Graft Versus Host Disease Measure Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Society for Blood and Marrow Transplantation - Professional Association" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Society for Blood and Marrow Transplantation - Professional Association" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Society for Blood and Marrow Transplantation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Society for Blood and Marrow Transplantation (ASBMT) Education Practice Improvement Modules Task Force:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Linda Burns, MD (&lt;em&gt;chair&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stephan A Grupp, MD, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark B Juckett, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Vivek Roy, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Edward Agura, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Miguel-Angel Perales, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Thomas Joseph, MPS, CAE, ASBMT Executive Director &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sue Frechette, BSN, MBA Consultant &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the American Society for Blood and Marrow Transplantation (ASBMT) conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2012 Apr" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in February 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Society for Blood and Marrow Transplantation (ASBMT) at 85 W. Algonquin Road, Suite 550, Arlington Heights, IL 60005; Phone: 847-427-0224; Fax: 847-427-9656; Web site: &lt;a href=&quot;http://www.asbmt.org&quot; title=&quot;ASBMT Web site&quot;&gt;www.asbmt.org&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:mail@asbmt.org&quot;&gt;mail@asbmt.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on September 24, 2013. The information was verified by the measure developer on October 25, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on February 8, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Proposed chronic graft versus host disease measure set: questionnaire, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 26 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

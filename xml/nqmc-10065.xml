@@ -1,0 +1,225 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Patient experiences of psychiatric care: percent of patients who responded positively to the &quot;Dignity&quot; domain on the Inpatient Consumer Survey (ICS).&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;National Quality Measures Clearinghouse (NQMC) measure submission: patient experience of psychiatric care as measured by the Inpatient Consumer Survey (ICS). &amp;nbsp;2015 Feb 20. &amp;nbsp;62 p.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of patients at discharge or at annual review who responded positively to the &quot;Dignity&quot; domain on the Inpatient Consumer Survey (ICS). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The individual questions of the survey that pertain to the &quot;Dignity&quot; domain are:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;During my hospital stay...&lt;/em&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;NoBullets&quot;&gt;&#xD;&#xA;    &lt;li&gt;Q6. I was treated with dignity and respect &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q7. Staff here believe that I can grow, change and recover &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q8. I felt comfortable asking questions about my treatment and medications &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Q9. I was encouraged to use self-help/support groups &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The &quot;Dignity&quot; domain is one of six domains contained in the &lt;a href=&quot;/browse/by-organization-indiv.aspx?orgid=2567&amp;amp;objid=49021&quot; title=&quot;Measure Collection&quot;&gt;Inpatient Consumer Survey (ICS)&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Scoring the domains&lt;/strong&gt;: Each question is evaluated on a scale from strongly disagree to strongly agree. For purposes of computing averages, a number value is given to the qualities of the scale from 1 for strongly disagree to 5 for strongly agree. A patient must respond to a minimum of 2 questions in order for an average rating to be computed for the domain. Since there are only 3 to 4 questions in a domain, missing values are not inserted when a patient does not answer a question. When the average rating for the questions in the domain is greater than 3.5, the patient is considered to have &quot;responded positively&quot; to the domain. Then the proportion of patients who responded positively to the domain is determined as the ratio of the number of patients who responded positively to all patients who responded to the domain.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Inpatient Consumer Survey (ICS) includes 28 survey items that draw out the voice of the mental health patients in multiple dimensions of care, including being treated with dignity, patient rights, patient participation in treatment planning, medication, interactions with key hospital staff, and personal perception of outcomes. Direct feedback from patients in areas such as dignity and rights could inform the therapeutic interactions between staffs and patients which will ultimately produce better quality of life outcomes. These intermediate outcomes may foretell the likelihood that the patient may return to receive further services when needed and participate in services in other venues. Direct feedback on outcomes and participation in treatment could inform the treatment activities and greater involvement of patients in their own recovery. Each domain is comprised of distinct questions to enable the health care provider to target specific areas of performance.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Ultimately, outcome must be evaluated from the perspective of the person who receives services from the healthcare organization. The provision of services should be in an atmosphere where patients feel respected and treated with dignity. Patient's report of the effectiveness of the organization in providing this respectful exchange is an important dimension of the quality of care of the organization.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;National Quality Measures Clearinghouse (NQMC) measure submission: patient experience of psychiatric care as measured by the Inpatient Consumer Survey (ICS). &amp;nbsp;2015 Feb 20. &amp;nbsp;62 p.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient experience of psychiatric care; dignity&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients completing at least 2 items in the &quot;Dignity&quot; domain on the Inpatient Consumer Survey (ICS) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients who respond positively to the &quot;Dignity&quot; domain (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="Focus groups" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;To psychometrically test the structure of the Inpatient Consumer Survey (ICS), 34,878 survey results, submitted by 90 psychiatric hospitals in 2008, were extracted from the Behavioral Healthcare Performance Measurement System (BHPMS). Basic descriptive item-response and correlation analyses were performed for total surveys. Two datasets were randomly created for analysis. A random sample of 8229 survey results was used for exploratory factor analysis (EFA). Another random sample of 8261 consumer survey results was used for confirmatory factor analysis (CFA). This same sample was used to perform validity and reliability analyses.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The item-response analysis showed that the mean range for a disagree/agree five-point scale was 3.10 to 3.94. Correlation analysis showed a strong relationship between items. Six domains (dignity, rights, environment, empowerment, participation, and outcome) with internal reliabilities between good to moderate (0.87 to 0.73) were shown to be related to overall care satisfaction. Overall reliability for the instrument was excellent (0.94). Results from CFA provided support for the domains structure of the ICS proposed through EFA.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The overall findings from this study provide evidence that the ICS is a reliable measure of consumer satisfaction in psychiatric inpatient settings. The analysis has shown the ICS to provide valid and reliable results and to focus on the specific concerns of consumers of psychiatric inpatient care. Scores by item indicate that opportunity for improvement exists across healthcare organizations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Psychometric Evaluation of an Inpatient Consumer Survey Measuring Satisfaction with Psychiatric Care&lt;/em&gt; for further details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;National Quality Measures Clearinghouse (NQMC) measure submission: patient experience of psychiatric care as measured by the Inpatient Consumer Survey (ICS). &amp;nbsp;2015 Feb 20. &amp;nbsp;62 p.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ortiz G, Schacht L. Psychometric evaluation of an inpatient consumer survey measuring satisfaction with psychiatric care. Patient. 2012;5(3):163-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22804829&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Behavioral Health Care" />
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 13 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;At time of discharge or during the patient annual review&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients completing at least 2 items in the &quot;Dignity&quot; domain on the Inpatient Consumer Survey (ICS)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Included populations&lt;/em&gt;: Patients who were discharged or had an annual review during the period and completed at least 2 questions in the &quot;Dignity&quot; domain &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients who respond positively to the &quot;Dignity&quot; domain &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Included populations&lt;/em&gt;: Patients who are discharged or have an annual review during the period, complete at least 2 questions in the &quot;Dignity&quot; domain, and average a positive rating for those questions&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: When the average rating for the questions in the domain is greater than 3.5, the patient is considered to have &quot;responded positively&quot; to the domain. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Inpatient Consumer Survey&amp;copy;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stratification reports provide separate performance measure rates for each patient group to assist hospitals with utilizing comparison groups based on patients with similar characteristics at other hospitals. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The stratification reports provide graphs of monthly data points for 6 age stratifications and 2 forensic stratifications for each domain measure chosen by a hospital. The comparison data provide only the national weighted average; no confidence intervals are provided in these reports.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patient perception of dignity.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Inpatient Consumer Survey (ICS)" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Association of State Mental Health Program Directors Research Institute, Inc. - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Association of State Mental Health Program Directors Research Institute, Inc. - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Association of State Mental Health Program Directors Research Institute, Inc. (NRI)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Association of State Mental Health Program Directors Research Institute, Inc. (NRI) staff invited consumers and the Mental Health Statistics Improvement Program (MHSIP) Policy Group to assist NRI in formulating an Inpatient version of the MHSIP Consumer Survey. The workgroup was formed consisting of a representative from these two groups, a research consultant, and NRI-BHPMS staff. The outcome of a series of meetings was an instrument consisting of 43 total items organized around six conceptual domains and a plan for implementation and analysis. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;An original workgroup that created a 43-item pilot survey and signed-off on the original 28-item survey included the following external consultants:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cindy Hopkins (Consumer group/MHSIP, Texas) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mary Smith (MHSIP Policy Group, Illinois) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jack Wackowitz (Contractor NRI, Colorado) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;An assessment workgroup created by NRI that modified and finalized the 28-item survey included:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Vijay Ganju (Texas) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Doug Hancock (Texas) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tom Muller (Georgia) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Randy Koch (Virginia) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mary Smith (Illinois) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jack Wackowitz (Contractor NRI, Colorado) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Huyi Hines (Contractor NRI, University of Kentucky-BHPMS Staff) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Littrell (Contractor NRI, University of Kentucky-BHPMS Staff) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lucille Schacht (NRI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ted Lutterman (NRI) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No potential conflicts of interest need to be disclosed&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 7&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Feb" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The developer reviews/updates the measure on an annual basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;April 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the National Association of State Mental Health Program Directors Research Institute, Inc. (NRI) at 3141 Fairview Park Drive, Suite 650, Falls Church, VA 22042; Phone: 703-738-8160; Fax: 703-738-8185; E-mail: &lt;a href=&quot;mailto:NRI@nri-inc.org&quot;&gt;NRI@nri-inc.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.nri-inc.org/&quot; title=&quot;NRI Web site&quot;&gt;www.nri-inc.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 3, 2015. The information was verified by the measure developer on September 24, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Patient Experience of Psychiatric Care as Measured by the Inpatient Consumer Survey (ICS)&amp;copy; is a proprietary survey tool, copyrighted to the National Association of State Mental Health Program Directors Research Institute, Inc. (NRI), but NRI allows individual psychiatric hospitals to use the survey under a &lt;a href=&quot;http://www.nri-inc.org/#!ics-terms-of-use/c1j46&quot; title=&quot;NRI Web site&quot;&gt;Terms of Use Agreement&lt;/a&gt;. For additional information, contact NRI at 703-738-8160 or &lt;a href=&quot;mailto:NRI@nri-inc.org&quot;&gt;NRI@nri-inc.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;National Quality Measures Clearinghouse (NQMC) measure submission: patient experience of psychiatric care as measured by the Inpatient Consumer Survey (ICS). &amp;nbsp;2015 Feb 20. &amp;nbsp;62 p.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

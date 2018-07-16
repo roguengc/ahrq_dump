@@ -1,0 +1,230 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cancer - diarrhea: percentage of patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea for whom an antidiarrheal agent was prescribed on or before treatment was initiated.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Lorenz KA, O'Neill SM, Asch SM, Walling AM, Tisnado D, Antonio AL, Malin JL. Cancer Quality-ASSIST supportive oncology quality indicator set: feasibility, reliability, and validity testing. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2010 Apr. 13 p.&amp;nbsp;(Effective Health Care Program research report; no. 24).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Process&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea for whom an antidiarrheal agent was prescribed on or before treatment was initiated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Although great strides have been made in cancer treatment, over one-third of patients with advanced stage cancer will die within 6 months of diagnosis. While much of the oncology literature focuses on the prevention and early, potentially curative treatment of malignancies, palliation of the symptoms of metastatic cancer and its treatment and end of life care are essential for half of the people diagnosed with cancer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Because symptoms are common and high impact, better symptom management offers a critical opportunity to relieve the burden of living with cancer. Systematic reviews identify pain, fatigue, anorexia, and breathlessness among the most common symptoms. Pooled estimates for the prevalence of symptoms in patients with advanced cancer range from 74% for fatigue to 11% for rash and for diarrhea (pain 71%, anorexia 53%, depression 39%, constipation 37%, insomnia 36%, dyspnea 35%, nausea 31%, cognitive symptoms 28%, oral symptoms 20%, vomiting 20%). Pain remains strikingly common and may affect more than a third of patients with earlier stage disease and more than two-thirds of patients with advanced cancer. The Institute of Medicine targeted improving cancer pain as a national priority.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Good supportive care encompasses four important areas: (1) treatment of cancer-related symptoms (2) prevention and treatment of the side-effects associated with cancer treatment, (3) recognition of and support for patients' experiencing psychosocial distress and (4) end of life care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Cancer Quality-ASSIST (Assessing Symptoms Side Effects and Indicators of Supportive Treatment) indicator set was developed to provide tools to assess the extent to which cancer care addresses the symptomatic and informational needs of patients and families.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cancer; supportive cancer care; chemotherapy-induced diarrhea; antidiarrheal agent&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of cancer patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea for whom an antidiarrheal agent was prescribed on or before treatment was initiated&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical literature" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Overall poor quality for the performance measured" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorenz KA, Dy SM, Naeim A, Walling AM, Sanati H, Smith P, Shanman R, Roth CP, Asch SM. Quality measures for supportive cancer care: the Cancer Quality-ASSIST Project. J Pain Symptom Manage. 2009 Jun;37(6):943-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19359135&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="Quality of care research" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Physician Group Practices/Clinics" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physician Assistants" />
+      <FieldValue Value="Physicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Group Clinical Practices" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Adults&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Rationale&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Rationale&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cancer patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of cancer patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window brackets index event" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea for whom an antidiarrheal agent was prescribed on or before treatment was initiated&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Episode of care" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Rate" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A team of researchers developed an initial potential set of indicators based on a systematic review of clinical trials, guidelines, and quality indicators. An expert panel evaluated the validity and feasibility of potential quality indicators using a formal rating and consensus process, and thereby guided the selection of final indicators. Of 133 proposed quality indicators, a total of 92 (69%) were judged valid and feasible by the panel. In a pilot study of the 92 medical record-based Cancer Quality-ASSIST (Assessing Symptoms Side Effects and Indicators of Supportive Treatment) supportive oncology quality indicators, following development and implementation of an abstraction tool, use of trained abstractors, and analysis of quantitative and qualitative abstraction results, including interrater reliability, 41 met strict criteria for feasibility, reliability and validity for advanced cancer across two clinical settings. These indicators represent all domains of the original ASSIST set except mucositis, insomnia, and fever/neutropenia. Overall kappa for the included set of indicators was 0.87 for eligibility and 0.86 for specified care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Lorenz KA, O'Neill SM, Asch SM, Walling AM, Tisnado D, Antonio AL, Malin JL. Cancer Quality-ASSIST supportive oncology quality indicator set: feasibility, reliability, and validity testing. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2010 Apr. 13 p.&amp;nbsp;(Effective Health Care Program research report; no. 24).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lorenz KA, Dy SM, Naeim A, Walling AM, Sanati H, Smith P, Shanman R, Roth CP, Asch SM. Quality measures for supportive cancer care: the Cancer Quality-ASSIST Project. J Pain Symptom Manage. 2009 Jun;37(6):943-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19359135&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;If a patient with cancer is undergoing chemotherapy with a high-risk (greater than 10%) of chemotherapy-induced diarrhea, then an antidiarrheal agent should be prescribed on or before treatment is initiated.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Cancer Quality-ASSIST Project Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="1305" ID="475" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Diarrhea" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="RAND Corporation - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="RAND Corporation - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The ASSIST development was funded by a grant from Amgen to the RAND Corporation. Testing was funded by the Department of Veterans Affairs, Veterans Health Administration, Health Services Research and Development Service SHP 08-196, and under Contract No. 290-2005-0034I from the Agency for Healthcare Research and Quality, U.S. Department of Health and Human Services as part of the Developing Evidence to Inform Decisions about Effectiveness (DEcIDE) program. The authors are responsible for its content. Statements should not be construed as endorsement by the Agency for Healthcare Research and Quality, the U.S. Department of Health and Human Services, or the Department of Veterans Affairs.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Karl A. Lorenz, MD, MSHS; Sydney M. Dy, MD, MPH; Arash Naeim, MD, PhD; Anne M. Walling, MD; Homayoon Sanati, MD; Patricia Smith, MS; Roberta Shanman, MS; Carol P. Roth, RN, MPH; Steven M. Asch, MD, MPH&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the authors has a financial interest in any of the products discussed in this report.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2010 Apr" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Lorenz KA, O'Neill SM, Asch SM, Walling AM, Tisnado D, Antonio AL, Malin JL. Cancer Quality-ASSIST supportive oncology quality indicator set: feasibility, reliability, and validity testing. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2010 Apr. 13 p.&amp;nbsp;(Effective Health Care Program research report; no. 24).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;If a patient with cancer is undergoing chemotherapy with a high risk (greater than 10%) of chemotherapy-induced diarrhea, then an antidiarrheal agent should be prescribed on or before treatment is initiated,&quot; is published in &quot;Cancer Quality-ASSIST Supportive Oncology Quality Indicator Set: Feasibility, Reliability, and Validity Testing.&quot; This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/products/190/444/finalforposting%20DECIDE%2024.pdf&quot; title=&quot;AHRQ Effective Health Care Program Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Effective Health Care Program Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For further information, please contact Karl Lorenz, MD, MSHS, VA Greater Los Angeles Healthcare System, 11301 Wilshire Boulevard, Code 111-G, Los Angeles, CA 90073. Email: &lt;a href=&quot;mailto:karl.lorenz@med.va.gov&quot;&gt;karl.lorenz@med.va.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 4, 2011. The information was verified by the measure developer on April 5, 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

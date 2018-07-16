@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospital inpatients' experiences: percentage of parents who reported how often providers kept them informed about their child's care.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CAHPS® Hospital Surveys: child version. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Dec 9. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Consumer Assessment of Healthcare Providers and Systems Hospital Survey -- child version (Child HCAHPS): appendix. Boston (MA): Boston Children's Hospital; 2014 May. 122 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Patient experience measures from the CAHPS® Child Hospital Survey. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Dec 23. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients whose parents/guardians (henceforth referred to as parent) reported how often (&quot;Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Always&quot;) providers kept them informed about their child's care. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The &quot;Keeping You Informed About Your Child's Care&quot; composite measure is based on two items on the Child Hospital CAHPS (Child HCAHPS) Survey that ask parents how often: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Providers kept parent informed about care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Providers gave parent enough information about test results &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: A composite score is calculated in which a higher score indicates better quality. Composite scores are intended for consumer-level reporting.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Child Hospital CAHPS (Child HCAHPS) Survey assesses the experiences of pediatric patients (age 17 and younger) with inpatient health care received in a hospital. Child HCAHPS asks parents about communication with doctors, communication with nurses, hospital environment, age-appropriateness of care, pain management, and other domains that parents viewed as important aspects of their child's care. By gathering this information, the survey addresses the need to assess and improve the experiences of pediatric inpatients and their parents. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The survey results are expected to be useful to everyone with a need for information on the quality of pediatric inpatient care, including patients, parents, hospitals, health plans, insurers, and policy makers: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients and parents can use the information to help make better and more informed choices about inpatient care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospitals, health plans, insurers, and policy makers can use the survey results for quality improvement initiatives. To learn more about using the survey for quality improvement, go to Improve Patients' Experiences with Hospitals. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Child HCAHPS complements the Adult Hospital CAHPS (Adult HCAHPS) Survey, allowing for patients' hospital experiences to be assessed across the age continuum. Child HCAHPS is harmonized with many of the domains covered in Adult HCAHPS and also includes domains that are particularly relevant to pediatric care, such as how well providers involve teens in their care. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CAHPS® Child Hospital Survey: overview of the questionnaire. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Sept 22. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Inpatient care; patient experience; information about care; children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital inpatients with an admission during the reporting period whose parent answered the &quot;Keeping You Informed About Your Child's Care&quot; items on the Child Hospital CAHPS (Child HCAHPS) Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of &quot;Always&quot; responses on the &quot;Keeping You Informed About Your Child's Care&quot; items on the Child Hospital CAHPS (Child HCAHPS) Survey (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="Focus groups" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Children's Health Insurance Program Reauthorization Act (CHIPRA) Pediatric Quality Measures Program (PQMP) identified the need for a standardized survey to assess the experiences of pediatric patients and their families with inpatient hospital care. Consequently, the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) funded the Center of Excellence for Pediatric Quality Measurement at Boston Children's Hospital (CEPQM) and assigned it to develop and test a Consumer Assessment of Healthcare Providers and Systems (CAHPS) Hospital Survey for children. CEPQM worked with the CAHPS Consortium to pursue this effort with the same emphasis on standardization and scientific rigor that characterize all CAHPS products and surveys.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Development of the Child Hospital CAHPS (Child HCAHPS) Survey occurred from 2011 to 2014 and included:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Focus groups&lt;/strong&gt;. The survey development team conducted six focus groups with parents of recently hospitalized children and two with recently hospitalized adolescents in Boston, Los Angeles, and St. Louis. Two of these groups were conducted with parents of children with special health care needs. Focus groups were conducted in both English and Spanish and covered several aspects of care important to patients and families. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Cognitive testing&lt;/strong&gt;. The survey development team conducted 109 in-depth cognitive interviews in Boston, Los Angeles, Miami, and St. Louis in English and Spanish. The survey developers revised the instrument in response to findings from the interviews, resulting in a 78-item questionnaire used for pilot testing. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Pilot testing&lt;/strong&gt;. The survey development team conducted a pilot test of the draft survey in English and Spanish in eight hospitals across the country. Further survey revision and cognitive interviews led to a 66-item revised draft instrument. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Field testing&lt;/strong&gt;. The survey development team tested the revised draft instrument with parents of recently hospitalized children in 69 hospitals across 34 states. The survey was fielded in both English and Spanish by either mail or phone. Based on comprehensive psychometric analyses of the field test data, the survey team made revisions to the questionnaire. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;End-user testing&lt;/strong&gt;. The survey development team conducted 23 cognitive interviews with parents in Atlanta and the Washington, D.C., area to test the understandability and usefulness of preliminary composite measure concepts and labels. Based on the findings from these interviews, the team refined the list of 18 composite, single-item, and rating measures and modified their labels. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CAHPS® Child Hospital Survey: overview of the questionnaire. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Sept 22. 10 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Toomey SL, Zaslavsky AM, Elliot MN, Gallagher PM, Fowler FJ, Klein DJ, Shulman S, Ratner J, McGovern C, LeBlanc JL, Schuster MA. The development of a pediatric inpatient experience of care measure: Child HCAHPS®. Pediatrics. 2015 Aug;136(2):360-9. [28 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26195542&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 17 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Child under 18 years old at time of discharge &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admission includes at least one overnight stay in the hospital&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;An overnight stay is defined as an inpatient admission in which the patient's admission date is different from the patient's discharge date. The admission need not be 24 hours in length. For example, a patient would be considered to have had an overnight stay if he or she was admitted at 11:00 PM on Day 1 and discharged at 10:00 AM on Day 2. Patients who did not have an overnight stay should not be included in the sample frame (e.g., patients admitted for a short period of time solely for observation; patients admitted for same-day diagnostic tests as part of outpatient care). &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Non-psychiatric Medicare severity-diagnosis related group (MS-DRG)/principal diagnosis at discharge &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alive at the time of discharge &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&quot;No-publicity&quot; patients &amp;ndash; Patients who request that they not be contacted &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Court/law enforcement patients (i.e., prisoners); this category does not include patients residing in halfway houses &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with a foreign home address (the U.S. territories&amp;mdash;American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands&amp;mdash;are not considered foreign addresses and therefore, are not excluded) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged to hospice care (hospice-home or hospice-medical facility) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are excluded because of state regulations &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are wards of the state &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Healthy newborns &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients admitted for obstetric care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Observation patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are emancipated minors &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged to skilled nursing facilities &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Patients should be included in the Child Hospital CAHPS (Child HCAHPS) Survey sample frame unless the hospital/survey vendor has positive evidence that a patient is ineligible or fits within an excluded category. If no information is missing on any variable that affects survey eligibility when the sample frame is constructed, the patient must be included in the sample frame. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of &quot;Always&quot; responses (i.e., top box) on the &quot;Keeping You Informed About Your Child's Care&quot; items on the Child Hospital CAHPS (Child HCAHPS) Survey&lt;/p&gt;&#xD;&#xA;&lt;p&gt;From the responses, a composite score is calculated in which a higher score indicates better quality.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Top box score is the percentage of survey respondents who chose the most positive response for a given item response scale (i.e., &quot;Always&quot;). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the &lt;em&gt;Consumer Assessment of Healthcare Providers and Systems Hospital Survey&amp;mdash;Child Version (Child HCAHPS): Appendix&lt;/em&gt; document for information on producing hospital scores. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Child Hospital CAHPS&amp;reg; (Child HCAHPS) Survey &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;When comparing hospitals, it is necessary to adjust appropriately for case-mix differences. Case-mix refers to patient characteristics, such as demographic characteristics and health status, that are not under the control of the hospital and may affect scores on performance measures. Systematic effects of this sort create the potential for a hospital's rating to be higher or lower because of characteristics of its patient population rather than the quality of care it provides. Comparisons of unadjusted scores may therefore be misleading. The basic goal of adjusting for case mix is to estimate how different hospitals would score if they all provided care to comparable groups of patients. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analyses of the Child Hospital CAHPS (Child HCAHPS) Survey pilot data were conducted to examine the effects of patients' characteristics on parent report of hospital care. Child HCAHPS includes adjustment of hospital scores for patient characteristics that are associated with Child HCAHPS measures and are differentially distributed across hospitals. The case-mix data are obtained from items in the &quot;About You&quot; section of the survey and from hospital administrative records. Based on findings from the pilot data analyses and consistent with previous studies of case-mix adjustment in CAHPS and other hospital patient surveys, Child HCAHPS uses the following categorical variables in the case-mix adjustment model: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Child age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Child global health status &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Respondent age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Respondent education &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Respondent relationship to child &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Language preference &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to the &lt;em&gt;Instructions for Analyzing Data from CAHPS&amp;reg; Surveys&lt;/em&gt; document (see also the &quot;Companion Documents&quot; field) for additional information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Keeping you informed about your child's care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Child Hospital CAHPS (Child HCAHPS) Survey" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Center of Excellence for Pediatric Quality Measurement, Boston Children's Hospital - Hospital/Medical Center" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+      <FieldValue Value="CAHPS Consortium - Health Care Quality Collaboration" />
+      <FieldValue Value="Center of Excellence for Pediatric Quality Measurement, Boston Children's Hospital - Hospital/Medical Center" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Funding was provided by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) through the Children's Health Insurance Program Reauthorization Act (CHIPRA) Pediatric Quality Measures Program (PQMP).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Marc N. Elliott, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Floyd J. Fowler, Jr., PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patricia M. Gallagher, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark A. Schuster, MD, PhD (Director, Center of Excellence for Pediatric Quality Measurement [CEPQM]; Co-lead, Child Hospital CAHPS [Child HCAHPS]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sara L. Toomey, MD, MPhil, MPH, MSc (Managing Director, CEPQM; Co-lead, Child HCAHPS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alan M. Zaslavsky, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Staff of the CEPQM at Boston Children's Hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Consumer Assessment of Healthcare Providers and Systems (CAHPS) Consortium &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 7&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CAHPS&amp;reg; Hospital Surveys: Child Version available from the &lt;a href=&quot;https://cahps.ahrq.gov/surveys-guidance/hospital/instructions/hospinstructions.html&quot; title=&quot;CAHPS Web site&quot; target=&quot;_blank&quot;&gt;CAHPS Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CAHPS Technical Assistance at E-mail: &lt;a href=&quot;mailto:cahps1@westat.com&quot;&gt;cahps1@westat.com&lt;/a&gt;; Phone: 1-800-492-9261.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Instructions for analyzing data from CAHPS surveys: using the CAHPS analysis program version 4.1. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Apr 2. 74 p. This document is available from the &lt;a href=&quot;https://www.cahpsdatabase.ahrq.gov/files/CGGuidance/Instructions_for_Analyzing_Data_2015v2.pdf&quot; title=&quot;CAHPS Web site&quot; target=&quot;_blank&quot;&gt;CAHPS Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Agency for Healthcare Research and Quality (AHRQ). Consumer Assessment of Healthcare Providers and Systems Hospital Survey -- child version (Child HCAHPS). Washington (DC): National Quality Forum (NQF); 2014 May 22. various p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the CAHPS User Network at E-mail: &lt;a href=&quot;mailto:cahps1@westat.com&quot;&gt;cahps1@westat.com&lt;/a&gt;; Phone: 1-800-492-9261.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 11, 2015. The information was verified by the measure developer on September 25, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;CAHPS® Hospital Surveys: child version. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Dec 9. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Consumer Assessment of Healthcare Providers and Systems Hospital Survey -- child version (Child HCAHPS): appendix. Boston (MA): Boston Children's Hospital; 2014 May. 122 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Patient experience measures from the CAHPS® Child Hospital Survey. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Dec 23. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,255 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Long-stay nursing home care: percent of residents who were physically restrained.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of long-stay nursing facility residents who were physically restrained on a daily basis.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Restraints can pose serious risks for residents. They are used to control behavior for people with disruptive, aggressive, or dangerous behavior, including those with cognitive impairment (Sullivan-Marx et al., 1999; Capezuti et al., 1996; Castle &amp;amp; Mor, 1998). Second quarter 2008 statewide averages for the current Chronic Care Restraint Quality Measure (QM) range from 0.0% in Puerto Rico and the Virgin Islands to 8.9% in California, with a 4.3% national average (Centers for Medicare and Medicaid Services [CMS], 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The use of physical restraints is associated with several adverse outcomes for the physical and mental health of the restrained (Hofmann &amp;amp; Hahn, 2014; Castle &amp;amp; Engberg, 2009; Engberg, Castle, &amp;amp; McCaffrey, 2008; Sullivan-Marx, 2001; Capezuti et al., 2006; Castle &amp;amp; Mor, 1998) and may lead to decreased functional ability (Hofmann &amp;amp; Hahn, 2014), poorer oral hygiene (Willumsen et al., 2012), delirium (Boorsma et al., 2012; Voyer et al., 2011) and, in residents with dementia, increased pain (Lin et al., 2011). The benefits of refraining from the use of physical restraints by employing clinically sound interventions to address the causes of falls, wandering, and other behaviors have been well-documented in the long-term care literature; they include improved quality of life, greater autonomy, use of fewer antipsychotic medications, less skin breakdown, and fewer serious injuries resulting from falls (CMS, 2013; Engberg, Castle, &amp;amp; McCaffrey, 2008; Sullivan-Marx, 2001; Capezuti et al., 1996; CMS, 2002). Through multiple clinical trials, case studies, and facility-level intervention studies, research has also shown that restraints do not prevent major adverse consequences for residents; while the number of falls may increase with the removal of physical restraints, studies have consistently found that serious falls resulting in injuries do not (K&amp;ouml;pke et al. 2012; Gulpers et al., 2011; Capezuti, 2004; Neufeld et al., 1995; Ejaz, Jones, &amp;amp; Rose, 1994). Studies have shown that the risk of serious injury do not increase with decreased use of restraints (K&amp;ouml;pke et al., 2012; Gulpers et al., 2011; Capezuti, 2004; Neufeld et al., 1995; Ejaz, Jones, &amp;amp; Rose 1994) and may decrease when physical restraints are reduced in conjunction with appropriate education and training (Neufeld et al., 1995; Neufeld et al., 1999). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The use of restraints also increases the cost of care. One study examining almost 12,000 residents in 276 facilities in seven states found that higher levels of nursing-assistant time were consistently provided to restrained residents, resulting in increased staff costs to the facilities (Phillips, Hawes, &amp;amp; Fries, 1993). A 1991 report by the Office of the Inspector General at CMS found that nursing homes were able to reduce the use of restraints with no increase in cost of care (Kusserow, 1991). Restraints may also impose additional costs on Medicaid; a 2006 analysis of Medicaid reimbursement data for 525 nursing homes found that residents who had experienced greater use of restraints experienced an increased risk of hospitalization (Carter &amp;amp; Porell, 2006).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Boorsma M, Joling KJ, Frijters DH, Ribbe ME, Nijpels G, van Hout HP. The prevalence, incidence and risk factors for delirium in Dutch nursing homes and residential care homes. Int J Geriatr Psychiatry. 2012 Jul;27(7):709-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21919058&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Capezuti E, Evans L, Strumpf N, Maislin G. Physical restraint use and falls in nursing home residents. J Am Geriatr Soc. 1996 Jun;44(6):627-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8642150&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Capezuti E. Minimizing the use of restrictive devices in dementia patients at risk for falling. Nurs Clin North Am. 2004 Sep;39(3):625-47. [160 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15331306&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Carter MW, Porell FW. Nursing home performance on select publicly reported quality indicators and resident risk of hospitalization: grappling with policy implications. J Aging Soc Policy. 2006;18(1):17-39. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16635979&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Castle NG, Engberg J. The health consequences of using physical restraints in nursing homes. Med Care. 2009 Nov;47(11):1164-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19786918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Castle NG, Mor V. Physical restraints in nursing homes: a review of the literature since the Nursing Home Reform Act of 1987. Med Care Res Rev. 1998 Jun;55(2):139-70; discussion 171-6. [104 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9615561&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Revised long-term care facility resident assessment instrument user's manual. Version 2.0 with August 2003 and all other subsequent posted updates incorporated. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2002 Dec. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Revised long-term care resident assessment instrument user’s manual, version 9.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2013 Aug. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ejaz FK, Jones JA, Rose MS. Falls among nursing home residents: an examination of incident reports before and after restraint reduction programs. J Am Geriatr Soc. 1994 Sep;42(9):960-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8064104&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Engberg J, Castle NG, McCaffrey D. Physical restraint initiation in nursing homes and subsequent resident health. Gerontologist. 2008 Aug;48(4):442-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18728294&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gulpers MJ, Bleijlevens MH, Ambergen T, Capezuti E, van Rossum E, Hamers JP. Belt restraint reduction in nursing homes: effects of a multicomponent intervention program. J Am Geriatr Soc. 2011 Nov;59(11):2029-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22092189&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hofmann H, Hahn S. Characteristics of nursing home residents and physical restraint: a systematic literature review. J Clin Nurs. 2014 Nov;23(21-22):3012-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24125061&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Köpke S, Mühlhauser I, Gerlach A, Haut A, Haastert B, Möhler R, Meyer G. Effect of a guideline-based multicomponent intervention on use of physical restraints in nursing homes: a randomized controlled trial. JAMA. 2012 May 23;307(20):2177-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22618925&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kusserow R. Minimizing restraints in nursing homes: a guide to action. Baltimore (MD): Centers for Medicare &amp; Medicaid Services; 1991. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lin PC, Lin LC, Shyu YI, Hua MS. Predictors of pain in nursing home residents with dementia: a cross-sectional study. J Clin Nurs. 2011 Jul;20(13-14):1849-57. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21592246&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents who were physically restrained (long stay). Washington (DC): National Quality Forum (NQF); 2015 Feb 19. 32 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Neufeld RR, Libow LS, Foley W, White H. Can physically restrained nursing-home residents be untied safely? Intervention and evaluation design. J Am Geriatr Soc. 1995 Nov;43(11):1264-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7594161&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Neufeld RR, Libow LS, Foley WJ, Dunbar JM, Cohen C, Breuer B. Restraint reduction reduces serious injuries among nursing home residents. J Am Geriatr Soc. 1999 Oct;47(10):1202-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10522953&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Phillips CD, Hawes C, Fries BE. Reducing the use of physical restraints in nursing homes: will it increase costs. Am J Public Health. 1993 Mar;83(3):342-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8438970&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sullivan-Marx EM, Strumpf NE, Evans LK, Baumgarten M, Maislin G. Initiation of physical restraint in nursing home residents following restraint reduction efforts. Res Nurs Health. 1999 Oct;22(5):369-79. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10520189&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sullivan-Marx EM. Achieving restraint-free care of acutely confused older adults. J Gerontol Nurs. 2001 Apr;27(4):56-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11915157&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Voyer P, Richard S, Doucet L, Cyr N, Carmichael PH. Precipitating factors associated with delirium among long-term care residents with dementia. Appl Nurs Res. 2011 Aug;24(3):171-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20974072&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Willumsen T, Karlsen L, Naess R, Bjørntvedt S. Are the barriers to good oral hygiene in nursing homes within the nurses or the patients?. Gerodontology. 2012 Jun;29(2):e748-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22023222&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Nursing home; long-stay; physical restraints&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All long-stay residents with a target assessment, except those with exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Long-stay residents with a selected target assessment that indicates daily physical restraints, where:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in chair or out of bed, &lt;em&gt;&lt;strong&gt;or &lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in chair or out of bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chair prevents rising used in chair or out of bed &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Race&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analyses of racial/ethnic disparities were conducted at both the resident and facility levels using Minimum Data Set (MDS) 3.0 data from Q2 2014. RTI found differences in daily restraint use between racial and ethnic groups of residents. Hispanic and Asian residents had the highest rates of restraint use, at 1.6% and 1.5% respectively, while 1.0 % of black residents and 1.2% of white residents had daily restraint use. Differences in the rate of restraint by racial/ethnic group were found to be statistically significant (p-value less than 0.0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;RTI analyses of the distribution of facility scores on this measure by race indicate that facilities with different proportions of non-white populations do have different performance scores on this measure. Analyses at the facility level examined differences in the percent of residents who were physically restrained compared across two groups: facilities with proportions of white residents that were greater than or equal to the median proportion (87.0%), and facilities with fewer white residents than the median. Facilities with a higher proportion of white residents had slightly higher rates of restraint use (1.3% compared to 1.0%). In an additional analysis, the developer cross-tabulated racial composition (above/below median) with quality measure (QM) score (above/below median) and ran a 2-way Chi-square test for statistical dependence (with one degree of freedom). The results showed that there were statistically significant relationships between racial composition and the QM score (p-value less than 0.001).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Socioeconomic Status&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;RTI analyses of the distribution of facility scores on this measure by Medicaid eligibility indicate that facilities with different proportions of Medicaid-eligible populations do have different performance scores on this measure, suggesting a relationship between socioeconomic status and incidence of being restrained. Analyses at the facility level examined differences in the percent of residents who were physically restrained compared across two groups: facilities with proportions of Medicaid-eligible residents that were greater than or equal to the median proportion (75.0%), and facilities with fewer Medicaid-eligible residents than the median. This analysis showed that facilities with the higher proportion of Medicaid eligible residents had a slightly higher rate of restraint use (1.2% versus 0.7%). The developer cross-tabulated Medicaid eligibility rates (above/below median) with QM score (above/below median) and ran a 2-way Chi-square test for statistical dependence (with one degree of freedom). The results showed that there were statistically significant relationships between proportion of Medicaid eligible residents in a facility and facility QM score (p-value less than 0.001).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents who were physically restrained (long stay). Washington (DC): National Quality Forum (NQF); 2015 Feb 19. 32 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. RTI analysis of MDS 3.0 data (Quarter 2, 2014). Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarterly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All long-stay* residents with a valid target assessment, except those with exclusions&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Long-stay&lt;/strong&gt;: An episode with cumulative days in facility (CDIF) greater than or equal to 101 days as of the end of the target period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Resident is not in numerator and any of the following is true:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in bed is missing (P0100B = [-]), &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in bed is missing (P0100C = [-]), &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in chair or out of bed is missing (P0100E = [-]), &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in chair or out of bed is missing (P0100F = [-]), &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chair prevents rising used in chair or out of bed is missing (P0100G = [-]). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Long-stay residents with a selected target assessment that indicates daily physical restraints, where:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Trunk restraint used in chair or out of bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Limb restraint used in chair or out of bed, &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;&lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chair prevents rising used in chair or out of bed &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent of residents who were physically restrained (long-stay).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Nursing Home Quality Initiative Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Long-stay Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RTI International - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest exist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Dec 10&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Nursing Home Compare" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual and (every three years) endorsement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarter 2 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the CMS Web site at &lt;a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the &lt;a href=&quot;http://www.medicare.gov/nursinghomecompare/search.html&quot; title=&quot;Nursing Home Compare&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The NQMC summary was completed by ECRI on July 22, 2004. The information was verified by the measure developer on August 30, 2004. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 28, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

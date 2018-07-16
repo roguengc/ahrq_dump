@@ -1,0 +1,250 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Surgical care improvement project: percent of surgical patients with urinary catheter removed on postoperative day 1 or postoperative day 2 with the day of surgery being day zero.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for national hospital inpatient quality measures, version 3.1a. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; 2010 Apr 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Process&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of surgical patients with urinary catheter removed on postoperative day 1 (POD 1) or postoperative day 2 (POD 2) with the day of surgery being day zero.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;It is well&amp;ndash;established that the risk of catheter-associated urinary tract infection (UTI) increases with increasing duration of indwelling urinary catheterization. In 2000, Saint reported the results of a pooled analysis of 10 prospective trials dating from 1983 to 1995 which estimated that bacteriuria will develop in 26% of patients after 2 to 10 days of catheterization (95% CI 23-25%). Additional pooled analyses demonstrated that 24% (95% CI 16% to 32%) of those patients will develop symptomatic UTI and bacteremia will develop in 3.6%. Among surgical patients, two studies of postoperative patients discharged to subacute care with urinary catheters were more likely to be readmitted to the hospital with a UTI compared with those who had catheters removed prior to hospital discharges (Wald, 2005 and Wald, 2008). Among selected major surgical patients in the Surgical Infection Project (SIP) cohort, Wald demonstrated (in press) that 85% had perioperative indwelling catheters placed and half of those patients had catheters for greater than 2 days postoperatively. These patients were twice as likely to develop UTIs prior to hospital discharge. On multivariate analysis, those who had indwelling bladder catheters for more than 2 days postoperatively were 21% more likely to develop UTI, significantly less likely to be discharged to home, and had a significant increase in mortality at 30 days. Additional analyses suggest that there is sizeable variation in the duration of postoperative catheterization among hospitals and that hospital factors may account for this variation. In 2006, Stephan reported the results of a multifaceted intervention study in orthopedic surgery patients in which protocols limiting the use and duration of postoperative catheterization played a large role. They reported a resultant 60% reduction in UTI incidence-density.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Surgical care infection prevention; urinary catheter&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All selected surgical patients with a catheter in place postoperatively (see the related &quot;Denominator Inclusions/Exclusions&quot; field and Appendix A, Table 5.10 for the list of selected surgeries)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of surgical patients whose urinary catheter is removed on postoperative day 1 (POD 1) or postoperative day 2 (POD 2) with day of surgery being day zero&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Use of this measure to improve performance" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saint S. Clinical and economic consequences of nosocomial catheter-related bacteriuria. Am J Infect Control. 2000 Feb;28(1):68-75. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10679141&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stephan F, Sax H, Wachsmuth M, Hoffmeyer P, Clergue F, Pittet D. Reduction of urinary tract infection and antibiotic use after surgery: a controlled, prospective, before-after intervention study. Clin Infect Dis. 2006 Jun 1;42(11):1544-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16652311&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wald H, Epstein A, Kramer A. Extended use of indwelling urinary catheters in postoperative hip fracture patients. Med Care. 2005 Oct;43(10):1009-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16166870&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wald HL, Epstein AM, Radcliff TA, Kramer AM. Extended use of urinary catheters in older surgical patients: a patient safety problem. Infect Control Hosp Epidemiol. 2008 Feb;29(2):116-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18179366&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wald HL, Ma A, Bratzler DW, Kramer AM. Indwelling urinary catheter use in the postoperative period: analysis of the national surgical infection prevention project data. Arch Surg. 2008 Jun;143(6):551-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18559747&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Accreditation" />
+      <FieldValue Value="Collaborative inter-organizational quality improvement" />
+      <FieldValue Value="External oversight/Medicaid" />
+      <FieldValue Value="External oversight/Medicare" />
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="National reporting" />
+      <FieldValue Value="Pay-for-performance" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Hospitals" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Measure is not provider specific" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery Organizations" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &amp;quot;Rationale&amp;quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &amp;quot;Rationale&amp;quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Studies of postoperative patients discharged to subacute care with urinary catheters were more likely to be readmitted to the hospital with a urinary tract infection (UTI) compared with those who had catheters removed prior to hospital discharges.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See also the &quot;Rationale&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="5" OrdBy="840" ID="336" Name="Evidence for Utilization" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wald H, Epstein A, Kramer A. Extended use of indwelling urinary catheters in postoperative hip fracture patients. Med Care. 2005 Oct;43(10):1009-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16166870&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wald HL, Epstein AM, Radcliff TA, Kramer AM. Extended use of urinary catheters in older surgical patients: a patient safety problem. Infect Control Hosp Epidemiol. 2008 Feb;29(2):116-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18179366&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness " />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All selected surgical patients with a urinary catheter in place postoperatively&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All selected surgical patients with an International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) Principal Procedure Code of selected surgeries as defined in the appendices of the original measure documentation with a catheter in place postoperatively&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients less than 18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who have a Length of Stay (LOS) greater than 120 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who had a principal diagnosis suggestive of preoperative infectious diseases (refer to Appendix A, Table 5.09 of the original measure documentation for ICD-9-CM codes) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients whose ICD-9-CM principal procedure was performed entirely by &lt;em&gt;Laparoscope&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients enrolled in clinical trials &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who had a urological, gynecological or perineal procedure performed (refer to Appendix A, Table 5.16 of the original measure documentation for ICD-9-CM codes) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients whose ICD-9-CM principal procedure occurred prior to the date of admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who had other procedures requiring general or spinal anesthesia that occurred within 3 days (4 days for coronary artery bypass graft [CABG] or Other Cardiac Surgery) prior to or after the procedure of interest (during separate surgical episodes) during this hospital stay &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with physician/advanced practice nurse/physician assistant (physician/APN/PA) documented infection prior to surgical procedure of interest &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who expired perioperatively &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients whose length of stay was less than two days postoperatively &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who had a suprapubic catheter or had intermittent catheterization preoperatively &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who did not have a catheter in place postoperatively &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who had physician/APN/PA documentation of a reason for not removing the urinary catheter postoperatively &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window brackets index event" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of surgical patients whose urinary catheter is removed on postoperative day 1 (POD 1) or postoperative day 2 (POD 2) with day of surgery being day zero&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Fixed time period" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Rate" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="External comparison at a point in time" />
+      <FieldValue Value="External comparison of time trends" />
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is currently in use in the Reporting Hospital Quality Data Annual Payment Update (RHQDAPU) program with data submitted by approximately 3500 hospitals.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is reviewed bi-annually and revised as needed to ensure reliable specifications. An independent abstracting contractor is utilized by the RHQDAPU program to monitor validity of the measure specifications. Feedback from this contractor is incorporated into the proposed changes for each manual update.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Reporting hospital quality data for annual payment update (RHQDAPU). [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services; [accessed 2010 May 10]. [1 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;SCIP-Inf-9: urinary catheter removed on postoperative day 1 (POD 1) or postoperative day 2 (POD 2) with day of surgery being day zero.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Hospital Inpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="1305" ID="475" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Surgical Care Improvement Project (SCIP)" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services/The Joint Commission - None" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's Corporate Sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) funding is from the United States Government.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Centers for Medicare &amp;amp; Medicaid Services assembled and maintained the Technical Expert Panel for development of the Surgical Infection Prevention Project (SIP) measures in 2002. The SIP set subsequently transitioned to the Surgical Care Improvement Project (SCIP) effective July 1, 2006. The panel has been maintained by the Centers for Medicare &amp;amp; Medicaid Services since the inception of the project.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;SCIP Partners include the Steering Committee of 10 national organizations who have pledged their commitment and full support for SCIP:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Agency for Healthcare Research and Quality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;American College of Surgeons &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;American Hospital Association &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;American Society of Anesthesiologists &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Association of Perioperative Registered Nurses &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Disease Control and Prevention &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare &amp;amp; Medicaid Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Institute for Healthcare Improvement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Joint Commission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Veterans Health Administration &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with the Conflict of Interest policies, copies of which are available upon written request to The Joint Commission and the Centers for Medicare &amp; Medicaid Services.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="1335" ID="376" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="83" OrdBy="1340" ID="377" Name="Included in" Type="picklist-choice">
+      <FieldValue Value="Hospital Compare" />
+      <FieldValue Value="Hospital Quality Alliance" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2009 Oct" />
+    </Field>
+    <Field FieldID="86" OrdBy="1360" ID="381" Name="Revision Date" Type="date">
+      <FieldValue Value="2010 Apr" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 3.0c. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; 2009 Oct 1. various p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for national hospital inpatient quality measures, version 3.1a. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; 2010 Apr 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;SCIP-Inf-9: Urinary Catheter Removed on Postoperative Day 1 (POD 1) or Postoperative Day 2 (POD 2) with Day of Surgery Being Day Zero,&quot; is published in &quot;Specifications Manual for National Hospital Inpatient Quality Measures.&quot; This document is available from &lt;a href=&quot;http://www.jointcommission.org/specifications_manual_for_national_hospital_inpatient_quality_measures/&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;. Information is also available from the &lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1141662756099&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. Check The Joint Commission Web site and QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A software application designed for the collection and analysis of quality improvement data, the CMS Abstraction and Reporting Tool (CART), is available from the &lt;a href=&quot;http://www.cfmc.org/hospital/hospital_cart.htm&quot; title=&quot;CMS CART Web site&quot;&gt;CMS CART Web site&lt;/a&gt;. Supporting documentation is also available. For more information, e-mail CMS PROINQUIRIES at &lt;a href=&quot;mailto:proinquiries@cms.hhs.gov&quot;&gt;proinquiries@cms.hhs.gov&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Joint Commission. A comprehensive review of development and testing for national implementation of hospital core measures. Oakbrook Terrace (IL): The Joint Commission; 40 p. This document is available in Portable Document Format (PDF) from &lt;a href=&quot;http://www.jointcommission.org/assets/1/18/A_Comprehensive_Review_of_Development_for_Core_Measures.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Joint Commission. Attributes of core performance measures and associated evaluation criteria. Oakbrook Terrace (IL): The Joint Commission; 5 p. This document is available in PDF from &lt;a href=&quot;http://www.jointcommission.org/assets/1/18/Attributes_of_Core_Performance_Measures_and_Associated_Evaluation_Criteria.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Joint Commission submitted this NQMC measure summary to ECRI Institute on July 31, 2009. This NQMC summary was reviewed accordingly by ECRI Institute on December 2, 2009. The information was verified by the Centers for Medicare &amp;amp; Medicaid Services on February 18, 2010. The Joint Commission informed NQMC that this measure was updated on June 25, 2010 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on August 17, 2010. The information was verified by the Centers for Medicare &amp;amp; Medicaid Services on November 3, 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for National Hospital Inpatient Quality Measures [Version 3.1a, April, 2010] is the collaborative work of the Centers for Medicare &amp;amp; Medicaid Services and The Joint Commission. The Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services and The Joint Commission. Users of the Specifications Manual for National Hospital Quality Measures should periodically verify that the most up-to-date version is being utilized.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

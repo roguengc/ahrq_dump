@@ -1,0 +1,271 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospital-based inpatient psychiatric services: the percentage of patients admitted to a hospital-based inpatient psychiatric setting who are screened within the first three days of admission for all of the following: risk of violence to self or others, substance use, psychological trauma history and patient strengths.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients admitted to a hospital-based inpatient psychiatric setting who are screened within the first three days of admission for all of the following: risk of violence to self or others, substance use, psychological trauma history and patient strengths.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure represents the overall rate. The following rates are also reported:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children age 1 through 12 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adolescent age 13 through 17 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adult age 18 through 64 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Older adult age greater than or equal to 65 years &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Substantial evidence exists that there is a high prevalence of co-occurring substance use disorders as well as history of trauma among persons admitted to acute psychiatric settings. Professional literature suggests that these factors are under-identified yet integral to current psychiatric status and should be assessed in order to develop appropriate treatment (Ziedonis, 2004; National Association of State Mental Health Program Directors [NASMHPD], 2005). Similarly, persons admitted to inpatient settings require a careful assessment of risk for violence and the use of seclusion and restraint. Careful assessment of risk is critical to safety and treatment. Effective, individualized treatment relies on assessments that explicitly recognize patients' strengths. These strengths may be characteristics of the individuals themselves, supports provided by families and others, or contributions made by the individuals' community or cultural environment (Rapp, 1998). In the same way, inpatient environments require assessment for factors that lead to conflict or less than optimal outcomes.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Association of State Mental Health Program Directors (NASMHPD). Position statement on services and supports to trauma survivors. Alexandria (VA): NASMHPD; 2005. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rapp CA. The strengths model: case management with people suffering from severe and persistent mental illness. London: Oxford University Press; 1998. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ziedonis DM. Integrated treatment of co-occurring mental illness and addiction: clinical intervention, program, and system perspectives. CNS Spectr. 2004 Dec;9(12):892-904, 925. [66 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15618940&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatients; admission screening (risk of violence to self or others, substance use, psychological trauma history, patient strengths)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatient discharges (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatients with admission screening within the first three days of admission for &lt;strong&gt;all&lt;/strong&gt; of the following: risk of violence to self or others, substance use, psychological trauma history, and patient strengths&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Suicide is a major public health epidemic. According to the Centers for Disease Control and Prevention (CDC) the rates of suicide have not decreased in 100 years and remain the 11th leading cause of death in the United States. Ninety percent of those completing suicide have a psychiatric diagnosis at the time of death with depression and alcohol abuse most commonly noted. Over 80 million people in the United States are at risk for suicide due to mental illness and substance use disorders and about 30,000 Americans each year die by suicide. It is estimated that the cost to society in lost productivity each year is approximately $11 billion. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A defensive measure benefiting the patient is documentation of a suicide risk assessment. According to Hirschfeld &amp;amp; Russell (1997), many physicians and even mental health providers are hesitant to inquire about suicide with the fear of provoking the risk of suicide or likely due to discomfort discussing the topic. Assessment of suicide risk is an essential component to recognizing the problem and formulating the appropriate treatment plan for all patients acute enough to warrant inpatient level of care. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;McNiel et al. (2008) assert that violence risk assessment varies widely and frequently is not incorporated into training programs for psychiatric residents, leaving some patients at risk for violence to self and others. A crucial component of all risk assessment includes screening for suicidal and homicidal ideation. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In the National Crime Victimization Survey for 1993 to 1999 which was conducted by the Department of Justice, the annual rate of nonfatal, job-related violent crime against psychiatrists and mental health professionals was 68.2 per 1,000 and 69.0 per 1,000 for mental health custodial workers as compared to 12.6 per 1,000 for workers in all occupations. According to Swanson (1994), the lifetime prevalence of violent behavior ranges from 16.1% for those with schizophrenia spectrum or a major affective disorder to 43.6% for those with a serious mental illness (SMI) with co-occurring substance use disorder (SUD). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A review of 27 studies on patient violence performed by Johnson (2004) supports the need for a careful risk assessment to determine which patients are at risk for violent and aggressive behavior while in the inpatient psychiatric care setting. Recently The Joint Commission released a Sentinel Event Alert on preventing violence in the health care setting which reported 256 violent events from 1995 through June 2010 in the Sentinel Event Database resulting in patient assault, homicide or rape. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;SUD has been identified as a risk factor for violence. Those with co-occurring SUD and SMI who are non-compliant with medications in particular are susceptible to committing violent acts. The Substance Abuse and Mental Health Services Administration (SAMHSA) estimates that 4.6 million American adults have both SUD and mental illness. Additionally, unrecognized alcohol use disorder can result in the life threatening condition delirium tremens. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Excessive use of alcohol and drugs has a substantial harmful impact on health and society in the United States. It is a drain on the economy and a source of enormous personal tragedy. In 1998 the economic costs to society were $185 billion for alcohol misuse and $143 billion was attributable to drug problems. Health care spending was $19 billion for alcohol problems, and $14 billion for drug problems. Nearly a quarter of one trillion dollars in lost productivity is attributable to substance use. It is therefore critical to screen for the joint presence of these two elements of Hospital-based Inpatient Psychiatric Services (HBIPS) 1 in order to develop a comprehensive approach to treatment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Co-occurring, unrecognized SUD also results in an increased risk of psychiatric relapse, poor medication compliance, violence to self and others and legal problems. Patients with SMI will often downplay or deny SUD; therefore, a timeline of past and present substance use should be performed during the initial screening process. Mallin et al. (2002) also note low rates of screening for SUD in depressed patients. The high rate of co-occurring SUD and mental illness points to the need for an initial screening identifying those patients with SUD in order to develop a comprehensive approach to evaluation and treatment for both disorders. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Between 51% and 98% of public mental health patients have trauma histories. Lack of consistent screening contributes to under detection of trauma histories. Trauma when left untreated can result in negative patient outcomes such as hallucinations, depression, suicidal acts, anxiety, hostility, dissociation and poor social skills and hospital readmission. Additionally, trauma victims are at an increased risk for substance use disorders, violence victimization, self-injury, serious social problems and premature death. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The financial burden to society of undiagnosed and untreated trauma is staggering. The economic costs of untreated trauma-related alcohol and drug abuse were estimated at $160.7 billion in 2000. Additionally, the cost to society of child abuse and neglect is $94 billion annually, and for child abuse survivors, long-term psychiatric and medical costs reach $100 billion annually. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alarmingly high rates of childhood trauma exposure, post traumatic stress disorder (PTSD) co-morbidity and current victimization exist among people with SMI treated in public sector settings. Statistics showed incest histories in 46% of chronically psychotic women on a hospital unit, and significant trauma exposure in 90% of patients in a multi-site program for co-morbid substance-abuse and mental illness. Only 35% of both groups of patients carried a diagnosis of PTSD. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Although the high prevalence of significant psychological trauma among patients with serious and persistent mental illness is well known, and even where it is duly recorded in initial psychiatric histories, such trauma is rarely reflected in the primary (or secondary) diagnosis. A history of trauma, even when significant, generally appears only in the category of &quot;developmental history&quot;, and thus does not become the focus of treatment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Assessment models based on patient deficits, rather than patient strengths, reduce patient motivation and portray the patient as weak and helpless rather than empowered, and run counter to the national Recovery Movement that has been a hallmark of patient advocacy and treatment engagement for the past decade. The strengths-based approach to case management has emerged over the past few years as a way to influence both the well-being and coping of patients with SMI. Lyons et al. (2000) examined the patient strengths model in 15 residential treatment centers for children and adolescents across Florida. Their findings also support the importance of strengths and the use of an integrated model incorporating both psychopathology and strengths as a part of the treatment plan. And finally, the patient strengths approach allows the clinician to systematically screen for the patient's survival skills, abilities, knowledge, resources and desires that can be used to help them reach their goals. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;When performing an initial psychiatric screening for patient strengths, cultural factors related to the psychosocial environment and the patient's level of functioning must be taken into consideration, as well as their available network system of support. Cultural factors may influence many aspects of mental illness, including how a patient from a given culture communicates, his or her style of coping, and his or her family and community supports when eliciting patient strengths. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association. Practice guidelines for the treatment of patients with substance use disorders. Arlington (VA): American Psychiatric Association; 2004. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Arseneault L, Moffitt TE, Caspi A, Taylor PJ, Silva PA. Mental disorders and violence in a total birth cohort: results from the Dunedin Study. Arch Gen Psychiatry. 2000 Oct;57(10):979-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11015816&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Beck JC, van der Kolk B. Reports of childhood incest and current behavior of chronically hospitalized psychotic women. Am J Psychiatry. 1987 Nov;144(11):1474-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3674230&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cusack KJ, Frueh BC, Brady KT. Trauma history screening in a community mental health center. Psychiatr Serv. 2004 Feb;55(2):157-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14762240&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman RA. Violence and mental illness--how strong is the link. N Engl J Med. 2006 Nov 16;355(20):2064-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17108340&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goldsmith SK, Pellmar TC, Kleinman AM, Bunney WE, editor(s). Reducing suicide: a national imperative. Washington (DC): The National Academies Press; 2002. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goodman LA, Salyers MP, Mueser KT, Rosenberg SD, Swartz M, Essock SM, Osher FC, Butterfield MI, Swanson J, 5 Site Health and Risk Study Research Committee. Recent victimization in women and men with severe mental illness: prevalence and  correlates. J Trauma Stress. 2001 Oct;14(4):615-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11776413&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hanson TC, Hesselbrock M, Tworkowski SH, Swan S. The prevalence and management of trauma in the public domain: an agency and clinician perspective. J Behav Health Serv Res. 2002 Nov;29(4):365-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12404932&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Harwood HJ. Updating estimates of the economic costs of alcohol abuse in the United States: estimates, update methods, and data. [internet]. Bethesda (MD): National Institute on Alcohol Abuse and Alcoholism (NIAAA); 2000 Dec&amp;nbsp;[accessed 2011 Dec 30]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heron M, Hoyert DL, Murphy SL, Xu J, Kochanek KD, Tejada-Vera B. Deaths: final data for 2006. Natl Vital Stat Rep. 2009 Apr 17;57(14):1-134. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19788058&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hiday VA, Swartz MS, Swanson JW, Borum R, Wagner HR. Criminal victimization of persons with severe mental illness. Psychiatr Serv. 1999 Jan;50(1):62-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9890581&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hirschfeld RM, Russell JM. Assessment and treatment of suicidal patients. N Engl J Med. 1997 Sep 25;337(13):910-5. [41 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9302306&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Johnson ME. Violence on inpatient psychiatric units: state of the science. J Am Psychiatr Nurses Assoc. 2004;10(3):113-21.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kessler RC, Sonnega A, Bromet E, Hughes M, Nelson CB. Posttraumatic stress disorder in the National Comorbidity Survey. Arch Gen Psychiatry. 1995 Dec;52(12):1048-60. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7492257&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Linehan MM, Comtois KA, Ward-Ciesielski EF. Assessing and managing risk with suicidal individuals. Cogn Behav Pract. 2011;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lyons JS, Uziel-Miller ND, Reyes F, Sokol PT. Strengths of children and adolescents in residential settings: prevalence and associations with psychopathology and discharge placement. J Am Acad Child Adolesc Psychiatry. 2000 Feb;39(2):176-81. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10673828&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mallin R, Slott K, Tumblin M, Hunter M. Detection of substance use disorders in patients presenting with depression. Subst Abus. 2002 Jun;23(2):115-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12444356&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McNiel DE, Chamberlain JR, Weaver CM, Hall SE, Fordwood SR, Binder RL. Impact of clinical training on violence risk assessment. Am J Psychiatry. 2008 Feb;165(2):195-200. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18245189&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mokdad AH, Marks JS, Stroup DF, Gerberding JL. Actual causes of death in the United States, 2000. JAMA. 2004 Mar 10;291(10):1238-45. [97 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15010446&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Morgan HG, Stanton R. Suicide among psychiatric in-patients in a changing clinical scene. Suicidal ideation as a paramount index of short-term risk. Br J Psychiatry. 1997 Dec;171:561-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9519097&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mueser KT, Goodman LB, Trumbetta SL, Rosenberg SD, Osher C, Vidaver R, Auciello P, Foy DW. Trauma and posttraumatic stress disorder in severe mental illness. J Consult Clin Psychol. 1998 Jun;66(3):493-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9642887&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mullen PE, Burgess P, Wallace C, Palmer S, Ruschena D. Community care and criminal offending in schizophrenia. Lancet. 2000 Feb 19;355(9204):614-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10696982&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Institute on Drug Abuse. Topics in brief: comorbid drug abuse and mental illness. [internet]. 2011&amp;nbsp;[accessed 2011 Dec 28]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum. National voluntary consensus standards for the treatment of substance use conditions: evidence-based treatment practices; a consensus report. Washington (DC): National Quality Forum; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rapp CA. The strengths model: case management with people suffering from severe and persistent mental illness. London: Oxford University Press; 1998. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ruiz P. Addressing culture, race, &amp; ethnicity in psychiatric practice. Psychiatr Ann. 2004;34(7):527-32.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saleebey D. The strengths perspective in social work practice: extensions and cautions. Soc Work. 1996 May;41(3):296-305. [55 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8936085&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sekar K, Rangan A. Strengths perspective in mental health (evidence based case study). [internet]. Coopers Plains (Australia): Brisbane Institute of Strengths-Based Practice; 2006&amp;nbsp;[accessed 2011 Dec 29]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Substance Abuse and Mental Health Services Administration (SAMHSA). Results from the 2004 National Survey on Drug Use and Health: national findings. NSDUH Series H-28, DHHS Publication No. (SMA) 05-4062]. Rockville (MD): Office of Applied Studies; 2005. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Swanson JW, Borum R, Swartz M, et al. Psychotic symptoms and disorders and the risk of violent behavior in the community. Crim Behav Ment Health. 1996;6:317-38.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Swanson JW. Mental disorder, substance abuse, and community violence: an epidemiological approach. In: Monahan J, Steadman HJ, editor(s). Violence and mental disorder: developments in risk assessment. Chicago (IL): University of Chicago Press; 1994. p. 101-36.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Swartz MS, Swanson JW, Hiday VA, Borum R, Wagner HR, Burns BJ. Violence and severe mental illness: the effects of substance abuse and nonadherence to medication. Am J Psychiatry. 1998 Feb;155(2):226-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9464202&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Preventing violence in the health care setting. Sentinel Event Alert. 2010 Jun 3;(45):1-3. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20524260&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tucker WM. How to include the trauma history in the diagnosis and treatment of psychiatric inpatients. Psychiatr Q. 2002 Summer;73(2):135-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12025721&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;US Department of Health and Human Services. Mental health: culture, race and ethnicity-a supplement to mental health: report of the surgeon general. Rockville (MD): US Department of Health and Human Services, Substance Abuse and Mental Health Services Administration, Center for Mental Health Services; 2001. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Witness Justice. Trauma is the common denominator, healing is the common goal. [internet]. 2006&amp;nbsp;[accessed 2011 Dec 29]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ziedonis DM. Integrated treatment of co-occurring mental illness and addiction: clinical intervention, program, and system perspectives. CNS Spectr. 2004 Dec;9(12):892-904, 925. [66 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15618940&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alpha testing was conducted during May and June 2006 at approximately 40 volunteer test sites to assess feasibility and data collection effort. A set of measures was recommended by the Technical Advisory Panel (TAP) to comprise the final test set addressing the domains of Assessment, Patient Safety and Continuity/Transitions of Care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Specification Manual for National Hospital Inpatient Quality Measures Hospital-Based Inpatient Psychiatric Services Test Set was finalized in September 2006. In late 2006 a total of 196 hospitals volunteered to participate in the Hospital-Based Inpatient Psychiatric Services (HBIPS) pilot test. Data collection for the test set began with January 1, 2007 discharges and continued throughout December 31, 2007.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;During the first quarter of the pilot test, a subset of 39 hospitals was randomly selected to collect and transmit monthly hospital clinical data (HCD) to help assess data quality and data reliability. The data quality study continued with data collection and transmission for the 12 months of 2007. Feedback on data quality was provided to each performance measurement systems vendor submitting HCD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The final phase of testing consisted of site visits to a sample of participating pilot hospitals to assess the reliability of data abstracted and reported by those hospitals. Reliability test site visits were conducted at 18 randomly selected pilot hospitals. Selection of the test sites was based on multiple characteristics, including hospital demographics, populations served, bed size and type of facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All of the HBIPS measures have undergone a rigorous process of public comment, alpha testing and broad-scale pilot testing and are recognized by the field as important indicators of hospital-based inpatient psychiatric care. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement. The Joint Commission. Oakbrook Terrace, IL). Personal communication. 2010 Nov 16. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients age one year and older&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+      <FieldValue Value="Safety" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges July 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Psychiatric inpatient discharges with &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal or Other Diagnosis Codes&lt;/em&gt; for mental disorders (as defined in the appendices of the original measure documentation)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients for whom there is an inability to complete admission screening for &lt;em&gt;Violence Risk&lt;/em&gt;, &lt;em&gt;Substance Use&lt;/em&gt;, &lt;em&gt;Psychological Trauma History&lt;/em&gt; and &lt;em&gt;Patient Strengths&lt;/em&gt; within the first 3 days of admission &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with a Length of Stay (LOS) less than or equal to 3 days OR greater than or equal to 365 days &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Psychiatric inpatients with admission screening within the first three days of admission for &lt;strong&gt;all&lt;/strong&gt; of the following: risk of violence to self or others, substance use, psychological trauma history, and patient strengths&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital-Based Inpatient Psychiatric Services (HBIPS) Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HBIPS-1: Admission Screening for Violence Risk, Substance Use, Psychological Trauma History and Patient Strengths Completed Flowchart &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is disaggregated according to the following age groups:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children age 1 through 12 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adolescent age 13 through 17 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adult age 18 through 64 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Older adult age greater than or equal to 65 years &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data Reported As&lt;/strong&gt;: Aggregate rate generated from count data reported as a proportion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HBIPS-1: Admission screening for violence risk, substance use, psychological trauma history and patient strengths completed. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Quality Core Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Hospital-Based Inpatient Psychiatric Services" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's Corporate Sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The composition of the group that developed the measure is available at: &lt;a href=&quot;http://www.jointcommission.org/assets/1/6/HBIPS%20TAP%20Members.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;http://www.jointcommission.org/assets/1/6/HBIPS%20TAP%20Members.pdf&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with the Joint Commission's Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Jun 10&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Quality Check®" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every 6 months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Jan&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for Joint Commission national quality core measures, version 2015B. Oakbrook Terrace (IL): The Joint Commission; Effective 2015 Oct 1. 327 p.  &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://manual.jointcommission.org/bin/view/Manual/WebHome&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by The Joint Commission on May 30, 2008 and reviewed accordingly by ECRI Institute on July 7, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 24, 2009. The information was verified by the measure developer on April 27, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on August 27, 2009 and reviewed accordingly by ECRI Institute on February 5, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on November 16, 2010 and reviewed accordingly by ECRI Institute on March 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on June 10, 2013 and reviewed accordingly by ECRI Institute on October 30, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on June 27, 2014 and reviewed accordingly by ECRI Institute on September 19, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on July 21, 2015 and reviewed accordingly by ECRI Institute on September 21, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on June 14, 2016. The information was verified by the measure developer on June 29, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for Joint Commission National Quality Core Measures [Version 2016A, July 2016] is periodically updated by The Joint Commission. Users of the Specifications Manual for Joint Commission National Quality Core Measures must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

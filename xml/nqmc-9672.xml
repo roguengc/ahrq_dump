@@ -1,0 +1,215 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Adult trauma care: percentage of all EMS records for injured patients 18 years and older with documentation of intubation attempted prior to arrival in hospital.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guide to quality indicators in adult trauma care. Version 3. Calgary (AB): Quality of Trauma in Adult Care, University of Calgary; 2013 Jan 29. 129 p.  [111 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Health Care Delivery Measures: Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of all emergency medical services (EMS) records for injured patients 18 years and older with documentation of intubation attempted prior to arrival in hospital (per 100 patients).&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: See the related National Quality Measures Clearinghouse (NQMC) summaries of the Quality of Trauma in Adult Care (QTAC) &lt;a href=&quot;/browse/by-organization-indiv.aspx?orgid=2532&amp;amp;objid=49235&quot; title=&quot;Measure Subset&quot;&gt;Invasive Prehospital Procedure Documentation Rate&lt;/a&gt; measures. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;This measure belongs to a subset of measures designed to monitor the rate of high-risk low-volume invasive prehospital procedures attempted, successfully performed and associated complications. For each of the following four procedures, three measures will be calculated: i) number of documented attempted procedures per 100 patients, ii) number of documented successful procedures per 100 patients and iii) number of documented complications per 100 patients:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Intubation (NQMC-9672; NQMC-9673; NQMC-9674) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cricothyroidotomy (NQMC-9675; NQMC-9675; NQMC-9677) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Needle decompression thoracostomy (NQMC-9678; NQMC-9679; NQMC-9680) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Defibrillation (NQMC-9681; NQMC-9682; NQMC-9683) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Each year, injuries affect 700 million people worldwide and result in more than five million deaths. In many countries, injuries are the leading cause of death among those under the age of 45 years. The human and societal burden is even greater with many survivors never returning to school, work or their &quot;regular&quot; lives. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Health care services provide patients with treatment for what is a major cause of morbidity and death. Yet medical errors and substandard care threaten trauma care. Half of all patients with major traumatic injuries do not receive recommended care, medical errors are common in critically ill trauma patients and preventable trauma deaths in hospital are widely reported. The World Health Organization (WHO), professional trauma organizations (e.g., American College of Surgeons [ACS], Trauma Association of Canada and Royal Australasian College of Surgeons) and accreditation bodies have promoted efforts to improve the quality of care delivered to injured patients. However, before the quality of injury care can be improved, it needs to be measured using reliable and valid measures of health care quality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;These indicators can be used to assess patient safety, and to evaluate and improve quality of care by incorporating these measures into local, regional or national quality improvement efforts. Implementing a consistent approach to measurement (same indicators, same definitions, same data elements, same reporting format) would provide institutions with reliable performance data that is necessary for surveillance (e.g., tertiary survey completion), to track local problems (e.g., adverse events &amp;ndash; specifically missed injuries), evaluate the effects of interventions or program changes (e.g., tertiary survey protocol) and provide comparisons across centers (e.g., benchmarking adverse events using programs such as the ACS's Trauma Quality Improvement Program). Well-designed, carefully evaluated and appropriately implemented quality indicators (QIs) may be essential tools for guiding efforts to improve health and healthcare.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This indicator belongs to a subset of measures intended to monitor the rate of high-risk low-volume invasive prehospital procedures attempted, successfully performed and associated complications. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guide to quality indicators in adult trauma care. Version 3. Calgary (AB): Quality of Trauma in Adult Care, University of Calgary; 2013 Jan 29. 129 p.  [111 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Trauma care; injury; invasive prehospital procedure; intubation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All emergency medical services (EMS) contacts for injured patients age 18 years and older&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All emergency medical services (EMS) records for patients 18 years and older with documentation of intubation attempted prior to arrival in hospital&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In a study conducted by Rosengart et al. (2007), 100% Delphi panel participants ranked documenting indications for select prehospital interventions as very important (Rosengart et al., 2007). Rosengart et al. (2007) also reported an inconclusive association between the quality indicator and mortality.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rosengart MR, Nathens AB, Schiff MA. The identification of criteria to evaluate prehospital trauma care using the Delphi technique. J Trauma. 2007 Mar;62(3):708-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17414352&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Using a modification of the RAND/University of California, Los Angeles (UCLA) Appropriateness Methodology, a panel of 19 injury and quality of care experts serially rated and revised quality indicators identified from a systematic review of the literature and international audit of trauma center quality improvement practices. The quality indicators developed by the panel were sent to 133 verified trauma centers in the United States, Canada, Australia, and New Zealand for evaluation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A total of 84 quality indicators were rated and revised by the expert panel over 4 rounds of review producing 31 quality indicators of structure (n=5), process (n=21), and outcome (n=5), designed to assess the safety (n=8), effectiveness (n=17), efficiency (n=6), timeliness (n=16), equity (n=2), and patient-centeredness (n=1) of injury care spanning prehospital (n=8), hospital (n=19), and posthospital (n=2) care and secondary injury prevention (n=1). A total of 101 trauma centers (76% response rate) rated the indicators (1=strong disagreement, 9=strong agreement) as targeting important health improvements (median score 9, interquartile range [IQR] 8 to 9), easy to interpret (median score 8, IQR 8 to 9), easy to implement (median score 8, IQR 7 to 8), and globally good indicators (median score 8, IQR 8 to 9).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Thirty-one evidence-informed quality indicators of adult injury care were developed, shown to have content validity, and can be used as performance measures to guide injury care quality improvement practices.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Trauma centers rated the indicator &quot;percentage of all emergency medical service (EMS) records for injured patients 18 years and older with documentation of intubation attempted prior to arrival in hospital&quot; as targeting important health improvements (median score 8, IQR 8 to 9), easy to interpret (median score 8, IQR 7 to 9), easy to implement (median score 7, IQR 6 to 9), and globally a good indicator (median score 8, IQR 7 to 9).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Santana MJ, Stelfox HT, Trauma Quality Indicator Consensus Panel. Development and evaluation of evidence-informed quality indicators for adult injury care. Ann Surg. 2014 Jan;259(1):186-92. [35 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23657078&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Emergency Medical Services" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All emergency medical services (EMS) contacts for injured patients age 18 years and older &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All emergency medical services (EMS) records for patients 18 years and older with documentation of intubation attempted prior to arrival in hospital&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Other" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Invasive prehospital procedure documentation rate: intubation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Quality Indicators in Adult Trauma Care" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Prehospital Indicators" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Invasive Prehospital Procedure Documentation Rate" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Quality of Trauma in Adult Care (QTAC) Team, University of Calgary - Academic Institution" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Quality of Trauma in Adult Care (QTAC) Team, University of Calgary - Academic Institution" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The project was supported by a Partnerships in Health System Improvement Grant (PHE-91429) from the Canadian Institutes of Health Research and Alberta Innovates Health Solutions. Funding sources had no role in the design, conduct, or reporting of this study.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dr. H. Thomas Stelfox, Principal Investigator, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Maria-Jose Santana, Co-investigator, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diane Lorenzetti, Library Science, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jamie Boyd, Research Coordinator, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nancy Clayden, Research Assistant, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colleen M. Sharp, Research Assistant, University of Calgary &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Expert Panel&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dr. Mark Asbridge, Faculty Member, Dalhousie University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Chad G. Ball, Fellowship in Trauma, Critical Care and Hepatobiliary Surgery, Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Peter Cameron, Professor and Head of Critical Care Division, Head of Victorian State Trauma Registry, Associate Director of National Trauma Research Institute, Melbourne, Australia &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diane Dyer, Consultant, Alberta Health Services &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Louis Hugo Francescutti, Past President of Royal College of Physicians and Surgeons of Canada, Professor, University of Alberta &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Marie Claire Fortin, Clinical Registries Manager, CIHI and Faculty Member, University of Toronto &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Ken Jaffe, Professor of Rehabilitation Medicine and Adjunct Professor of Pediatrics and Neurological Surgery, University of Washington School of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Andrew W. Kirkpatrick, Past President Trauma Association of Canada, Professor of Critical Care Medicine and Surgery, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. John Kortbeek, Professor and Head of Department of Surgery, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Karen Kmetik, Vice President of Performance Improvement American Medical Association &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Lynne Moore, Assistant Professor of Epidemiology/Biostatistics, Laval University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Avery Nathens, Canada Research Chair in Trauma Systems Development, Professor of Surgery, University of Toronto &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Nick Phan, Division of Neurosurgery, University of Toronto &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Fred Rivara, Seattle Childrens Guild Endowed Chair in Pediatrics, Professor in Pediatrics, University of Washington &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bryan Singleton, Senior Manager for Emergency Health Services, Paramedic, Alberta Ministry of Health and Wellness &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Marc Swiontkowski, CEO of TRIA Orthopedic Center, University of Minnesota &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. John Tallon, Past President Trauma Association of Canada, Associate Professor of Emergency Medicine and Surgery, Dalhousie University &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Andrew Travers, Medical Director of Nova Scotia Emergency Medical Systems, Assistant Professor, Dalhousie Emergency Department of Medicine &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Dave Zygun, Associate Professor of Critical Care Medicine, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Tom Noseworthy, Professor of Health Policy and Management, University of Calgary &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dr. Sharon Straus, Canada Research Chair in Knowledge Translation, University of Toronto &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The project was supported by a Partnerships in Health System Improvement Grant (PHE-91429) from the Canadian Institutes of Health Research and Alberta Innovates Health Solutions. Dr Stelfox was supported by a New Investigator Award from the Canadian Institutes of Health Research and a Population Health Investigator Award from Alberta Innovates Health Solutions. Funding sources had no role in the design, conduct, or reporting of this study. The authors declare no conflicts of interest. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://qualitytraumacare.com/images/pdfs/Quality_Indicators_Monograph_08Feb13.pdf&quot; title=&quot;Quality of Trauma in Adult Care (QTAC) Web site&quot;&gt;Quality of Trauma in Adult Care (QTAC) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This work is also available from the &lt;a href=&quot;http://journals.lww.com/annalsofsurgery/pages/default.aspx&quot; title=&quot;Annals of Surgery Web site&quot;&gt;Annals of Surgery Web site&lt;/a&gt;: Santana MJ, Stelfox HT, Trauma Quality Indicator Consensus Panel. Development and evaluation of evidence-informed quality indicators for adult injury care. Ann Surg. 2014 Jan;259(1):186-92.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact QTAC at the University of Calgary, Teaching Research &amp;amp; Wellness (TRW) Building, 3rd Floor, 3280 Hospital Drive NW, Calgary, AB, Canada, T2N 4Z6; Phone: 403-944-2334; Fax: 403-283-9994; E-mail: &lt;a href=&quot;mailto:qtac@qualitytraumacare.com&quot;&gt;qtac@qualitytraumacare.com&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.qualitytraumacare.com&quot; title=&quot;QTAC Web site&quot;&gt;www.qualitytraumacare.com&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 6, 2015. The information was verified by the measure developer on July 13, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xA;&lt;p&gt;The individual measures from the &quot;Guide to Quality Indicators in Adult Trauma Care,&quot; are available from the &lt;a href=&quot;http://www.qualitytraumacare.com&quot; title=&quot;Quality of Trauma in Adult Care (QTAC) Web site&quot;&gt;Quality of Trauma in Adult Care (QTAC) Web site&lt;/a&gt;. &lt;/p&gt;&#xA;&lt;p&gt;For more information, contact Tom Stelfox, MD, PhD, at the University of Calgary, Teaching Research &amp;amp; Wellness (TRW) Building, 3rd Floor, 3280 Hospital Drive NW, Calgary, AB, Canada, T2N 4Z6; Phone: 403-944-2334; Fax: 403-283-9994; E-mail: &lt;a href=&quot;mailto:tstelfox@ucalgary.ca&quot;&gt;tstelfox@ucalgary.ca&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Guide to quality indicators in adult trauma care. Version 3. Calgary (AB): Quality of Trauma in Adult Care, University of Calgary; 2013 Jan 29. 129 p.  [111 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

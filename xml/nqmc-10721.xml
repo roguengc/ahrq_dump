@@ -1,0 +1,260 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Long-stay nursing home care: percent of high-risk residents with pressure ulcers.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of long-stay, high-risk residents with Stage II-IV pressure ulcers.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pressure ulcers typically result from prolonged periods of uninterrupted pressure on the skin, soft tissue, muscle, and bone (Institute for Healthcare Improvement [IHI], 2007; Russo, Steiner, &amp;amp; Spector, 2008; Bates-Jensen, 2001). Vulnerable patients include the elderly, stroke and diabetic patients, those with dementia, circulatory diseases, dehydration, and malnutrition; and people who use wheelchairs or are bedridden&amp;mdash;that is, any patient with impaired mobility or sensation (Hurd et al., 2010; Maclean, 2003; Bates-Jensen, 2001). Pressure ulcers interfere with the activities of daily living, predispose patients to osteomyelitis and septicemia, and are strongly associated with longer hospital stays and mortality (Bates-Jensen, 2001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pressure ulcers are high-volume and high-cost adverse events across the spectrum of health care settings from acute hospitals to home health (Hurd et al., 2010; Russo, Steiner, &amp;amp; Spector, 2008; Bates-Jensen, 2001). The prevalence of pressure ulcers in health care facilities is increasing, with some 2.5 million patients being treated annually for pressure ulcers in acute care facilities (Russo, Steiner, &amp;amp; Spector, 2008; IHI, 2007). In 2006, there were 503,300 acute hospital stays during which pressure ulcers were noted&amp;mdash;a 78.9% increase from 1993 when there were about 281,300 hospital stays related to pressure ulcers (Russo, Steiner, &amp;amp; Spector, 2008; Maclean, 2003). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pressure ulcer incidence rates vary considerably by clinical setting&amp;mdash;ranging from 0.4% to 38% in acute care, from 2.2% to 23.9% in skilled nursing facilities and nursing homes, and from 0% to 17% in home care (Duncan, 2007; IHI, 2007). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with acute care hospitalizations related to pressure ulcers were more likely to be discharged to long-term care facilities (e.g., a skilled nursing facility, an intermediate care facility, or a nursing home), than hospitalizations for all other conditions (Hurd et al., 2010; IHI, 2007). In fact, more than half of principal pressure ulcer stays (53.4%) and secondary pressure ulcer stays (54.5%) were discharged to long-term care&amp;mdash;more than 3 times the rate of hospitalizations for all other conditions (16.2%) (Hurd et al., 2010). Pressure ulcers are serious medical conditions and one of the most important measures of the quality of clinical care in nursing facilities. The Centers for Disease Control and Prevention (CDC) conducts the National Nursing Home Survey, a continuing series of national sample surveys of nursing homes, their residents, and their staff. Data for the survey were obtained through personal interviews with facility administrators and designated staff who used administrative records to answer questions about the facilities, staff, services and programs, and medical records to answer questions about the residents. A total of 1,174 nursing home facilities participated in the latest National Nursing Home Survey (Park-Lee &amp;amp; Caffrey, 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As reported in the 2004 National Nursing Home Survey results, about 159,000 current U.S. nursing home residents (11%) had pressure ulcers. Stage 2 ulcers were the most common, accounting for about 50% of all pressure ulcers. Stages 1, 3, and 4 made up about the other 50% of all ulcers (Centers for Medicare and Medicaid Services [CMS], 2007). Stage 1 pressure ulcers are not included in the proposed quality measure; researchers have suggested that inclusion of Stage 1 pressure ulcers in the quality measures adds little value (Brega et al., 2008; Lynn et al., 2007). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2006, Abt Associates examined pressure ulcer incidence and prevalence across post-acute settings. For nursing homes, Minimum Data Set (MDS) 2.0 assessments were used for April 1, 2006, through July 15, 2006. The prevalence of pressure ulcers Stage 1 to 4 was 13%, with the prevalence of Stage 3 to 4 ulcers being 3% nationwide (Hurd et al., 2010). Pressure ulcers may cause extreme discomfort to the patient and often lead to serious, life-threatening infections, which substantially increase the total cost of care (Agency for Healthcare Research and Quality [AHRQ], 2009; Russo, Steiner, &amp;amp; Spector, 2008; Cuddigan, Berlowitz, &amp;amp; Ayello, 2001). The main driver of cost is the presence of complications, which involve diagnostic tests, additional monitoring, more expensive pressure-relieving surfaces, and extended length of stays (AHRQ, 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As reported in the Federal Register, in 2006 there were 322,946 reported cases of Medicare patients with a pressure ulcer as a secondary diagnosis&amp;mdash;each case had an average charge of $40,381 for a hospital stay, for an annual total cost of $13 billion (CMS, 2007). The Advancing Excellence in America's Nursing Homes Campaign (n.d.), a national effort launched in 2006 to help nursing homes measurably to improve care, reported that it can cost as much as $19,000 to treat a single Stage 4 pressure ulcer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Advancing Excellence in America's Nursing Homes. Eight goals. [internet]. Washington (DC): Advancing Excellence in America’s Nursing Homes; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). Agency news and notes: pressure ulcers are increasing among hospital patients. Research activities, no. 341. [internet]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2009 Jan.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). On-time pressure ulcer healing project. [internet]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2009 Jul.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bates-Jensen BM. Quality indicators for prevention and management of pressure ulcers in vulnerable elders. Ann Intern Med. 2001 Oct 16;135(8 PT 2):744-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11601958&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brega A, Goodrich G, Nuccio E, Hittle D. Transition of publicly reported nursing home quality measures to MDS 3.0-draft. Denver (CO): Division of Health Care Policy and Research University of Colorado at Denver; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). Medicare program; changes to the hospital inpatient prospective payment systems and fiscal year 2008 rates. Fed Regist. 2007 Aug 22;72(162):47129-8175. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17847578&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cuddigan J, Berlowitz DR, Ayello EA. Pressure ulcers in America: prevalence, incidence, and implications for the future. An executive summary of the National Pressure Ulcer Advisory Panel monograph. Adv Skin Wound Care. 2001 Jul-Aug;14(4):208-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11902346&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Duncan KD. Preventing pressure ulcers: the goal is zero. Jt Comm J Qual Patient Saf. 2007 Oct;33(10):605-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18030862&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hurd D, Moore T, Radley D, Williams C. Pressure ulcer prevalence and incidence across post-acute care settings. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2010. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Institute for Healthcare Improvement (IHI). Relieve the pressure and reduce harm. [internet]. Cambridge (MA): Institute for Healthcare Improvement (IHI); 2007 May 21&amp;nbsp;[7 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lynn J, West J, Hausmann S, Gifford D, Nelson R, McGann P, Bergstrom N, Ryan JA. Collaborative clinical quality improvement for pressure ulcers in nursing homes. J Am Geriatr Soc. 2007 Oct;55(10):1663-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17714457&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Maclean DS. Preventing &amp; managing pressure sores. Caring Ages. 2003 Mar;4(3):34.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of high risk residents with pressure ulcers (long stay). Washington (DC): National Quality Forum (NQF); 2015 Feb 19. 33 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Park-Lee E, Caffrey C. Pressure ulcers among nursing home residents: United States, 2004. NCHS Data Brief. 2009 Feb;(14):1-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19389326&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Russo CA, Steiner C, Spector W. Hospitalizations related to pressure ulcers among adults 18 years and older, 2006. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Dec. 9 p.&amp;nbsp;(Healthcare Cost and Utilization Project statistical brief; no. 64).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Nursing home; long-stay; pressure ulcers&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All long-stay residents with a selected target assessment who meet the definition of high risk, except those with exclusions. Residents are defined as high-risk if they meet &lt;em&gt;&lt;strong&gt;one or more&lt;/strong&gt;&lt;/em&gt; of the following three criteria on the target assessment:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Impaired bed mobility or transfer indicated, by &lt;strong&gt;&lt;em&gt;either or both&lt;/em&gt;&lt;/strong&gt; of the following:&#xD;&#xA;    &lt;p&gt;1.1. Bed mobility, self-performance &lt;br /&gt;&#xD;&#xA;    1.2. Transfer, self-performance &lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comatose &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Malnutrition or at risk of malnutrition (checked) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All long-stay residents with a selected target assessment that meets &lt;em&gt;&lt;strong&gt;both&lt;/strong&gt;&lt;/em&gt; of the following conditions:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Condition #1: There is a high-risk for pressure ulcers &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Condition #2: Stage II-IV pressure ulcers are present &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Race&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Research suggests racial disparities in quality of care in nursing homes between African Americans and Caucasians (Li et al., 2011; Smith et al., 2007; Miller et al., 2006; Grabowski, 2004; Mor et al., 2004; Howard et al., 2002) and between Hispanics and Caucasians (Fennell et al., 2010). Li et al. (2011) conducted an observation cohort study of pressure ulcer rates in 2.1 million white and 346,808 black residents in 12,473 nursing homes in the United States between 2003 and 2008. They reported a decrease in pressure ulcer rates, but noted that blacks still have higher rates than whites, and rates are higher for both blacks and whites in nursing facilities that have a higher proportion of black residents. Baumgarten et al. (2004) found that using multivariate analysis, controlling for eight resident characteristics and three facility characteristics, that race was significantly associated with pressure ulcer incidence and that patient characteristics mediated the higher risk. However, in 2009, the Centers for Disease Control and Prevention (CDC) reported in their key findings from the 2004 National Nursing Home Survey that there was no significant difference between white and nonwhite populations with respect to having pressure ulcers (Park-Lee &amp;amp; Caffrey, 2009). No research has been conducted on other types of disparities (e.g., ethnicity, rural/urban, or income) specifically for this measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;To examine whether facilities with higher percentages of non-white residents have different performance scores for long-stay pressure ulcers (LS PUs), analyses were completed comparing the performance of facilities based on their percentage of non-white residents. Facilities were sorted based on their proportions of white residents that were greater than the median proportion of white residents. Black residents represented the highest mean (10.5%). The overall facility level mean was 7.7%, and 8.8% for those facilities with greater than 87 percent white residents. The mean for facilities increased as the proportion of non-White residents decreased. A median test was performed that cross tabulated racial composition (above/below median) with quality measure (QM) score (above/below median) and a 2-way chi-squared test for statistical dependence was run. The results were significant (chi-squared (1) = 405.77, p= less than .0001) indicating that that there is a statistically significant relationship between racial composition and QM score. A Mann-Whitney U test shows that prevalence of long stay pressure ulcers is lower for facilities with a greater proportion of white residents (z=-23.484, p= less than .0001). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Socioeconomic Status&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;RTI analyses of the distribution of facility scores on this measure by Medicaid eligibility indicate that facilities with different proportions of Medicaid-eligible populations do have different performance scores on this measure, suggesting a relationship between socioeconomic status and prevalence of pressure ulcers among high risk long-stay residents. Analyses at the facility level examined differences in the NQF #0679 compared across two groups: facilities with proportions of Medicaid-eligible residents that were greater than or equal to the median proportion (75.0%), and facilities with fewer Medicaid-eligible residents than the median. Analyses showed that facilities with the higher proportion of Medicaid eligible residents had slightly higher rates of pressure ulcers (7.9% versus 6.5%). The developer cross-tabulated Medicaid eligibility rates (above/below median) with QM score (above/below median) and ran a 2-way chi-squared test for statistical dependence (with one degree of freedom). The results showed that there were statistically significant relationships between proportion of Medicaid eligible residents and facility QM score (p-value less than 0.001).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baumgarten M, Margolis D, van Doorn C, Gruber-Baldini AL, Hebel JR, Zimmerman S, Magaziner J. Black/white differences in pressure ulcer incidence in nursing home residents. J Am Geriatr Soc. 2004 Aug;52(8):1293-8.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fennell ML, Feng Z, Clark MA, Mor V. Elderly hispanics more likely to reside in poor-quality nursing homes. Health Aff (Millwood). 2010 Jan-Feb;29(1):65-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20048362&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Grabowski DC. The admission of blacks to high-deficiency nursing homes. Med Care. 2004 May;42(5):456-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15083106&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Howard DL, Sloane PD, Zimmerman S, Eckert JK, Walsh JF, Buie VC, Taylor PJ, Koch GG. Distribution of African Americans in residential care/assisted living and nursing homes: more evidence of racial disparity. Am J Public Health. 2002 Aug;92(8):1272-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144983&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Li Y, Yin J, Cai X, Temkin-Greener J, Mukamel DB. Association of race and sites of care with pressure ulcers in high-risk nursing home residents. JAMA. 2011 Jul 13;306(2):179-86. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21750295&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miller SC, Papandonatos G, Fennell M, Mor V. Facility and county effects on racial differences in nursing home quality indicators. Soc Sci Med. 2006 Dec;63(12):3046-59. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16997439&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mor V, Zinn J, Angelelli J, Teno JM, Miller SC. Driven to tiers: socioeconomic and racial disparities in the quality of nursing home care. Milbank Q. 2004;82(2):227-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15225329&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of high risk residents with pressure ulcers (long stay). Washington (DC): National Quality Forum (NQF); 2015 Feb 19. 33 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Park-Lee E, Caffrey C. Pressure ulcers among nursing home residents: United States, 2004. NCHS Data Brief. 2009 Feb;(14):1-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19389326&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith DB, Feng Z, Fennell ML, Zinn JS, Mor V. Separate and unequal: racial segregation and disparities in quality across U.S. nursing homes. Health Aff (Millwood). 2007 Sep-Oct;26(5):1448-58. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17848457&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarterly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All long-stay residents with a selected target assessment who meet the definition of high risk, except those with exclusions. Residents are defined as high-risk if they meet &lt;em&gt;&lt;strong&gt;one or more&lt;/strong&gt;&lt;/em&gt; of the following three criteria on the target assessment:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Impaired bed mobility or transfer indicated, by &lt;strong&gt;&lt;em&gt;either or both&lt;/em&gt;&lt;/strong&gt; of the following:&#xD;&#xA;    &lt;p&gt;1.1. Bed mobility, self-performance &lt;br /&gt;&#xD;&#xA;    1.2. Transfer, self-performance &lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comatose &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Malnutrition or at risk of malnutrition (checked) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Long stay&lt;/strong&gt;: An episode with cumulative days in facility (CDIF) greater than or equal to 101 days as of the end of the target period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Target assessment is an admission assessment &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt;&lt;/em&gt; a prospective payment system (PPS) 5-day or readmission/return assessment. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If the resident is not included in the numerator (the resident did not meet the pressure ulcer conditions for the numerator) &lt;em&gt;&lt;strong&gt;and any&lt;/strong&gt;&lt;/em&gt; of the following conditions are true:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Number of Stage II pressure ulcers is missing (M0300B1 = [-]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Number of Stage III pressure ulcers is missing (M0300C1 = [-]) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Number of Stage IV pressure ulcers is missing (M0300D1 = [-]) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All long-stay residents with a selected target assessment that meets &lt;em&gt;&lt;strong&gt;both&lt;/strong&gt;&lt;/em&gt; of the following conditions:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Condition #1: There is a high risk for pressure ulcers. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Condition #2: Stage II-IV pressure ulcers are present, as indicated by &lt;em&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/em&gt; of the following three conditions:&#xD;&#xA;    &lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;        &lt;li&gt;M0300B1 = [1, 2, 3, 4, 5, 6, 7, 8, 9] &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;M0300C1 = [1, 2, 3, 4, 5, 6, 7, 8, 9] &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;M0300D1 = [1, 2, 3, 4, 5, 6, 7, 8, 9] &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Risk adjustment refines raw quality measures (QM) scores to better reflect the prevalence of problems that facilities should be able to address. Two complementary approaches to risk adjustment are applied to the QMs.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;One approach involves exclusion of residents whose outcomes are not under nursing facility control (e.g., outcome is evidenced on admission to the facility) or the outcome may be unavoidable (e.g., the resident has end-stage disease or is comatose). All of the QMs, except the vaccination QMs, are shaped by one or more exclusions. For each QM, the prevalence of the outcome across all residents in a nursing facility, after exclusions, is the &lt;em&gt;facility-level observed QM score&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A second approach involves applying risk adjustment by sample restriction to a high risk group to reduce variation attributable to uneven distribution across facilities of residents with characteristics that put them at high risk for pressure ulcer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent of high-risk residents who have pressure ulcers (long-stay).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Nursing Home Quality Initiative Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Long-stay Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RTI International - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest exist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Dec 9&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Nursing Home Compare" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual and endorsement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarter 2 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the CMS Web site at &lt;a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the &lt;a href=&quot;http://www.medicare.gov/nursinghomecompare/search.html&quot; title=&quot;Nursing Home Compare&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The NQMC summary was completed by ECRI on July 22, 2004. The information was verified by the measure developer on August 30, 2004. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 28, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

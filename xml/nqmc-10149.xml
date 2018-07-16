@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Substance use: percent of patients who are identified with alcohol or drug disorder who received a prescription for FDA-approved medication for alcohol or drug use disorder or a referral for addictions treatment.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of hospitalized patients 18 years of age and older who are identified with an alcohol or drug use disorder who received a prescription at discharge for Food and Drug Administration (FDA)-approved medications for alcohol or drug use disorder OR a referral for addictions treatment.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Excessive use of alcohol and drugs has a substantial harmful impact on health and society in the United States. It is a drain on the economy and a source of enormous personal tragedy (National Quality Forum, 2007). In 1998 the economic costs to society were 185 billion dollars for alcohol misuse, and 143 billion dollars for drug misuse (Harwood, 2000). Health care spending was 19 billion dollars for alcohol problems, and 14 billion dollars was spent treating drug problems. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Nearly a quarter of a trillion dollars per year in lost productivity is attributable to substance use. More than 537,000 die each year as a consequence of alcohol, drug, and tobacco use making use of these substances the cause of one out of four deaths in the United States (Mokdad et al., 2004).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An estimated 22.6 million adolescents and adults meet criteria for a substance use disorder. In a multi-state study that screened 459,599 patients in general hospital and medical settings, 23% of patients screened positive (Madras et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Clinical trials have demonstrated that brief interventions, especially prior to the onset of addiction, significantly improve health and reduce costs, and that similar benefits occur in those with addictive disorders who are referred to treatment (Fleming et al., 2002). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In a study on the provision of evidence-based care and preventive services provided in hospitals for 30 different medical conditions, quality varied substantially according to diagnosis. Adherence to recommended practices for treatment of substance use ranked last, with only 10% of patients receiving proper care (Gentilello et al., 2005). Currently, less than one in twenty patients with an addiction are referred for treatment (Gentilello et al., 1999).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Hospitalization provides a prime opportunity to address the entire spectrum of substance use problems within the health care system (Gentilello et al., 2005; Gentilello et al., 1999). Approximately 8% of general hospital inpatients and 40 to 60 percent of traumatically-injured inpatients and psychiatric inpatients have substance use disorders (Gentilello et al., 1999).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fleming MF, Mundt MP, French MT, Manwell LB, Stauffacher EA, Barry KL. Brief physician advice for problem drinkers: long-term efficacy and benefit-cost analysis. Alcohol Clin Exp Res. 2002 Jan;26(1):36-43. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11821652&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gentilello LM, Ebel BE, Wickizer TM, Salkever DS, Rivara FP. Alcohol interventions for trauma patients treated in emergency departments and hospitals: a cost benefit analysis. Ann Surg. 2005 Apr;241(4):541-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15798453&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gentilello LM, Villaveces A, Ries RR, Nason KS, Daranciang E, Donovan DM, Copass M, Jurkovich GJ, Rivara FP. Detection of acute alcohol intoxication and chronic alcohol dependence by trauma  center staff. J Trauma. 1999 Dec;47(6):1131-5; discussion 1135-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10608546&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Harwood H. Updating estimates of the economic costs of alcohol abuse in the United States: estimates, update methods and data. [internet]. Falls Church (VA): The Lewin Group for the National Institute on Alcohol Abuse and Alcoholism; 2000&amp;nbsp;[accessed 2003 Mar 01]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Madras BK, Compton WM, Avula D, Stegbauer T, Stein JB, Clark HW. Screening, brief interventions, referral to treatment (SBIRT) for illicit drug and alcohol use at multiple healthcare sites: comparison at intake and 6 months later. Drug Alcohol Depend. 2009 Jan 1;99(1-3):280-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18929451&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mokdad AH, Marks JS, Stroup DF, Gerberding JL. Actual causes of death in the United States, 2000. JAMA. 2004 Mar 10;291(10):1238-45. [97 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15010446&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum. National voluntary consensus standards for the treatment of substance use conditions: evidence-based treatment practices; a consensus report. Washington (DC): National Quality Forum; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Substance use; alcohol or drug use disorder; medication; addictions treatment referral&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of hospitalized inpatients 18 years of age and older identified with an alcohol or drug use disorder (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of patients who received a prescription at discharge for medication for treatment of alcohol or drug use disorder OR a referral for addictions treatment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Twenty-four hospitals from nineteen states volunteered to participate in a six month pilot test of the draft measures, commencing with discharges beginning March 1, 2010 and concluding on July 31, 2010. There were three tests conducted during the development phase for this measure; public comment, survey of the pilot sites, and a Technical Advisory Panel (TAP) assessment. The purpose was threefold: to gather information regarding face validity, to determine feasibility of data collection, and to gather information about each data element regarding clarity and suggested enhancement that could be made. 2,177 persons responded to the public comment. A total of eleven hospitals and eight TAP members completed the evaluation. &lt;/p&gt;&#xA;&lt;p&gt;The final phase of testing consisted of site visits to a sample of participating pilot hospitals to assess the reliability of data abstracted and reported by those hospitals. Reliability test site visits were conducted at nine randomly selected pilot hospitals. Selection of the test sites was based on multiple characteristics; including hospital demographics, populations served, bed size and type of facility. &lt;/p&gt;&#xA;&lt;p&gt;All of the substance use (SUB) measures have undergone a rigorous process of public comment, alpha testing and broad-scale pilot testing and are recognized by the field as important indicators of substance abuse treatment. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement, The Joint Commission. Oakbrook Terrace, IL). Personal communication. 2013 Aug 28. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges October 1 through June 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal or Other Diagnosis Code&lt;/em&gt; for alcohol or drug use disorder (as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with a &lt;em&gt;Principal or Other International Classification of Diseases, Tenth Revision, Principal Coding System (ICD-10-PCS) Procedure Code&lt;/em&gt; for alcohol and drug treatment (as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients less than 18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient drinking at unhealthy levels who do not meet criteria for an alcohol use disorder &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who are cognitively impaired &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who expire &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged to another hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who left against medical advice &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged to another healthcare facility &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients discharged to home for hospice care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who have a duration of stay less than or equal to three days or greater than 120 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who do not reside in the United States &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients receiving &lt;em&gt;Comfort Measures Only&lt;/em&gt; (as defined in the Data Dictionary) documented &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of patients who received a prescription at discharge for medication for treatment of alcohol or drug use disorder OR a referral for addictions treatment &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Global Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;SUB-3a: Alcohol and Other Drug Use Disorder Treatment at Discharge Flowchart &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;SUB-3a: alcohol and other drug use disorder treatment at discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Hospital Inpatient Quality Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Substance Use" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's Corporate Sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Technical advisory panel of stakeholders. Panel membership may be viewed at: &lt;a href=&quot;http://www.jointcommission.org/assets/1/6/Substance_Use_Measure_Advisory_Panel.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;http://www.jointcommission.org/assets/1/6/Substance_Use_Measure_Advisory_Panel.pdf&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with the Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Apr 29&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Quality Check®" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is reviewed and updated every 6 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 4.3b. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; 2014 Apr. various p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://www.jointcommission.org/specifications_manual_for_national_hospital_inpatient_quality_measures.aspx&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;. Information is also available from the &lt;a href=&quot;http://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic/Page/QnetTier2&amp;amp;cid=1141662756099&quot; title=&quot;QualityNet Web site&quot;&gt;QualityNet Web site&lt;/a&gt;. Check The Joint Commission Web site and QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Joint Commission originally submitted this NQMC measure summary to ECRI Institute on March 28, 2012. This NQMC summary was reviewed accordingly by ECRI Institute on November 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Joint Commission informed NQMC that this measure was updated on July 16, 2013 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on December 6, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Joint Commission informed NQMC that this measure was updated on April 16, 2014 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on June 23, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Joint Commission informed NQMC that this measure was updated on April 14, 2015 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on July 10, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on November 16, 2015.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for National Hospital Inpatient Quality Measures [Version 5.0b, October, 2015] is the collaborative work of the Centers for Medicare &amp;amp; Medicaid Services and The Joint Commission. The Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services and The Joint Commission. Users of the Specifications Manual for National Hospital Inpatient Quality Measures must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

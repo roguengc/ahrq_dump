@@ -1,0 +1,233 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Potentially harmful drug-disease interactions in the elderly: percentage of Medicare patients 65 years of age and older who have evidence of an underlying disease, condition or health concern and who were dispensed an ambulatory prescription for a potentially harmful medication, concurrent with or after the diagnosis.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015 technical specifications for ACO measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of Medicare patients 65 years of age and older who have evidence of an underlying disease, condition or health concern and who were dispensed an ambulatory prescription for a potentially harmful medication, concurrent with or after the diagnosis. &lt;/p&gt;&#xA;&lt;p&gt;Report each of the three rates separately and as a total rate.&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;A history of falls and a prescription for anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants &lt;/li&gt;&#xA;    &lt;li&gt;Dementia and a prescription for antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents &lt;/li&gt;&#xA;    &lt;li&gt;Chronic kidney disease and prescription for cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs &lt;/li&gt;&#xA;    &lt;li&gt;Total rate (the sum of the three numerators divided by the sum of the three denominators) &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This measure summary represents the total rate. &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Patients with more than one disease or condition may appear in the measure multiple times (i.e., in each indicator for which they qualify).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pharmacotherapy is an essential component of medical treatment for older patients, but medications are also responsible for many adverse events in this group. Almost 90 percent of people 65 and older take at least one medication, significantly more than any other age group (Agency for Healthcare Research and Quality [AHRQ], 1996). Patient safety is highly important to member health, especially patients who are at increased risk of adverse drug events due to coexisting conditions and polypharmacy. Adverse drug events have been linked to preventable problems in elderly patients, such as depression, constipation, falls, immobility, confusion and hip fractures. Thirty percent of elderly-patient hospital admissions may be linked to drug-related problems or toxic effects (Hanlon et al., 1997). &lt;/p&gt;&#xA;&lt;p&gt;Drug-disease interactions identified for reporting in this measure are based on the literature and on the key clinical expert consensus process by Beers that identified potentially inappropriate medication use in older adults with specific diagnoses or conditions. The National Committee for Quality Assurance's (NCQA's) medication management expert panel provided advice on the conditions and drugs to be included in this measure, based on the updated Beers list and a Canadian panel and significance of harm and impact on the older adult population (Fick et al., 2003).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality. Health care use in America-1996 Medical Expenditure Panel Survey Highlights. Rockville (MD): Agency for Healthcare Research and Quality; 1996. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fick DM, Cooper JW, Wade WE, Waller JL, Maclean JR, Beers MH. Updating the Beers criteria for potentially inappropriate medication use in older adults: results of a US consensus panel of experts. Arch Intern Med. 2003 Dec 8-22;163(22):2716-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14662625&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hanlon JT, Schmader KE, Koronkowski MJ, Weinberger M, Landsman PB, Samsa GP, Lewis IK. Adverse drug events in high risk older outpatients. J Am Geriatr Soc. 1997 Aug;45(8):945-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9256846&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Medication safety; falls; hip fracture; dementia; chronic kidney disease; anticonvulsants; nonbenzodiazepine hypnotics; selective serotonin re-uptake inhibitors (SSRIs); antiemetics; antipsychotics; benzodiazepines; tricyclic antidepressants; H2 receptor antagonists; nonbenzodiazepine hypnotics; anticholinergic agents; cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs); nonasprin NSAIDs; elderly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year who had an accidental fall or hip fracture on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year with a diagnosis of dementia or a dispensed dementia medication on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year with chronic kidney disease as identified by a diagnosis of end-stage renal disease (ESRD), stage 4 chronic kidney disease or kidney transplant on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Dispensed an ambulatory prescription for an anticonvulsant, nonbenzodiazepine hypnotic, selective serotonin re-uptake inhibitor (SSRI) or antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant on or between the Index Episode Start Date (IESD) and December 31 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Dispensed an ambulatory prescription for an antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant or H2 receptor antagonist, nonbenzodiazepine hypnotic or anticholinergic agent on or between the IESD and December 31 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Evidence of an NSAID or Cox-2 selective NSAID on or between the IESD and December 31 of the measurement year &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA's) Committee on Performance Measurement and Board of Directors. Once NCQA establishes national benchmarks for accountable care organization (ACO) performance, all measures will undergo formal reliability testing of the performance measure score using beta-binomial statistical analysis. Where applicable, measures also are assessed for construct validity using the Pearson correlation test.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Apr 8. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Accountable Care Organizations" />
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Emergency Department" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Multisite Health Care or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 65 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;January 1 of the year prior to the measurement year to December 1 of the measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year who had an accidental fall or hip fracture. Patients with either of the following on or between January 1 of the year prior to the measurement year and December 1 of the measurement year meet criteria:&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;An accidental fall (Falls Value Set) &lt;/li&gt;&#xA;        &lt;li&gt;An outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set), an emergency department (ED) visit (ED Value Set), a nonacute inpatient encounter (Nonacute Inpatient Value Set) or an acute inpatient encounter (Acute Inpatient Value Set) with a hip fracture (Hip Fractures Value Set) &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year who had a diagnosis of dementia (Dementia Value Set) or a dispensed dementia medication on or between January 1 of the year prior to the measurement year and December 1 of the measurement year. Refer to Table ADDE-F in the original measure documentation for a list of medications for dementia. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year with chronic kidney disease as identified by a diagnosis of end-stage renal disease (ESRD) (ESRD Value Set), stage 4 chronic kidney disease (CKD) (CKD Stage 4 Value Set) or kidney transplant (Kidney Transplant Value Set) on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;em&gt;Rate 1&lt;/em&gt;: Hip fractures are used as a proxy for identifying accidental falls. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;&lt;em&gt;Rate 1&lt;/em&gt;: Exclude patients with a diagnosis of psychosis (Psychosis Value Set), schizophrenia (Schizophrenia Value Set), bipolar disorder (Bipolar Disorder Value Set) or seizure disorder (Seizure Disorders Value Set) on or between January 1 of the year prior to the measurement year and December 1 of the measurement year. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement/hedis-2015.html?p=2&quot;&gt;NCQA Web site&lt;/a&gt; to purchase &lt;em&gt;HEDIS 2015 Technical Specifications for ACO Measurement&lt;/em&gt;, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Dispensed an ambulatory prescription for an anticonvulsant, nonbenzodiazepine hypnotic, SSRI or antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant on or between the Index Episode Start Date (IESD) and December 31 of the measurement year. Refer to Tables ADDE-C and ADDE-D in the original measure documentation for lists of potentially harmful drugs. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Dispensed an ambulatory prescription for an antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant or H2 receptor antagonist, nonbenzodiazepine hypnotic or anticholinergic agent on or between the IESD and December 31 of the measurement year. Refer to Table ADDE-D and Table ADDE-G for lists of potentially harmful drugs. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Evidence of an NSAID or Cox-2 selective NSAID on or between the IESD and December 31 of the measurement year. Refer to Table ADDE-I for a list of Cox-2 selective NSAIDs and nonasprin NSAIDs. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;IESD&lt;/em&gt;: The earliest diagnosis, procedure or medication treatment between January 1 of the year prior to the measurement year and December 1 of the measurement year.&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;&lt;em&gt;For an outpatient visit&lt;/em&gt;, the IESD is the date of service. &lt;/li&gt;&#xA;        &lt;li&gt;&lt;em&gt;For an inpatient stay&lt;/em&gt;, the IESD is the discharge date. &lt;/li&gt;&#xA;        &lt;li&gt;&lt;em&gt;For dispensed medications&lt;/em&gt;, the IESD is the dispense date. &lt;/li&gt;&#xA;        &lt;li&gt;&lt;em&gt;For prescribed medications&lt;/em&gt;, the IESD is the date the prescription was ordered/written. &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Total rate (the sum of the three numerators divided by the sum of the three denominators) &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Value Set Information&lt;/strong&gt;&lt;br /&gt;&#xA;Measure specifications reference value sets that must be used for HEDIS reporting. A value set is the complete set of codes used to identify the service(s) or condition(s) included in the measure. Refer to the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement/hedis-2015.html?p=2&quot;&gt;NCQA Web site&lt;/a&gt; to purchase &lt;em&gt;HEDIS 2015 Technical Specifications for ACO Measurement&lt;/em&gt;, which includes the Value Set Directory.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Pharmacy data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is disaggregated based on different definitions of the denominator and numerator. Report each of the three rates separately and as a combined rate.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Denominators&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year who had an accidental fall or hip fracture on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year with a diagnosis of dementia or a dispensed dementia medication on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Patients age 67 years and older as of December 31 of the measurement year with chronic kidney disease as identified by a diagnosis of end-stage renal disease (ESRD), stage 4 chronic kidney disease or kidney transplant on or between January 1 of the year prior to the measurement year and December 1 of the measurement year &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Numerators&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 1: Drug-disease interactions&amp;mdash;history of falls and anticonvulsants, nonbenzodiazepine hypnotics, selective serotonin re-uptake inhibitors (SSRIs), antiemetics, antipsychotics, benzodiazepines or tricyclic antidepressants&lt;/em&gt;: Dispensed an ambulatory prescription for an anticonvulsant, nonbenzodiazepine hypnotic, selective serotonin re-uptake inhibitor (SSRI) or antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant on or between the Index Episode Start Date (IESD) and December 31 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 2: Drug-disease interactions&amp;mdash;dementia and antiemetics, antipsychotics, benzodiazepines, tricyclic antidepressants, H2 receptor antagonists, nonbenzodiazepine hypnotics or anticholinergic agents&lt;/em&gt;: Dispensed an ambulatory prescription for an antiemetic, antipsychotic, benzodiazepine or tricyclic antidepressant or H2 receptor antagonist, nonbenzodiazepine hypnotic or anticholinergic agent on or between the IESD and December 31 of the measurement year &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Rate 3: Drug-disease interactions&amp;mdash;cyclo-oxygenase (Cox)-2 selective nonsteroidal anti-inflammatory drugs (NSAIDs) or nonasprin NSAIDs&lt;/em&gt;: Evidence of an NSAID or Cox-2 selective NSAID on or between the IESD and December 31 of the measurement year &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Accountable Care Organization (ACO) aggregate population is reported as a whole, with an option to report Medicaid separately for measures for which HEDIS Health Plan Measurement offers Medicaid specifications.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Potentially harmful drug-disease interactions in the elderly (ADDE)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="HEDIS 2015: Accountable Care Organization (ACO) Collection" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Effectiveness of Care" />
+    </Field>
+    <Field FieldID="77" OrdBy="630" ID="619" Name="Measure Subset Name" Type="text">
+      <FieldValue Value="Medication Management" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was adapted from the &lt;em&gt;HEDIS Technical Specifications for Health Plans&lt;/em&gt; (&quot;&lt;em&gt;HEDIS Health Plan Measurement&lt;/em&gt;&quot;) and &lt;em&gt;HEDIS Physician Measurement&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: National Committee for Quality Assurance (NCQA). HEDIS 2013 technical specifications for ACO measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2012. various p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in November 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available for purchase from the &lt;a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;&gt;National Committee for Quality Measurement (NCQA) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: &lt;a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;&gt;www.ncqa.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 12, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on April 21, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on November 2, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Content adapted and reproduced with permission from the National Committee for Quality Assurance (NCQA). HEDIS&amp;reg; is a registered trademark of NCQA. HEDIS measures and specifications were developed by and are owned and copyrighted by NCQA. HEDIS measures and specifications are not clinical guidelines and do not establish a standard of medical care. NCQA makes no representations, warranties, or endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measures or specifications. Limited proprietary coding is contained in the measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. NCQA disclaims all liability for use or accuracy of any coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Anyone desiring to use or reproduce the measure abstracts without modification for a non-commercial purpose may do so without obtaining any approval from NCQA. All commercial uses of the measure abstracts must be approved by NCQA and are subject to a license at the discretion of NCQA. To purchase copies of the full measures and specifications, which contain additional distribution and use restrictions, contact NCQA Customer Support at 888-275-7585 or visit &lt;a href=&quot;https://www.ncqa.org/publications&quot; title=&quot;National Committee for Quality Assurance (NCQA) Web site&quot;&gt;www.ncqa.org/publications&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Committee for Quality Assurance (NCQA). HEDIS 2015 technical specifications for ACO measurement. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

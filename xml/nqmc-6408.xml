@@ -1,0 +1,231 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospital standardized mortality ratio (HSMR): the ratio of the actual number of in-hospital deaths in a region or hospital to the number that would have been expected based on the types of patients a region or hospital treats.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). Technical notes: Hospital standardized mortality ratio (HSMR). Ottawa (ON): Canadian Institute for Health Information (CIHI); 2011 Feb. 17 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Outcome&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the ratio of the actual number of in-hospital deaths in a region or hospital to the number that would have been expected based on the types of patients a region or hospital treats.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The hospital standardized mortality ratio (HSMR) is an example of a &quot;big dot&quot;* measure that has been used internationally to help support efforts to improve quality of care in hospitals. The HSMR is a tool that allows hospitals to review and analyze their mortality rates, and then develop targeted strategies aimed at reducing mortality in identified areas. HSMR has been used in conjunction with other quality of care and patient safety measures. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&quot;Big dot&quot; measures track progress on broad outcomes at a system level.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital standardized mortality ratio (HSMR); in-hospital mortality; observed to expected deaths&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expected* number of deaths among the 65 diagnosis groups accounting for about 80% of inpatient mortality (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The number of deaths that would have occurred in a hospital or region, had the mortality of these patients been the same as the mortality of similar patients across the country, based on reference year (2004-2005).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Actual number of deaths among the 65 diagnosis groups accounting for about 80% of inpatient mortality multiplied by 100&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for additional detail.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Use of this measure to improve performance" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). HSMR: a new approach for measuring hospital mortality trends in Canada. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2007. 100 p.  [74 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Collaborative inter-organizational quality improvement" />
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="Monitoring and planning" />
+      <FieldValue Value="National reporting" />
+      <FieldValue Value="State health policymaking" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Hospitals" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Measure is not provider specific" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery Organizations" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ages 29 days to 120 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In Canada, between April 2004 and March 2007, just over 254,000 patients died in hospitals outside of Quebec. In 2004-2005, 65 diagnosis groups accounted for about 80% of deaths among patients who did not receive palliative care. The 10 with the most deaths were acute myocardial infarction, heart failure, pneumonia, chronic obstructive pulmonary disease, septicemia, malignant neoplasm of bronchus and lung, stroke (not specified as hemorrhagic or infarction), cerebral infarction, respiratory failure and hip fracture. These groups represented 44% of all in-hospital deaths in 2004-2005. Trends in mortality vary by patient group. For example, death rates for patients with heart attacks fell faster than those for patients with pneumonia over the study period (2004-2005 to 2006-2007). In contrast, mortality rates stayed constant or rose for other patient groups, such as those with chronic obstructive pulmonary disease and septicemia.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="2" OrdBy="810" ID="330" Name="Evidence for Incidence/Prevalence" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). HSMR: a new approach for measuring hospital mortality trends in Canada. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2007. 100 p.  [74 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients treated in an acute care hospital&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Organizationally defined" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Expected* number of deaths among the 65 diagnosis groups accounting for about 80% of inpatient mortality&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Discharge between April 1 of a given year and March 31 of the following year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admission to an acute care institution &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Discharge with diagnosis group of interest (that is, one of the diagnosis groups that account for about 80% of in-hospital deaths) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age at admission between 0 and 120 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sex recorded as male or female &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length of stay of up to 365 consecutive days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admission category is elective (L) or emergent/urgent (U) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Canadian resident (see Appendix II in the original measure documentation for information on identifying non-residents) &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The number of deaths that would have occurred in a hospital or region, had the mortality of these patients been the same as the mortality of similar patients across the country, based on reference year (2004-2005).&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for calculation of expected deaths.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Cadavers, with discharge disposition = 08 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stillborns, with discharge disposition = 09 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sign-outs (that is, discharged against medical advice), with discharge disposition = 06 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who do not return from a pass, with discharge disposition = 12 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonates, with age at admission less than or equal to 28 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Records with brain death as most responsible diagnosis code (ICD-10-CA): G93.81 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Records with palliative care as most responsible diagnosis code (ICD-10-CA): Z51.5 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window brackets index event" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Actual number of deaths among the 65 diagnosis groups accounting for about 80% of inpatient mortality multiplied by 100 &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for additional detail.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Not Individual Case" />
+    </Field>
+    <Field FieldID="64" OrdBy="1065" ID="355" Name="Outcome Type" Type="picklist-one">
+      <FieldValue Value="Adverse Outcome" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a lower score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Risk adjustment devised specifically for this measure/condition" />
+    </Field>
+    <Field FieldID="69" OrdBy="1120" ID="362" Name="Description of Allowance for Patient Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The hospital standardized morality ratio (HSMR) logistic regression model is fitted with age, sex, length-of-stay (LOS) group, admission category, diagnosis group, comorbidity group and transfers as independent variables and is based on data from all acute hospitals in Canada (excluding Quebec). Coefficients derived from a logistic regression model are used to calculate the probability of in-hospital death. The expected number of deaths for a hospital, corporation or region is based on the sum of the probabilities of in-hospital death for eligible discharges from that organization. The 95% confidence interval is calculated using Byar&amp;rsquo;s approximation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital standardized mortality ratio (HSMR).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Canadian Institute for Health Information - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Canadian Institute for Health Information - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure was initially developed in the United Kingdom in mid-1990s by Sir Brian Jarman of Imperial College. It has been adapted by the Canadian Institute for Health Information (CIHI) to be used in Canadian context.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="84" OrdBy="1347" ID="379" Name="Parent Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital standardized morality ratio (HSMR) (Sir Brian Jarman, Imperial College, United Kingdom)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2007 Nov" />
+    </Field>
+    <Field FieldID="86" OrdBy="1360" ID="381" Name="Revision Date" Type="date">
+      <FieldValue Value="2011 Feb" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Institute for Health Information (CIHI). Technical notes: Hospital standardized mortality ratio (HSMR). Ottawa (ON): Canadian Institute for Health Information (CIHI); 2011 Feb. 17 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Hospital Standardized Mortality Ratio (HSMR),&quot; is published in &quot;Technical Notes: Hospital Standardized Mortality Ratio (HSMR).&quot; This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.cihi.ca/CIHI-ext-portal/pdf/internet/HSMR_TECH_NOTES_201005_en&quot; title=&quot;CIHI Web site&quot;&gt;Canadian Institute for Health Information (CIHI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CIHI at, 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950; E-mail: &lt;a href=&quot;mailto:hsmr@cihi.ca&quot;&gt;hsmr@cihi.ca&lt;/a&gt;; Web site: &lt;a href=&quot;http://secure.cihi.ca/cihiweb/&quot; title=&quot;CIHI Web site&quot;&gt;http://secure.cihi.ca/cihiweb/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Canadian Institute for Health Information (CIHI). HSMR: a new approach for measuring hospital mortality trends in Canada. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2007. 100 p. This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;https://secure.cihi.ca/estore/productSeries.htm?pc=PCC374&quot;&gt;Canadian Institute for Health Information (CIHI) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 12, 2011. The information was verified by the measure developer on May 4, 2011.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. Use of the Canadian Institute for Health Information's (CIHI) quality measure for research, private study, education, or other non-commercial purposes is permitted where full credit is given to CIHI as author and owner of the quality measure. Any use that is wholly or partly commercial in nature requires CIHI's express written permission. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact CIHI at, 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

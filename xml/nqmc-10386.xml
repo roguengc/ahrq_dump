@@ -1,0 +1,247 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Accidental puncture or laceration: percentage of accidental punctures or lacerations during a procedure per 1,000 discharges for patients ages 17 years and younger.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 1 technical specifications: accidental puncture or laceration rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: accidental puncture or laceration rate (PDI 1). Washington (DC): National Quality Forum (NQF); 2013 Jul 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of accidental punctures or lacerations during a procedure per 1,000 discharges for patients ages 17 years and younger. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure summary represents the overall rate and includes metrics for discharges grouped by risk category. See also the &quot;Basis for Disaggregation&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This indicator is intended to flag cases of complications that arise due to technical difficulties in medical care, specifically those involving an accidental puncture or laceration.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Accidental laceration or puncture is a health outcome measure. This measure captures an injury to an organ (e.g., bowel, bladder, liver, diaphragm) or blood vessel that was entirely unintended and was NOT due to an underlying disease process. This definition would be met if (for example) placement of a retractor underneath the symphysis pubis accidentally enters the bladder. Another example would be use of a cautery device or scissors to dissect a tissue plane that errantly causes an injury to underlying bowel. The rationale for this measure is that these injuries have adverse consequences for patients, and are often preventable. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: accidental puncture or laceration rate (PDI 1). Washington (DC): National Quality Forum (NQF); 2013 Jul 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pediatrics; accidental puncture or laceration&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Surgical and medical discharges for patients ages 17 years and younger (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for accidental puncture or laceration during a procedure (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Using data from 19 states from 2006 to 2008 over five million pediatric hospitalizations were examined. Pediatric patients who experienced an adverse event had a 6.15% mortality rate and excess cost of $1.3 billion. This Quality Indicator (QI) was one of the highest volume events. The trend in this QI worsened over time and was one of the most variable across the hospitals studied (Reed &amp;amp; May, 2010). More recently, data from the Healthcare Cost and Utilization Project from 2000 to 2007 were used to examine trends in pediatric care (Friedman et al., 2011). Accidental puncture and laceration increased 25.6% from 2000 to 2007, with the largest increase for children between the ages of 5 and 14 years. However, the authors did caution that &quot;present on admission data&quot; were not used and the sample of hospitals varied over the years. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Pediatric Quality Indicator (PDI) 01 functions appropriately in pediatric populations to identify adverse events that are associated with excess length of stay and total charges. Using the Nationwide Inpatient Sample from 1998 to 2005 and the KIDS Inpatient Database from 1997, 2000, and 2003, Camp and colleagues (2010) identified 6,459 unique records flagged by PDI 01, and matched them with 19,377 control records with the same age, race, gender, and hospital identification code. Multiple regression analyses were performed for inpatient mortality, length of stay and total hospital charges (controlling for procedure category, admission type, and insurance status in the matched case-control data set). Adjusted for procedure category, admission type, and insurance status, patients with PDI 01 were more likely to die (odds ratio [OR]: 1.9., P less than 0.001), had a 4.81 day longer length of stay (95% confidence interval [CI]: 4.26 to 5.36, P less than 0.001), and had $36,291 higher total hospital charges (95% CI: $32,583 to $40,000, P less than 0.001) compared with patients without PDI 01. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In a similar study using nearest-neighbor propensity score matching in the Pediatric Health Information System database from 2006 (an administrative database with data from 38 academic, nonprofit pediatric hospitals affiliated with the Child Health Corporation of America), Kronman and colleagues (2008) reported mean excess length of stay of 2.77 days and mean excess total charges of $34,884 for each PDI 01 case, relative to matched controls. The excess charges came from all hospital cost centers, including pharmacy ($7,705), supplies ($1,718), laboratory ($7,622), imaging ($1,956), and other clinical activities ($4,827). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Camp M, Chang DC, Zhang Y, Chrouser K, Colombani PM, Abdullah F. Risk factors and outcomes for foreign body left during a procedure: analysis of 413 incidents after 1 946 831 operations in children. Arch Surg. 2010 Nov;145(11):1085-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21079097&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friedman B, Berdahl T, Simpson LA, McCormick MC, Owens PL, Andrews R, Romano PS. Annual report on health care for children and youth in the United States: focus on trends in hospital use and quality. Acad Pediatr. 2011 Jul-Aug;11(4):263-79.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kronman MP, Hall M, Slonim AD, Shah SS. Charges and lengths of stay attributable to adverse patient-care events using pediatric-specific quality indicators: a multicenter study of freestanding children's hospitals. Pediatrics. 2008 Jun;121(6):e1653-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18519468&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: accidental puncture or laceration rate (PDI 1). Washington (DC): National Quality Forum (NQF); 2013 Jul 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The first annual HealthGrades Pediatric Patient Safety in American Hospitals Study. Golden (CO): HealthGrades; 2010 Aug. 25 p.  [10 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. Includes approximately 6 million pediatric discharges for 2,500 hospitals (&quot;Healthcare Cost and Utilization Project [HCUP] State Inpatient Databases [SID],&quot; 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. The signal to noise ratio is the ratio of the between hospital variance (signal) to the within hospital variance (noise). The formula is signal / (signal + noise). The ratio itself is only a diagnostic for the degree of variance in the risk-adjusted rate systematically associated with the provider. Therefore, what matters is the magnitude of the variance in the &quot;smoothed&quot; rate (that is, the variance in the risk-adjusted rate after the application of the univariate shrinkage estimator based on the signal ratio). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. What the data demonstrate is systematic variation in the provider level rate of 0.301 to 1.191 per 1,000 from the 5th to 95th percentile after a signal ratio of 0.608 is applied as the shrinkage estimator (that is, after accounting for variation due to random factors). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;California data from 2005 to 2007, which were used because they included &quot;present on admission&quot; data and allowed for hospital specific calculations, were used to determine the percentage of hospitals with appropriate patient volumes to readily use the Quality Indicator (QI) for tracking performance measurement over time. Only 12 of 399 California hospitals (3.0%), with 27% of the eligible discharges statewide, had sufficient patient volume to detect a hypothetical doubling of the Pediatric Quality Indicator (PDI) 01 rate. This problem could be minimized by focusing public reporting of this indicator on hospitals that meet a minimum pediatric volume threshold, or by incorporating it into a more robust composite measure (Bardach, Chien, &amp;amp; Dudley, 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;. The most recent study of the criterion validity of PDI 01 was based on a consecutive sample of 295 flagged cases from 28 participating hospitals in the National Association of Children's Hospitals and Related Institutions (NACHRI) from 2003 through 2005 (Scanlon et al., 2008). Records were reviewed independently by clinicians at each site, who lacked formal training but were guided by teleconference discussions. A previous review of 119 flagged cases from 14 self-selected children's hospitals in the NACHRI Pediatric Patient Safety Indicator (PSI) Collaborative (Scanlon et al., 2006) used similar methods.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;. Calculation of the positive predictive value, which is defined as the percentage of reported events that are confirmed as true events based upon application of a &quot;criterion (gold) standard.&quot; Sensitivity is defined as the percentage of all eligible events (based upon the same criterion standard) that are reported by hospitals in the administrative data set used for validation. In the cited studies, the criterion standard was based on review of randomly or chronologically sampled medical records by an experienced clinician, using a standard data collection tool and guidelines.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;. The larger, more recent study published in 2008 estimated a positive predictive value (PPV) of 84%, which is very consistent with the PPV estimates for the adult version of this indicator (e.g., 85% [95% confidence interval (CI), 77% to 91%] and 91% [95% CI, 88% to 94%] for PSI 15). Fewer details are reported from the earlier (Scanlon et al., 2006) study, but Table 1 in that paper suggests a PPV of 64% to 86%. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;False positive rates were low, as reported for PSI 15. Some false positives were due to complications that were actually present on admission (i.e., 20 of 48 false positives in the NACHRI study), which would automatically be excluded by users with &quot;present on admission&quot; (POA) data. Adjusting for the availability of POA data, the estimated PPV in the 2008 NACHRI study was 90%. The remaining false positives were either non-accidental injuries (e.g., deliberate disruption of tissue to achieve surgical goals) or injuries unrelated to a puncture or laceration. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;No data about the sensitivity of PDI 01 are available at this time, although the limited data presented for PSI 15 may also pertain to PDI 01. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Although precise proportions were difficult to estimate, many of the true-positive cases may not have been preventable because adhesions were associated with 8% of cases and because the goals of the operation in some cases may have warranted an increased risk of unintentional damage to other structures. For example, it was reported that many of these children &quot;had congenital abnormalities such as gastroschisis, omphalocele, diaphragmatic hernias, cloacal defects, and cardiac defects&quot; and they &quot;were coming back into the hospital for 1 of multiple procedures that had previously involved significant scarring. Although the laceration or puncture was not a therapeutic part of the surgery, clinicians felt that they may have been unavoidable for the surgeon to do what was necessary. Incidents that were clearly &amp;hellip; preventable were often complications of line or device placements that punctured vessels, lungs, or the gastrointestinal tract.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Face validity was systematically assessed using an expert panel process, as described in our original submission documents (McDonald et al., 2006). The methodology for the structured review was adapted from the RAND/UCLA Appropriateness Method and consisted of an initial independent assessment of each indicator by clinician panelists using an initial questionnaire, a conference call among all panelists, followed by a final independent assessment by clinician panelists using the same questionnaire. Specifically, this indicator was reviewed by two panels with a total of 18 physicians, including a pediatric specialty panel with one neonatologist, one infectious disease specialist, one ambulatory pediatrician, one hospitalist, one cardiovascular surgeon, one oncologist, two surgeons, one interventional radiologist, and one critical care physician. Median ratings were 7 (on a scale of 1 to 9) with indeterminate agreement on usefulness for internal quality improvement, 6.5 with indeterminate agreement for comparative reporting, and 7 with indeterminate agreement for preventability.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bardach NS, Chien AT, Dudley RA. Small numbers limit the use of the inpatient pediatric quality indicators for hospital comparison. Acad Pediatr. 2010 Jul-Aug;10(4):266-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20599180&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Rockville (MD): Agency for Health Research and Quality (AHRQ); 2008.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McDonald K, Romano P, Davies S, Haberland C, Geppert J, Ku A, Choudhry K. Measures of pediatric health care quality based on hospital administrative data: the pediatric quality indicators. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2006 Sep. 130 p.  [82 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: accidental puncture or laceration rate (PDI 1). Washington (DC): National Quality Forum (NQF); 2013 Jul 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scanlon MC, Harris JM 2nd, Levy F, Sedman A. Evaluation of the agency for healthcare research and quality pediatric quality indicators. Pediatrics. 2008 Jun;121(6):e1723-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18474532&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scanlon MC, Miller M, Harris JM, Schulz K, Sedman A. Targeted chart review of pediatric patient safety events identified by the Agency for Healthcare Research and Quality’s patient safety indicators methodology. J Patient Saf. 2006;2:191-7.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 17 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;User may specify time window; generally one calendar year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Surgical and medical discharges for patients ages 17 years and younger. Surgical and medical discharges are defined by specific Diagnosis-Related Group (DRG) or Medicare Severity-DRG (MS-DRG) codes.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for DRG and MS-DRG codes. See also the &lt;em&gt;Pediatric Quality Indicators Appendices&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude cases:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code (or secondary diagnosis present on admission) for accidental puncture or laceration during a procedure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With any-listed ICD-9-CM procedure codes for spine surgery &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Normal newborn &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Neonate with birth weight less than 500 grams (Birth Weight Category 1) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major Diagnostic Categories (MDC) 14 (pregnancy, childbirth, and puerperium) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With missing gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing) or principal diagnosis (DX1=missing) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for accidental puncture or laceration during a procedure&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure includes metrics for discharges grouped by the following risk categories: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Numerator&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 1&lt;/span&gt;: Eye, ear, nose, mouth, throat, skin, breast and other low-risk procedures discharges (Major Diagnostic Categories [MDC] = 2,3,9,19,22,23), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 2&lt;/span&gt;: Thoracic, cardiovascular, and specified neoplastic procedures discharges (MDC =4,5,17), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 3&lt;/span&gt;: Kidney, and male/female reproductive procedures discharges (MDC =11,12,13), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 4&lt;/span&gt;: Infectious, immunological, hematological, and ungroupable procedures discharges (MDC = 0,16,18,25,99), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 5&lt;/span&gt;: Trauma, orthopedic, and neurologic procedures discharges (MDC = 1,8,21,24), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 6&lt;/span&gt;: Gastrointestinal, hepatobiliary, and endocrine procedures discharges (MDC = 6,7,10), among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 9&lt;/span&gt;: Other discharges, among cases meeting the inclusion and exclusion rules for the denominator, with any secondary ICD-9-CM diagnosis codes for accidental puncture or laceration during a procedure. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Denominator&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 1&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 2 (eye), MDC 3 (ear, nose, mouth, and throat), MDC 9 (skin, subcutaneous tissue, and breast), MDC 19 (mental diseases and disorders), MDC 22 (burns), or MDC 23 (factors influencing health status). Surgical and medical discharges are defined by specific Diagnosis-Related Group (DRG) or Medicare Severity-DRG (MS-DRG) codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 2&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 4 (respiratory system), MDC 5 (circulatory system), or MDC 17 (myeloproliferative diseases and disorders [poorly differentiated neoplasms]). Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 3&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 11 (kidney and urinary tract), MDC 12 (male reproductive system), or MDC 13 (female reproductive system). Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 4&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 0/99 (ungroupable), MDC 16 (blood and blood forming organs and immunological disorders), MDC 18 (infectious and parasitic diseases and disorders), or MDC 25 (human immunodeficiency virus infection). Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 5&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 1 (nervous system), MDC 8 (musculoskeletal system and connective tissue), MDC 21 (injuries, poison, and toxic effect of drugs), or MDC 24 (multiple significant trauma). Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 6&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, with either MDC 6 (digestive system), MDC 7 (hepatobiliary system and pancreas), or MDC 10 (endocrine, nutritional, and metabolic system). Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Risk Category 9&lt;/span&gt;: Surgical and medical discharges, for patients ages 17 years and younger, that do not meet the inclusion rules for Risk Category 1 through Risk Category 6. Surgical and medical discharges are defined by specific DRG or MS-DRG codes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The predicted value for each case is computed using a hierarchical model (logistic regression with hospital random effect) and covariates for gender, birthweight (500g groups), age in days (29 to 60, 61 to 90, 91+), age in years (in 5-year age groups), modified Centers for Medicare &amp;amp; Medicaid Services (CMS) Diagnosis-Related Group (DRG), and Agency for Healthcare Research and Quality (AHRQ) Clinical Classifications Software (CSS) comorbidities. The reference population used in the regression is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID) for the year 2008, a database consisting of 43 states and approximately 6 million pediatric discharges. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., hospital). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population rate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for the covariates used in this measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Risk adjust by risk category (Procedure Type) &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;No therapeutic procedure with any or no diagnostic procedures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Only minor therapeutic procedure with any or no diagnostic procedures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One major therapeutic without diagnostic procedure &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One major therapeutic with only minor diagnostic procedure(s) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;One major therapeutic with major diagnostic procedure(s) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Two major therapeutic procedures with any or no diagnostic procedures &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Three or more major therapeutic procedures with any or no diagnostic procedures; &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PDI 1: accidental puncture or laceration rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Agency for Healthcare Research and Quality (AHRQ) Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Pediatric Quality Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jan 5&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure is reviewed and updated on a yearly basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ QI. Pediatric quality indicators #1: technical specifications. Accidental puncture or laceration rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 61 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/TechSpecs/PDI_01_Accidental_Puncture_or_Laceration_Rate.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AHRQ QI Support Team at E-mail: &lt;a href=&quot;mailto:QIsupport@ahrq.hhs.gov&quot;&gt;QIsupport@ahrq.hhs.gov&lt;/a&gt;; Phone: 301-427-1949.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators (PDI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 98 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Parameter_Estimates_PDI_50_Final.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ARHQ quality indicators. Pediatric quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 13 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Version_50_Benchmark_Tables_PDI.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Mar. various p. This document is available in PDF from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/PDI_Composite_Development.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &amp;nbsp; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the &lt;a href=&quot;http://hcupnet.ahrq.gov/&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 28, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 25, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was reviewed and edited by ECRI Institute on July 15, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 19, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 28, 2013 and again on December 1, 2015. The information was verified by the measure developer on January 19, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 1 technical specifications: accidental puncture or laceration rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: accidental puncture or laceration rate (PDI 1). Washington (DC): National Quality Forum (NQF); 2013 Jul 2. 14 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

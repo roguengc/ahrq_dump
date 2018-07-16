@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;End stage renal disease (ESRD): risk-adjusted standardized mortality ratio (SMR) for dialysis facility patients.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized mortality ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Apr 15. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the risk-adjusted standardized mortality ratio (SMR) for dialysis facility patients. This measure is calculated as a ratio, but can also be expressed as a rate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SMR is designed to reflect the number of deaths for the patients at a facility, relative to the number of deaths that would be expected based on overall national rates and the characteristics of the patients at that facility. Specifically, the SMR is calculated as the ratio of two numbers; the numerator (&quot;observed&quot;) is the actual number of deaths, excluding deaths due to street drugs and accidents unrelated to treatment, over a specified time period. The denominator (&quot;expected&quot;) is the number of deaths that would be expected if patients at that facility died at the national rate for patients with similar characteristics, over the same time period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) dialysis patients are much more likely to die than age-matched individuals without end stage renal disease (ESRD). The excess mortality associated with ESRD patients on dialysis is influenced by dialysis facility practices, and is one of several important health outcomes used by providers, health consumers, and insurers to evaluate the quality of care provided in dialysis facilities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Epidemiological&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;At the end of 2013, there were 661,648 patients being dialyzed of which 117,162 were new (incident) ESRD patients (U.S. Renal Data System, 2015). ESRD mortality in the U.S. was 33% higher than in Europe (Goodkin et al., 2004), suggesting that this improvement of this outcome is possible. The components of unexplained or unexpected mortality that are actionable and associated with treatment and overall management of ESRD and other conditions are important to identify. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;There is substantial evidence on the association between dialysis facility care practices, intermediate outcomes and mortality. For example, these include practices related to adequate dialysis, volume control, and appropriate management of mineral and bone disorder. Port et al. (2002) reported that dose of dialysis and body mass index (BMI) were both associated with mortality among hemodialysis patients. Flythe, Curhan, and Brunelli (2013) report that high ultrafiltration rates have been shown in several studies to be independently associated with increased risk of mortality. Rivara et al. (2015) found that high concentrations of serum calcium and phosphorus were associated with increased mortality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Financial&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inefficient and inappropriate management of all aspects of patient ESRD care carries a high costs for both providers and payers. In 2013, total Medicare costs for the ESRD program were $30.9 billion (a 1.6% increase from 2012) (U.S. Renal Data System, 2015).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Policy&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure has been in use in the Dialysis Facility Reports since 1995 and on the &lt;a href=&quot;https://www.medicare.gov/dialysisfacilitycompare/&quot; title=&quot;Dialysis Facility Compare (DFC) Web site&quot; target=&quot;_blank&quot;&gt;Dialysis Facility Compare (DFC) Web site&lt;/a&gt; since 2001, when the Balanced Budget Act (1997) required a system to measure and report the quality of dialysis services under Medicare.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Dialysis Facility Reports are used by the dialysis facilities and ESRD Networks for quality improvement, and by ESRD state surveyors for monitoring and surveillance. The standardized mortality ratio for dialysis facilities (SMR) in particular is used by ESRD state surveyors in conjunction with other standard criteria for prioritizing and selecting facilities to survey. This patient survival classification measure is reported publicly on the DFC Web site to assist patients in selecting dialysis facilities.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized mortality ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Apr 15. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flythe JE, Curhan GC, Brunelli SM. Disentangling the ultrafiltration rate-mortality association: the respective roles of session length and weight gain. Clin J Am Soc Nephrol. 2013 Jul;8(7):1151-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23493384 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goodkin DA, Young EW, Kurokawa K, Prutz KG, Levin NW. Mortality among hemodialysis patients in Europe, Japan, and the United States: case-mix effects. Am J Kidney Dis. 2004 Nov;44(5 Suppl 2):16-21. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15486869&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Port FK, Ashby VB, Dhingra RK, Roys EC, Wolfe RA. Dialysis dose and body mass index are strongly associated with survival in hemodialysis patients. J Am Soc Nephrol. 2002 Apr;13(4):1061-6. [31 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11912267&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rivara MB, Ravel V, Kalantar-Zadeh K, Streja E, Lau WL, Nissenson AR, Kestenbaum B, de Boer IH, Himmelfarb J, Mehrotra R. Uncorrected and albumin-corrected calcium, phosphorus, and mortality in patients undergoing maintenance dialysis. J Am Soc Nephrol. 2015 Jul;26(7):1671-81. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25613037 &quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Renal Dialysis System. USRDS 2015 annual data report: atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institutes of Health (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End stage renal disease (ESRD); dialysis; mortality&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of deaths that would be expected among eligible dialysis patients at the facility during the time period, given the national average mortality rate and the patient mix at the facility (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of deaths among eligible patients at the facility during the time period (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The reliability of the standardized mortality ratio (SMR) was assessed using data among end stage renal disease (ESRD) dialysis patients during 2010-2013. If the measure were a simple average across individuals in the facility, the usual approach for determining measure reliability would be a one-way analysis of variance (ANOVA), in which the between and within facility variation in the measure is determined. The inter-unit reliability (IUR) measures the proportion of the total variation of a measure that is attributable to the between-facility variation. The SMR, however, is not a simple average and we instead estimate the IUR using a bootstrap approach, which uses a resampling scheme to estimate the within facility variation that cannot be directly estimated by ANOVA. A small IUR (near 0) reveals that most of the variation of the measures between facilities is driven by random noise, indicating the measure would not be a good characterization of the differences among facilities, whereas a large IUR (near 1) indicates that most of the variation between facilities is due to the real difference between facilities.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The SMR calculation only included facilities with at least 3 expected deaths for each year.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See Table 1 and Table 2 in the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Overall, the developer found that IURs for the one-year SMR have a range of 0.26-0.32 across the years 2010, 2011, 2012, and 2013, which indicates that about thirty percent of the variation in the one-year SMR can be attributed to the between-facility differences and about seventy percent to within-facility variation. This value of IUR indicates a relatively low degree of reliability. When stratified by facility size, the developer finds that, as expected, larger facilities have greater IUR.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reliability improved when four-year data were used. Overall, the developer found that IUR for the four-year SMR for 2010-2013 is 0.59 which indicates that about sixty percent of the variation in the four-year SMR can be attributed to the between-facility differences (signal) and about forty percent to within-facility variation (noise). This value of IUR indicates a moderate degree of reliability. When stratified by facility size, the developer finds that, as expected, larger facilities have greater IUR.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Method of Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Measure validity is demonstrated by the relationship of the SMR to other quality of care indicators, including the standardized hospitalization ratio (SHR)&amp;mdash;admissions, the standardized readmission ratio (SRR), the standardized transfusion ratio (STrR), percent of patients dialyzing with a fistula, percent of patients dialyzing with a catheter, and percent of patients with Kt/V greater than or equal to 1.2. Spearman's rho is reported for all variables. Because the correlations were approximately the same for the four years 2010-2013, we are reporting only the 2013 correlations.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure is also maintained on face validity. It was reviewed by a technical expert panel (TEP) in 2006 for potential implementation on Dialysis Facility Compare (DFC). The general consensus was the SMR captured meaningful information on survival that DFC users could use to assess facility quality. In 2015, a TEP was held specifically to consider prevalent comorbidity adjustments for inclusion in the measure. The TEP's recommendations are reflected in the risk adjustment methodology.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Statistical Results from Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;SHR&amp;mdash;admissions: rho = 0.20, p less than .0001 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;SRR&amp;mdash;readmissions: rho = 0.10, p less than .0001 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;STrR: rho = 0.21, p less than .0001 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Arteriovenous (AV) fistula: rho = -0.11, p less than .0001 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Catheter: rho = 0.13, p less than .0001 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hemodialysis patients with Kt/V greater than or equal to 1.2: rho = -0.04, p less than .0001 &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Interpretation&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As expected, the SMR is positively correlated with the SHR&amp;mdash;admissions (rho = 0.20, p less than 0.0001), SRR&amp;mdash;readmissions (rho = 0.10, p less than 0.0001), and the STrR (rho = 0.21, p less than 0.0001); higher standardized mortality rates in facilities are associated with higher standardized hospitalization rates, higher standardized readmissions rates and higher standardized transfusion rates. The SMR is negatively correlated with percent of patients in the facility with AV fistula (rho = -0.11, p less than 0.0001); lower standardized mortality rates are associated with higher rates of AV fistula use. On the other hand, the SMR is positively correlated with catheter use (rho = 0.13, p less than 0.0001 ), indicating that higher values of SMR are associated with increased use of catheters. The SMR is also found to be negatively correlated (rho = -0.04, p less than 0.0001) with the percent of hemodialysis patients with Kt/V greater than or equal to 1.2, again in the direction expected. Lower SMRs are associated with a higher percentage of patients receiving adequate dialysis dose.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized mortality ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Apr 15. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of deaths that would be expected among eligible dialysis patients at the facility during the time period, given the national average mortality rate and the patient mix at the facility. The expected deaths are identified using all patient records at the facility meeting inclusion criteria. The number of days at risk in each of these patient records is used to calculate the expected number of deaths for that patient record.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As patients can receive dialysis treatment at more than one facility in a given year, we assign each patient day to a facility (or no facility, in some cases) based on a set of conventions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Since a patient's follow-up in the database can be incomplete during the first 90 days of end stage renal disease (ESRD) therapy, the developer only includes a patient's follow-up into the tabulations after that patient has received chronic renal replacement therapy for at least 90 days. Thus, hospitalizations, mortality and survival during the first 90 days of ESRD do not enter into the calculations. This minimum 90-day period also assures that most patients are eligible for Medicare, either as their primary or secondary insurer. It also excludes from analysis patients who die or recover renal function during the first 90 days of ESRD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In order to exclude patients who only received temporary dialysis therapy, the developer assigns patients to a facility only after they have been on dialysis there for the past 60 days. This 60 day period is used both for patients who started dialysis for the first time and for those who returned to dialysis after a transplant. That is, deaths and survival during the first 60 days of dialysis at a facility do not affect the standardized mortality ratio (SMR) of that facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for information on identifying facility treatment histories for each patient, and days at risk for Medicare dialysis patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;See Inclusions above.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of deaths among eligible patients at the facility during the time period. This count includes only Medicare patients.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;This count does not include deaths from street drugs or accidents unrelated to treatment. Deaths from these causes varied by facility, with certain facilities (in particular, urban facilities that treated large numbers of male and young patients) reporting large numbers of deaths from these causes and others reporting extremely low numbers. Since these deaths are unlikely to have been due to treatment facility characteristics, they are excluded from the calculations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Death" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Calculation Algorithm/Measure Logic Diagram&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+      <FieldValue Value="Ratio" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The standardized mortality ratio (SMR) is based on expected mortality calculated from a Cox model. The model used is fit in two stages. The stage 1 model is a Cox model stratified by facility and adjusted for patient age, race, ethnicity, sex, diabetes, duration of end stage renal disease (ESRD), nursing home status from previous year, patient comorbidities at incidence, calendar year and body mass index (BMI) at incidence. This model allows the baseline survival probabilities to vary between strata (facilities), and assumes that the regression coefficients are the same across all strata. Stratification by facility at this stage avoids biases in estimating regression coefficients that can occur if the covariate distributions vary substantially across centers. Refer to the original measure documentation for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Standardized mortality ratio (SMR) measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="End Stage Renal Disease (ESRD) Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Arbor Research Collaborative for Health, in collaboration with the University of Michigan Kidney and Epidemiology Cost Center (UM-KECC), develop, maintain, and update the End Stage Renal Disease (ESRD) Quality Measures for the Centers for Medicare &amp;amp; Medicaid Services (CMS), under the Quality Measure Development and Maintenance contract with CMS.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Arbor Research Collaborative for Health organizational disclosure information:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The Dialysis Outcomes and Practice Patterns Study (DOPPS) is administered by Arbor Research Collaborative for Health and is supported by scientific research grants from Amgen (since 1996), Kyowa Hakko Kirin (since 1999, in Japan), Genzyme (since 2009), and Abbott (since 2009), without restrictions on publications. (Grants/research support) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The Scientific Registry of Transplant Recipients (SRTR) is funded by contract number 234-2005-37009C from the Health Resources and Services Administration, US Department of Health and Human Services. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Arbor Research Collaborative for Health individual disclosure information:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Ronald L. Pisoni, PhD, has received speaker fees from Amgen, Kyowa Hakko Kirin, and Vifor, has served as a consultant for Pursuit Vascular, and has served on an advisory panel for Merck. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Friedrich K. Port, MD, has been a Scientific Advisor for the Nephrology Advisory Board. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sylvia Paz B. Ramirez, MD, has nothing additional to disclose. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bruce M. Robinson, MD, MSCE, has received speaker fees from Kyowa Hakko Kirin. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Francesca Tentori, MD, has nothing additional to disclose. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert A. Wolfe, PhD, has nothing additional to disclose. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;University of Michigan's Kidney Epidemiology and Cost Center individual disclosure information:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;John Kalbfleisch, PhD, has nothing to disclose. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;J. M. Messana, MD, has nothing to disclose. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rajiv Saran, MD, is funded as a DOPPS investigator on a subcontract with Arbor Research Collaborative for Health; receives research funding from the Renal Research Institute, a not-for-profit organization funded by Fresenius; has served as a Scientific Advisor for Amgen and has received honoraria for the same; and serves as PI on a Centers for Disease Control-CKD surveillance system project, as well as a co-investigator with projects funded by the CMS. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2018 Mar 5&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Dialysis Facility Compare (DFC)" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Standardized mortality ratio (SMR) measure information form. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 6 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/Downloads/CMS-ESRD-Measures-Manual-2017.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the &lt;a href=&quot;https://dialysisdata.org/content/esrd-measures&quot; title=&quot;Dialysis Data Web site&quot;&gt;Dialysis Data Web site&lt;/a&gt; or contact Casey Parrotte at the Kidney Epidemiology and Cost Center, The University of Michigan, 1415 Washington Heights, Suite 3645 SPHI, Ann Arbor, MI 48109-2029; Phone: 734-763-6611; Fax: 734-763-4004; Email: &lt;a href=&quot;mailto:parrotte@med.umich.edu&quot;&gt;parrotte@med.umich.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 5, 2010. The information was verified by the measure developer on June 14, 2010. &lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on May 9, 2011. &lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 5, 2014. The information was verified by the measure developer on February 6, 2015. &lt;/p&gt;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 22, 2018. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). CMS ESRD measures manual for the 2017 performance period: final. Version 2.5. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Oct 11. 168 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services (CMS). Measure information form: end-stage renal disease evaluation of potential prevalent comorbidity adjustments in the standardized mortality ratio for dialysis facilities. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2016 Apr 15. 72 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

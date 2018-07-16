@@ -1,0 +1,223 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Age-related macular degeneration (AMD): percentage of patients aged 50 years and older with a diagnosis of AMD or their caregiver(s) who were counseled within 12 months on the benefits and/or risks of the Age-Related Eye Disease Study (AREDS) formation for preventing progression of AMD.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: age-related macular degeneration: counseling on antioxidant supplement. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 50 years and older with a diagnosis of age-related macular degeneration (AMD) or their caregiver(s) who were counseled within 12 months on the benefits and/or risks of the Age-related Eye Disease Study (AREDS) formulation for preventing progression of AMD.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Scientific basis for counseling regarding use of Age-related Eye Disease Study (AREDS)&amp;nbsp;formulation for patients with age-related macular degeneration (AMD)&#xD;&#xA;    &lt;p&gt;Antioxidant vitamins and mineral supplements help to reduce the rate of progression to advanced AMD for those patients with intermediate or advanced AMD in one eye (American Academy of Ophthalmology [AAO], 2014; AREDS Research Group, 2001). From the same AREDS study, there is no evidence that the use of antioxidant vitamin and mineral supplements for patients with &lt;em&gt;mild&lt;/em&gt; AMD alters the natural history of mild AMD.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;At the same time, published meta-analyses have raised an issue as to the presence of an elevated mortality risk among patients taking elements similar to parts of the AREDS formulation (and elevated risk among smokers). As such, patients need to know of their individualized risk profile for taking the AREDS formula AND the potential benefits, so that they can make their OWN individual decision as to whether or not to take the AREDS formulation.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;This indicator thus seeks to directly enhance the provider-patient relationship to apply the results of level 1 randomized controlled trials (RCTs) in a manner that accommodates the needs of each individual patient in a patient-centered manner, rather than a paternalistic approach of either recommending or withholding treatment.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Evidence of gap in care&#xD;&#xA;    &lt;p&gt;Antioxidant vitamins and mineral supplements help to reduce the rate of progression to advanced AMD for those patients with intermediate or advanced AMD in one eye. From the same AREDS study, there is no evidence that the use of antioxidant vitamin and mineral supplements for patients with &lt;em&gt;mild&lt;/em&gt; AMD alters the natural history of mild AMD.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Clinical Recommendation Statements&lt;/strong&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with intermediate AMD or advanced AMD in one eye should be counseled on the use of antioxidant vitamin and mineral supplements as recommended in the AREDS reports (AAO, 2014).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Table 1: Antioxidant Vitamin and Mineral Supplements Used in the AREDS 2&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;table width=&quot;40%&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; summary=&quot;Table: Antioxidant vitamin and mineral supplements used in the AREDS&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;NoColor&quot; valign=&quot;top&quot;&gt;Supplement&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;NoColor&quot; valign=&quot;top&quot;&gt;Daily Dose*&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Vitamin C&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;500 mg&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Vitamin E&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;400 IU&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Lutein/zeaxanthin&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;10 mg/2 mg&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Zinc oxide&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;80 mg or 25 mg&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Cupric oxide&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;2 mg&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;(Data from AREDS2 Research Group, 2013) &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*These doses are not those listed on the commercially available vitamin/mineral supplements because of a change in labeling rules by the U.S. Food and Drug Administration that specifies that the doses must reflect the amounts available at the end of the shelf life.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Age-Related Eye Disease Study 2 (AREDS2) Research Group, Chew EY, San Giovanni JP, Ferris FL, Wong WT, Agron E, Clemons TE, Sperduto R, Danis R, Chandra SR, Blodi BA, Domalpally A, Elman MJ, Antoszyk AN, Ruby AJ, Orth D, Bressler SB, Fish GE, Hubbard GB, Klein ML, Friberg TR, Rosenfeld PJ, Toth CA, Bernstein P. Lutein/zeaxanthin for the treatment of age-related cataract: AREDS2 randomized trial report no. 4. JAMA Ophthalmol. 2013 Jul;131(7):843-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23645227&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Age-Related Eye Disease Study Research Group. A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8. Arch Ophthalmol. 2001 Oct;119(10):1417-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11594942&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: age-related macular degeneration: counseling on antioxidant supplement. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Preferred Practice Patterns. Age-related macular degeneration. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age-related macular degeneration (AMD); patient/caregiver counseling; antioxidant supplement; Age-related Eye Disease Study (AREDS) formulation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 50 years and older with a diagnosis of age-related macular degeneration (AMD) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with age-related macular degeneration (AMD) or their caregiver(s) who were counseled within 12 months on the benefits and/or risks of the Age-related Eye Disease Study (AREDS) formulation for preventing progression of AMD (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 50 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 50 years and older with a diagnosis of age-related macular degeneration (AMD)&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision (ICD-9), ICD-10, and Current Procedural Terminology (CPT) codes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patients with age-related macular degeneration (AMD) or their caregiver(s) who were counseled within 12 months on the benefits and/or risks of the Age-related Eye Disease Study (AREDS) formulation for preventing progression of AMD&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;If patient is already receiving AREDS formulation, the assumption is that counseling about AREDS has already been performed. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Counseling&lt;/em&gt;: Documentation in the medical record should include a discussion of risk or benefits of the AREDS formulation. Counseling can be discussed with all patients with AMD, even those who do not meet the criteria for the AREDS formulation, or other reasons why the patient would not meet criteria for AREDS formulation as outlined in the AREDS. The ophthalmologist or optometrist can explain why these supplements are not appropriate for their particular situation. Also, given the purported risks associated with antioxidant use, patients would be informed of the risks and benefits and make their choice based on valuation of vision loss vs. other risks. As such, the measure seeks to educate patients about overuse as well as appropriate use. &lt;/li&gt;&#xA;    &lt;li&gt;Refer to the original measure documentation for Current Procedural Terminology (CPT) codes. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age-related macular degeneration: counseling on antioxidant supplement.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Eye Care Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Academy of Ophthalmology (AAO)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Paul P. Lee, MD, JD (&lt;em&gt;Co-Chair&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jinnet B. Fowles, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard L. Abbott, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jeffrey S. Karlik, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lloyd P. Aiello, MD PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mathew W. MacCumber, MD, PhD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Priscilla P. Arnold, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mildred M. G. Olivier, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard Hellman, MD, FACP, FACE &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;James L. Rosenzweig, MD, FACE &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Leon W. Herndon, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sam J. W. Romeo, MD, MBA &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kenneth J. Hoffer, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John T. Thompson, MD &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2009 Oct 30&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Jan" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reviewed and updated if appropriate on an annual cycle&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Academy of Ophthalmology, Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Eye care physician performance measurement set. Chicago (IL): American Medical Association, National Committee for Quality Assurance; 2007 Oct. 36 p.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Academy of Ophthalmology (AAO) at 655 Beach Street, San Francisco, CA 94109; Phone: 415-561-8500; Fax: 415-561-8533; Web site: &lt;a href=&quot;http://www.aao.org&quot; title=&quot;AAO Web site&quot;&gt;www.aao.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 13, 2008. The information was verified by the measure developer on April 22, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 3, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on July 2, 2015. The information was verified by the measure developer on July 13, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 16, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Debra Marchi at the American Academy of Ophthalmology (AAO), &lt;a href=&quot;mailto:dmarchi@aao.org&quot;&gt;dmarchi@aao.org&lt;/a&gt;, regarding use and reproduction of these measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Eye care quality measure: age-related macular degeneration: counseling on antioxidant supplement. Version 9.1. San Francisco (CA): American Academy of Ophthalmology (AAO); 2015 Jan. 4 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

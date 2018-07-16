@@ -1,0 +1,229 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Bipolar disorder: the percentage of patients diagnosed with bipolar disorder who receive an initial assessment that considers the risk of suicide.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE (STAndards for BipoLar Excellence) performance measures. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Process&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients diagnosed with bipolar disorder who receive an initial assessment that considers the risk of suicide. See the related National Quality Measures Clearinghouse (NQMC) summary of the STABLE Project National Coordinating Council measure &lt;a href=&quot;/content.aspx?id=11488&quot; target=&quot;_blank&quot; title=&quot;Measure Summary&quot;&gt;Depression: the percentage of patients diagnosed with unipolar depression who receive an initial assessment that considers the risk of suicide&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Bipolar Disorder and Risk of Suicide&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Unipolar depression and bipolar disorder are associated with a significant risk of suicide. The risk of completed suicide is higher in bipolar disorder than in unipolar depression.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Patients with bipolar disorder are at high risk for suicide; rates as high as 80&amp;#37; of patients with bipolar disorder have been reported with either suicidal ideation or suicide attempts.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Suicide completion rates in patients with bipolar I disorder have been reported as high as 10-15&amp;#37; with some studies reporting higher rates in patients with bipolar II disorder.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Among the phases of bipolar disorder, depression is associated with the highest suicide risk, followed by mixed states and presence of psychotic symptoms with episodes of mania being least associated with suicide.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Data from a large study reporting systematic treatment enhancement program for bipolar disorder (STEP-BD) baseline data identified that of patients with bipolar disorder, 60&amp;#37; had a history of prior suicide attempts and that this finding was consistent with other large studies that show a strong association between prior history of suicide attempts and new attempts or completed suicide in patients with bipolar disorder.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessing Risk of Suicide&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;All patients should be asked about suicidal ideation, intention to act on these ideas, and extent of plans or preparation for suicide.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bipolar disorder; suicide risk assessment&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients diagnosed with bipolar disorder (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who receive an initial assessment for bipolar disorder that includes an appraisal of the risk of suicide (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical evidence" />
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Internal quality improvement" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Behavioral Health Care" />
+      <FieldValue Value="Physician Group Practices/Clinics" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Advanced Practice Nurses" />
+      <FieldValue Value="Physicians" />
+      <FieldValue Value="Psychologists/Non-physician Behavioral Health Clinicians" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Rationale&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with a diagnosis involving bipolar disorder: International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) or Diagnostic and Statistical Manual of Mental Disorders, Fourth Revision, Text Revision (DSM-IV-TR): 296.0x; 296.1x; 296.4x; 296.5x; 296.6x; 296.7; 296.80-82; 296.89; or 301.13&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients 18 years of age or older with an initial diagnosis or new presentation/episode of bipolar disorder&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Documentation of a diagnosis involving bipolar disorder; to include at least one of the following:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Codes 296.0x; 296.1x; 296.4x; 296.5x; 296.6x; 296.7; 296.80; 296.81; 296.82; 296.89; 301.13 documented in body of chart, such as a pre-printed form completed by a clinician and/or codes documented in chart notes/forms&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Diagnosis or impression documented in chart indicating bipolar disorder&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Use of a screening/assessment tool for bipolar disorder with a score or conclusion that patient has bipolar disorder and documentation that this information is used to establish or substantiate the diagnosis&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt; &#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window is a single point in time" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt; &#xD;&#xA;Documentation of an assessment for risk of suicide; to include at least one of the following:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Documented clinician evaluation of the presence or absence of suicidal ideation or intention&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Documented reference to comments the patient made that relate to the presence or absence of thoughts of suicide/death&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Documented reference to use, or presence in the chart of, a screening tool or patient assessment form that addresses suicide&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Timeframe:&lt;br /&gt; &#xD;&#xA;Documentation of the assessment for risk of suicide must be present prior to, or concurrent with, the visit where the diagnosis and/or treatment plan is first documented.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt; &#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Encounter or point in time" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Suicide Behaviors Questionnaire-revised (SBQ-R): Brief self-report tool (available at &lt;a href=&quot;http://www.cqaimh.org/stable.html&quot; title=&quot;Center for Quality Assessment and Improvement in Mental Health Web site&quot; target=&quot;_blank&quot;&gt;www.cqaimh.org/stable.html&lt;/a&gt;)&lt;/li&gt;&#xD;&#xA;&lt;li&gt;The Suicidal Ideation and Risk Level Assessment: Brief clinician-administered tool (available at &lt;a href=&quot;http://www.cqaimh.org/stable.html&quot; title=&quot;Center for Quality Assessment and Improvement in Mental Health Web site&quot; target=&quot;_blank&quot;&gt;www.cqaimh.org/stable.html&lt;/a&gt;)&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Rate" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;ul&gt;&#xD;&#xA;&lt;li&gt;The STABLE measures were developed using the RAND Appropriateness Method and have been shown to have content validity and face validity.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Data feasibility testing was performed to determine the availability of the data elements required in the measure numerator and denominator specifications.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Inter-abstractor reliability testing was performed to assess the data collection strategy. The data collection strategy included data collection forms; data dictionary references and abstractor instructions.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;A field study was conducted to determine measure conformance in an appropriate convenience sample.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;Refer to the references listed below for further information.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE performance measures: data feasibility testing &amp; results. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE performance measures: development process &amp; validity ratings. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE performance measures: field study process &amp; conformance findings. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE performance measures: inter-abstractor reliability testing &amp; results. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. 2 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Bipolar disorder or depression: assessment for risk of suicide.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Standards for Bipolar Excellence (STABLE) Performance Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Center for Quality Assessment and Improvement in Mental Health - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="STABLE Project National Coordinating Council - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;AstraZeneca LLP, Wilmington, Delaware, provided financial sponsorship for the STABLE Project. They did not otherwise participate in the development of either the measures or toolkit.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The STABLE &lt;a href=&quot;http://www.cqaimh.org/members.html&quot; target=&quot;_blank&quot; title=&quot;National Coordinating Council (NCC)&quot;&gt;National Coordinating Council (NCC)&lt;/a&gt; was comprised of national experts in bipolar disorder, psychiatry, primary care, and performance improvement.  The NCC guided and directed the STABLE Project. NCC members agreed to serve with the understanding that the STABLE Performance Measures and Resource Toolkit would be fully transparent and available without cost in the public domain.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;a href=&quot;http://www.epi-q.com/index.html&quot; target=&quot;_blank&quot; title=&quot;EPI-Q Web site&quot;&gt;EPI-Q, Inc.&lt;/a&gt;, is a consulting company providing practice-based outcomes research, pharmacoeconomic studies, and quality improvement services.  EPI-Q managed the STABLE Project.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="1335" ID="376" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2007 Jan" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The STABLE Project National Coordinating Council reaffirmed the currency of this measure in November 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;STABLE (STAndards for BipoLar Excellence) performance measures. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;Bipolar Disorder or Depression: Assessment for Risk of Suicide,&quot; is published in &quot;STABLE (STAndards for BipoLar Excellence) Performance Measures.&quot; This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.cqaimh.org/stable.html&quot; target=&quot;_blank&quot; title=&quot;CQAIMH Web site&quot;&gt;Center for Quality Assessment and Improvement in Mental Health (CQAIMH) Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="1375" ID="384" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;STABLE National Coordinating Council Resource Toolkit Workgroup. STABLE resource toolkit. Boston (MA): Center for Quality Assessment and Improvement in Mental Health; 2007 Mar. 67 p. This document is available in Portable Document Format (PDF) from the &lt;a href=&quot;http://www.cqaimh.org/stable.html&quot; target=&quot;_blank&quot; title=&quot;CQAIMH Web site&quot;&gt;Center for Quality Assessment and Improvement in Mental Health (CQAIMH) Web site&lt;/a&gt;.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 10, 2008. The information was verified by the measure developer on April 14, 2008. The information was reaffirmed by the measure developer on November 1, 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The STABLE materials published on this Web site are copyrighted by CQAIMH. They may be used for research, teaching, and quality measurement/improvement activities – provided the following:&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;The materials are not sold, distributed or licensed for commercial purposes.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;CQAIMH's copyright is acknowledged in reproductions of these materials.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Modifications to the materials are not made without CQAIMH's permission.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

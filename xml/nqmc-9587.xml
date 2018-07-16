@@ -1,0 +1,216 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cataracts: percentage of patients aged 18 years and older in sample who had cataract surgery and were satisfied with their care within 90 days following the cataract surgery, based on completion of the Consumer Assessment of Healthcare Providers and Systems (CAHPS) Surgical Care Survey.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: patient satisfaction within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 4 p.  [4 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older in sample who had cataract surgery and were satisfied with their care within 90 days following the cataract surgery, based on completion of the Consumer Assessment of Healthcare Providers and Systems (CAHPS) Surgical Care Survey.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;ol style=&quot;list-style-type: decimal;&quot;&gt;&#xA;    &lt;li&gt;Scientific basis for measuring patient satisfaction after cataract surgery.&#xA;    &lt;p&gt;Patient satisfaction is a valuable performance indicator for measuring the quality of care delivered by ophthalmologists providing cataract surgery. In the broadest sense, patient satisfaction is an assessment of the patient's experience with the care process delivered by health plans, clinicians, health systems, hospitals, etc. This experience can cover domains as diverse as information/education, interpersonal manner, emotional support, accessibility, convenience, outcomes or results, environment, personalization, involvement in care, finances, etc.&lt;/p&gt;&#xA;    &lt;p&gt;In 1996, the American Academy of Ophthalmology launched the National Eyecare Outcomes Network (NEON) database (Lum et al., 2000; Lum, Schachat, &amp;amp; Jampel, 2002). From January 1, 1996 through March 30, 2001, 249 ophthalmologists at 114 different practice sites submitted data to the NEON cataract surgery database. Post-operative patient satisfaction responses were collected for 6,154 patients, or about 34.5% of all patients who had preoperative forms submitted. This assessment was performed at a median of 4.1 weeks postoperatively for all patients enrolled in the database. A 12-item questionnaire was used to assess patient satisfaction. Patient satisfaction was associated with younger age and absence of ocular comorbidity. &lt;/p&gt;&#xA;    &lt;p&gt;Other studies of patient satisfaction after cataract surgery were conducted in Austria and in Spain. The Austrian study found that patients with pre-existing eye disease, including those patients with improved visual acuity after surgery, were the least satisfied with the results of surgery (Mozaffarieh et al., 2004). In these cases, improved patient education prior to surgery could be helpful in improving patient satisfaction.&amp;nbsp;The Spanish study found that patient satisfaction was associated with expectations prior to surgery (Lled&amp;oacute; et al., 1998-1999).&lt;/p&gt;&#xA;    &lt;p&gt;Most patients are satisfied with their care and results after cataract surgery. This outcome is achieved consistently through careful attention through the patient selection process, accurate measurement of axial length and corneal power, appropriate selection of an intraocular lens (IOL) power calculation formula, etc. As such, it reflects the care and diligence with which the surgery is assessed, planned and executed. Failure to achieve this satisfaction after surgery would reflect patterns of patient selection or treatment that should be assessed for opportunities for improvement.&lt;/p&gt;&#xA;    &lt;p&gt;Use of this indicator in the Physician Quality Reporting System (PQRS) claims-based reporting method would require some modification to the current reporting of post-operative care for patients undergoing cataract surgery, since this indicator would be operative during the 90 day global period. However, there is a strong and practical precedent for such modifications in that reporting arrangements have previously been made to accommodate co-management of care by different providers during the post-operative period. A similar adjustment to allow for filing of a claim of meeting this goal at one point in the 90 day global period would be sufficient, potentially drawing upon the methods to demarcate the onset of co-management transfer of post-operative care.&lt;/p&gt;&#xA;    &lt;p&gt;Various patient satisfaction instruments exist, but an instrument developed by the program Consumer Assessment of Healthcare Providers and Systems (CAHPS), Agency for Healthcare Research and Quality (AHRQ) develops and supports the use of a comprehensive and evolving family of standardized surveys that ask consumers and patients to report on and evaluate their experiences with health care. These surveys cover topics that are important to consumers, such as the communication skills of providers and the accessibility of services. AHRQ first launched the CAHPS program in October 1995 in response to concerns about the lack of good information about the quality of health plans from the enrollees' perspective. At that time, numerous public and private organizations collected information on enrollee and patient satisfaction, but the surveys varied from sponsor to sponsor and often changed from year to year.&lt;/p&gt;&#xA;    &lt;p&gt;The CAHPS Surgical Care Survey asks adult patients to report on surgical care, surgeons, their staff, and anesthesiologists. It was developed by the American College of Surgeons and the Surgical Quality Alliance to assess patients' experiences before, during, and after surgery. In early 2010, the CAHPS Consortium voted to adopt the Surgical Care Survey as an official CAHPS survey. The Surgical Care Survey expands on the current CAHPS Clinician &amp;amp; Group Survey, which focuses on primary and specialty care, by incorporating domains that are relevant to surgical care, such as informed consent, anesthesia care, and post-operative follow-up. The survey is unique in that it assesses patients' experiences with surgical care in both the inpatient and outpatient settings by asking respondents about their care before, during, and after surgery.&lt;/p&gt;&#xA;    &lt;p&gt;The main purpose of the CAHPS Surgical Care Survey is to address the need to assess and improve the experiences of surgical patients. Like other CAHPS surveys, this questionnaire focuses on aspects of surgical quality that are important to patients and for which patients are the best source of information. The survey results are expected to be useful to everyone with a need for information on the quality of surgeons and surgical care, including patients, practice groups, health plans, insurers, and specialty boards. Patients can use the information to help make better and more informed choices about their surgical care. Practices, health plans, and insurers can use the survey results for quality improvement initiatives and incentives. Specialty boards may use the survey for maintenance of certification.&lt;/p&gt;&#xA;    &lt;p&gt;The composite measures of surgical quality from the CAHPS Surgical Care Survey that are most relevant and significant for this physician-level performance measure include: &lt;/p&gt;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;How well surgeon communicates with patients before surgery &lt;/li&gt;&#xA;        &lt;li&gt;How well surgeon communicates with patients after surgery &lt;/li&gt;&#xA;        &lt;li&gt;Rating of overall care from this surgeon &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Evidence of a gap in care&#xA;    &lt;p&gt;This is an outcome of surgery indicator of direct relevance and import to patients, their families and referring providers. The available evidence suggests that cataract surgery achieves this in about 90% of patients. While the potential for improvement appears seemingly small, the volume of cataract surgery in the United States (U.S.) of over 2.8 million surgeries means that the impact could affect more than 100,000 patients per year. Ideally, performance on this indicator to be as high as possible, with rates lower than 95% to 100% suggestive of opportunities for improvement.&lt;/p&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ol&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: patient satisfaction within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 4 p.  [4 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lledó R, Rodríguez T, Fontenla JR, Pita D, Prat A, Asenjo MA. Cataract surgery: an analysis of patient satisfaction with medical care. Int Ophthalmol. 1998-1999;22(4):227-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10674867&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lum F, Schachat AP, Jampel HD. The development and demise of a cataract surgery database. Jt Comm J Qual Improv. 2002 Mar;28(3):108-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11902025&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lum F, Schein O, Schachat AP, Abbott RL, Hoskins HD Jr, Steinberg EP. Initial two years of experience with the AAO National Eyecare Outcomes Network (NEON) cataract surgery database. Ophthalmology. 2000 Apr;107(4):691-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10768330&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mozaffarieh M, Krepler K, Heinzl H, Sacu S, Wedrich A. Visual function, quality of life and patient satisfaction after ophthalmic surgery: a comparative study. Ophthalmologica. 2004 Jan-Feb;218(1):26-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14688432&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Eye care; cataract surgery; patient satisfaction&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older in the sample who had cataract surgery (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients 18 years and older in the sample who were satisfied with their care within 90 days following cataract surgery, based on completion of the Consumer Assessment of Healthcare Providers and Systems (CAHPS) Surgical Care Survey (see the related &quot;Numerator Inclusions/Exclusion&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients aged 18 years and older in the sample who had cataract surgery&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients 18 years and older in the sample who were satisfied with their care within 90 days following cataract surgery, based on completion of the Consumer Assessment of Healthcare Providers and Systems (CAHPS) Surgical Care Survey&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;em&gt;Patient Satisfaction&lt;/em&gt;: The strategy for defining patient satisfaction is described as follows. CAHPS scores are actually normative scores, that is, they provide relative rankings rather than absolute rankings (where a score is compared with an 'objective criterion'). Patient satisfaction would be defined as a score above the lowest 5% of scores on the CAHPS. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patient care survey was not completed by patient&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Consumer Assessment of Health Plans and Systems (CAHPS) Surgical Care Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #304: cataracts: patient satisfaction within 90 days following cataract surgery.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Eye Care Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Ophthalmology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;American Academy of Ophthalmology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Eye Care Work Group (&lt;em&gt;specialty&lt;/em&gt;)&lt;/span&gt;:&lt;br /&gt;&#xA;Priscilla P. Arnold, MD (&lt;em&gt;Co-chair&lt;/em&gt;) (ophthalmologist)&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Surgical Management Subgroup&lt;/span&gt;:&lt;br /&gt;&#xA;David Chang, MD (ophthalmologist)&lt;br /&gt;&#xA;Leon W. Herndon, MD (ophthalmologist)&lt;br /&gt;&#xA;Kevin Miller, MD (ophthalmologist)&lt;br /&gt;&#xA;John T. Thompson, MD (ophthalmologist)&lt;/p&gt;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Staff&lt;/span&gt;:&lt;br /&gt;&#xA;Flora Lum, MD, American Academy of Ophthalmology&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Reviewed and updated if appropriate on an annual cycle.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in December 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Academy of Ophthalmology (AAO) at 655 Beach Street, San Francisco, CA 94109; Phone: 415-561-8500; Fax: 415-561-8533; Web site: &lt;a href=&quot;http://www.aao.org&quot; title=&quot;AAO Web site&quot;&gt;www.aao.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 30, 2015. The information was verified by the measure developer on May 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on December 16, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Please contact Debra Marchi at the American Academy of Ophthalmology (AAO), &lt;a href=&quot;mailto:dmarchi@aao.org&quot;&gt;dmarchi@aao.org&lt;/a&gt;, regarding use and reproduction of these measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Ophthalmology (AAO). Cataracts: patient satisfaction within 90 days following cataract surgery. San Francisco (CA): American Academy of Ophthalmology (AAO); 2014 Oct. 4 p.  [4 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

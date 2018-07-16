@@ -1,0 +1,242 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Adult major depressive disorder (MDD): percentage of patients aged 18 years and older with a diagnosis of MDD who had a suicide risk assessment completed during the visit in which a new diagnosis or recurrent episode was identified.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Sep. 40 p.  [18 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of major depressive disorder (MDD) who had a suicide risk assessment completed during the visit in which a new diagnosis or recurrent episode was identified.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Research has shown that more than 90% of people who kill themselves have depression or another diagnosable mental or substance abuse disorder (Conwell &amp;amp; Brent, 1995). Depression is the cause of over two-thirds of the reported suicides in the U.S. each year (Depression and Bipolar Support Alliance, 2010). The intent of this measure is for a clinician to assess suicide risk at initial intake or at visit in which depression was diagnosed. As the guidelines state, it is important to assess for additional factors which may increase or decrease suicide risk, such as presence of additional symptoms (e.g., psychosis, severe anxiety, hopelessness, severe chronic pain); presence of substance abuse, history and seriousness of previous attempts, particularly, recent suicidal behavior, current stressors and potential protective factors (e.g., positive reasons for living, strong social support), family history of suicide or mental illness or recent exposure to suicide, impulsivity and potential for risk to others, including history of violence or violent or homicidal ideas, plans, or intentions, and putting one's affairs in order (e.g., giving away possessions, writing a will). In addition, although the measure focuses on the initial visit, it is critical that suicide risk be monitored especially for the 90 days following the initial visit and throughout major depressive disorder (MDD) treatment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines. Only selected portions of the clinical guidelines are quoted here; for more details, please refer to the full guideline&lt;/strong&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A careful and ongoing evaluation of suicide risk is necessary for all patients with MDD. (American Psychiatric Association [APA], 2010) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Such an assessment includes specific inquiry about suicidal thoughts, intent, plans, means, and behaviors; identification of specific psychiatric symptoms (e.g., psychosis, severe anxiety, substance use) or general medical conditions that may increase the likelihood of acting on suicidal ideas; assessment of past and, particularly, recent suicidal behavior; delineation of current stressors and potential protective factors (e.g., positive reasons for living, strong social support); and identification of any family history of suicide or mental illness. (APA, 2010)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As part of the assessment process, impulsivity and potential for risk to others should also be evaluated, including any history of violence or violent or homicidal ideas, plans, or intentions. (APA, 2010) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The patient's risk of harm to him- or herself and to others should also be monitored as treatment proceeds. (APA, 2010)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Guidelines for Selecting a Treatment Setting for Patients at Risk for Suicide or Suicidal Behaviors (APA, 2003):&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Admission Generally Indicated&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;After a suicide attempt or aborted suicide attempt if:&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patient is psychotic &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Attempt was violent, near-lethal, or premeditated &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Precautions were taken to avoid rescue or discovery &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Persistent plan and/or intent is present &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Distress is increased or patient regrets surviving &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient is male, older than age 45 years, especially with new onset of psychiatric illness or suicidal thinking &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient has limited family and/or social support, including lack of stable living situation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Current impulsive behavior, severe agitation, poor judgment, or refusal of help is evident &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient has change in mental status with a metabolic, toxic, infectious, or other etiology requiring further workup in a structured setting &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;In the presence of suicidal ideation with:&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Specific plan with high lethality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;High suicidal intent &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Admission May Be Necessary&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;[In addition to the list above, these additional circumstances may warrant admission]&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;After a suicide attempt or aborted suicide attempt:&lt;/span&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;In the presence of suicidal ideation with:&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Major psychiatric disorder &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Past attempts, particularly if medically serious &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Possibly contributing medical condition (e.g., acute neurological disorder, cancer, infection) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lack of response to or inability to cooperate with partial hospital or outpatient treatment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for supervised setting for medication trial or electroconvulsive therapy (ECT) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Need for skilled observation, clinical tests, or diagnostic assessments that require a structured setting &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Lack of an ongoing clinician-patient relationship or lack of access to timely outpatient follow-up &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;[Evidence of putting one's affairs in order (e.g., giving away possessions, writing a will)] &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;In the absence of suicide attempts or reported suicidal ideation/plan/intent but evidence from the psychiatric evaluation and/or history from others suggests a high level of suicide risk and a recent acute increase in risk.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Release from Emergency Department with Follow-up Recommendations May Be Possible&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;After a suicide attempt or in the presence of suicidal ideation/plan when:&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Suicidality is a reaction to precipitating events (e.g., exam failure, relationship difficulties), particularly if the patient's view of situation has changed since coming to emergency department &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Plan/method and intent have low lethality &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient has stable and supportive living situation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient is able to cooperate with recommendations for follow-up, with treater contacted, if possible, if patient is currently in treatment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Outpatient Treatment May Be More Beneficial Than Hospitalization&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient has chronic suicidal ideation and/or self-injury without prior medically serious attempts, if a safe and supportive living situation is available and outpatient psychiatric care is ongoing.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Sep. 40 p.  [18 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association. Practice guideline for the assessment and treatment of patients with suicidal behaviors. Arlington (VA): American Psychiatric Association; 2003 Nov. 183 p.  [846 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association. Practice guideline for the treatment of patients with major depressive disorder. Arlington (VA): American Psychiatric Association; 2010 Oct. 152 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Conwell Y, Brent D. Suicide and aging. I: Patterns of psychiatric diagnosis. Int Psychogeriatr. 1995 Summer;7(2):149-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8829424&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Depression and Bipolar Support Alliance. Facts about depression. [internet]. [accessed 2010 Nov 22]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Major depressive disorder (MDD); suicide risk assessment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients aged 18 years and older with a diagnosis of major depressive disorder (MDD) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with a suicide risk assessment completed during the visit in which a new diagnosis or recurrent episode was identified (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Prevalence and Incidence&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Major depressive disorder (MDD) affects approximately 14.8 million American adults, or about 6.7% of the U.S. population aged 18 and older in a given year (National Institute of Mental Health [NIMH], 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;While MDD can develop at any age, the median age at onset is 32 (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;MDD is more prevalent in women than in men (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Depressive disorders are more common among persons with chronic conditions (e.g., obesity, cardiovascular disease, diabetes, asthma, arthritis, and cancer) and among those with unhealthy behaviors (e.g., smoking, physical inactivity, and binge drinking) (Centers for Disease Control and Prevention [CDC], 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Disability&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;MDD is the leading cause of disability in the U.S. for ages 15 to 44 (NIMH, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Suicide&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Research has shown that more than 90% of people who kill themselves have depression or another diagnosable mental or substance abuse disorder (Conwell &amp;amp; Brent, 1995). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Depression is the cause of over two-thirds of the 30,000 reported suicides in the U.S. each year (Depression and Bipolar Support Alliance, 2010) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The suicide rate for older adults is more than 50% higher than the rate for the nation as a whole. Up to two-thirds of older adult suicides are attributed to untreated or misdiagnosed depression (Depression and Bipolar Support Alliance, 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Disparities&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Non-Hispanic blacks, Hispanics, and non-Hispanic persons of other races are more likely to report major depression than non-Hispanic whites, based on responses to the Patient Health Questionnaire 8 (PHQ-8), which covers eight of the nine criteria from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) for diagnosis of major depressive disorder (CDC, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For individuals who experienced a depressive disorder in the past year, 63.7% of Latinos, 68.7% of Asians, and 58.8% of African Americans, compared with 40.2% of non-Latino whites, did not access any mental health treatment in the past year (Alegr&amp;iacute;a et al., 2008). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Special Populations: Geriatrics&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The rate of depression in adults older than 65 years of age ranges from 7% to 36% in medical outpatient clinics and increases to 40% in the hospitalized elderly (Mitchell et al., 2013). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comorbidities are more common in the elderly. The highest rates of depression are found in those with strokes (30% to 60%), coronary artery disease (up to 44%), cancer (up to 40%), Parkinson's disease (40%), and Alzheimer's disease (20% to 40%)](Mitchell et al., 2013). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Similar to other groups, the elderly with depression are more likely than younger patients to underreport depressive symptoms (Mitchell et al., 2013). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Hepner and colleagues (2007) found that primary care physicians (PCPs) assess for suicide only 24% of the time in patients with depression. In the same study, only 28% of PCPs adhered to the quality indicator &quot;Treatment for suicidal ideation among patients not already followed in mental health care&quot; (Hepner et al., 2007). McGlynn and colleagues (2003) found that only 25.8% of PCPs document the presence or absence of suicidal ideation during the first or second diagnostic visit. The same study showed that only 28.9% of patients who have suicidality and have any of the following risk factors: psychosis, current alcohol or drug abuse or dependency, and specific plans to carry out suicide (e.g., obtaining a weapon, putting affairs in order, making a suicide note) are hospitalized (McGlynn. et al., 2003). Additionally, Luoma and colleagues (2002) found that 40% of patients who completed suicide had seen their primary care physician in the past month.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alegría M, Chatterji P, Wells K, Cao Z, Chen CN, Takeuchi D, Jackson J, Meng XL. Disparity in depression treatment among racial and ethnic minority populations in the United States. Psychiatr Serv. 2008 Nov;59(11):1264-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18971402&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Sep. 40 p.  [18 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Current depression among adults---United States, 2006 and 2008. MMWR Morb Mortal Wkly Rep. 2010 Oct 1;59(38):1229-35. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20881934&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Conwell Y, Brent D. Suicide and aging. I: Patterns of psychiatric diagnosis. Int Psychogeriatr. 1995 Summer;7(2):149-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8829424&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Depression and Bipolar Support Alliance. Facts about depression. [internet]. [accessed 2010 Nov 22]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hepner KA, Rowe M, Rost K, Hickey SC, Sherbourne CD, Ford DE, Meredith LS, Rubenstein LV. The effect of adherence to practice guidelines on depression outcomes. Ann Intern Med. 2007 Sep 4;147(5):320-9.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Luoma JB, Martin CE, Pearson JL. Contact with mental health and primary care providers before suicide: a review of the evidence. Am J Psychiatry. 2002 Jun;159(6):909-16. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12042175&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;McGlynn EA, Asch SM, Adams J, Keesey J, Hicks J, DeCristofaro A, Kerr EA. The quality of health care delivered to adults in the United States. N Engl J Med. 2003 Jun 26;348(26):2635-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12826639&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mitchell J, Trangle M, Degnan B, Gabert T, Haight B, Kessler D, Mack N, Mallen E, Novak H, Rossmiller D, Setterlund L, Somers K, Valentino N, Vincent S. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Sep. 129 p.  [334 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Institute of Mental Health (NIMH). The numbers count: mental disorders in America. [internet]. Chicago (IL): National Institute of Mental Health (NIMH); [accessed 2010 Nov 22]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a testing project in 2012 to ensure the &lt;em&gt;Adult Major Depressive Disorder (MDD) Suicide Risk Assessment&lt;/em&gt; measure is reliable and evaluated for accuracy of the measure numerator and denominator case identification. The testing project was conducted utilizing electronic health record data. Parallel forms reliability was tested. Three sites participated in the parallel forms testing of the measure. Site A was a regional extension center comprised of a network of community health centers with 4,065 providers. Site B was a physician-owned private practice in an urban setting. Site C was a non-profit community mental health center with 5 psychiatrists, 30 therapists and 4 nurse practitioners.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Measures Tested&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Adult Major Depressive Disorder (MDD) - Suicide Risk Assessment &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from electronic health records were used to calculate parallel forms reliability for the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing Results&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Parallel Forms Reliability Testing (Site A, B and C)&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There were 120 observations from three sites used for the denominator analysis. The kappa statistic value of 0.80 demonstrates substantial agreement between the automated report and reviewer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Of the 120 observations that were initially selected, 117 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value of 0.37 demonstrates fair agreement between the automated report and reviewer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Reliability: N, % Agreement, Kappa (95% Confidence Interval)&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Denominator: 120, 99.17%, 0.80 (0.40, 1.00)&lt;br /&gt;&#xD;&#xA;Numerator: 117, 66.67%, 0.37 (0.20-0.53)*&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*This is an example of the limitation of the Kappa statistic. While the agreement can be 90% or greater, if one classification category dominates, the Kappa can be significantly reduced (&lt;a href=&quot;http://www.ajronline.org/cgi/content/full/184/5/1391&quot; title=&quot;American Journal of Roentgenology Web site&quot;&gt;http://www.ajronline.org/cgi/content/full/184/5/1391&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Sep. 40 p.  [18 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Behavioral Health Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients aged 18 years and older with a diagnosis of major depressive disorder (MDD)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis for MDD (refer to the original measure documentation for International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] codes [reportable through 9/30/2015]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis for MDD (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes [reportable beginning 10/1/2015]) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Current Procedural Terminology (CPT) codes for encounter (refer to the original measure documentation for CPT codes) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with a suicide risk assessment* completed during the visit in which a new diagnosis or recurrent episode was identified.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Suicide risk assessment must include questions about the following:&lt;/p&gt;&#xD;&#xA;&lt;ol class=&quot;Note&quot; style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Suicidal ideation &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient's intent of initiating a suicide attempt&lt;br /&gt;&#xD;&#xA;    AND, if either is present, &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patient plans for a suicide attempt &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Whether the patient has means for completing suicide &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Report G Code&lt;/em&gt;: G8932: Suicide risk assessed at the initial evaluation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #2: adult major depressive disorder (MDD): suicide risk assessment. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Adult Major Depressive Disorder Physician Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Work Group Members Adult Major Depressive Disorder&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Members&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Richard Hellman, MD, FACP, FACE (&lt;em&gt;Co-Chair&lt;/em&gt;) (endocrinology, methodology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John S. McIntyre, MD, DFAPA, FACPsych (&lt;em&gt;Co-Chair&lt;/em&gt;) (psychiatry, methodology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alan A. Axelson, MD (psychiatry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Stanley Borg, DO (family medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Andrea Bostrom, PhD, PMHCNS-BC (nursing, psychiatric nursing) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gwendolen Buhr, MD, MHS, CMD (geriatrics) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Katherine A. Burson, MS, OTR/L, CPRP (occupational therapy) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mirean Coleman, MSW, LICSW, CT (social work) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Thomas J. Craig, MD, MPH, DLFAPA, FACPM (psychiatry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Allen Doederlein (patient representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Molly Finnerty, MD (psychiatry, methodology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;William E. Golden, MD, FACP (internal medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jerry Halverson, MD (psychiatry, methodology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul R. Keith, MD (health plan representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Clifford K. Moy, MD (psychiatry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John M. Oldham, MD (psychiatry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Shaunte R. Pohl, PharmD, BCPS (pharmaceutical science) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark A. Reinecke, PhD (psychology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Leslie H. Secrest, MD (psychiatry) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Carl A. Sirio, MD (critical care medicine, methodology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Sharon S. Sweede, MD (family medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Roberta Waite, EdD, APRN, CNS-BC (psychiatric nursing, methodology) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Psychiatric Association&lt;/em&gt;: Robert Plovnick, MD, MS; Robert Kunkle, MA; Samantha Shugarman&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Mark Antman, DDS, MBA; Katherine Ast, MSW, LCSW; Keri Christensen, MS; Kendra Hanley, MS; Karen Kmetik, PhD; Molly Siegel, MS; David Marc Small, MS, MPP; Kimberly Smuk, BS, RHIA; Samantha Tierney, MPH; Greg Wozniak, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Adult Major Depressive Disorder Work Group had any disqualifying material interests under the PCPI Conflict of Interest Policy. For a summary of non-disqualifying interests disclosed on Work Group Members' Material Interest Disclosure Statements (not including information concerning family member interests), refer to the original measure documentation. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Feb 28&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Sep" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Physician Consortium for Performance Improvement. Adult major depressive disorder physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 28 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement/pcpi-measures.page?&quot; title=&quot;AMA-PCPI Web site&quot;&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg; Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact AMA at 330 N. Wabash Avenue Suite 39300, Chicago, Ill. 60611; Phone: 312-800-621-8335; Fax: 312-464-5706; E-mail: &lt;a href=&quot;mailto:consortium@ama-assn.org&quot;&gt;consortium@ama-assn.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI on February 26, 2004. The information was verified by the measure developer on October 6, 2004.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on September 28, 2005. The information was verified by the measure developer on November 9, 2005.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on September 19, 2008. The information was verified by the measure developer on November 5, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 7, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on January 27, 2016. The information was verified by the measure developer on February 15, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complete Physician Performance Measurement Sets (PPMS) are published by the American Medical Association, on behalf of the Physician Consortium for Performance Improvement.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Medical Association, Clinical Performance Evaluation, 330 N. Wabash Ave, Chicago, IL 60611.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Adult major depressive disorder performance measurement set. Chicago (IL): American Medical Association (AMA); 2015 Sep. 40 p.  [18 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

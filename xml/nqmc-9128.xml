@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Dental care: percentage of children enrolled in two consecutive years who received at least one dental service in both years who received a comprehensive or periodic oral evaluation as a dental service in both years.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). Dental Quality Alliance user guide for measures calculated using administrative claims data, version 2.0. Chicago (IL): Dental Quality Alliance (DQA); 2016 Jan 1. 27 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). DQA measure specification sheet: care continuity. Chicago (IL): Dental Quality Alliance (DQA); 2013 Jul 19. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children enrolled in two consecutive years who received at least one dental service in both years who received a comprehensive or periodic oral evaluation as a dental service in both years.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;This measure is reported at the &quot;dental&quot; services level. The measure specification can be adapted to include the option to report separate rates for &quot;oral health&quot; services and for &quot;dental OR oral health&quot; services. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Services provided by a dental hygienist would only be counted as a &quot;dental&quot; service if those services are provided under the supervision of a dentist. Services provided by independently practicing dental hygienists and other such providers would be classified as &quot;oral health&quot; services. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The measure can be used for children under age 21 when reporting for Medicaid program. For use within the context of the Public Marketplace, under age 19 will apply. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dental caries is the most common chronic disease in children in the United States. In 2009 to 2010, 14% of children aged 3 to 5 years had untreated dental caries. Among children aged 6 to 9 years, 17% had untreated dental caries, and among adolescents aged 13 to 15, 11% had untreated dental caries. Identifying caries early is important to reverse the disease process, prevent progression of caries, and reduce incidence of future lesions. Approximately three quarters of children younger than age 6 years did not have at least one visit to a dentist in the previous year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). DQA measure specification sheet: care continuity. Chicago (IL): Dental Quality Alliance (DQA); 2013 Jul 19. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dye BA, Li X, Thornton-Evans G. Oral health disparities as determined by selected healthy people 2020 oral health objectives for the United States, 2009-2010. NCHS Data Brief. 2012 Aug;(104):1-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23101968&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Edelstein BL, Chinn CH. Update on disparities in oral health and access to dental care for America's children. Acad Pediatr. 2009 Nov-Dec;9(6):415-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19945076&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Center for Health Statistics. Healthy People 2010 final review. Hyattsville (MD): National Center for Health Statistics; 2012. 560 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dental care; dental caries; oral evaluation; continuity of care; children; adolescents&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unduplicated number of children enrolled in two consecutive years who received a dental service in both years (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unduplicated number of enrolled children who received a comprehensive or periodic oral evaluation as a dental service in both years (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Oral health is essential to the general health and well-being of all Americans. Poor oral health can have a significant impact on children's overall health, growth and development, and learning. Between 1990 and 2009, Medicaid dental expenditures grew from $756.1 million to $7.1 billion, or from 2.4% to 7.0% of total dental expenditures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;According to the Centers for Disease Control and Prevention (CDC), dental caries remains the most common chronic disease of children aged 5 to 17 years&amp;mdash;4 times more common than asthma (59% versus 15%). Ten million United States (U.S.) school age children have untreated decay, and there are profound disparities by race, socioeconomic status and geographic location. The National Health and Nutrition Examination Survey (NHANES) conducted between 1999 and 2004 shows that one in four children aged 2 to 5 years had one or more teeth affected by dental caries (untreated or filled, excluding missing teeth) and one in two children are affected by age 6 to 11 years. One in ten children aged 6 to 8 have dental caries in the permanent dentition (untreated or filled, excluding missing teeth) and one in two children are affected by age 12 to 15 years. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data collected by the Centers for Medicare and Medicaid Services (CMS) indicate a lack of utilization of care at younger ages, lack of early prevention, and lack of adequate use of effective preventive modalities underscoring the need for improvement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). Pediatric oral health quality and performance measures concept set: achieving standardization and alignment. Chicago (IL): Dental Quality Alliance (DQA); 2012. 24 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention, U.S. Department of Health and Human Services. Preventing chronic diseases: investing wisely in health: preventing dental caries with community programs. Atlanta (GA): Centers for Disease Control and Prevention; 2010. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services. Annual EPSDT participation report, fiscal year: 2010. Baltimore (MD): Centers for Medicare &amp; Medicaid Services; 2013. 153 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare &amp; Medicaid Services. National health expenditure data. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services; 2012.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dye BA, Tan S, Smith V, Lewis BG, Barker LK, Thornton-Evans G, Eke PI, Beltrán Aguilar ED, Horowitz AM, Li CH. Trends in oral health status: United States, 1988-1994 and 1999-2004. Vital Health Stat 11. 2007 Apr;(248):1-92. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17633507&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jackson SL, Vann WF, Kotch JB, Pahel BT, Lee JY. Impact of poor oral health on children's school attendance and performance. Am J Public Health. 2011 Oct;101(10):1900-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21330579&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Healthy People 2010. [internet]. Rockville (MD): U.S. Department of Health and Human Services; 2010.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Department of Health and Human Services. Oral health in America: a report of the Surgeon General. Rockville (MD): U.S. Department of Health and Human Services, National Institute of Dental and Craniofacial Research, National Institutes of Health; 2000 Sep. 308 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In 2012, the Dental Quality Alliance (DQA) proposed a Starter Set of Pediatric Oral Health Performance Measures that could be calculated using administrative data. A multidisciplinary research team at the University of Florida was selected to conduct feasibility, reliability and validity testing of the measures through a competitive request for proposal (RFP) process. Testing processes followed guidance on quality measure scientific acceptability from the National Quality Forum. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For additional details regarding measure testing, including methodology and outcomes, refer to &lt;em&gt;Testing Pediatric Oral Health Performance Measures in the Florida and Texas Medicaid and CHIP Programs&lt;/em&gt; (see also the &quot;Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dental Quality Alliance. Dental Quality Alliance measure activities. [internet]. Chicago (IL): Dental Quality Alliance; 2013&amp;nbsp;[accessed 2013 Jul 28]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dental Quality Alliance. Request for proposals to establish feasibility, reliability and validity of implementation of claims based pediatric oral health measures developed by the Dental Quality Alliance. Chicago (IL): Dental Quality Alliance; 2012. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Herndon JB. Testing pediatric oral health performance measures in the Florida and Texas Medicaid and CHIP programs. Chicago (IL): Dental Quality Alliance (DQA); 2013 Aug. 25 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Managed Care Plans" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Age less than 21 years for Medicaid programs &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age less than 19 years for Public Marketplaces &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Equity" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The reporting year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Enrollees or beneficiaries" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unduplicated number of children enrolled in two consecutive years who received a dental service in both years&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Child is continuously enrolled for at least 180 days in each year (i.e., 180 days in the reporting year AND 180 days in the prior year). Continuous enrollment for measures with 180 day (6 month) enrollment criteria requires that there be no gap in coverage. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Check if subject received any dental service in the reporting year AND the prior year:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Service Code = D0100 - D9999 in the reporting year AND the prior year and; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Provider Taxonomy Code = any of the National Uniform Claim Committee (NUCC) maintained Provider Taxonomy Codes in Table 2 of the original measure documentation in the reporting year AND the prior year. &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for codes and additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Individuals not eligible for dental benefits. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If age criterion is not met or there are missing or invalid field codes (e.g., date of birth), the enrollee does not get counted in the denominator. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All claims with missing or invalid Service Code, missing or invalid NUCC maintained Provider Taxonomy Codes, or NUCC maintained Provider Taxonomy Codes that do not appear in Table 1 of the original measure documentation should be excluded. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unduplicated number of enrolled children who received a comprehensive or periodic oral evaluation as a dental service in both years&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Check if subject received oral evaluation as a dental service in each year:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Service Code = D0120 or D0150 or D0145 in the reporting year AND in the prior year &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At least one claim for oral evaluation in the reporting year AND in the prior year must be with a provider whose Provider Taxonomy Code = any of the National Uniform Claim Committee (NUCC) maintained Provider Taxonomy Codes in Table 1 of the original measure documentation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for codes and additional information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Dental Quality Alliance (DQA) encourages the measure results to be stratified by the following:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Race &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ethnicity &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Geographic location &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Socioeconomic status &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Payer type &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Program/plan type &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Such stratifications will enable implementers to identify variations in care by child and program characteristics, which can be used to inform quality improvement initiatives.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To stratify the measure results, the denominator population is divided into different subsets based on different characteristics of interest (e.g., age, race/ethnicity, geographic location, etc.) and the rates are reported for each sub-population.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Care continuity (DEN 2).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Dental Caries in Children: Prevention &amp;amp; Disease Management" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Dental Quality Alliance - Health Care Quality Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Dental Quality Alliance - Health Care Quality Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Dental Quality Alliance with support from the American Dental Association Foundation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dental Quality Alliance (DQA) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To ensure that a collaborative and balanced approach is followed, the Dental Quality Alliance (DQA) requests that all individuals nominated to the Research &amp;amp; Development (R&amp;amp;D) Committee and its Workgroups complete a standard conflict of interest form.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Disclosed conflicts are not confidential. Unless the individual is disqualified to serve, his or her disclosures will be shared with the other members and be published with the report. Disclosure allows the DQA to maintain a transparent process and convene a balanced group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For additional information on conflict of interest procedures, refer to &lt;em&gt;Procedure Manual for Performance Measure Development: A Voluntary Consensus Process&lt;/em&gt; (see also the &quot;Companion Documents&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ada.org/~/media/ADA/Science%20and%20Research/Files/DQA_2016_User_Guide.pdf?la=en&quot; title=&quot;ADA Web site&quot;&gt;American Dental Association (ADA) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ADA at 211 E. Chicago Ave, Chicago, IL 60611; Phone: 312-440-2500; Web site: &lt;a href=&quot;http://www.ada.org&quot; title=&quot;ADA Web site&quot;&gt;www.ada.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;American Dental Association (ADA). Procedure manual for performance measure development: a voluntary consensus process. Chicago (IL): Dental Quality Alliance (DQA); 2013 Apr 23. 36 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Herndon JB. Testing pediatric oral health performance measures in the Florida and Texas Medicaid and CHIP programs. Chicago (IL): Dental Quality Alliance (DQA); 2013 Aug. 25 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 26, 2014. The information was verified by the measure developer on April 4, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 28, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). Dental Quality Alliance user guide for measures calculated using administrative claims data, version 2.0. Chicago (IL): Dental Quality Alliance (DQA); 2016 Jan 1. 27 p.  [26 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Dental Association (ADA). DQA measure specification sheet: care continuity. Chicago (IL): Dental Quality Alliance (DQA); 2013 Jul 19. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

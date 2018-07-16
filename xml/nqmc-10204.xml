@@ -1,0 +1,244 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Diagnostic imaging: percentage of final reports for procedures using fluoroscopy that include radiation exposure indices, or exposure time and number of fluorographic images (if radiation exposure indices are not available).&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), National Committee for Quality Assurance (NCQA). Diagnostic imaging performance measurement set. Reston (VA): American College of Radiology (ACR); 2015 Feb. 58 p.  [89 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of final reports for procedures using fluoroscopy that include radiation exposure indices, or exposure time and number of fluorographic images (if radiation exposure indices are not available).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Increasing physician awareness of patient exposure to radiation is an important step towards reducing the potentially harmful effects of radiation as a result of imaging studies. One study by Darling et al. (2011) found a significant correlation between documentation of fluoroscopy time by the radiologist in the dictated radiology report and reduced overall fluoroscopy time. Additional studies demonstrate that providing physicians with feedback regarding their fluoroscopy time leads to a reduction in average fluoroscopy times (Ngo et al., 2011; Ritter et al., 2013). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The following evidence statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines and other references&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All available radiation dose data should be recorded in the patient's medical record. If cumulative air kerma (Ka,r) or air kerma-area-product (PKA) data are not available, the fluoroscopic exposure time and the number of acquired images (radiography, cine, or digital subtraction angiography) should be recorded in the patient's medical record. (American College of Radiology [ACR], 2013).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the present, and for the purpose of this guideline, adequate recording of dose metrics is defined as documentation in the patient record of at least one of the following for all interventional procedures requiring fluoroscopy (in descending order of desirability): skin dose mapping, peak skin dose (PSD), Ka,r, PKA, and fluoroscopic time/number of fluorographic images. Note, however, that this is adequate recording; this document recommends recording of all available dose metrics (Miller et al., 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;ACR should now encourage practices to record actual fluoroscopy time for all fluoroscopic procedures. The fluoroscopy time for various procedures (e.g., upper gastrointestinal, pediatric voiding cystourethrography, diagnostic angiography) should then be compared with benchmark figures...More complete patient radiation dose data should be recorded for all high-dose interventional procedures, such as embolizations, transjugular intrahepatic portosystemic shunts, and arterial angioplasty or stent placement anywhere in the abdomen and pelvis (Amis et al., 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Measure &amp;amp; record patient radiation dose:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Record fluoroscopy time &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Record available measures &amp;ndash; dose area product (DAP), cumulative dose, skin dose (National Cancer Institute [NCI], 2005). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Association of Physicists in Medicine (AAPM). ACR-AAPM technical standard for management of the use of radiation in fluoroscopic procedures. Reston (VA): American College of Radiology (ACR); 2013. 13 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), National Committee for Quality Assurance (NCQA). Diagnostic imaging performance measurement set. Reston (VA): American College of Radiology (ACR); 2015 Feb. 58 p.  [89 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Amis ES Jr, Butler PF, Applegate KE, Birnbaum SB, Brateman LF, Hevezi JM, Mettler FA, Morin RL, Pentecost MJ, Smith GG, Strauss KJ, Zeman RK, American College of Radiology. American College of Radiology white paper on radiation dose in medicine. J Am Coll Radiol. 2007 May;4(5):272-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17467608&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Darling S, Sammer M, Chapman T, Parisi MT. Physician documentation of fluoroscopy time in voiding cystourethrography reports correlates with lower fluoroscopy times: a surrogate marker of patient radiation exposure. AJR Am J Roentgenol. 2011 Jun;196(6):W777-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21606268&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miller DL, Balter S, Dixon RG, Nikolic B, Bartal G, Cardella JF, Dauer LT, Stecker MS, Society of Interventional Radiology Standards of Practice Committee. Quality improvement guidelines for recording patient radiation dose in the medical record for fluoroscopically guided procedures. J Vasc Interv Radiol. 2012 Jan;23(1):11-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22057151&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Cancer Institute (NCI). Interventional fluoroscopy: reducing radiation risks for patients and staff. [internet]. Bethesda (MD): National Cancer Institute (NCI); 2005.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ngo TC, Macleod LC, Rosenstein DI, Reese JH, Shinghal R. Tracking intraoperative fluoroscopy utilization reduces radiation exposure during ureteroscopy. J Endourol. 2011 May;25(5):763-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21388241&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ritter M, Siegel F, Krombach P, Martinschek A, Weiss C, Häcker A, Pelzer AE. Influence of surgeon's experience on fluoroscopy time during endourological interventions. World J Urol. 2013 Feb;31(1):183-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22885617&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Fluoroscopy procedures; radiation exposure indices; exposure time; fluorographic images&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All final reports for procedures using fluoroscopy (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Final reports for procedures using fluoroscopy that include radiation exposure indices, or exposure time and number of fluorographic images (if radiation exposure indices are not available) (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Importance of Topic&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;As imaging technology continues to advance, the United States healthcare system has seen an increase in both the type and frequency of imaging studies being performed. The increase in utilization of imaging studies is accompanied by a corresponding increase in cost and exposure to radiation for both patients and healthcare professionals. &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;From 1980 to 2006, the number of radiologic procedures performed in the United States showed a ten-fold increase while the annual per-capita effective dose from radiologic and nuclear medicine procedures increased by 600% (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;From 1996 to 2010, the number of computerized tomographic (CT) examinations tripled, while the number of ultrasounds nearly doubled (Smith-Bindman et al., 2012). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;From 1996 to 2010, advanced diagnostic imaging (i.e., CT, magnetic resonance imaging [MRI], nuclear medicine, and ultrasound) accounted for approximately 35% of all imaging studies (Smith-Bindman et al., 2012). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;From 1980 to 2006, the proportion of radiation exposure that is attributable to medical sources increased from 17% to 53% (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2006, while CT scans only accounted for approximately 17% of all radiologic procedures performed in the United States, they accounted for over 65% of the total effective radiation dose from radiologic procedures (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2006, the estimated per-capita effective radiation dose for radiologic procedures in the United States was nearly 20% higher than the average for other well-developed countries (Mettler et al., 2009). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Diagnostic imaging was prioritized as a topic area for measure development due to a high level of utilization, rising costs, and the need for measures to help promote appropriate use of imaging and improve outcomes. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Opportunity for Improvement&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Studies have demonstrated a general lack of awareness among physicians and radiologists of the relative doses of various imaging studies (Lee et al., 2004; Puri et al., 2012; Thomas et al., 2006). In one study by Lee et al. (2004), only 22% of emergency department physicians and 13% of radiologists were able to give an accurate estimate of the radiation dose of a CT scan as compared to a chest radiograph. Additionally, studies (Ritter et al., 2013; Jorgensen et al., 2010; Kim et al., 2010; Kim et al., 2011; Uradomo, Lustberg, &amp;amp; Darwin, 2006) have shown that fluoroscopy time for a given imaging study varies from physician to physician based on a variety of factors including gender and level of experience. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), National Committee for Quality Assurance (NCQA). Diagnostic imaging performance measurement set. Reston (VA): American College of Radiology (ACR); 2015 Feb. 58 p.  [89 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jorgensen JE, Rubenstein JH, Goodsitt MM, Elta GH. Radiation doses to ERCP patients are significantly lower with experienced endoscopists. Gastrointest Endosc. 2010 Jul;72(1):58-65. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20421102&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kim E, McLoughlin M, Lam EC, Amar J, Byrne M, Telford J, Enns R. Prospective analysis of fluoroscopy duration during ERCP: critical determinants. Gastrointest Endosc. 2010 Jul;72(1):50-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20620272&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kim E, McLoughlin M, Lam EC, Amar J, Byrne M, Telford J, Enns R. Retrospective analysis of radiation exposure during endoscopic retrograde cholagiopancreatography: critical determinants. Can J Gastroenterol. 2011 Oct;25(10):555-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22059160&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lee CI, Haims AH, Monico EP, Brink JA, Forman HP. Diagnostic CT scans: assessment of patient, physician, and radiologist awareness of radiation dose and possible risks. Radiology. 2004 May;231(2):393-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15031431&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mettler FA, Bhargavan M, Faulkner K, Gilley DB, Gray JE, Ibbott GS, Lipoti JA, Mahesh M, McCrohan JL, Stabin MG, Thomadsen BR, Yoshizumi TT. Radiologic and nuclear medicine studies in the United States and worldwide: frequency, radiation dose, and comparison with other radiation sources--1950-2007. Radiology. 2009 Nov;253(2):520-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19789227&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Puri S, Hu R, Quazi RR, Voci S, Veazie P, Block R. Physicians' and midlevel providers' awareness of lifetime radiation-attributable cancer risk associated with commonly performed CT studies: relationship to practice behavior. Am J Roentgenol. 2012 Dec;199(6):1328-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23169726&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ritter M, Siegel F, Krombach P, Martinschek A, Weiss C, Häcker A, Pelzer AE. Influence of surgeon's experience on fluoroscopy time during endourological interventions. World J Urol. 2013 Feb;31(1):183-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22885617&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith-Bindman R, Miglioretti DL, Johnson E, Lee C, Feigelson HS, Flynn M, Greenlee RT, Kruger RL, Hornbrook MC, Roblin D, Solberg LI, Vanneman N, Weinmann S, Williams AE. Use of diagnostic imaging studies and associated radiation exposure for patients enrolled in large integrated health care systems, 1996-2010. JAMA. 2012 Jun 13;307(22):2400-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22692172&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thomas KE, Parnell-Parmley JE, Haidar S, Moineddin R, Charkot E, Ben-David G, Krajewski C. Assessment of radiation dose awareness among pediatricians. Pediatr Radiol. 2006 Aug;36(8):823-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16699764&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Uradomo LT, Lustberg ME, Darwin PE. Effect of physician training on fluoroscopy time during ERCP. Dig Dis Sci. 2006 May;51(5):909-14.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a measure testing project in 2011 with Telligen to ensure four radiology measures were reliable and evaluated for accuracy of the measure numerator, denominator, and exception case identification. The testing project was conducted utilizing electronic health record data and claims data. Inter-rater reliability was tested. Three sites in three states participated in the testing of the measures. All three sites were in urban settings. Site A was a group practice with 10 physicians. Site B was a hospital-based group practice with 90 physicians. Site C was a hospital-based practice with greater than 1000 physicians.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from chart records were used to calculate inter-rater reliability for the measures. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Some of the measures in this set are being made available without any prior testing. The PCPI recognizes the importance of testing all of its measures and encourages testing of the diagnostic imaging measurement set for feasibility and reliability by organizations or individuals positioned to do so. The &lt;em&gt;Measure Testing Protocol for PCPI Measures&lt;/em&gt; was approved by the PCPI in 2010 and is available on the PCPI Web site (see Position Papers at &lt;a href=&quot;http://www.physicianconsortium.org&quot; title=&quot;PCPI Web site&quot;&gt;www.physicianconsortium.org&lt;/a&gt;); interested parties are encouraged to review this document and to contact PCPI staff. The PCPI will welcome any opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), National Committee for Quality Assurance (NCQA). Diagnostic imaging performance measurement set. Reston (VA): American College of Radiology (ACR); 2015 Feb. 58 p.  [89 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Long-term Care Facilities - Other" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All final reports for procedures using fluoroscopy&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;em&gt;Final Report&lt;/em&gt;: The final report of the fluoroscopy procedure or fluoroscopy guided procedure includes the final radiology report, definitive operative report, or other definitive procedure report that is communicated to the referring physician, primary care physician, followup care team, and/or maintained in the medical record of the performing physician outside the electronic health record (EHR) or other medical record of the facility in which the procedure is performed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Final reports for procedures using fluoroscopy that include radiation exposure indices, or exposure time and number of fluorographic images (if radiation exposure indices are not available)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Radiation Exposure Indices&lt;/em&gt;: For the purposes of this measure, radiation exposure indices should, if possible, include at least one of the following:&#xD;&#xA;    &lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;Skin dose mapping &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Peak skin dose (PSD) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Reference air kerma (K&lt;sub&gt;a,r&lt;/sub&gt;) &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Kerma-area product (PKA) &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;p&gt;If the fluoroscopic equipment does not automatically provide any of the above radiation exposure indices, exposure time and the number of fluorographic images taken during the procedure may be used.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Documentation&lt;/em&gt;: Information populating the final report may reside in a dedicated field in the electronic health record (EHR) or picture archiving and communication system (PACS), however fluoroscopy exposure dose or time should be included in the final report in order to be readily accessible in all circumstances &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Image Count&lt;/em&gt;: Only images that require additional exposure to ionizing radiation, not those that are captured electronically from the imaging chain without additional exposure, should be counted. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Imaging data" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #4: exposure reported for procedures using fluoroscopy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Diagnostic Imaging Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American College of Radiology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American College of Radiology - Medical Specialty Society" />
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Diagnostic Imaging Measure Development Work Group Members&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;William Golden, MD (&lt;em&gt;Co-chair&lt;/em&gt;) (internal medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David Seidenwurm (&lt;em&gt;Co-chair&lt;/em&gt;) (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Michael Bettmann, MD &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dorothy Bulas, MD (pediatric radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rubin I. Cohen, MD, FACP, FCCP, FCCM &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Richard T. Griffey, MD, MPH (emergency medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Eric J. Hohenwalter, MD (vascular interventional radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Deborah Levine, MD, FACR (radiology/ultrasound) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark Morasch, MD (vascular surgery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul Nagy, MD, PhD (radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mark R. Needham, MD, MBA (family medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hoang D. Nguyen (diagnostic radiology/payer representative) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Charles J. Prestigiacomo, MD, FACS (neurosurgery) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;William G. Preston, MD, FAAN (neurology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Pyatt, Jr., MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Rosenberg, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;David A. Rubin, MD (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;B Winfred (B.W.) Ruffner, MD, FACP (medical oncology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Frank Rybicki, MD, PhD, FAHA (diagnostic radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cheryl A. Sadow, MD (radiology) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;John Schneider, MD, PhD (internal medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gary Schultz, DC, DACR (chiropractic) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Paul R. Sierzenski, MD, RDMS (emergency medicine) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Michael Wasylik, MD (orthopedic surgery) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diagnostic Imaging Measure Development Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American College of Radiology&lt;/em&gt;: Judy Burleson, MHSA; Alicia Blakey, MS &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association-convened Physician Consortium for Performance Improvement&lt;/em&gt;: Mark Antman, DDS, MBA; Kathleen Blake, MD, MPH; Kendra Hanley, MS; Toni Kaye, MPH; Marjorie Rallins, DPM; Kimberly Smuk, RHIA; Samantha Tierney, MPH; Stavros Tsipas, MA &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Committee for Quality Assurance&lt;/em&gt;: Mary Barton, MD &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Diagnostic Imaging Work Group had any disqualifying material interest under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Feb" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is reviewed and updated every 3 years.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2018&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American College of Radiology, Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Radiology physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 45 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.acr.org/~/media/ACR/Documents/PDF/QualitySafety/Quality%20Measurement/Performance%20Measures/DiagnosticImagingMeasureSet2015.pdf&quot; title=&quot;ACR Web site&quot;&gt;American College of Radiology (ACR) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ACR at 1891 Preston White Drive, Reston, VA 20191; Phone: 703-648-8900; E-mail: &lt;a href=&quot;mailto:info@acr.org&quot;&gt;info@acr.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.acr.org/&quot; title=&quot;ACR Web site&quot;&gt;www.acr.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on February 1, 2008. The information was verified by the measure developer on April 10, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on April 23, 3009. The information was verified by the measure developer on September 16, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 10, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stewardship for this measure was transferred from the PCPI to the ACR. ACR informed NQMC that this measure was updated. This NQMC summary was updated again by ECRI Institute on October 13, 2015. The information was verified by the measure developer on November 19, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&amp;copy;2014 American Medical Association (AMA) and American College of Radiology (ACR). All Rights Reserved. CPT&amp;reg; Copyright 2004 to 2013 American Medical Association.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Radiology (ACR), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), National Committee for Quality Assurance (NCQA). Diagnostic imaging performance measurement set. Reston (VA): American College of Radiology (ACR); 2015 Feb. 58 p.  [89 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

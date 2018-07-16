@@ -1,0 +1,233 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospice experience: percentage of caregivers who reported that they got emotional and religious support.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). CAHPS® Hospice Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of caregivers who reported that they got emotional and religious support.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The &quot;Getting Emotional and Religious Support&quot; composite measure is based on three questions on the CAHPS Hospice Survey that ask caregivers how much (&quot;Too little,&quot; &quot;Right amount,&quot; &quot;Too much&quot;): &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;While your family member was in hospice care, how much emotional support did you get from the hospice team? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In the weeks after your family member died, how much emotional support did you get from the hospice team? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Support for religious or spiritual beliefs includes talking, praying, quiet time, or other ways of meeting your religious or spiritual needs. While your family member was in hospice care, how much support for your religious and spiritual beliefs did you get from the hospice team? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The CAHPS Hospice Survey is used to assess the experiences reported by the informal caregivers (i.e., family members or friends) of patients who died while under hospice care. Hospices served an estimated 1.6 to 1.7 million patients in the United States in 2014, the vast majority of which are paid for by Medicare (National Hospice and Palliative Care Organization [NHPCO], 2015). Hospice use has steadily increased since the Medicare benefit was first established in 1982. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The survey asks informal caregivers about communication with the hospice team, timeliness of care, respect, emotional and spiritual support, symptom management, and hospice care training, domains that are critical to high-quality hospice care and that have been identified to be important to hospice patients and their families. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The CAHPS Hospice Survey is part of a family of CAHPS surveys that focuses on patient or caregiver experiences with health care. The CAHPS Hospice Survey presents primary caregivers (as identified by hospices) with a set of standardized questions about the hospice care they and their family member or friend received. The survey and associated methodology is intended to create reliable and valid data about hospice experiences that can be published on the web to help families choose hospices for their family members or friends, and to create incentives for quality improvement among hospice providers. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). National Quality Measures Clearinghouse measure submission form: CAHPS® Hospice Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Jun 13. 8 p.  [1 reference]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Hospice and Palliative Care Organization (NHPCO). NHPCO's facts and figures: hospice care in America, 2015 edition. Alexandria (VA): National Hospice and Palliative Care Organization (NHPCO); Sep 2015. 17 p.  [5 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospice care; patient experience; caregiver experience; emotional and religious support&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of respondents who answered the questions included in the &quot;Getting Emotional and Religious Support&quot; measure on the CAHPS Hospice Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of respondents who answered &quot;Right Amount&quot; to the questions included in the &quot;Getting Emotional and Religious Support&quot; measure (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="Focus groups" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In September 2012, the Centers for Medicare &amp;amp; Medicaid Services (CMS) entered into a contract with the RAND Corporation to design and field-test a future Consumer Assessment of Healthcare Providers and Systems (CAHPS&amp;reg;) survey to measure the experiences that patients and their caregivers have had with hospice care. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;As part of the development process for the CAHPS Hospice Survey, they conducted formative research including an environmental scan, focus groups, and individual interviews with primary caregivers of deceased hospice patients. The goal of the formative research was to determine elements of hospice care that were important to both patients and caregivers. Based on all of these inputs, a set of questions was developed and tested in cognitive interviews. CMS tested these questions and refined the list of items, and then conducted a field test. The field test included three similar versions of the survey which were differentiated by hospice care setting: 1. home, 2. nursing home and 3. in-patient setting (acute care hospital or freestanding hospice inpatient unit).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;After the field test, the questionnaires were re-evaluated statistically and with additional cognitive testing. The setting-specific questions were consolidated into a single questionnaire for all settings that includes some setting-specific items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For additional information, refer to the &lt;em&gt;&lt;a href=&quot;http://www.hospicecahpssurvey.org/globalassets/hospice-cahps3/home-page/hospice_field_test_report_2014.pdf&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;Hospice Experience of Care Survey Development and Field Test Report&lt;/a&gt;&lt;/em&gt;. In this report, the developer briefly summarizes the work that they conducted to develop and field-test the new survey, referred to as the Hospice Experience of Care Survey during the field test and being implemented nationally as the CAHPS Hospice Survey beginning in 2015. The developer provides an overview of the survey development process, describes the field test design and procedures, presents analytic methods and findings from the field test, and discusses the implications of those findings for the final survey instrument for national implementation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;CMS submitted measures derived from the CAHPS Hospice Survey to the National Quality Forum (NQF) in spring 2016. As part of the NQF submission, CMS tested the measures' reliability and validity using data from 2,512 hospices that submitted data for Quarter 2 2015 national implementation. In October 2016, NQF endorsed the CAHPS Hospice Survey measures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). National Quality Measures Clearinghouse measure submission form: CAHPS® Hospice Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 Jun 13. 8 p.  [1 reference]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Price RA, Quigley DD, Bradley MA, Teno JM, Parast L, Elliott MN, Haas AC, Stucky BD, Mingura BE, Lorenz K. Hospice experience of care survey - development and field test. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2014. 53 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Assisted Living Facilities" />
+      <FieldValue Value="Home Care" />
+      <FieldValue Value="Hospices" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarterly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of respondents who answered the questions included in the &quot;Getting Emotional and Religious Support&quot; measure on the CAHPS Hospice Survey&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The denominator is restricted to the primary caregivers of patients who died while under hospice care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Cases are excluded from the survey target population if: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The hospice patient is still alive &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent's age at death was less than 18 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent died within 48 hours of his/her last admission to hospice care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent had no caregiver of record &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent had a caregiver of record, but the caregiver does not have a United States (U.S.) or U.S. Territory home address &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent had no caregiver other than a non-familial legal guardian &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The decedent or caregiver requested that they not be contacted (i.e., by signing a no publicity request while under the care of hospice or otherwise directly requesting not to be contacted) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The caregiver is institutionalized, has mental/physical incapacity, has a language barrier, or is deceased &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The caregiver reports on the survey that he or she &quot;never&quot; oversaw or took part in decedent's hospice care &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of respondents who answered &quot;Right Amount&quot; to the questions included in the &quot;Getting Emotional and Religious Support&quot; measure &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;CAHPS Hospice Survey measures are calculated using &quot;top box&quot; scoring. For the multi-question measures, the &quot;top box&quot; numerator is the number of respondents who selected the most positive response categories for the questions. If a survey respondent does not respond to a question for which he or she is eligible, a score is not calculated for that respondent for that question. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For questions using a &quot;Too Little/Right Amount/Too Much&quot; response scale, the most positive response category is &quot;Right Amount.&quot; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;From the responses, a composite score is calculated in which a higher score indicates better quality. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CAHPS&amp;reg; Hospice Survey&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The CAHPS Hospice Survey results are adjusted for the effects of both mode of survey administration and case mix.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Adjusting for Mode of Survey Administration&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Hospices participating in national implementation of the CAHPS Hospice Survey may choose from one of three modes of survey administration: Mail Only, Telephone Only, or Mixed Mode (mail with telephone follow-up). CMS conducted a randomized mode experiment in 2015 to assess the effect of mode on response rates and response patterns, and to determine whether survey mode adjustments were needed to fairly compare CAHPS Hospice Survey results for hospices that used different modes of data collection. The experiment found significant effects of survey mode on responses to several outcomes; therefore, to ensure fair comparisons across hospices, CAHPS Hospice Survey scores must be adjusted for mode of survey administration, which can affect scores but is not related to quality of hospice care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Adjusting for Case Mix&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;To ensure that comparisons between hospices reflect differences in performance rather than differences in patient and/or caregiver characteristics, the Centers for Medicare and Medicaid Services (CMS) adjust responses for &quot;case mix&quot; (i.e., variations of such characteristics across hospices). The case-mix adjustment model includes the following variables:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Response percentile (calculated by ranking lag time&amp;mdash;that is, days between death and survey response&amp;mdash;among respondents for each hospice in each month, then dividing by total sample size) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Decedent age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Payer for hospice care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Primary diagnosis &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Length of final episode of hospice care &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Respondent age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Respondent education &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Relationship of decedent to caregiver &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Language &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Refer to the &lt;a href=&quot;http://www.hospicecahpssurvey.org/en/scoring-and-analysis/&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;CAHPS Hospice Survey Web site&lt;/a&gt; for more information regarding case-mix adjustment, including the case-mix adjustment factors for each CAHPS Hospice Survey measure for each quarter.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Getting emotional and religious support.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="CAHPS Hospice Survey" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RAND Corporation - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Centers for Medicare &amp;amp; Medicaid Services' (CMS) contractor for the effort was RAND Corporation with their subcontractors, Health Services Advisory Group and Brown University. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Oct 26&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2017 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure updates a previous version: Centers for Medicare and Medicaid Services (CMS). CAHPS&amp;reg; Hospice Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2016 May. 36 p.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available electronically from the &lt;a href=&quot;http://www.hospicecahpssurvey.org/en/survey-instruments/&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;CAHPS Hospice Survey Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the CAHPS Hospice Survey Project Team at E-mail: &lt;a href=&quot;mailto:hospicecahpssurvey@HCQIS.org&quot;&gt;hospicecahpssurvey@HCQIS.org&lt;/a&gt;; Phone: 1-844-472-4621; Web site: &lt;a href=&quot;http://www.hospicecahpssurvey.org/en/&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;www.hospicecahpssurvey.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospice compare: a quality tool provided by Medicare. [internet]. Washington (DC): U.S. Department of Health and Human Services; [accessed 2018 Mar 15]. Available from the &lt;a href=&quot;https://www.medicare.gov/hospicecompare/&quot; title=&quot;Medicare Web site&quot; target=&quot;_blank'&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). Case-mix adjustments for Q2 2015 - Q1 2017: publicly reported CAHPS Hospice Survey results. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Nov 21. 28 p. Available from the &lt;a href=&quot;http://www.hospicecahpssurvey.org/globalassets/hospice-cahps/scoring-and-analysis/cahps-hospice-survey-case-mix-adjustments-for-public-reporting-2017q1_nov-2017.pdf&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;CAHPS Hospice Survey Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). Calculating CAHPS&amp;reg; Hospice Survey top-box scores. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Nov 21. 8 p. Available from the &lt;a href=&quot;http://www.hospicecahpssurvey.org/globalassets/hospice-cahps/scoring-and-analysis/steps-for-scoring-cahps-hospice-survey-measures--2017q1-_nov-2017.pdf&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;CAHPS Hospice Survey Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Centers for Medicare and Medicaid Services (CMS). CAHPS&amp;reg; Hospice Survey quality assurance guidelines. Version 4.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Sep. 656 p. Available from the &lt;a href=&quot;http://www.hospicecahpssurvey.org/globalassets/hospice-cahps/quality-assurance-guidelines/cahps-hospice-survey-quality-assurance-guidelines-v4.0_september-2017.pdf&quot; title=&quot;CAHPS Hospice Survey Web site&quot;&gt;CAHPS Hospice Survey Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 9, 2016. The information was verified by the measure developer on October 4, 2016. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on March 20, 2018. The information was verified by the measure developer on April 19, 2018. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). CAHPS® Hospice Survey. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2017 Dec. 36 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

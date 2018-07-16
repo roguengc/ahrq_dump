@@ -1,0 +1,229 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Prostate cancer: percentage of patients, regardless of age, with a diagnosis of prostate cancer at high or very high risk of recurrence, receiving external beam radiotherapy to the prostate who were prescribed adjuvant hormonal therapy (GnRH agonist or antagonist).&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Urological Association (AUA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Prostate cancer physician performance measurement set. Linthicum (MD): American Urological Association (AUA); 2014 Nov. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, with a diagnosis of prostate cancer at high or very high risk of recurrence, receiving external beam radiotherapy to the prostate who were prescribed adjuvant hormonal therapy (GnRH [gonadotropin-releasing hormone] agonist or antagonist).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;If receiving external beam radiotherapy as primary therapy, prostate cancer patients with a high or very high risk of recurrence should also be prescribed hormonal therapy, which has been shown to increase the effectiveness of the radiotherapy and may also prolong survival.*&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*The following clinical recommendation statements are quoted &lt;span style=&quot;text-decoration: underline;&quot;&gt;verbatim&lt;/span&gt; from the referenced clinical guidelines and represent the evidence base for the measure:&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;When counseling patients regarding treatment options, physicians should consider the following:&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;Based on results of two randomized controlled clinical trials, the use of adjuvant and concurrent hormonal therapy may prolong survival in the patient who has opted for radiotherapy (Thompson et al., 2007).&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;High risk patients who are considering specific treatment options should be informed of findings of recent high quality clinical trials, including that for those considering external beam radiotherapy, use of hormonal therapy combined with conventional radiotherapy may prolong survival (Thompson et al., 2007).&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;Men with prostate cancer that is clinically localized stage T3a, Gleason score 8 to 10, or prostate-specific antigen (PSA) level greater than 20 ng/mL are categorized by the National Comprehensive Cancer Network (NCCN) guidelines panel as high risk. Patients with multiple adverse factors may be shifted into the very high-risk category. The preferred treatment is external beam radiation therapy (EBRT) in conjunction with 2 to 3 years of androgen deprivation therapy (ADT) (category 1); ADT alone is insufficient. In particular, patients with low-volume, high-grade tumor warrant aggressive local radiation combined with typically 2 or 3 years of ADT. The combination of EBRT and brachytherapy, with or without ADT (typically 2 or 3 years), is another primary treatment option. However, the optimal duration of ADT in this setting remains unclear. (NCCN, 2015). &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;Patients at very high risk (locally advanced) are defined by the NCCN guidelines as those with clinical stage T3b to T4, primary Gleason pattern 5, or more than 4 cores with Gleason score 8 to 10. The options for this group include: 1) EBRT and long-term ADT (category 1); 2) EBRT plus brachytherapy with or without long-term ADT; 3) radical prostatectomy plus (Pelvic lymph node dissection [PLND]) in selected patients with no fixation to adjacent organs; or 4) ADT for patients not eligible for definitive therapy. (NCCN, 2015).&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: All aforementioned NCCN guideline recommendation statements are category 2A unless otherwise specified. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Urological Association (AUA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Prostate cancer physician performance measurement set. Linthicum (MD): American Urological Association (AUA); 2014 Nov. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: prostate cancer. Version 2. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2015. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thompson I, Thrasher JB, Aus G, Burnett AL, Canby-Hagino ED, Cookson MS, D'Amico AV, Dmochowski RR, Eton DT, Forman JD, Goldenberg SL, Hernandez J, Higano CS, Kraus SR, Moul JW, Tangen CM. Guideline for the management of clinically localized prostate cancer: 2007 update. J Urol. 2007 Jun;177(6):2106-131. [123 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Prostate cancer; high risk of recurrence; external beam radiotherapy; adjuvant hormonal therapy; gonadotropin-releasing hormone (GnRH) agonist or antagonist&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with a diagnosis of prostate cancer at high or very high risk of recurrence receiving external beam radiotherapy to the prostate (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who were prescribed adjuvant hormonal therapy (gonadotropin-releasing hormone [GnRH] agonist or antagonist) (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) in collaboration with the American Society of Clinical Oncology (ASCO), American Society for Radiation Oncology (ASTRO) and American Urological Association (AUA) conducted a testing project to ensure that the prostate cancer measures were feasible to implement, valid and reliable. Overall, the measures were found to be valid and reliable.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Face Validity Testing&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Face validity of the measure score was assessed for three of the six prostate cancer measures. The Prostate Cancer Work Group members were asked to empirically assess face validity of the measure. The expert panel consisted of 19 members, whose specialties include urology, methodology, clinical oncology, radiation oncology, pathology, family medicine, and consumer and health plan representatives.&lt;/p&gt;&#xA;&lt;p&gt;After the measure was fully specified, the work group was asked to rate their agreement with the following statement: &quot;The scores obtained from the measure, as specified, will provide an accurate reflection of quality and can be used to distinguish good and poor quality.&quot;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Face Validity Testing Results&lt;/em&gt;&lt;/p&gt;&#xA;&lt;table border=&quot;1&quot; summary=&quot;Face Validity Results&quot;&gt;&#xA;    &lt;thead&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Measure Number and Title&lt;/th&gt;&#xA;            &lt;th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;N&lt;/th&gt;&#xA;            &lt;th width=&quot;15%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Mean Rating&lt;/th&gt;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Percentage in Top Two Categories (4 and 5)&lt;/th&gt;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;5&quot;&gt;Frequency Distribution of Ratings*&lt;/th&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/th&gt;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;2&lt;/th&gt;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;3&lt;/th&gt;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;4&lt;/th&gt;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;5&lt;/th&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td valign=&quot;top&quot;&gt;#3 Avoidance of Overuse Measure - Bone Scan for Staging Low-Risk Patients&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;13&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4.62&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;92.31%&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;2&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;10&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td valign=&quot;top&quot;&gt;#5 Adjuvant Hormonal Therapy for High-Risk Patients&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;14&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4.57&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;92.86%&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;9&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;        &lt;tr&gt;&#xA;            &lt;td valign=&quot;top&quot;&gt;#6 Three-Dimensional Radiotherapy&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;14&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;3.93&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;78.57%&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;2&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4&lt;/td&gt;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;7&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*Scale from 1 to 5, where 1 (Strongly Disagree); 3 (Neither Agree nor Disagree); 5 (Strongly Agree)&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inter-rater reliability testing (i.e., manual review of the patient medical record by two trained clinical abstractors and comparison of their individual findings) was conducted at five practice sites on all six of the prostate cancer measures. These sites represent various types, locations, and sizes. Agreement rates were calculated at the measure level for the denominator, numerator and exceptions categories. Measure agreement was established based on the results of this analysis.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing Results&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The PCPI measure testing project revealed that all six of the measures demonstrated almost perfect agreement in the numerator category.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Urological Association (AUA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Prostate cancer physician performance measurement set. Linthicum (MD): American Urological Association (AUA); 2014 Nov. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Male (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;All patients, regardless of age, with a diagnosis of prostate cancer at high or very high risk* of recurrence receiving external beam radiotherapy to the prostate&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Only male patients with prostate cancer with high or very high risk of recurrence will be counted in the performance denominator of this measure. &lt;/li&gt;&#xA;    &lt;li&gt;Refer to the original measure documentation for administrative codes. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Risk Strata&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Very Low Risk&lt;/em&gt;: Prostate-specific antigen (PSA) less than 10 ng/mL; AND Gleason score 6 or less; AND clinical stage T1c; AND presence of disease in fewer than 3 biopsy cores; AND less than or equal to 50% prostate cancer involvement in any core; AND PSA density less than or equal to 0.15 ng/mL/cm&amp;sup3;. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Low Risk&lt;/em&gt;: PSA less than 10 ng/mL; AND Gleason score 6 or less; AND clinical stage T1 to T2a. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Intermediate Risk&lt;/em&gt;: PSA 10 to 20 ng/mL; OR Gleason score 7; OR clinical stage T2b to T2c. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;High Risk&lt;/em&gt;: PSA greater than 20 ng/mL; OR Gleason score 8 to 10; OR clinically localized stage T3a. Note: Patients with multiple adverse factors may be shifted into the very high risk category. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Very High Risk&lt;/em&gt;: Clinical stage T3b to T4; OR primary Gleason pattern 5; OR more than 4 cores with Gleason score 8 to 10. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Documentation of medical reason(s) for not prescribing/administering adjuvant hormonal therapy (e.g., salvage therapy) &lt;/li&gt;&#xA;    &lt;li&gt;Documentation of patient reason(s) for not prescribing/administering adjuvant hormonal therapy &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Patients who were prescribed* adjuvant hormonal therapy (gonadotropin-releasing hormone [GnRH] agonist or antagonist)&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Prescribed&lt;/em&gt;: Includes patients who are currently receiving medication(s) that follow the treatment plan recommended at an encounter during the reporting period, even if the prescription for that medication was ordered prior to the encounter.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #5: adjuvant hormonal therapy for high risk prostate cancer patients.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Prostate Cancer Physician Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Urological Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Urological Association - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Prostate Cancer Work Group&lt;/em&gt;: Ian Thompson, MD (&lt;em&gt;Co-Chair&lt;/em&gt;, urology); Steven Clauser, PhD (&lt;em&gt;Co-Chair&lt;/em&gt;, methodology); Peter Albertsen, MD (urology); Charles Bennett, MD, PhD, MPP (clinical oncology); Michael Cookson, MD (urology); Gregory W. Cotter, MD (radiation oncology); Theodore L. DeWeese, MD (radiation oncology); Mario Gonzalez, MD (pathology); Louis Kavoussi, MD (urology); Eric A. Klein, MD (urology); Colleen Lawton, MD (radiation oncology); W. Robert Lee, MD, MS, Med (radiation oncology); Peter A. S. Johnstone, MD, FACR (radiation oncology); David F. Penson, MD, MPH (urology); Stephen Permut, MD (family medicine); Howard Sandler, MD (radiation oncology); Bill Steirman, MA (consumer representative); John T. Wei, MD (urology); Carol Wilhoit, MD (health plan representative)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Urological Association&lt;/em&gt;: Robin Hudson, MPA; Beth Kosiak, PhD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Society for Therapeutic Radiology &amp;amp; Oncology&lt;/em&gt;: Emily Wilson; Trisha Crishock, MSW&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Karen S. Kmetik, PhD; Mark Antman, DDS, MBA; Kendra Hanley, MS; Diedra Gray, MPH; Kimberly Smuk, RHIA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Facilitators&lt;/em&gt;: Timothy F. Kresowik, MD; Rebecca A. Kresowik&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Committee for Quality Assurance&lt;/em&gt;: Phil Renner, MBA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Joint Commission on Accreditation of Healthcare Organizations&lt;/em&gt;: Lisa Buczkowski, RN, MS; Elvira Ryan, RN&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;reg; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Oct 1&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure will be up for maintenance through the National Quality Forum (NQF) in late 2015 or early 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Later 2015/early 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Urological Association, American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg;. Prostate cancer physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2012 Sep. 28 p. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in February 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Urological Association (AUA) at 1000 Corporate Boulevard, Linthicum, MD 21090; Phone: 410-689-3700; Fax: 410-689-3800; Web site: &lt;a href=&quot;http://www.auanet.org/&quot; title=&quot;American Urological Association (AUA) Web site&quot;&gt;www.auanet.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 3, 2008. The information was verified by the measure developer on December 4, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on September 28, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 9, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited again by ECRI Institute on April 27, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on December 5, 2013. The information was not verified by the measure developer.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stewardship for this measure was transferred from the PCPI to the AUA. AUA informed NQMC that this measure was updated. This NQMC summary was updated by ECRI Institute on May 28, 2015. The information was verified by the measure developer on June 19, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on February 7, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Urological Association (AUA), American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Prostate cancer physician performance measurement set. Linthicum (MD): American Urological Association (AUA); 2014 Nov. 19 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

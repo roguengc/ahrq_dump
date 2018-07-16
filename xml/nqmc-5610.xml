@@ -1,0 +1,258 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="298" OrdBy="100" Name="General">
+    <Field FieldID="11" OrdBy="105" ID="299" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Language services: the percent of patient visits and admissions where preferred written language for health care is screened and recorded.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="110" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Robert Wood Johnson Foundation. Aligning forces for quality. Language services performance measures implementation guide, version 1.1. Washington (DC): George Washington University; 2009 Aug. 84 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="301" OrdBy="200" Name="Measure Domain">
+    <Field FieldID="25" OrdBy="205" ID="302" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Process&lt;div class=&quot;content_special_handling&quot;&gt;&lt;p&gt;The validity of measures depends on how they are built. By examining the key building blocks of a measure, you can assess its validity for your purpose. For more information, visit the &lt;a href=&quot;/selecting-and-using/validity.aspx&quot;&gt;Measure Validity&lt;/a&gt; page.&lt;p/&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="26" OrdBy="210" ID="303" Name="Secondary Measure Domain" Type="picklist-many">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="304" OrdBy="300" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="305" ID="305" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of patient visits and admissions where preferred written language for health care is screened and recorded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="310" ID="306" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospitals cannot provide adequate language services to patients if they do not create mechanisms to screen for limited English-proficient patients and record patients' preferred written language for health care. Standard practices of collecting preferred written language for health care would assist hospitals in planning for demand. Access to and availability of patient language preference is critical for providers in planning care. This measure provides information on the extent to which patients are asked about the language they prefer to read health care materials and the extent to which this information is recorded.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="22" OrdBy="315" ID="307" Name="Primary Clinical Component" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Limited English proficiency (LEP); preferred written language; screening&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="320" ID="308" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The total number of hospital admissions, visits to the emergency department, and outpatient visits (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="325" ID="309" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of hospital admissions, visits to the emergency department, and outpatient visits where preferred written language for health care information is screened and recorded (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="310" OrdBy="400" Name="Evidence Supporting the Measure">
+    <Field FieldID="27" OrdBy="405" ID="311" Name="Evidence Supporting the Criterion of Quality" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure involving experts in relevant clinical, methodological, and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+  </Section>
+  <Section SecID="315" OrdBy="500" Name="Evidence Supporting Need for the Measure">
+    <Field FieldID="28" OrdBy="505" ID="316" Name="Need for the Measure" Type="picklist-choice">
+      <FieldValue Value="Variation in quality for the performance measured" />
+    </Field>
+    <Field FieldID="8" OrdBy="510" ID="317" Name="Evidence Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hakimzadeh S, Cohn D. English usage among Hispanics in the United States. Pew Hispanic Center, The Henry J. Kaiser Family Foundation; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hasnain-Wynia R, Pierce D. HRET disparities toolkit: a toolkit for collecting race, ethnicity, and primary language information from patients. The Health Research and Education Trust; 2005 Feb. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pew Hispanic Center. Bilingualism (survey brief). The Henry J. Kaiser Foundation; 2004 Mar. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="318" OrdBy="600" Name="State of Use of the Measure">
+    <Field FieldID="29" OrdBy="605" ID="319" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Pilot testing" />
+    </Field>
+    <Field FieldID="30" OrdBy="610" ID="320" Name="Current Use" Type="picklist-choice">
+      <FieldValue Value="Collaborative inter-organizational quality improvement" />
+      <FieldValue Value="Decision-making by managers about resource allocation" />
+      <FieldValue Value="Internal quality improvement" />
+      <FieldValue Value="Monitoring and planning" />
+      <FieldValue Value="Quality of care research" />
+    </Field>
+  </Section>
+  <Section SecID="321" OrdBy="700" Name="Application of Measure in its Current Use">
+    <Field FieldID="31" OrdBy="705" ID="322" Name="Care Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Care" />
+      <FieldValue Value="Hospitals" />
+      <FieldValue Value="Physician Group Practices/Clinics" />
+    </Field>
+    <Field FieldID="32" OrdBy="710" ID="323" Name="Professionals Responsible for Health Care" Type="picklist-choice">
+      <FieldValue Value="Measure is not provider specific" />
+    </Field>
+    <Field FieldID="33" OrdBy="715" ID="324" Name="Lowest Level of Health Care Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Group Clinical Practices" />
+    </Field>
+    <Field FieldID="41" OrdBy="720" ID="325" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="725" ID="326" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+    <Field FieldID="44" OrdBy="730" ID="327" Name="Stratification by Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Non-English Populations can be identified from screening to determine if needed translations services were delivered. Diagnostic codes can be stratified by language to identify priority language for translating patient education materials.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="328" OrdBy="800" Name="Characteristics of the Primary Clinical Component">
+    <Field FieldID="45" OrdBy="805" ID="329" Name="Incidence/Prevalence" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;22.3 million U.S. residents (8.4%) have limited English proficiency (LEP). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Between 1990 and 2000, the number with LEP grew by 53%. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;80% of hospitals reported treating LEP patients on a regular basis. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="2" OrdBy="810" ID="330" Name="Evidence for Incidence/Prevalence" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Flores G. Language barriers to health care in the United States. N Engl J Med. 2006 Jul 20;355(3):229-31. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16855260&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hasnain-Wynia RJ, Yonek R, Pierce D, Kang GC. Hospital language services for patients with limited English proficiency: results from a national survey. The Commonwealth Fund; 2006 Oct. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;U.S. Bureau of the Census. American Community Survey: language spoken at home (table S1601). 2005. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="46" OrdBy="815" ID="331" Name="Association with Vulnerable Populations" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hispanics who do not speak English at home are less likely to receive all recommended health care services. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Follow-up compliance, adherence to medications, and patient satisfaction are significantly lower for limited English-proficient (LEP) populations than they are for English speaking patients. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Language barriers are associated with less health education, worse interpersonal care, and lower patient satisfaction. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;LEP populations are less likely to receive preventative health services such as mammograms. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3" OrdBy="820" ID="332" Name="Evidence for Association with Vulnerable Populations" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Andrulis D, Goodman N, Pryor N. What a difference an interpreter can make: health care experiences of uninsured with limited English proficiency. The Access Project; 2003 Apr. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cheng EM, Chen A, Cunningham W. Primary language and receipt of recommended health care among Hispanics in the United States. J Gen Intern Med. 2007 Nov;22 Suppl 2:283-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17957412&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;David RA, Rhee M. The impact of language as a barrier to effective health care in an underserved urban Hispanic community. Mt Sinai J Med. 1998 Oct-Nov;65(5-6):393-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9844369&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ku L, Waidmann T. How race/ethnicity, immigration status and language affect health insurance coverage, access to care and quality of care among the low-income population. Washington (DC): Kaiser Commission on Medicaid and the Uninsured; 2003 Aug. 29 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ngo-Metzger Q, Sorkin DH, Phillips RS, Greenfield S, Massagli MP, Clarridge B, Kaplan SH. Providing high-quality care for limited English proficient patients: the importance of language concordance and interpreter use. J Gen Intern Med. 2007 Nov;22 Suppl 2:324-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17957419&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Woloshin S, Schwartz LM, Katz SJ, Welch HG. Is language a barrier to the use of preventive services. J Gen Intern Med. 1997 Aug;12(8):472-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9276652&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="47" OrdBy="825" ID="333" Name="Burden of Illness" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Persons with limited English proficiency (LEP) experience disproportionately high rates of infectious disease and infant mortality. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Persons with LEP are more likely to report risk factors for serious and chronic diseases such as diabetes and heart disease. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;See also the &quot;Association with Vulnerable Populations&quot; field.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="4" OrdBy="830" ID="334" Name="Evidence for Burden of Illness" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Minority Health and Health Disparities. Eliminating racial and ethnic disparities.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="48" OrdBy="835" ID="335" Name="Utilization" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;See the &quot;Association with Vulnerable Populations&quot; field. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="49" OrdBy="845" ID="337" Name="Costs" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Physicians who are unable to communicate effectively with their patients often compensate by engaging in costly practices such as: more diagnostic procedures; more invasive procedures; overprescribing medications. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Language barrier between physicians and their patients are associated with a $38 increase in test charges and 20-minute longer emergency department (ED) stay. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ED decision making behavior (e.g., diagnostic testing, admission, IV hydration) is more costly when non-English speaking patients did not receive care from bilingual physician or with an interpreter present. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The average cost per interpretation for health maintenance organizations (HMOs) patients was $79 and the total cost per year was $279, a relatively small cost given total medical expenditures, and given improved patient utilization of preventive and primary care services that may reduce long-term medical costs. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="6" OrdBy="850" ID="338" Name="Evidence for Costs" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hampers LC, Cha S, Gutglass DJ, Binns HJ, Krug SE. Language barriers and resource utilization in a pediatric emergency department. Pediatrics. 1999 Jun;103(6 Pt 1):1253-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10353938&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hampers LC, McNulty JE. Professional interpreters and bilingual physicians in a pediatric emergency department: effect on resource utilization. Arch Pediatr Adolesc Med. 2002 Nov;156(11):1108-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12413338&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jacobs EA, Shepard DS, Suaya JA, Stone EL. Overcoming language barriers in health care: costs and benefits of interpreter services. Am J Public Health. 2004 May;94(5):866-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15117713&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ku L, Flores G. Pay now or pay later: providing interpreter services in health care. Health Aff (Millwood). 2005 Mar-Apr;24(2):435-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15757928&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="339" OrdBy="900" Name="Institute of Medicine (IOM) Healthcare Quality Report Categories">
+    <Field FieldID="163" OrdBy="905" ID="340" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="164" OrdBy="910" ID="341" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Equity" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="342" OrdBy="1000" Name="Data Collection for the Measure">
+    <Field FieldID="52" OrdBy="1005" ID="343" Name="Case Finding" Type="picklist-one">
+      <FieldValue Value="Users of care only" />
+    </Field>
+    <Field FieldID="53" OrdBy="1010" ID="344" Name="Description of Case Finding" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All hospital admissions, visits to the emergency department, and outpatient visits&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="54" OrdBy="1015" ID="345" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="55" OrdBy="1020" ID="346" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The total number of hospital admissions, visits to the emergency department, and outpatient visits, including: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Scheduled and unscheduled visits &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Elective, urgent and emergent admissions &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Short stay and observation patients &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfers from other facilities &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="56" OrdBy="1025" ID="347" Name="Relationship of Denominator to Numerator" Type="picklist-one">
+      <FieldValue Value="All cases in the denominator are equally eligible to appear in the numerator" />
+    </Field>
+    <Field FieldID="57" OrdBy="1030" ID="348" Name="Denominator (Index) Event" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="58" OrdBy="1035" ID="349" Name="Denominator Time Window" Type="picklist-one">
+      <FieldValue Value="Time window is a single point in time" />
+    </Field>
+    <Field FieldID="59" OrdBy="1040" ID="350" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of hospital admissions, visits to the emergency department, and outpatient visits where preferred written language for health care is screened and recorded, including:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Admissions and visits where the patient's preferred written language for health care is recorded &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Admissions and visits where the patient declined to answer the screening question &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The admissions and visits are stratified by language, including English, decline, or unavailable. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Admissions and visits where the written language preference data is not recorded&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="60" OrdBy="1045" ID="351" Name="Measure Results Under Control of Health Care Professionals, Organizations and/or Policymakers" Type="picklist-one">
+      <FieldValue Value="The measure results are somewhat or substantially under the control of the health care professionals, organizations and/or policymakers to whom the measure applies." />
+    </Field>
+    <Field FieldID="61" OrdBy="1050" ID="352" Name="Numerator Time Window" Type="picklist-one">
+      <FieldValue Value="Encounter or point in time" />
+    </Field>
+    <Field FieldID="62" OrdBy="1055" ID="353" Name="Data Source" Type="picklist-choice">
+      <FieldValue Value="Administrative data " />
+      <FieldValue Value="Medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="63" OrdBy="1060" ID="354" Name="Level of Determination of Quality" Type="picklist-one">
+      <FieldValue Value="Individual Case" />
+    </Field>
+    <Field FieldID="66" OrdBy="1075" ID="357" Name="Pre-existing Instrument Used" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Health Research and Educational Trust Disparities Toolkit&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="358" OrdBy="1100" Name="Computation of the Measure">
+    <Field FieldID="67" OrdBy="1105" ID="359" Name="Scoring" Type="picklist-one">
+      <FieldValue Value="Rate" />
+    </Field>
+    <Field FieldID="68" OrdBy="1110" ID="360" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Better quality is associated with a higher score" />
+    </Field>
+    <Field FieldID="90" OrdBy="1115" ID="361" Name="Allowance for Patient Factors" Type="picklist-choice">
+      <FieldValue Value="Analysis by high-risk subgroup (stratification on vulnerable populations)" />
+    </Field>
+    <Field FieldID="69" OrdBy="1120" ID="362" Name="Description of Allowance for Patient Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Data reported as aggregate numerator and denominator, monthly, stratified by written language preference, including English, decline or unavailable. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="70" OrdBy="1125" ID="363" Name="Standard of Comparison" Type="picklist-choice">
+      <FieldValue Value="Internal time comparison" />
+    </Field>
+  </Section>
+  <Section SecID="366" OrdBy="1200" Name="Evaluation of Measure Properties">
+    <Field FieldID="72" OrdBy="1205" ID="367" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measure is currently being tested in nine grantee hospitals in the Aligning Forces for Quality Language Quality Improvement Collaborative (LQIC) in both inpatient and outpatient care settings from July 2009 - October 2010. The 9 LQIC hospitals range in size from 7,000-50,000 annual admissions includes one children's hospital, and include rural and academic and non-academic community hospitals. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure was adapted from the L1A: Screening for Preferred Spoken Language for Health Care, which was used by the 10 grantee hospitals in the Speaking Together National Language Services Collaborative from November 2006 - May 2008. The 10 hospitals reported data monthly on 40,000 - 60,000 patients seen in inpatient and ambulatory care settings. Hospitals ranged in size from 11,500 - 44,000 admissions, included 2 children's hospitals and were comprised of both academic teaching and non-teaching community hospitals.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to original measure documentation for additional information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="7" OrdBy="1210" ID="368" Name="Evidence for Reliability/Validity Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Robert Wood Johnson Foundation. Aligning forces for quality. Language services performance measures implementation guide, version 1.1. Washington (DC): George Washington University; 2009 Aug. 84 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="369" OrdBy="1300" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="1301" ID="473" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;L1B: screening for preferred written language for health care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="1303" ID="474" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Language Services Performance Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="1310" ID="371" Name="Submitter" Type="orglist">
+      <FieldValue Value="Center for Health Care Quality, Department of Health Policy, George Washington University School of Public Health and Health Services - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="1315" ID="372" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Center for Health Care Quality, Department of Health Policy, George Washington University School of Public Health and Health Services - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="1320" ID="373" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Robert Wood Johnson Foundation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="1325" ID="374" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Marsha Regenstein, PhD, MCP - Research Professor, Department of Health Policy, Co-Director, Center for Health Care Quality, The George Washington University&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Jennifer Huang, MS - Research Scientist, Center for Health Care Quality, The George Washington University&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Catherine West, MS, RN - Senior Research Scientist, Center for Health Care Quality, The George Washington University&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Izabel Arocha M.Ed. - Cultural &amp;amp; Linguistic Educator, Cambridge Health Alliance &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Rochelle Ayala, MD - Administrator and Chief Medical Officer for Primary Care Services, Memorial Health Care System/Memorial Primary Care Center&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Bery Engebretsen, MD - Medical Director, Primary Health Care, Inc.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patty Hencz, BA, RN - Manager, Interpreter Services, Seattle Children's Hospital&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Sally Moffat, RN - Director, Community Outreach and Language Services, Phoenix Children's Hospital&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Elsie Nolan, MS, RN, APRN-BC - Clinical Nurse Specialist, Inpatient Cardiology, Director, Cardiovascular Center Patient Education, University of Michigan Health System&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Martine Pierre-Louis, MPH - Manager, Interpreter Services &amp;amp; Community House Calls, Harborview Medical Center&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Cynthia Roat, MPH - Board Member, National Council on Interpreting in Health Care&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Mara Youdelman, JD, LLM - Staff Attorney, National Health Law Program&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Esther Diaz, M.Ed - Medical Division Administrator, American Translators Association&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Amy Wilson-Stronks, MPP - Project Director, Health Disparities Division of Standards and Survey Methods, The Joint Commission&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Matthew Wynia, MD, MPH, FACP - Director, Institute for Ethics, American Medical Association&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Barbara Farrell, RN, MS, MJ - Director, Quality and Innovation, American Organization of Nurse Executives&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Coretta Byrd, MS - Quality Improvement and Risk Management, Unity Health Care, Inc.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="1330" ID="375" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No disclosures.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="1345" ID="378" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure was adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="84" OrdBy="1347" ID="379" Name="Parent Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;L1A: Screening for Preferred Spoken Language for Health Care [Center for Health Care Quality, Department of Health Policy, George Washington University School of Public Health and Health Services]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="85" OrdBy="1355" ID="380" Name="Release Date" Type="date">
+      <FieldValue Value="2009 Jul" />
+    </Field>
+    <Field FieldID="20" OrdBy="1365" ID="382" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="1366" ID="300" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Robert Wood Johnson Foundation. Aligning forces for quality. Language services performance measures implementation guide, version 1.1. Washington (DC): George Washington University; 2009 Aug. 84 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="1370" ID="383" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The individual measure, &quot;L1B: Screening for Preferred Written Language for Health Care,&quot; is published in &quot;Aligning Forces for Quality. Language Services Performance Measures Implementation Guide.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, please contact Catherine West, Center for Health Care Quality, Department of Health Policy, George Washington University School of Public Health and Health Services, 2121 K Street, Suite 200, Washington, DC 20037; Telephone: 202-994-8663; Fax: 202-994-3500; E-mail: &lt;a href=&quot;mailto:Cathy.West@gwumc.edu&quot;&gt;Cathy.West@gwumc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="1380" ID="385" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 17, 2010. The information was verified by the measure developer on July 2, 2010.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="1385" ID="386" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For additional information regarding the use of these measures, contact Catherine West at &lt;a href=&quot;mailto:Cathy.West@gwumc.edu&quot;&gt;Cathy.West@gwumc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

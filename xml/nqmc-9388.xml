@@ -1,0 +1,245 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Sickle cell disease (SCD): percentage of children who, having initially tested positive for SCD through newborn screening, received confirmatory testing by 3 months of age.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: timeliness of confirmatory testing for sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2013 Oct 30. 40 p.  [16 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Population Health Quality Measures: Population Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Population Health Quality Measure: Population Access" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of children who, having initially tested positive for sickle cell disease (SCD) through newborn screening, received confirmatory testing by 3 months of age.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;In children with sickle cell disease (SCD), illness and death can be reduced through early diagnosis, treatment of complications, systematic follow-up and patient/parent education. In particular, timely confirmatory testing and prompt communication with families are steps that pave the way for initiating simple but life-saving treatments in young children with SCD. Neonatal screening for SCD is mandatory in the United States, but data are scarce that describe the proportion of children who receive confirmatory testing and the proportion of families who learn this information. This measure would highlight gaps where providers or health systems are falling short and encourage early and consistent treatment for all young children with SCD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Children with SCD benefit significantly from early diagnosis of disease. In a group of patients diagnosed with SCD as newborns, the mortality rate was 1.8% compared with an 8% mortality rate among those diagnosed after 3 months of age (Vichinsky et al., 1988). Most of the study was conducted prior to the use of prophylactic antibiotics, which today is a standard for pediatric SCD treatment and significantly reduces the frequency of life-threatening infections. The lower mortality rate in the study is attributed to early diagnosis and treatment of complications, practices that are supported, in large part, by extensive follow-up and patient and parent education. Newborn screening for SCD followed by confirmatory testing for positive screening results, parental education and comprehensive care reduces morbidity and mortality in infants and children with SCD (National Heart, Lung and Blood Institute, 2002).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Heart, Lung and Blood Institute (NHLBI). The management of sickle cell disease. 4th ed. Bethesda (MD): National Institutes of Health, National Heart, Lung and Blood Institute, Division of Blood Diseases and Resources; 2002 Jun. 188 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: timeliness of confirmatory testing for sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2013 Oct 30. 40 p.  [16 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Vichinsky E, Hurst D, Earles A, Kleman K, Lubin B. Newborn screening for sickle cell disease: effect on mortality. Pediatrics. 1988 Jun;81(6):749-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3368274&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Sickle cell disease (SCD); screening; confirmatory testing; newborns; children&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The denominator is drawn from all sickle cell disease (SCD) cases reported in a state's newborn screening program records within the measurement year (see the related &quot;Denominator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of children who received confirmatory testing for sickle cell disease (SCD) by less than or equal to 90 days of age (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Prevalence and Incidence&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;Sickle cell disease (SCD) is one of the most common genetic disorders in the United States (Kavanagh et al., 2011). The National Heart, Lung and Blood Institute (NHLBI) (2002) estimates that 2,000 infants are born with SCD in the United States (U.S.) each year. SCD affects 70,000 to 100,000 children and adults in the United States, predominantly those of African and Hispanic descent (Hassell, 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Pathology and Severity&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;Vaso-occlusion (the sudden blockage of a blood vessel caused by the sickle shape of abnormal blood cells) is responsible for most complications of SCD, including pain episodes, sepsis, stroke, acute chest syndrome, priapism, leg ulcers, osteonecrosis and renal insufficiency (Steinberg, 1999). In addition, SCD can have hemolytic and infectious complications that result in morbidity and mortality in children with SCD (Kavanagh et al., 2011). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Burden in Daily Life&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;The effect of SCD on children and families is significant: severe pain episodes and hospitalizations restrict daily activities and reflect negatively on school attendance and performance, sleep, and social activities (Lemanek, Ranalli, &amp;amp; Lukens, 2009; Alvim et al., 2005). Although medical management of SCD continues to improve over time, 196 U.S. children died from SCD-related causes between 1999 and 2002 (Yanni et al., 2009). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Sickle Cell Disease Cost&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;In a study of health care utilization among low income children with SCD between 2004 and 2007, 27% of these children required inpatient hospitalization and 39% used emergency care during a year. Of these children, 63% averaged one well-child visit per year and 10% had at least one outpatient visit with a specialist (Raphael et al., 2009). Patients with SCD use many parts of the health care system, incurring significant costs. In 2009, mean hospital charges for children with SCD and a hospital stay were $23,000 for children with private insurance and $18,200 for children enrolled in Medicaid (HCUPnet, Healthcare Cost and Utilization Project, 2012). Kauf et al. (2009) estimate the lifetime cost of health care per patient with SCD to be approximately $460,000. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Performance Gap&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;There is significant variability and little tracking by more than half of states regarding this important issue. Neonatal screening for SCD is mandated in all 50 states, as well as in the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and Guam. To our knowledge, there are no current published data that describe the proportion of children with a positive screen for SCD who receive confirmatory testing, or what proportion of families with a child who receives a positive confirmatory test result have results communicated to them. However, in a study of 52 State Newborn Screening Program follow-up coordinators with 100% participation, 100% of primary care providers were notified of positive screening SCD results, while only 81% of hematologists, 73% of hospitals, and 40% of families were notified of positive findings (Kavanagh et al., 2008). In programs where communication with the families was inconsistent, the responsibility for providing this information often fell upon someone other than the state newborn screening program. The efficacy of these efforts in ensuring timely confirmatory testing is unknown.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alvim RC, Viana MB, Pires MA, Franklin HM, Paula MJ, Brito AC, Oliveira TF, Rezende PV. Inefficacy of piracetam in the prevention of painful crises in children and adolescents with sickle cell disease. Acta Haematol. 2005;113(4):228-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15983428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hassell KL. Population estimates of sickle cell disease in the U.S. Am J Prev Med. 2010 Apr;38(4 Suppl):S512-21. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20331952&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;HCUPnet. Healthcare Cost and Utilization Project. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality; 2006-2009&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kauf TL, Coates TD, Huazhi L, Mody-Patel N, Hartzema AG. The cost of health care for children and adults with sickle cell disease. Am J Hematol. 2009 Jun;84(6):323-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19358302&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kavanagh PL, Sprinz PG, Vinci SR, Bauchner H, Wang CJ. Management of children with sickle cell disease: a comprehensive review of the literature. Pediatrics. 2011 Dec;128(6):e1552-74.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kavanagh PL, Wang CJ, Therrell BL, Sprinz PG, Bauchner H. Communication of positive newborn screening results for sickle cell disease and sickle cell trait: variation across states. Am J Med Genet C Semin Med Genet. 2008 Feb 15;148C(1):15-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18200513&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lemanek KL, Ranalli M, Lukens C. A randomized controlled trial of massage therapy in children with sickle cell disease. J Pediatr Psychol. 2009 Nov-Dec;34(10):1091-6.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Heart, Lung and Blood Institute (NHLBI). The management of sickle cell disease. 4th ed. Bethesda (MD): National Institutes of Health, National Heart, Lung and Blood Institute, Division of Blood Diseases and Resources; 2002 Jun. 188 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: timeliness of confirmatory testing for sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2013 Oct 30. 40 p.  [16 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Raphael JL, Dietrich CL, Whitmire D, Mahoney DH, Mueller BU, Giardino AP. Healthcare utilization and expenditures for low income children with sickle cell disease. Pediatr Blood Cancer. 2009 Feb;52(2):263-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18837428&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinberg MH. Management of sickle cell disease. N Engl J Med. 1999 Apr 1;340(13):1021-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10099145&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yanni E, Grosse SD, Yang Q, Olney RS. Trends in pediatric sickle cell disease-related mortality in the United States, 1983-2002. J Pediatr. 2009 Apr;154(4):541-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19028391&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xA;&lt;em&gt;Data/Sample&lt;/em&gt;. This measure is based on the gold standard data source for sickle cell disease (SCD): initial and confirmatory diagnosis information that is maintained by all state newborn screening programs in the United States. The Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) tested this measure using newborn screening results from three state public health agencies: Illinois, Michigan, and Wisconsin. Newborn screening data captures the vast majority of births in states; in Michigan, 97% of all children have newborn screening performed, while in Illinois the figure is nearly 99%. The remaining births opt out of newborn screening based on religious grounds.&lt;/p&gt;&#xA;&lt;p&gt;The measure was tested as specified, which requires an assessment among the entire population of a state's birth cohort that had an initial newborn screen indicating SCD. This measure includes no sampling; consequently, no sampling error is introduced that would necessitate the calculation of measure reliability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xA;The validity of this measure was determined through face validity established by a national panel of experts and advocates for families of children with SCD. Face validity is the degree to which the measure construct characterizes the concept being assessed, which was established by two Q-METRIC SCD expert panels. The panel established a very high degree of face validity for this measure through a detailed review of concepts and metrics considered to be essential to effective SCD management and treatment. The Q-METRIC expert panel included nationally recognized experts in SCD, representing hematology, pediatrics, and SCD family advocacy. In addition, measure validity was considered by experts in state Medicaid program operations, health plan quality measurement, health informatics, and health care quality measurement. In total, the Q-METRIC expert panels included 14 experts providing a comprehensive perspective on SCD management and the measurement of quality metrics for states and health plans. &lt;/p&gt;&#xA;&lt;p&gt;From this group, concepts and draft measures were rated for their relative importance. This measure was among the most highly rated, with the expert panel's average score of 8.7 (out of a maximum of 9). Two rating methods were used to minimize any potential bias due to outlier ratings; this measure received identically high ratings (8.7) using both methods. In addition, the expert panelists noted that this measure not only was important, but could be accessed through state health departments. The measure as specified from state newborn screening program data was deemed to be the most valid, in contrast to candidate metrics that would be derived from provider data. Finally, the Q-METRIC SCD expert panel noted that this measure was a valid marker of important variations that they felt may exist across states; the panel noted that newborn screening programs can be highly variable across states and this measure would likely reflect those variations.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: timeliness of confirmatory testing for sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2013 Oct 30. 40 p.  [16 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Community Health Care" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+      <FieldValue Value="Regional, County, or City Public Health Programs" />
+      <FieldValue Value="State/Provincial Public Health Programs" />
+      <FieldValue Value="Transition" />
+    </Field>
+    <Field FieldID="3038" OrdBy="255" ID="697" Name="Type of Care Coordination" Type="picklist-many">
+      <FieldValue Value="Coordination between providers and community" />
+      <FieldValue Value="Coordination between providers and patient/caregiver" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="State/Provincial" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Newborn&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Population-centered" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Healthy People/Healthy Communities&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Effective Communication and Care Coordination&lt;/li&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement year&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The denominator is drawn from all sickle cell disease (SCD) cases reported in a state's newborn screening program records within the measurement year.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for codes to identify SCD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children who died within 120 days of birth are excluded from the denominator. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Children with diagnosis in the state newborn screening data indicating one of the SCD variants listed in Table 2 of the original measure documentation are specifically excluded from the denominator. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The number of children who received confirmatory testing for sickle cell disease (SCD) by less than or equal to 90 days of age&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;For the purposes of this measure, SCD is restricted to hemoglobin screening results for a subset of conditions considered to be clinically significant (refer to Table 1 in the original measure documentation). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Intake Period&lt;/em&gt;: January 1 of the measurement year to April 1 of the year following the measurement year. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Confirmatory Testing&lt;/em&gt;: Repeat testing performed to confirm initial newborn screening results. Confirmatory testing may be performed at any time following birth, using any of the methods shown in Table 1-A of the original measure documentation. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="State/Province public health data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Timeliness of confirmatory testing for sickle cell disease.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Sickle Cell Disease Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp;amp; Medicaid Services (CMS) under the CHIPRA Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020516.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Sickle Cell Disease Measure Developers&lt;/span&gt;:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Kevin J. Dombkowski, DrPH, MS, Research Associate Professor of Pediatrics, School of Medicine, University of Michigan &lt;/li&gt;&#xA;    &lt;li&gt;C. Jason Wang, MD, PhD, Associate Professor of Pediatrics, Stanford School of Medicine &lt;/li&gt;&#xA;    &lt;li&gt;Gary L. Freed, MD, MPH, Professor of Pediatrics, School of Medicine; Professor of Health Management and Policy, School of Public Health, University of Michigan &lt;/li&gt;&#xA;    &lt;li&gt;Samir Ballas, MD, Professor, Division of Hematology, Thomas Jefferson University &lt;/li&gt;&#xA;    &lt;li&gt;Mary E. Brown, President and Chief Executive Officer, Sickle Cell Disease Association, California &lt;/li&gt;&#xA;    &lt;li&gt;George Buchanan, MD, Pediatric Hematologist, University of Texas Southwest Medical Center at Dallas &lt;/li&gt;&#xA;    &lt;li&gt;Cathy Call, BSN, MSC, Senior Policy Analyst and Director for Health Quality Research, Altarum Institute &lt;/li&gt;&#xA;    &lt;li&gt;J. Mitchell Harris, PhD, Director Research and Statistics, Children's Hospital Association (formerly NACHRI) &lt;/li&gt;&#xA;    &lt;li&gt;Kevin Johnson, Professor and Vice Chair of Biomedical Informatics, Vanderbilt University &lt;/li&gt;&#xA;    &lt;li&gt;Peter Lane, MD, Pediatric Hematologist-Oncologist, Children's Healthcare of Atlanta Pediatric Hospital &lt;/li&gt;&#xA;    &lt;li&gt;Don Lighter, MD, MBA, FAAP, FACHE, Director, The Institute for Health Quality Research and Education &lt;/li&gt;&#xA;    &lt;li&gt;Sue Moran, BSN, MPH, Director of the Bureau of Medicaid Program Operations and Quality Assurance, Michigan Department of Community Health &lt;/li&gt;&#xA;    &lt;li&gt;Suzette Oyeku, MD, Assistant Professor of Pediatrics, Albert Einstein College &lt;/li&gt;&#xA;    &lt;li&gt;Lynnie Reid, Parent Representative &lt;/li&gt;&#xA;    &lt;li&gt;Joseph Singer, MD, Vice President Clinical Affairs, HealthCore, Inc. &lt;/li&gt;&#xA;    &lt;li&gt;Elliott Vichinsky, MD, Pediatric Hematology-Oncology, Children's Hospital and Research Center &lt;/li&gt;&#xA;    &lt;li&gt;Winfred Wang, MD, Hematologist, St. Jude Children's Hospital &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://chear.org/sites/default/files/stories/pdfs/scd1_confirmtesting.pdf&quot; title=&quot;Q-METRIC Web site&quot;&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Web site&lt;/a&gt;. &lt;a href=&quot;http://www.chear.org/qmetric&quot; title=&quot;Q-METRIC Web site&quot;&gt;Support documents&lt;/a&gt; are also available.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Q-METRIC at 300 North Ingalls Street, Room 6C08, SPC 5456, Ann Arbor, MI 48109-5456; Phone: 734-232-0657; Fax: 734-764-2599.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on July 25, 2014. The information was verified by the measure developer on September 16, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 7, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inform Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) if users implement the measures in their health care settings. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC). Basic measure information: timeliness of confirmatory testing for sickle cell disease. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2013 Oct 30. 40 p.  [16 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

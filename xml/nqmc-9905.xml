@@ -1,0 +1,217 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Primary medication non-adherence: percentage of prescriptions for chronic medications e-prescribed by a prescriber and not obtained by the patient in the following 30 days.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pharmacy Quality Alliance (PQA). Technical specifications for PQA approved measures. Springfield (VA): Pharmacy Quality Alliance (PQA); 2015 Jul. 66 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of prescriptions for chronic medications for patients 18 years and older electronically prescribed (e-prescribed) by a prescriber and not obtained by the patient in the following 30 days. &lt;/p&gt;&#xA;&lt;p&gt;This rate measures the level of primary medication non-adherence (PMN) across a population of patients. The unit of measure is a pharmacy or network of pharmacies. It is not intended for use by pharmacy benefit managers or health plans, as the data required is not available in administrative claims. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Requirements&lt;/strong&gt;. To calculate this measure, pharmacy prescription dispensing data must be available. The pharmacy prescription dispensing data must include a field for prescription origin or be linked to an e-prescribing system to identify e-prescriptions. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Non-adherence to essential medications is an important public health problem. Medication non-adherence is related to greater morbidity and mortality in chronic disease, and has been estimated to increase healthcare costs by over $170 billion annually in the United States (Ho et al., &quot;Effect of medication,&quot; 2006; Ho et al., &quot;Impact of medication,&quot; 2006; Sokol et al., 2005; National Council on Patient Information and Education, 2007). As the use of electronic prescribing (e-prescribing) increases, primary medication non-adherence (PMN) is receiving more attention because e-prescribing could provide reliable ways to measure initiation of therapy. A recent study found a 28% rate of PMN with differences among classes of drugs (Fischer et al., 2010).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fischer MA, Stedman MR, Lii J, Vogeli C, Shrank WH, Brookhart MA, Weissman JS. Primary medication non-adherence: analysis of 195,930 electronic prescriptions. J Gen Intern Med. 2010 Apr;25(4):284-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20131023&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ho PM, Rumsfeld JS, Masoudi FA, McClure DL, Plomondon ME, Steiner JF, Magid DJ. Effect of medication nonadherence on hospitalization and mortality among patients with diabetes mellitus. Arch Intern Med. 2006 Sep 25;166(17):1836-41. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17000939&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ho PM, Spertus JA, Masoudi FA, Reid KJ, Peterson ED, Magid DJ, Krumholz HM, Rumsfeld JS. Impact of medication therapy discontinuation on mortality after myocardial infarction. Arch Intern Med. 2006 Sep 25;166(17):1842-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17000940&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Council on Patient Information and Education. Enhancing prescription medicine adherence: a national action plan. Rockville (MD): National Council on Patient Information and Education; 2007 Aug 1. 38 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pharmacy Quality Alliance (PQA). Technical specifications for PQA approved measures. Springfield (VA): Pharmacy Quality Alliance (PQA); 2014 Sep. 56 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sokol MC, McGuigan KA, Verbrugge RR, Epstein RS. Impact of medication adherence on hospitalization risk and healthcare cost. Med Care. 2005 Jun;43(6):521-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15908846&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary medication non-adherence (PMN); chronic medications; electronic prescriptions (e-prescriptions)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The number of electronic prescriptions (e-prescriptions) for newly initiated drug therapy for chronic medications during the measurement period and for patients 18 years and older as of the last day of the measurement period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of electronic prescribing (e-prescribing) transactions in the denominator where there was no pharmacy dispensing event that matched the patient and the prescribed drug or appropriate alternative drug within 30 days following the e-prescribing event (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was pilot tested during measure development (see process below), which included reliability and validity testing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pharmacy Quality Alliance (PQA) Measure Development Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;PQA develops performance measures through a consensus-driven process to draft, test, refine and endorse measures of medication-use quality. &lt;/p&gt;&#xA;&lt;p&gt;Step 1: PQA workgroups comprised of experts in all phases of drug use and management identify measure concepts that may be appropriate for development into fully specified performance measures or indicators for organizational internal quality improvement. The workgroups focus on specific aspects of the medication-use system and/or specific therapeutic areas. &lt;/p&gt;&#xA;&lt;p&gt;Step 2: PQA workgroups recommend measure concepts to the PQA Quality Metrics Expert Panel (QMEP) for evaluation and refinement. The QMEP reviews the measure concepts to provide an initial assessment of the key properties of performance measures (i.e., feasibility, usability and scientific validity). The measure concepts that are rated highly on these key properties will undergo technical specification as draft measures. &lt;/p&gt;&#xA;&lt;p&gt;Step 3: The draft measures are provided to PQA member organizations for their comments prior to preparing technical specifications for pilot testing. PQA staff use member comments and workgroup and QMEP recommendations to formulate a testing plan for each draft measure. &lt;/p&gt;&#xA;&lt;p&gt;Step 4: PQA selects partners to test the draft measures. These partners are often PQA member health plans or academic institutions with expertise in quality and performance measure testing. The testing partner implements the draft technical specifications within their existing datasets and provides a report to PQA that details testing results and recommendations for modifications of the technical specifications. &lt;/p&gt;&#xA;&lt;p&gt;Step 5: The workgroup that developed the measure reviews the testing results and provides comment. The QMEP reviews the workgroup comments, testing results, recommendations and potential modifications and provides a final assessment of the feasibility and scientific validity of the draft performance measures. &lt;/p&gt;&#xA;&lt;p&gt;Step 6: Measures that are recommended by the QMEP for endorsement are posted on the PQA web site for member review, written comments are requested, and a conference call for member organizations is held to gather feedback and address any questions. This process allows members to discuss their views on the measures in advance of the voting period. &lt;/p&gt;&#xA;&lt;p&gt;Step 7: PQA member organizations vote on endorsement of the Performance Measures and approval of Quality Improvement Indicators. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pharmacy Quality Alliance (PQA). Technical specifications for PQA approved measures. Springfield (VA): Pharmacy Quality Alliance (PQA); 2014 Sep. 56 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Pilot testing" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The measurement period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions &lt;/strong&gt;&lt;br /&gt;&#xA;The number of electronic prescriptions (e-prescriptions) for newly initiated drug therapy for chronic medications* during the measurement period and for patients 18 years and older as of the last day of the measurement period &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;em&gt;Newly Initiated Drug Therapy&lt;/em&gt;: A prescription where the same drug (generic equivalent) has not been filled during the prior 180 days. &lt;/li&gt;&#xA;    &lt;li&gt;&lt;em&gt;Measurement Period&lt;/em&gt;: Any 12-month period or (alternate) any 5-month period.&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;        &lt;li&gt;&lt;em&gt;Recommended Measurement Period&lt;/em&gt;: The measurement period of time is 12 months. This is the time where the prescription medication fill pattern is assessed. The 12 month measurement period will require 19 months of pharmacy prescription dispensing data, 6 months prior to the measurement period (pre-measurement period) and one month following the measurement period (post-measurement period). &lt;/li&gt;&#xA;        &lt;li&gt;&lt;em&gt;Alternate Measurement Period&lt;/em&gt;: The measurement period of time is 5 months. This is the time where the prescription medication fill pattern is assessed. The 5 month measurement period will require 12 months of pharmacy prescription dispensing data, 6 months prior to the measurement period pre-measurement period) and one month following the measurement period (post-measurement period). &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;Using e-prescribing data, identify and count all newly initiated prescriptions transmitted through an e-prescribing portal for any medication in Table A of the original measure documentation for the eligible population. &lt;/li&gt;&#xA;    &lt;li&gt;Pharmacies reporting must have 30 or more e-prescriptions for newly initiated medications in the denominator. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;*Refer to Table A in the original measure documentation for chronic medications for primary medication non-adherence (PMN).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Exclude any prescription in the denominator where there is a prescription dispensing record in the preceding 180 days for the same drug. &lt;/li&gt;&#xA;    &lt;li&gt;Exclude any over-the-counter (OTC) medication that is e-prescribed. &lt;/li&gt;&#xA;    &lt;li&gt;Exclude duplicate medications, defined as any medication that has been e-prescribed twice in a 30-day period with no prescription fill in between the e-prescriptions. &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of electronic prescribing (e-prescribing) transactions in the denominator where there was no pharmacy dispensing event that matched the patient and the prescribed drug or appropriate alternative drug within 30 days following the e-prescribing event&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Appropriate Alternative Therapy&lt;/em&gt;: A drug product that appears in the same sub-table as the product that was e-prescribed (e.g., if benazepril/hydrochlorothiazide [HCTZ] was prescribed, the appropriate alternatives would include any product listed in Table A2 of the original measure documentation). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If a prescription is reversed it is not considered as a dispensing event. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Pharmacy data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary medication non-adherence (PMN).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Pharmacy Quality Alliance (PQA) Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Adherence/Persistence Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Pharmacy Quality Alliance - Clinical Quality Collaboration" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Pharmacy Quality Alliance - Clinical Quality Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Initial support provided by the NACDS Foundation&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PQA Workgroup&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in November 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Pharmacy Quality Alliance (PQA) at 6213 Old Keene Mill Court, Springfield, VA 22152; Phone: 703-690-1987; Fax: 703-842-8150; Web site: &lt;a href=&quot;http://www.pqaalliance.org&quot; title=&quot;Pharmacy Quality Alliance (PQA) Web site&quot;&gt;www.pqaalliance.org&lt;/a&gt;; Email: &lt;a href=&quot;mailto:info@PQAalliance.org&quot;&gt;info@PQAalliance.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 1, 2015. The information was verified by the developer on April 20, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on November 2, 2015. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Pharmacy Quality Alliance (PQA) performance measures and supporting drug code lists may be used for non-commercial use with permission from PQA. Commercial use of the PQA measures requires a licensing agreement. For information contact PQA at &lt;a href=&quot;mailto:info@PQAalliance.org&quot;&gt;info@PQAalliance.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pharmacy Quality Alliance (PQA). Technical specifications for PQA approved measures. Springfield (VA): Pharmacy Quality Alliance (PQA); 2015 Jul. 66 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

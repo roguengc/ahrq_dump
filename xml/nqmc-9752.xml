@@ -1,0 +1,247 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Homeless patients' experiences: mean score for the &quot;Cooperation among Clinicians&quot; subscale on the Primary Care Quality-Homeless (PCQ-H) instrument.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz S, Pollio D, Jones R, Steward J, Stringfellow E, Gordon A, Johnson N, Kim T, Daigle S, Austin E, Young A, Chrystal J, Davis L, Roth D, Holt C. Development of the Primary Care Quality-Homeless (PCQ-H) instrument. A practical survey of homeless patients' experiences in primary care. Med Care. 2014 Aug;52(8):734-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25023918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the mean score for the &quot;Cooperation among Clinicians&quot; subscale on the Primary Care Quality-Homeless (PCQ-H) instrument.&lt;/p&gt;&#xA;&lt;p&gt;A mean subscale score is calculated based on the patients' responses (&quot;Strongly Disagree,&quot; &quot;Disagree,&quot; &quot;Agree,&quot; &quot;Strongly Agree,&quot; and &quot;I Don't Know&quot;) to the following items: &lt;/p&gt;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;16&quot;&gt;&#xA;    &lt;li&gt;My primary care and other health care providers need to communicate with each other more. &lt;/li&gt;&#xA;    &lt;li&gt;I have been frustrated by lack of communication among my primary care and other health care providers. &lt;/li&gt;&#xA;    &lt;li&gt;My primary care and other health care providers are working together to come up with a plan to meet my needs. &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Response options ranged from &quot;Strongly Agree&quot; (value of 4) to &quot;Strongly Disagree&quot; (value of 1), with reverse-scoring applied to negatively worded items. Scoring for each subscale reflects computation of the mean obtained value among items available, provided at least 50% of items for each subscale have obtained a valid response.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The 33-item PCQ-H instrument has 4 subscales: Patient-Clinician Relationship (15 items), Cooperation among Clinicians (3 items), Access/Coordination (11 items), and Homeless-specific Needs (4 items). There are 4 composite measures and 1 overall score measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Assessing the provision of high-quality primary care for homeless persons faces challenges of operationalization and measurement. Single-disease performance metrics can be problematic in their application to special or multimorbid populations and in situations where the context of care should influence decision making (Boyd et al., 2005; Durso, 2006; Weiner, 2004). Patient-centric approaches to primary care have gained in popularity, including patient-centered medical homes (PCMHs) and the U.S. Department of Department of Veterans Affairs' (VA) Patient Aligned Care Teams (True et al., 2013). These changes in care delivery have contributed to increased interest in patient assessments of care and team-based care (Gerteis et al., 1993), and whether care approximates priorities identified by expert consensus groups (i.e., Institute of Medicine [IOM]). Relatively little is known about homeless patients' perceptions of key aspects of care such as accessibility, continuity, coordination, principles enshrined in the Consumer Assessment of Health Plans (CAHPS) (Crofton, Lubalin, &amp;amp; Darby, 1999) and the Primary Care Assessment Survey (PCAS) (Safran et al., 1998).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Administration of the CAHPS with PCMH items is required of federal Health Care for the Homeless programs seeking PCMH status, and CAHPS items are now used within VA's Survey of Health Experiences of Patients (Safran et al., 1998; Hargraves, Hays, &amp;amp; Cleary, 2003; Campbell et al., 2003). These surveys are potentially problematic when applied to homeless patients. The CAHPS presents 43 questions (1012 words) at a ninth grade reading level (Agency for Healthcare Research and Quality [AHRQ], 2012). Twelve items are used to implement skips among the remaining 31 items, and 7 different response sets are used. For clients who are ill rested or cognitively impaired, the risk of error or overload may be high. Questions may presuppose conditions and expectations that may not apply. More pressingly, specific concerns and aspirations important to homeless patients are likely to differ from the concepts queried in standard instruments, including the pressure to balance health care against competing demands (Gelberg et al., 1997), perceptions of being unwelcome or adversely judged (Wen, Hudak, &amp;amp; Hwang, 2007; Ensign &amp;amp; Panke, 2002; Merrill et al., 2002), mutual mistrust, and other unique constraints (Shortt et al., 2008).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;These concerns spurred development of a patient-reported primary care assessment instrument specifically designed to assess homeless patients' experiences in primary care, applicable in VA and non-VA settings alike.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Agency for Healthcare Research and Quality (AHRQ). CAHPS clinician &amp; group surveys: 12-month survey with patient centered medical home (PCMH) items. Washington (DC): U.S. Department of Health and Human Services; 2012. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Boyd CM, Darer J, Boult C, Fried LP, Boult L, Wu AW. Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: implications for pay for performance. JAMA. 2005 Aug 10;294(6):716-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16091574&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Campbell SM, Braspenning J, Hutchinson A, Marshall MN. Research methods used in developing and applying quality indicators in primary care. BMJ. 2003 Apr 12;326(7393):816-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12689983&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Crofton C, Lubalin JS, Darby C. Consumer Assessment of Health Plans Study (CAHPS). Foreword. Med Care. 1999 Mar;37(3 Suppl):MS1-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10098554&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Durso SC. Using clinical guidelines designed for older adults with diabetes mellitus and complex health status. JAMA. 2006 Apr 26;295(16):1935-40. [44 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16639053&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ensign J, Panke A. Barriers and bridges to care: voices of homeless female adolescent youth in Seattle, Washington, USA. J Adv Nurs. 2002 Jan;37(2):166-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11851784&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gelberg L, Gallagher TC, Andersen RM, Koegel P. Competing priorities as a barrier to medical care among homeless adults in Los Angeles. Am J Public Health. 1997 Feb;87(2):217-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9103100&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gerteis M, Edgman-Levitan S, Daley J, et al. Through the patient's eyes: understanding and promoting patient-centered care. Paperback ed. San Francisco (CA): Jossey-Bass Publishers; 1993. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hargraves JL, Hays RD, Cleary PD. Psychometric properties of the Consumer Assessment of Health Plans Study (CAHPS) 2.0 adult core survey. Health Serv Res. 2003 Dec;38(6 Pt 1):1509-27. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14727785&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz S, Pollio D, Jones R, Steward J, Stringfellow E, Gordon A, Johnson N, Kim T, Daigle S, Austin E, Young A, Chrystal J, Davis L, Roth D, Holt C. Development of the Primary Care Quality-Homeless (PCQ-H) instrument. A practical survey of homeless patients' experiences in primary care. Med Care. 2014 Aug;52(8):734-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25023918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Merrill JO, Rhodes LA, Deyo RA, Marlatt GA, Bradley KA. Mutual mistrust in the medical care of drug users: the keys to the &quot;narc&quot; cabinet. J Gen Intern Med. 2002 May;17(5):327-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12047728&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Safran DG, Kosinski M, Tarlov AR, Rogers WH, Taira DH, Lieberman N, Ware JE. The Primary Care Assessment Survey: tests of data quality and measurement performance. Med Care. 1998 May;36(5):728-39. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9596063&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shortt SE, Hwang S, Stuart H, Bedore M, Zurba N, Darling M. Delivering primary care to homeless persons: a policy analysis approach to evaluating the options. Healthc Policy. 2008 Aug;4(1):108-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19377346&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;True G, Butler AE, Lamparska BG, Lempa ML, Shea JA, Asch DA, Werner RM. Open access in the patient-centered medical home: lessons from the Veterans Health Administration. J Gen Intern Med. 2013 Apr;28(4):539-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23192447&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Weiner SJ. Contextualizing medical decisions to individualize care: lessons from the qualitative sciences. J Gen Intern Med. 2004 Mar;19(3):281-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15009785&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wen CK, Hudak PL, Hwang SW. Homeless people's perceptions of welcomeness and unwelcomeness in healthcare encounters. J Gen Intern Med. 2007 Jul;22(7):1011-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17415619&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary care quality; homelessness; cooperation among clinicians &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of items responded to by homeless patients on the &quot;Cooperation among Clinicians&quot; subscale on the Primary Care Quality-Homeless (PCQ-H) instrument (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The sum of patients' responses (&quot;Strongly Disagree,&quot; &quot;Disagree,&quot; &quot;Agree,&quot; &quot;Strongly Agree&quot; and &quot;I Don't Know&quot;) to items on the &quot;Cooperation among Clinicians&quot; subscale (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;On a single winter night in 2013, a total of 610,042 Americans were counted as homeless, including 57,849 United States (U.S.) military veterans (Office of Planning and Community Development, 2013), a number considerably higher when homelessness is counted over the year (Burt et al., 2001). &lt;/li&gt;&#xA;    &lt;li&gt;The vulnerability of homeless individuals is reflected in excess mortality (Beijer, Wolf, &amp;amp; Fazel, 2012; Hwang, 2000; Hwang et al., 1997; Hibbs et al., 1994) hospital utilization (Buck et al., 2012; Salit et al., 1998), and poor health (Gelberg &amp;amp; Linn, 1989). Their access to health care is typically poor (Kushel, Vittingoff, &amp;amp; Haas, 2001; Baggett et al., 2010; Kertesz et al., &quot;Unmet need,&quot; 2014), and they often feel unwelcome in care (Wen, Hudak, &amp;amp; Hwang, 2007). &lt;/li&gt;&#xA;    &lt;li&gt;High-quality primary care for homeless persons could, in principle, ameliorate disparities and produce cost offsets elsewhere (e.g., fewer emergency room visits, hospitalizations), and perhaps contribute to the reduction of homelessness (Han &amp;amp; Wells, 2003). &lt;/li&gt;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baggett TP, O'Connell JJ, Singer DE, Rigotti NA. The unmet health care needs of homeless adults: a national study. Am J Public Health. 2010 Jul;100(7):1326-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20466953&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Beijer U, Wolf A, Fazel S. Prevalence of tuberculosis, hepatitis C virus, and HIV in homeless people: a systematic review and meta-analysis. Lancet Infect Dis. 2012 Nov;12(11):859-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22914343&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Buck DS, Brown CA, Mortensen K, Riggs JW, Franzini L. Comparing homeless and domiciled patients' utilization of the Harris County, Texas public hospital system. J Health Care Poor Underserved. 2012 Nov;23(4):1660-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23698680&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Burt MR, Aron LY, Lee E, et al. Helping America's homeless: emergency shelter or affordable housing?. Washington (DC): The Urban Institute Press; 2001. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gelberg L, Linn LS. Assessing the physical health of homeless adults. JAMA. 1989 Oct 13;262(14):1973-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2778933&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Han B, Wells BL. Inappropriate emergency department visits and use of the Health Care for the Homeless Program services by Homeless adults in the northeastern United States. J Public Health Manag Pract. 2003 Nov-Dec;9(6):530-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14606193&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hibbs JR, Benner L, Klugman L, Spencer R, Macchia I, Mellinger A, Fife DK. Mortality in a cohort of homeless adults in Philadelphia. N Engl J Med. 1994 Aug 4;331(5):304-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8022442&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hwang SW, Orav EJ, O'Connell JJ, Lebow JM, Brennan TA. Causes of death in homeless adults in Boston. Ann Intern Med. 1997 Apr 15;126(8):625-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9103130&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hwang SW. Mortality among men using homeless shelters in Toronto, Ontario. JAMA. 2000 Apr 26;283(16):2152-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10791509&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz S, Pollio D, Jones R, Steward J, Stringfellow E, Gordon A, Johnson N, Kim T, Daigle S, Austin E, Young A, Chrystal J, Davis L, Roth D, Holt C. Development of the Primary Care Quality-Homeless (PCQ-H) instrument. A practical survey of homeless patients' experiences in primary care. Med Care. 2014 Aug;52(8):734-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25023918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz SG, McNeil W, Cash JJ, Desmond R, McGwin G, Kelly J, Baggett TP. Unmet need for medical care and safety net accessibility among Birmingham's homeless. J Urban Health. 2014 Feb;91(1):33-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23620012&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kushel MB, Vittinghoff E, Haas JS. Factors associated with the health care utilization of homeless persons. JAMA. 2001 Jan 10;285(2):200-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11176814&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Office of Planning and Community Development. The 2013 Annual Homeless Assessment Report (AHAR) to Congress, Part 1: point-in-time estimates of homelessness. Washington (DC): United States Department of Housing and Urban Development; 2013. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Salit SA, Kuhn EM, Hartz AJ, Vu JM, Mosso AL. Hospitalization costs associated with homelessness in New York City. N Engl J Med. 1998 Jun 11;338(24):1734-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9624194&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wen CK, Hudak PL, Hwang SW. Homeless people's perceptions of welcomeness and unwelcomeness in healthcare encounters. J Gen Intern Med. 2007 Jul;22(7):1011-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17415619&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Starting with quality-related constructs from the Institute of Medicine, the authors identified relevant themes by interviewing homeless patients and experts in their care. A multidisciplinary team drafted a preliminary set of 78 items. This was administered to homeless-experienced clients (n = 563) across 3 Veterans Affairs (VA) facilities and 1 non-VA Health Care for the Homeless Program. Using Item Response Theory, the authors examined Test Information Function (TIF) curves to eliminate less informative items and devise plausibly distinct subscales. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The resulting 33-item instrument (Primary Care Quality-Homeless [PCQ-H]) has 4 subscales: Patient-Clinician Relationship (15 items), Cooperation among Clinicians (3 items), Access/Coordination (11 items), and Homeless-specific Needs (4 items). Evidence for divergent and convergent validity is provided. TIF graphs showed adequate informational value to permit inferences about groups for 3 subscales (Relationship, Cooperation, and Access/Coordination). The 3-item Cooperation subscale had lower informational value (TIF less than 5) but had good internal consistency (Crohnbach &amp;alpha; = 0.75) and patients frequently reported problems in this aspect of care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Calculated indices of internal consistency/reliability (Crohnbach &amp;alpha;, McDonald &amp;omega;) are as follows: Patient-Clinician Relationship (0.92, 0.96); Cooperation (0.75, 0.85); Access/Coordination (0.87, 0.94); Homeless-specific Needs (0.76, 0.88). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional information. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz S, Pollio D, Jones R, Steward J, Stringfellow E, Gordon A, Johnson N, Kim T, Daigle S, Austin E, Young A, Chrystal J, Davis L, Roth D, Holt C. Development of the Primary Care Quality-Homeless (PCQ-H) instrument. A practical survey of homeless patients' experiences in primary care. Med Care. 2014 Aug;52(8):734-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25023918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Community Health Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Equity" />
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;br /&gt;&#xD;&#xA;&lt;/strong&gt;Number of items responded to by homeless patients on the &quot;Cooperation among Clinicians&quot; subscale on the Primary Care Quality-Homeless (PCQ-H) instrument&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The target population consists of persons with: (A) current or past experience of homelessness, or high vulnerability to homelessness, and (B) who have an established primary care relationship with the site providing care (this may be a designated clinic, a team of providers who work together in that clinic, or a single prescribing provider with assisting staff). Both (A) and (B) must be met. &lt;/p&gt;&#xD;&#xA;&lt;ol class=&quot;Note&quot; style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;Current or Past Experience of Homelessness or High Vulnerability to Homelessness&lt;/strong&gt;. In considering the target population (homeless and homeless-experienced), please note that the PCQ-H instrument was developed to permit use across settings that serve populations with extreme poverty, where homeless individuals number among the service recipients, but where other respondents may not be homeless. A clinical site serving an extreme poverty population can thus utilize the survey with all respondents, rather than attempting to restrict administration of the survey to a subgroup.&#xD;&#xA;    &lt;p&gt;Operationally, meeting any 1 of the following 4 criteria can be used to fulfill criterion A (&quot;current or past experience of homelessness, or high vulnerability to homelessness&quot;). &lt;/p&gt;&#xD;&#xA;    &lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;The individual has an International Classification of Diseases, Ninth Revision (ICD-9) code for &quot;homelessness&quot; (V60.0) recorded within the prior 2 years. &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The individual has a primary care relationship with an organization explicitly designated for the care of homeless individuals (&quot;free city health care for the homeless&quot;). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The individual seeks and obtains primary care from an organization that explicitly serves an extreme poverty population, where homelessness is frequent (i.e., greater than 30%) among clientele being served. For example, such an organization may include a charity clinic that receives homeless clients and simultaneously an impoverished population of persons who are not presently homeless (e.g., &quot;downtown medical student volunteer clinic&quot;). &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The individual affirms in separate items (suggestions below) that they have a history of homelessness at present or in the past. There is no single consensus &quot;preferred question&quot; for confirming a history of homeless, but the authors of the instrument propose some that have been used in research. &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;p&gt;Of the 4 criteria shown, the first 2 were explicitly used as entry criteria in the research used to develop the PCQ-H and the latter 2 reflect the designers' clinically-informed judgment of persons and settings for which the PCQ-H instrument can apply readily.&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;strong&gt;An Established Primary Care Relationship with the Site Providing Care&lt;/strong&gt;. The authors of PCQ-H recognize that &quot;established primary care relationships&quot; can be attained with homeless or homeless-experienced individuals, but that the operational definition of such a relationship may not easily fit conventional methods of ascertainment used with mainstream populations. Thus, for example, patients may have Medicaid and be automatically assigned one primary care provider in a Medicaid-contracting health plan, but receive some or all actual primary care in a student-run volunteer clinic. In this instance the &quot;relationship&quot; is established with the student-run volunteer clinic and not the Medicaid-contracting health plan or the provider assigned at time of enrollment. For this reason the authors urge that clinical organizations using the PCQ-H consider the inclusion of additional questions (supplementary questions) to ascertain if the respondent personally perceives the clinical organization to be their site for receiving primary care. Two criteria are offered below. Of these two criteria, the first criterion was the one utilized in research used in the development of the PCQ-H. The second criterion represents the investigating team's opinion of a situation where the intended objective of an established primary care relationship is fulfilled.&#xD;&#xA;    &lt;p&gt;Meeting EITHER of the 2 criteria below qualifies as having &quot;an established primary care relationship with the site providing care&quot;:&lt;/p&gt;&#xD;&#xA;    &lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;        &lt;li&gt;The individual has obtained 2 primary care visits in the past 2 years with a provider at the site of interest (the provider is someone with prescribing authority (e.g., physician, nurse practitioner, physician assistant, or a student under supervision in one of these professions).&#xD;&#xA;        &lt;p&gt;OR &lt;/p&gt;&#xD;&#xA;        &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;The individual presents for care to the site of interest and provides appropriate answers to 2 supplemental questions indicating that the site is perceived as his/her regular primary care site and indicating that the visit on which the survey is received is not the first visit. &lt;/li&gt;&#xD;&#xA;    &lt;/ol&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions &lt;/strong&gt;&lt;br /&gt;&#xA;The sum of patients' responses (&quot;Strongly Disagree,&quot; &quot;Disagree,&quot; &quot;Agree,&quot; &quot;Strongly Agree&quot; and &quot;I Don't Know&quot;) to items on the &quot;Cooperation among Clinicians&quot; subscale &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;A positively worded item is scored 4 if the client &quot;Strongly Agrees,&quot; 3 if they &quot;Agree,&quot; 2 for &quot;Disagree&quot; and 1 for &quot;Strongly Disagree.&quot; &lt;/li&gt;&#xA;    &lt;li&gt;Refer to &lt;em&gt;Primary Care Quality&amp;ndash;Homeless Survey &amp;mdash; Scoring Version 1.0&lt;/em&gt; for additional scoring information (see also the &quot;Companion Documents&quot; field). &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Primary Care Quality-Homeless (PCQ-H) Survey (Version 1.0)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cooperation among clinicians.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Primary Care Quality-Homeless (PCQ-H) Instrument" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Kertesz, Stefan, MD, U.S. Department of Veterans Affairs - None" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Kertesz, Stefan, MD, U.S. Department of Veterans Affairs - None" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Department of Veterans Affairs Health Services Research and Development Branch (Grant Number: IAA-07-069-2)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Stefan G. Kertesz, MD, MSc (Birmingham VA Medical Center, UAB School of Medicine); David E. Pollio, PhD (Department of Social Work, University of Alabama at Birmingham); Richard N. Jones, ScD (Alpert School of Medicine at Brown University); Jocelyn Steward, MSM (University of Alabama at Birmingham School of Health Related Professions); Erin J. Stringfellow, MSW (George Warren Brown School of Social Work, Washington University in St. Louis); Adam J. Gordon, MD, MPH (VA Pittsburgh Health Care System, Center for Health Equity Research and Promotion, University of Pittsburgh School of Medicine); Nancy K. Johnson, RN, MPH (Birmingham VA Medical Center); Theresa A. Kim, MD (Boston University School of Medicine, Boston Health Care for the Homeless Program); Shanette G. Daigle, MPH (Department of Veterans Affairs, Birmingham/Atlanta Geriatric Research, Education, and Clinical Center [GRECC], University of Alabama at Birmingham); Erika L. Austin, PhD (Birmingham VA Medical Center); Alexander S. Young, MD (Desert Pacific Mental Illness Research Education and Clinic Center [MIRECC] and Department of Psychiatry, Greater Los Angeles VA Healthcare Center, University of California Los Angeles); Joya G. Chrystal, MSW (VA, Desert Pacific Mental Illness Research Education and Clinic Center [MIRECC] and Department of Psychiatry, Greater Los Angeles VA Healthcare Center, University of California Los Angeles); Lori L. Davis, MD (Tuscaloosa VA Medical Center); David L. Roth, PhD (Johns Hopkins University, Center on Aging and Health); Cheryl L. Holt, PhD (University of Maryland School of Public Health) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The authors declare no conflict of interest.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://pdfs.journals.lww.com/lww-medicalcare/2014/08000/Development_of_the_Primary_Care_Quality_Homeless.10.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1427897948191;payload|mY8D3u1TCCsNvP5E421JYPPlNl9ZUXrQDsjmMHeXqBgfxP56d5BAis+WhfSrPR1S6lcHrAT5WTvTkrI7Jc1zUq2UlEn8N1x7qr2heZXbSZE2/LnQkUnbAwLtuHlqxiruZhFwwtFf4aeU4rMgwns+8TDbNbAkOUlffcIt0OqswFvWf97qU1+XR+GRM7R1S2drJjlMZyk5umnCyX0ZsO+WQO3OqrC6kWZHGFmwsUyPoy3TkarWdvvy6Y+Y2j71uz08ZT48Kq4FnoD9k2sZ/f2+VtLuq7uoIKDiRliJeppVX+rw4UyT+wiUZhSlAJO7dAyjR9vmyVAWVtaC6WwAPrLYreszSV1KWThE7hh6oMJQ6lmjEbXKC+gaal/PsKlfuCcwBrUqJIORKZEJNXxZBdgr3PQsdpBR5D41VaEH2MOCVFQOReXo4fsg/YHzlI735ThKGKWml7j5Rn+50uie6sSdJqjf0QLWOa0q+IPzv3lP9DbtjtVBzj37I05+xyFEQYy8hkPvrHfu33uPvCYtoLj6J9uZawa0r/hG4jNiOlz9FC7GJdeYruj0bK5VQBSvsgdY/dBIMeG3lNTXUCUcvJSluK0aGIw6Dz6nHkcE/3S4anFLYlT+riIYTCGiEX23hvUO;hash|7whcDfRIZ5nXcSnl0XP8gw==&quot; title=&quot;Medical Care Web site&quot;&gt;Medical Care Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Stefan G. Kertesz, MD, MSc, at the Birmingham VA Medical Center, 700 19th St S, Birmingham, AL 35233; E-mail: &lt;a href=&quot;mailto:skertesz@uabmc.edu&quot;&gt;skertesz@uabmc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kertesz SG. Primary Care Quality&amp;ndash;Homeless Survey &amp;mdash; scoring version 1.0. Birmingham (AL): Birmingham VA Medical Center; 4 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;For more information on this instrument including copies of SAS code, an Excel workbook to score all scales, a Spanish translation, and a 12-item short form (available in English, Spanish, and Chinese), contact Stefan G. Kertesz, MD, MSc, at the Birmingham VA Medical Center, 700 19th St S, Birmingham, AL 35233; E-mail: &lt;a href=&quot;mailto:skertesz@uabmc.edu&quot;&gt;skertesz@uabmc.edu&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on April 10, 2015. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kertesz S, Pollio D, Jones R, Steward J, Stringfellow E, Gordon A, Johnson N, Kim T, Daigle S, Austin E, Young A, Chrystal J, Davis L, Roth D, Holt C. Development of the Primary Care Quality-Homeless (PCQ-H) instrument. A practical survey of homeless patients' experiences in primary care. Med Care. 2014 Aug;52(8):734-42. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25023918&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

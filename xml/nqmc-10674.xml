@@ -1,0 +1,230 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Dementia: percentage of patients, regardless of age, with a diagnosis of dementia for whom an assessment of cognition is performed and the results reviewed at least once within a 12 month period.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Dementia performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 37 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, with a diagnosis of dementia for whom an assessment of cognition is performed and the results reviewed at least once within a 12 month period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dementia is often characterized by the gradual onset and continuing cognitive decline in one or more domains including memory, executive function, language, judgment, and spatial abilities (American Psychiatric Association [APA], 2007). Cognitive deterioration represents a major source of morbidity and mortality and poses a significant burden on affected individuals and their caregivers (Daviglus et al., 2010). Although cognitive deterioration follows a different course depending on the type of dementia, significant rates of decline have been reported. For example, one study found that the annual rate of decline for Alzheimer's disease patients was more than four times that of older adults with no cognitive impairment (Wilson et al., 2010). Nevertheless, measurable cognitive abilities remain throughout the course of dementia (APA, 2007). Initial and ongoing assessments of cognition are fundamental to the proper management of patients with dementia. These assessments serve as the basis for identifying treatment goals, developing a treatment plan, monitoring the effects of treatment, and modifying treatment as appropriate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Supporting Guidelines&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Ongoing assessment includes periodic monitoring of the development and evolution of cognitive and noncognitive psychiatric symptoms and their response to intervention. Both cognitive and noncognitive neuropsychiatric and behavioral symptoms of dementia tend to evolve over time, so regular monitoring allows detection of new symptoms and adaptation of treatment strategies to current needs... Cognitive symptoms that almost always require assessment include impairments in memory, executive function, language, judgment, and spatial abilities. It is often helpful to track cognitive status with a structured simple examination (APA, 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Conduct and document an assessment and monitor changes in cognitive status using a reliable and valid instrument. Cognitive status should be reassessed periodically to identify sudden changes, as well as to monitor the potential beneficial or harmful effects of environmental changes, specific medications, or other interventions. Proper assessment requires the use of a standardized, objective instrument that is relatively easy to use, reliable (with less variability between different assessors), and valid (results that would be similar to gold standard evaluations) (California Workgroup on Guidelines for Alzheimer's Disease Management, 2008). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Dementia performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 37 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Psychiatric Association (APA). Practice guideline for the treatment of patients with Alzheimer's disease and other dementias. Arlington (VA): American Psychiatric Association (APA); 2007 Oct. 85 p.  [554 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;California Workgroup on Guidelines for Alzheimer's Disease Management. 'Guidelines for Alzheimer's disease management. Los Angeles (CA): Alzheimer's Disease and Related Disorders Association, Inc., Los Angeles Chapter; 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Daviglus ML, Bell CC, Berrettini W, Bowen PE, Connolly ES, Cox NJ, Dunbar-Jacob JM, Granieri EC, Hunt G, McGarry K, Patel D, Potosky AL, Sanders-Bush E, Silberberg D, Trevisan M. NIH state-of-the-science conference statement: preventing Alzheimer's disease and cognitive decline. NIH Consens State Sci Statements. 2010 Apr 28;27(4):1-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20445638&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wilson RS, Aggarwal NT, Barnes LL, Mendes de Leon CF, Hebert LE, Evans DA. Cognitive decline in incident Alzheimer disease in a community population. Neurology. 2010 Mar 23;74(12):951-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20308679&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Dementia; cognitive status; assessment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with a diagnosis of dementia (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients for whom an assessment of cognition is performed and the results reviewed at least once within a 12 month period (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reasons for Prioritizing Improvement in Dementia&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;High Impact Topic Area&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dementia is a chronic condition that poses a major and growing threat to the public's health. Improving the effectiveness of care and optimizing patient outcomes will become increasingly important as the population of the United States ages. &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Dementia affects approximately 5% to 8% of individuals over age 65 years, 15% to 20% of individuals over age 75 years, and 25% to 50% of individuals over age 85 years (Alzheimer's Association, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Currently, an estimated 5.3 million Americans of all ages have Alzheimer's disease &amp;ndash; the most common form of dementia (Alzheimer's Association, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;More than 20 percent of women and approximately 17 percent of men reaching the age of 65 would ultimately develop dementia (estimated lifetime risk) (Alzheimer's Association, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Alzheimer's disease was the sixth-leading cause of death across all ages in the United States in 2007 (Xu et al., 2007). It was the fifth-leading cause of death for those aged 65 and older in 2006 (Alzheimer's Association, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;People with Alzheimer's disease and other dementias have more than three times as many hospital stays as other older people (Alzheimer's Association, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;At any one time, about one-quarter of all hospital patients aged 65 and older are people with Alzheimer's and other dementias (Alzheimer's Association, 2009). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2009, almost 11 million family members, friends and neighbors provided 12.5 billion hours of unpaid care for a person with Alzheimer's disease or other dementias. This number represents an average of 21.9 hours of care per caregiver per week, or 1,139 hours of care per caregiver per year (Alzheimer's Association, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The total estimated worldwide costs of dementia are $604 billion in 2010, accounting for around 1% of the world's gross domestic product (Alzheimer's Disease International, 2010). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;In 2005, the direct costs to Medicare and Medicaid for care for people with Alzheimer's and other dementias and the estimated indirect costs to businesses for employees who were caregivers of people with Alzheimer's and other dementias amounted to more than $148 billion (Alzheimer's Association, 2009). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Demonstrated Opportunity for Improvement&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;According to a study analyzing the quality of medical care provided to vulnerable community-dwelling older patients, quality of care for geriatric conditions (e.g., dementia, urinary incontinence) was found to be poorer than care for general medical conditions (e.g., diabetes, heart failure). On average, patients with dementia received the recommended quality of care only about 35 percent of the time (Wenger et al., 2003). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chodosh and colleagues found that current practice patterns indicate a significant opportunity for improvement in the quality of dementia care with a majority (11 of 18) of guideline-recommended dementia care processes having less than 40% adherence (Chodosh, Mittman, &amp;amp; Connor, 2007). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Another study identified considerable variability across sites in the routine implementation of recommended practices for the assessment, management and treatment of patients with dementia (Rosen et al., 2002). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Disparities&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;A recent systematic review and meta-analysis of the use of dementia treatment, care, and research identified significant racial and ethnic disparities in western countries, particularly the United States. Overall, the authors found &quot;consistent evidence, mostly from the United States, that [minority ethnic] people accessed diagnostic services later in their illness, and once they received a diagnosis, were less likely to access antidementia medication, research trials, and 24-hour care&quot; (Cooper et al., 2010). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alzheimer's Association. 2009 Alzheimer's disease facts and figures. [internet]. Chicago (IL): Alzheimer's Association; 2009&amp;nbsp;[accessed 2010 Feb 24]. [80 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alzheimer's Association. 2010 Alzheimer's disease facts and figures. [internet]. Chicago (IL): Alzheimer's Association; 2010&amp;nbsp;[accessed 2010 Aug 19]. [74 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alzheimer's Disease International. World Alzheimer report 2010: the global economic impact of dementia. [internet]. London (UK): Alzheimer's Disease International; 2010 Sep&amp;nbsp;[accessed 2010 Sep 28]. [56 p]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Dementia performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 37 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chodosh J, Mittman BS, Connor KI, Vassar SD, Lee ML, DeMonte RW, Ganiats TG, Heikoff LE, Rubenstein LZ, Della Penna RD, Vickrey BG. Caring for patients with dementia: how good is the quality of care? Results from three health systems. J Am Geriatr Soc. 2007 Aug;55(8):1260-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17661967&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cooper C, Tandy AR, Balamurali TB, Livingston G. A systematic review and meta-analysis of ethnic differences in use of dementia treatment, care, and research. Am J Geriatr Psychiatry. 2010 Mar;18(3):193-203. [52 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20224516&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rosen CS, Chow HC, Greenbaum MA, Finney JF, Moos RH, Sheikh JI, Yesavage JA. How well are clinicians following dementia practice guidelines?. Alzheimer Dis Assoc Disord. 2002 Jan-Mar;16(1):15-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11882745&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Wenger NS, Solomon DH, Roth CP, MacLean CH, Saliba D, Kamberg CJ, Rubenstein LZ, Young RT, Sloss EM, Louie R, Adams J, Chang JT, Venus PJ, Schnelle JF, Shekelle PG. The quality of medical care provided to vulnerable community-dwelling older patients. Ann Intern Med. 2003 Nov 4;139(9):740-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14597458&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Xu J, Kochanek KD, Murphy SL, Tehada-Vera B. Deaths: final data for 2007. Natl Vital Stat Rep. 2010 May 20;58(19):1-135.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is being made available without any prior testing. The Physician Consortium for Performance Improvement (PCPI) recognizes the importance of testing all of its measures and encourages testing of this dementia measure for feasibility and reliability by organizations or individuals positioned to do so. The Measure Testing Protocol for PCPI measures was approved by the PCPI in 2007 and is available on the PCPI Web site (see Position Papers at &lt;a href=&quot;http://www.physicianconsortium.org&quot; title=&quot;AMA-PCPI Web site&quot;&gt;www.physicianconsortium.org&lt;/a&gt;); interested parties are encouraged to review this document and to contact PCPI staff. The PCPI will welcome the opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Dementia performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 37 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Assisted Living Facilities" />
+      <FieldValue Value="Home Care" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients, regardless of age, with a diagnosis of dementia&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Eligible Population&lt;/em&gt;:&lt;br /&gt;&#xD;&#xA;All patients, regardless of age&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Current Procedural Terminology (CPT) codes for encounter (refer to the original measure documentation for CPT codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis for dementia (refer to the original measure documentation for International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] codes [reportable through 9/30/2015]) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diagnosis for dementia (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes [reportable beginning 10/1/2015]) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Documentation of medical reason(s) for not assessing cognition (e.g., patient with very advanced stage dementia, other medical reason) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of patient reason(s) for not assessing cognition &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients for whom an assessment of cognition is performed and the results reviewed at least once within a 12 month period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for specific&amp;nbsp;Current Procedural Terminology (CPT) Category II codes for assessment&amp;nbsp;and review of cognition.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Cognition can be assessed by the clinician during the patient's clinical history. Cognition can also be assessed by direct examination of the patient using one of a number of instruments, including several originally developed and validated for screening purposes. This can also include, where appropriate, administration to a knowledgeable informant. Examples include, but are not limited to:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Blessed Orientation-Memory-Concentration Test (BOMC) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mini Cog &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Montreal Cognitive Assessment (MoCA) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;St. Louis University Mental Status Examination (SLUMS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Mini-Mental State Examination (MMSE) [&lt;strong&gt;Note&lt;/strong&gt;: The MMSE has not been well validated for non-Alzheimer's dementias.] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Short Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ascertain Dementia 8 (AD8) Questionnaire &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Minimum Data Set (MDS) Brief Interview for Mental Status (BIMS) [&lt;strong&gt;Note&lt;/strong&gt;: Validated for use with nursing home patients only.] &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Formal neuropsychological evaluation &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #2: cognitive assessment&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="AMA/PCPI Dementia Performance Measurement Set" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Medical Association - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Dementia Measure Development Work Group&lt;/span&gt;*&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Members&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Jerry C. Johnson, MD (&lt;em&gt;Co-Chair&lt;/em&gt;) (geriatric medicine)&lt;br /&gt;&#xD;&#xA;Germaine Odenheimer, MD (&lt;em&gt;Co-Chair&lt;/em&gt;) (neurology)&lt;br /&gt;&#xD;&#xA;Fran&amp;ccedil;ois Boller, MD, PhD, FAAN (neurology)&lt;br /&gt;&#xD;&#xA;Soo Borson, MD (geriatric psychiatry)&lt;br /&gt;&#xD;&#xA;Charles A. Cefalu, MD, MS (geriatric medicine)&lt;br /&gt;&#xD;&#xA;Mirean Coleman, MSW, LICSW, CT (social work)&lt;br /&gt;&#xD;&#xA;Patricia C. Davis, MD, MBA, FACR (radiology)&lt;br /&gt;&#xD;&#xA;Mary Ann Forciea, MD (internal/geriatric medicine)&lt;br /&gt;&#xD;&#xA;Elizabeth M. Galik, PhD, CRNP (nursing)&lt;br /&gt;&#xD;&#xA;Laura N. Gitlin, PhD (occupational therapy)&lt;br /&gt;&#xD;&#xA;Helen H. Kyomen, MD, MS (geriatric and adult psychiatry)&lt;br /&gt;&#xD;&#xA;Katie Maslow, MSW (patient advocacy representative)&lt;br /&gt;&#xD;&#xA;Haydee Muse, MD (health plan representative)&lt;br /&gt;&#xD;&#xA;Bruce E. Robinson, MD, MPH (geriatric medicine)&lt;br /&gt;&#xD;&#xA;Robert Paul Roca, MD, MPH, MBA (geriatric psychiatry)&lt;br /&gt;&#xD;&#xA;Amy E. Sanders, MD (geriatric neurology)&lt;br /&gt;&#xD;&#xA;Jason E. Schillerstrom, MD (geriatric psychiatry)&lt;br /&gt;&#xD;&#xA;Joseph W. Shega, MD (geriatric medicine, hospice and palliative medicine)&lt;br /&gt;&#xD;&#xA;Eric G. Tangalos, MD, FACP, AGSF, CMD (internal/geriatric medicine)&lt;br /&gt;&#xD;&#xA;Joan M. Teno, MD, MS (internal medicine)&lt;br /&gt;&#xD;&#xA;Brian K. Unwin, MD, FAAFP (family medicine)&lt;br /&gt;&#xD;&#xA;John Robert Absher, MD (neurology) -- Liaison to American Academy of Neurology's Quality Measurement and Reporting Subcommittee&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Work Group Staff&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Neurology&lt;/em&gt;: Gina K. Gjorvad; Rebecca J. Swain-Eng, MS&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Geriatrics Society&lt;/em&gt;: Caitlin Connolly; Susan Sherman&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Directors Association&lt;/em&gt;: Jill S. Epstein, MA; Jacqueline Vance, RNC, CDONA/LTC&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Psychiatric Association&lt;/em&gt;: Robert M. Plovnick, MD, MS&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association (AMA)&lt;/em&gt;: Mark Antman, DDS, MBA; Christopher Carlucci, MBA; Victoria Fils, EdD, MPH; Kendra Hanley, MS; Karen Kmetik, PhD; Stephanie Moncada, MS; Pamela O'Neil, MPH; David Marc Small, MS, MPP; Samantha Tierney, MPH&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The composition and affiliations of the work group members are listed as originally convened in 2006 and are not up to date.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None of the members of the Dementia Work Group had any disqualifying material interests under the Physician Consortium for Performance Improvement (PCPI) Conflict of Interest Policy. See the original measure documentation for a summary of non-disqualifying interests disclosed on Work Group members' Material Interest Disclosure Statements.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Aug" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.ama-assn.org/ama/pub/physician-resources/physician-consortium-performance-improvement/pcpi-measures.page?&quot; title=&quot;AMA-PCPI Web site&quot;&gt;American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg; Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact AMA at 330 N. Wabash Avenue Suite 39300, Chicago, Ill. 60611; Phone: 312-800-621-8335; Fax: 312-464-5706; E-mail: &lt;a href=&quot;mailto:consortium@ama-assn.org&quot;&gt;consortium@ama-assn.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on March 11, 2016. This NQMC summary was verified by the measure developer on March 29, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Complete Physician Performance Measurement Sets (PPMS) are published by the American Medical Association, on behalf of the Physician Consortium for Performance Improvement. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the American Medical Association, Clinical Performance Evaluation, 330 N. Wabash Ave, Chicago, IL 60611 &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®). Dementia performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Aug. 37 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

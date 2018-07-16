@@ -1,0 +1,218 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Lipid management in adults: percentage of patients with established atherosclerotic cardiovascular disease (ASCVD), or a 10-year risk for CHD greater than or equal to 10%, or diabetes, who are on a statin or have LDL less than 100 ml/dL within a 12-month period.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Woolley T, Canoniero M, Conroy W, Fareed M, Groen S, Helmrick K, Kofron P, Kottke T, Leslie S, Myers C, Needham R, O'Connor P, Peters J, Reddan J, Sorge L, Zerr B. Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Nov. 49 p.  [88 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measure:  Outcome" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients with:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Established atherosclerotic cardiovascular disease (ASCVD): coronary heart disease (CHD), peripheral artery disease (PAD) or stroke presumed of atherosclerotic origin, or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A 10-year risk for CHD greater than or equal to 10%, or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diabetes, who are on a statin &lt;strong&gt;OR&lt;/strong&gt; have low-density lipoprotein (LDL) less than 100 ml/dL within a 12-month period. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The priority aim addressed by this measure is to increase the percentage of patients with:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Established atherosclerotic cardiovascular disease (ASCVD): coronary heart disease (CHD), peripheral artery disease (PAD) or stroke presumed of atherosclerotic origin, or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;A 10-year risk for CHD greater than or equal to 10%, or &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diabetes, who are on a statin &lt;strong&gt;OR&lt;/strong&gt; have low-density lipoprotein (LDL) less than 100 ml/dL within a 12-month period. &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Patients with risk factors for coronary heart disease but no history of disease who receive lipid-lowering therapy are likely to experience a decreased risk of coronary heart disease (Sever et al., 2003; &quot;Major outcomes,&quot; 2002; Heart Protection Study Collaborative Group, 2002; Shepherd et al., 2002; Pignone, Phillips, &amp;amp; Mulrow, 2000; Downs et al., 1998; Shepherd et al., 1995; Frick et al., 1987; Lipid Research Clinics Program, 1984).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients with a history of coronary disease (including unstable angina and acute myocardial infarction) often benefit from treatment with a statin. Studies have consistently shown a decrease in risk of death from coronary heart disease (Cannon et al., 2004; Nissen et al., 2004; Heart Protection Study Collaborative Group, 2002; Shepherd et al., 2002; LaRosa, He, &amp;amp; Vupputuri, 1999; Goldberg et al., 1998; The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group, 1998; Scandinavian Simvastatin Survival Study Group, 1994).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Thus, for care of patients with established ASCVD, or whose 10-year CHD risk greater than or equal to 10% or who have diabetes, the use of statin therapy is recommended.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reducing LDL-cholesterol (LDL-C) levels is the primary approach to lowering risk of CHD in both primary and secondary prevention. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cannon CP, Braunwald E, McCabe CH, Rader DJ, Rouleau JL, Belder R, Joyal SV, Hill KA, Pfeffer MA, Skene AM, Pravastatin or Atorvastatin Evaluation and Infection Therapy-Thrombolysis in Myocardial Infarction 2. Intensive versus moderate lipid lowering with statins after acute coronary syndromes. N Engl J Med. 2004 Apr 8;350(15):1495-504. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15007110&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Downs JR, Clearfield M, Weis S, Whitney E, Shapiro DR, Beere PA, Langendorfer A, Stein EA, Kruyer W, Gotto AM. Primary prevention of acute coronary events with lovastatin in men and women with average cholesterol levels: results of AFCAPS/TexCAPS. Air Force/Texas Coronary Atherosclerosis Prevention Study. JAMA. 1998 May 27;279(20):1615-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9613910&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Frick MH, Elo O, Haapa K, Heinonen OP, Heinsalmi P, Helo P, Huttunen JK, Kaitaniemi P, Koskinen P, Manninen V. Helsinki Heart Study: primary-prevention trial with gemfibrozil in middle-aged men with dyslipidemia. Safety of treatment, changes in risk factors, and incidence of coronary heart disease. N Engl J Med. 1987 Nov 12;317(20):1237-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3313041&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Goldberg RB, Mellies MJ, Sacks FM, Moyé LA, Howard BV, Howard WJ, Davis BR, Cole TG, Pfeffer MA, Braunwald E. Cardiovascular events and their reduction with pravastatin in diabetic and glucose-intolerant myocardial infarction survivors with average cholesterol levels: subgroup analyses in the cholesterol and recurrent events (CARE) trial. The Care Investigators. Circulation. 1998 Dec 8;98(23):2513-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9843456&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial. Lancet. 2002 Jul 6;360(9326):7-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12114036&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;LaRosa JC, He J, Vupputuri S. Effect of statins on risk of coronary disease: a meta-analysis of randomized controlled trials. JAMA. 1999 Dec 22-29;282(24):2340-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10612322&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lipid Research Clinics Program. The Lipid Research Clinics Coronary Primary Prevention Trial results. I. Reduction in incidence of coronary heart disease. JAMA. 1984 Jan 20;251(3):351-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6361299&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Major outcomes in moderately hypercholesterolemic, hypertensive patients randomized to pravastatin vs usual care: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT-LLT). JAMA. 2002 Dec 18;288(23):2998-3007. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12479764&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nissen SE, Tuzcu EM, Schoenhagen P, Brown BG, Ganz P, Vogel RA, Crowe T, Howard G, Cooper CJ, Brodie B, Grines CL, DeMaria AN. Effect of intensive compared with moderate lipid-lowering therapy on progression of coronary atherosclerosis: a randomized controlled trial. JAMA. 2004 Mar 3;291(9):1071-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14996776&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pignone M, Phillips C, Mulrow C. Use of lipid lowering drugs for primary prevention of coronary heart disease: meta-analysis of randomised trials. BMJ. 2000 Oct 21;321(7267):983-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11039962&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Scandinavian Simvastatin Survival Study Group. Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S). Lancet. 1994 Nov 19;344(8934):1383-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7968073&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sever PS, Dahlöf B, Poulter NR, Wedel H, Beevers G, Caulfield M, Collins R, Kjeldsen SE, Kristinsson A, McInnes GT, Mehlsen J, Nieminen M, O'Brien E, Ostergren J, ASCOT investigators. Prevention of coronary and stroke events with atorvastatin in hypertensive patients who have average or lower-than-average cholesterol concentrations, in the Anglo-Scandinavian Cardiac Outcomes Trial--Lipid Lowering Arm (ASCOT-LLA): a multicentre randomised controlled trial. Lancet. 2003 Apr 5;361(9364):1149-58. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12686036&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shepherd J, Blauw GJ, Murphy MB, Bollen EL, Buckley BM, Cobbe SM, Ford I, Gaw A, Hyland M, Jukema JW, Kamper AM, Macfarlane PW, Meinders AE, Norrie J, Packard CJ, Perry IJ, Stott DJ, Sweeney BJ, Twomey C, Westendorp RG, PROSPER study group. PROspective Study of Pravastatin in the Elderly at Risk. Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial. Lancet. 2002 Nov 23;360(9346):1623-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12457784&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shepherd J, Cobbe SM, Ford I, Isles CG, Lorimer AR, MacFarlane PW, McKillop JH, Packard CJ. Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia. West of Scotland Coronary Prevention Study Group. N Engl J Med. 1995 Nov 16;333(20):1301-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7566020&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels. The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. N Engl J Med. 1998 Nov 5;339(19):1349-57. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9841303&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Woolley T, Canoniero M, Conroy W, Fareed M, Groen S, Helmrick K, Kofron P, Kottke T, Leslie S, Myers C, Needham R, O'Connor P, Peters J, Reddan J, Sorge L, Zerr B. Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Nov. 49 p.  [88 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Lipid management; atherosclerotic cardiovascular disease (ASCVD); coronary heart disease (CHD); peripheral artery disease (PAD); stroke; diabetes; statin; low-density lipoprotein (LDL)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients with (a) established atherosclerotic cardiovascular disease (ASCVD), (b) 10-year risk for coronary heart disease (CHD) greater than or equal to 10%, or (c) diabetes&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who are on a statin therapy OR have low-density lipoprotein (LDL) less than 100 mg/dL (see the related &quot;Numerator Inclusions/Exclusions&quot; field) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Clinical Practice or Public Health Sites" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The time frame pertaining to data collection is semi-annually.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients with (a) established atherosclerotic cardiovascular disease (ASCVD), (b) 10-year risk for coronary heart disease (CHD) greater than or equal to 10%, or (c) diabetes &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who are on a statin therapy OR have low-density lipoprotein (LDL) less than 100 mg/dL&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Data Collection&lt;/strong&gt;: Find the number of patients who are on a statin therapy OR have LDL less than 100 mg/dL within a 12-month period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Physiologic Health State (Intermediate Outcome)" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percentage of patients with: (a) established ASCVD: CHD, PAD or stroke presumed of atherosclerotic origin, or (b) a 10-year risk for CHD &amp;ge; 10%, or (c) diabetes, who are on a statin OR have LDL &amp;lt; 100 ml/dL within a 12-month period.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Lipid Management in Adults" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Institute for Clinical Systems Improvement - Nonprofit Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and five sponsoring health plans in Minnesota and Wisconsin.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Work Group Members&lt;/em&gt;: Tony Woolley, MD (&lt;em&gt;Work Group Leader&lt;/em&gt;) (Park Nicollet Health Services) (Internal Medicine); Sarah Leslie, PharmD (Allina Medical Clinic) (Pharmacy); Beth Zerr, PharmD (Allina Medical Clinic) (Pharmacy); Sarah Groen, PharmD (HealthPartners Medical Group and Regions Hospital) (Pharmacy); Patrick O'Connor, MD (HealthPartners Medical Group and Regions Hospital) (Family Medicine); Thomas Kottke, MD (HealthPartners Medical Group and Regions Hospital) (Cardiology); Robert Needham, MD (Lakeview Clinic) (Internal Medicine); Mohammad Fareed, MD (Mayo Clinic) (Family Medicine); Marianna Canoniero, MD (Park Nicollet Health Services) (Cardiology); William Conroy, MD (Park Nicollet Health Services) (Internal Medicine); Phillip Kofron, MD, MPH (Park Nicollet Health Services) (Internal Medicine); Jodi Reddan, MS, RD, LD (Park Nicollet Health Services) (Health Education); Lindsay Sorge, PharmD, MPH (Park Nicollet Health Services) (Pharmacy); Kurt Helmrick, MPAS, PA-C (River Falls Medical Clinic) (Family Medicine); Cassie Myers (Institute for Clinical Systems Improvement [ICSI]) (Clinical Systems Improvement Facilitator); Judy Peters, DNP, RN (ICSI) (Project Manager)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI guidelines and protocols. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Guidelines We Can Trust (2011). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The complete ICSI policy regarding Conflicts of Interest is available at the &lt;a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;&gt;ICSI Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Disclosure of Potential Conflicts of Interest&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Marianna J. Canoniero, MD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Cardiologist, Cardiology, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;William E. Conroy, MD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Physician, Internal Medicine, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: Minor shareholder ASTX and APS stock &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Mohammed T. Fareed, MD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Senior Associate Consultant/Instructor, Mayo College of Medicine; Physician, Family Medicine, Mayo Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: Colorectal Cancer Screening Guideline Work Group &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Sarah Groen, PharmD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Clinical Pharmacist, Pharmacy, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Kurt Helmrick, MPAS (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Physician Assistant, General Practice, River Falls Medical Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Phillip M. Kofron, MD, MPH (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medical Director, Heart Disease Prevention and Lipid Clinic, General Preventive Medicine, Park Nicollet Heart and Vascular Center&lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: CAD &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Thomas E. Kottke, MD, MSPH (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medical Director Population Health, Cardiology, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Sarah L. Leslie, PharmD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Pharmacy Coordinator, Pharmacy, Allina Health &amp;ndash; New Ulm Medical Center &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Robert Needham, MD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Physician, Internal Medicine, Lakeview Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Patrick J. O'Connor, MD, MPH (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Senior Research Investigator, Family Medicine and Geriatrics, HealthPartners Medical Group and Regions Hospital &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: Midwest Research Network &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: ICSI Diagnosis and Management of Type 2 Diabetes Mellitus in Adults, Hypertension Diagnosis and Treatment, Prevention and Diagnosis of Obesity, and Healthy Lifestyles &lt;br /&gt;&#xD;&#xA;Research Grants: NIH grant pending for Diabetes and Hypertension &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Jodi A. Reddan, MS, RD, LD (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Clinical Dietician, Nutrition, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Lindsay Sorge, PharmD, MPH (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Medication Management, Pharmacist, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Tony Woolley, MD (Work Group Leader) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Consultant, Clinical Associate Professor of Medicine, Internal Medicine/Hypertension, Park Nicollet Health Services &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Beth Zerr, PharmD, BCACP (Work Group Member) &lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Ambulatory Pharmacist Practitioner, Pharmacy, Allina Medical Clinic &lt;br /&gt;&#xD;&#xA;National, Regional, Local Committee Affiliations: None &lt;br /&gt;&#xD;&#xA;Guideline Related Activities: None &lt;br /&gt;&#xD;&#xA;Research Grants: None &lt;br /&gt;&#xD;&#xA;Financial/Non-Financial Conflicts of Interest: None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2013 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The next scheduled revision will occur within 24 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.icsi.org/guidelines__more/catalog_guidelines_and_more/catalog_guidelines/catalog_cardiovascular_guidelines/lipid/&quot; title=&quot;ICSI Web site&quot;&gt;Institute for Clinical Systems Improvement (ICSI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: &lt;a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;&gt;www.icsi.org&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:icsi.info@icsi.org&quot;&gt;icsi.info@icsi.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on July 2, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 13, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Woolley T, Canoniero M, Conroy W, Fareed M, Groen S, Helmrick K, Kofron P, Kottke T, Leslie S, Myers C, Needham R, O'Connor P, Peters J, Reddan J, Sorge L, Zerr B. Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Nov. 49 p.  [88 references]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

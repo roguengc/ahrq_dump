@@ -1,0 +1,230 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Perioperative care: percentage of patients, regardless of age, who undergo surgical or therapeutic procedures under general or neuraxial anesthesia of 60 minutes duration or longer for whom at least one body temperature greater than or equal to 35.5 degrees Celsius (or 95.9 degrees Fahrenheit) was recorded within the 30 minutes immediately before or the 15 minutes immediately after anesthesia end time.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society of Anesthesiologists (ASA). Perioperative temperature management (outcome). Schaumburg (IL): American Society of Anesthesiologists (ASA); 2015 Oct 1. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, who undergo surgical or therapeutic procedures under general or neuraxial anesthesia of 60 minutes duration or longer for whom at least one body temperature greater than or equal to 35.5 degrees Celsius (or 95.9 degrees Fahrenheit) was recorded within the 30 minutes immediately before or the 15 minutes immediately after anesthesia end time.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A drop in core temperature during surgery, known as perioperative hypothermia, can result in numerous adverse effects, which can include adverse myocardial outcomes, subcutaneous vasoconstriction, increased incidence of surgical site infection, and impaired healing of wounds (Hannan et al., 2010). The desired outcome, reduction in adverse surgical effects due to perioperative hypothermia, is affected by maintenance of normothermia during surgery. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Unintended perioperative hypothermia occurs in up to 20% of surgical patients (Hart et al., 2011). An observational cohort study in a pediatric setting found that more than 50% of children experienced intraoperative hypothermia. Pediatric patients undergoing major surgery were at greater risk of intraoperative hypothermia (Pearce et al., 2010).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Clinical Recommendation Statements&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Preadmission/Preoperative Recommendations&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessment&lt;/strong&gt;: Assess for risk factors for perioperative hypothermia; measure patient temperature on admission; determine patient's thermal comfort level; assess for signs and symptoms of hypothermia; document and communicate all risk factor assessment findings to all members of the anesthesia/surgical team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Interventions&lt;/strong&gt;: Implement passive thermal care measures; maintain ambient room temperature at or above 24 degrees Celsius; institute active warming for patients who are hypothermic; consider preoperative warming to reduce the risk of intra/postoperative hypothermia.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Intraoperative Recommendations&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Assessment&lt;/strong&gt;: Identify patient's risk factors for unplanned preoperative hypothermia; frequent intraoperative temperature monitoring should be considered in all cases; assess for signs and symptoms of hypothermia; determine patient's thermal comfort level; document and communicate all risk factor assessment findings to all members of the anesthesia/surgical team.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Interventions&lt;/strong&gt;: Limit skin exposure to lower ambient environmental temperatures; initiate passive warming measures; maintain ambient room temperature from 20-25 degrees Celsius based on Association of periOperative Registered Nurses (AORN) and architectural recommendations; patients undergoing a procedure with an anticipated anesthesia time greater than 30 minutes and/or who are hypothermic preoperatively, and/or patients at risk for hypothermia or at increased risk for suffering its complications &amp;ndash; forced air warming should be implemented; there is evidence to suggest that alternative active warming measures may maintain normothermia when used alone or in combination with forced air warming. These warming measures include: warmed IV fluids, warmed irrigation fluids, circulating water garments, circulating water mattresses, radiant heat, gel pad surface warming, resistive heating (Hooper et al., 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Maintenance of body temperature in a normothermic range is recommended for most procedures other than during periods in which mild hypothermia is intended to provide organ protection (e.g., during high aortic cross-clamping) (Fleisher et al., 2007).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society of Anesthesiologists (ASA). Perioperative temperature management (outcome). Schaumburg (IL): American Society of Anesthesiologists (ASA); 2015 Oct 1. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fleisher LA, Fleischmann KE, Auerbach AD, Barnason SA, Beckman JA, Bozkurt B, Davila-Roman VG, Gerhard-Herman MD, Holly TA, Kane GC, Marine JE, Nelson MT, Spencer CC, Thompson A, Ting HH, Uretsky BF, Wijeysundera DN, American College of Cardiology, American Heart Association. 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines. J Am Coll Cardiol. 2014 Dec 9;64(22):e77-137. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25091544&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hannan EL, Samadashvili Z, Wechsler A, Jordan D, Lahey SJ, Culliford AT, Gold JP, Higgins RS, Smith CR. The relationship between perioperative temperature and adverse outcomes after off-pump coronary artery bypass graft surgery. J Thorac Cardiovasc Surg. 2010 Jun;139(6):1568-1575.e1. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20167336&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hart SR, Bordes B, Hart J, Corsino D, Harmon D. Unintended perioperative hypothermia. Ochsner J. 2011;11(3):259-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21960760&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hooper VD, Chard R, Clifford T, Fetzer S, Fossum S, Godden B, Martinez EA, Noble KA, O'Brien D, Odom-Forren J, Peterson C, Ross J, Wilson L, ASPAN. ASPAN's evidence-based clinical practice guideline for the promotion of perioperative normothermia: second edition. J Perianesth Nurs. 2010 Dec;25(6):346-65. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21126665&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pearce B, Christensen R, Voepel-Lewis T. Perioperative hypothermia in the pediatric population: prevalence, risk factors and outcomes. J Anesth Clin Res. 2010;1:102.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Perioperative care; general or neuraxial anesthesia; body temperature&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, who undergo surgical or therapeutic procedures under general or neuraxial anesthesia of 60 minutes duration or longer (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients for whom at least one body temperature greater than or equal to 35.5 degrees Celsius (or 95.9 degrees Fahrenheit) was recorded within the 30 minutes immediately before or the 15 minutes immediately after anesthesia end time&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Dataset&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;The Anesthesia Quality Institute National Anesthesia Clinical Outcome Registry (NACOR) Public Use File was used to assess available data on the submitted outcome &lt;em&gt;Perioperative Temperature Management&lt;/em&gt; measure and the measure's performance, as extracted according to the measure specifications, for 2010 to 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For comparison on reliability, performance rates and other indicators of quality, The Anesthesia Quality Institute NACOR Public Use File was used to assess data on the process &lt;em&gt;Perioperative Temperature Management&lt;/em&gt; measure (National Quality Forum [NQF] #0454/Physician Quality Reporting System [PQRS] #193).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Reliability was calculated according to the methods outlined in a technical report prepared by J.L. Adams titled &lt;em&gt;The Reliability of Provider Profiling: A Tutorial&lt;/em&gt;. In this context, reliability represents the ability of a measure to confidently distinguish the performance of one physician from another. As discussed in the report: &quot;Conceptually, it is the ratio of signal to noise. The signal in this case is the proportion of variability in measured performance that can be explained by real differences in performance. There are 3 main drivers of reliability; sample size, differences between physicians, and measurement error.&quot; According to this approach, reliability is estimated with a beta-binomial model. The beta-binomial model is appropriate for measuring the reliability of pass/fail measures such as those proposed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Reliability for the outcome &lt;em&gt;Perioperative Temperature Management&lt;/em&gt; measure, as extracted from cases where a temperature was recorded and submitted to NACOR, reflects the limited number of cases and providers available to analyze. As cases and providers increase, the reliability of the measure is expected to increase as well. We expect, should this measure be endorsed by NQF and added to quality reporting programs, that the increase of provider data submission will impact the performance scores and improve measure reliability.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Face validity of the measure score as an indicator of quality was systematically assessed as follows. After the measure was fully specified, a group of experts was assembled to rate face validity. The experts included 23 physicians.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer provided the detailed measure specifications to the experts and asked them to rate their agreement with the following statement: The scores obtained from the measure as specified will provide an accurate reflection of quality and can be used to distinguish good from poor quality.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The rating scale had five levels (1 to 5) with the following narrative anchors: 1 = Disagree; 3 = Moderate Agreement; 5 = Agree&lt;/p&gt;&#xD;&#xA;&lt;p&gt;As additional data and information become available on this measure, the American Society of Anesthesiologists (ASA) intends to conduct further measure validity testing on this measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of the assessment of face validity indicate that an independent group of experts (different from those who advised on measure development) had high levels of agreement with the statement: &quot;The scores obtained from the measure as specified will provide an accurate reflection of quality and can be used to distinguish good and poor quality.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Mean rating = (3.78 out of 5)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure was examined through a group of experts. Out of the 23 participants, 16 agreed that the scores from the measure as specified would provide an accurate reflection of quality and 4 disagreed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Additional testing information, including results tables, may be found in the NQF submission form for this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF) measure submission form: perioperative temperature management. Washington (DC): National Quality Forum (NQF); 2015 Jan 14. 34 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Timeliness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients, regardless of age, who undergo surgical or therapeutic procedures under general or neuraxial anesthesia of 60 minutes duration or longer&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The anesthesia time used for this measure should be the time recorded in the anesthesia record.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients for whom at least one body temperature greater than or equal to 35.5 degrees Celsius (or 95.9 degrees Fahrenheit) was recorded within the 30 minutes immediately before or the 15 minutes immediately after anesthesia end time &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Physiologic Health State (Intermediate Outcome)" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Perioperative temperature management (outcome).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Perioperative Care" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Society of Anesthesiologists - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Society of Anesthesiologists - Medical Specialty Society" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Work Group Members&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Alexander A. Hannenberg, MD (&lt;em&gt;Co-chair&lt;/em&gt;); Andrew J. Patterson, MD, PhD (&lt;em&gt;Co-chair&lt;/em&gt;); William R. Andrews, MD, MS; Rebecca A. Aslakson, MD, PhD; Daniel R. Brown, MD, PhD; Neal H. Cohen, MD, MPH, MS; Peggy Duke, MD; Heidi L. Frankel, MD; Lorraine M. Jordan, BSN, MS, PhD; Jeremy M. Kahn, MD, MS; Jason N. Katz, MD, MHS; Gerald A. Maccioli, MD; Catherine L. Scholl, MD; Todd L. Slesinger, MD; Victoria M. Steelman, PhD, RN; Avery Tung, MD &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Work Group Staff&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Meredith Herzog, American Board of Medical Specialties; Maureen Amos, American Society of Anesthesiologists; Mark Antman, DDS, MBA, American Medical Association; Elvia Chavarria, MPH, American Medical Association; Jodie Dvorkin, MD, MPH, American Medical Association; Kendra Hanley, MS, American Medical Association; Jennifer Heffernan, MPH, American Medical Association; Toni Kaye, MPH, American Medical Association; Kimberly Smuk, RHIA, American Medical Association; Elvira L. Ryan, MBA, BSN, RN, The Joint Commission&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Sep 3&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annually&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Nov&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.asahq.org/~/media/sites/asahq/files/public/resources/quality%20improvement/measures-clearinghouse/perioperative-temperature-management-outcome-oct-2015.pdf?la=en&quot; title=&quot;American Society of Anesthesiologists (ASA) Web site&quot;&gt;American Society of Anesthesiologists (ASA) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ASA at 1061 American Lane Schaumburg, IL 60173-4973; Phone: 847-825-5586; Fax: 847-825-1692; E-mail: &lt;a href=&quot;mailto:info@asahq.org&quot;&gt;info@asahq.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://asahq.org/&quot; title=&quot;American Society of Anesthesiologists (ASA) Web site&quot;&gt;asahq.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on March 23, 2016. The information was verified by the measure developer on April 26, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, please contact the American Society of Anesthesiologists (ASA) for downloading, use and reproduction at (847) 825-5589 or (202) 289-2222.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measures are not clinical guidelines, do not establish a standard of medical care, and have not been tested for all potential applications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measures, while copyrighted, can be reproduced and distributed, without modification, for noncommercial purposes, eg, use by health care providers in connection with their practices. Commercial use is defined as the sale, license, or distribution of the Measures for commercial gain, or incorporation of the Measures into a product or service that is sold, licensed or distributed for commercial gain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Commercial uses of the Measures require a license agreement between the user and the American Medical Association (AMA), [on behalf of the Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;reg;)] or American Society of Anesthesiologists (ASA). Neither the AMA, ASA, PCPI, nor its members shall be responsible for any use of the Measures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The AMA's, PCPI's and National Committee for Quality Assurance's significant past efforts and contributions to the development and updating of the Measures is acknowledged. ASA is solely responsible for the review and enhancement (&quot;Maintenance&quot;) of the Measures as of May 23, 2014. ASA encourages use of the Measures by other health care professionals, where appropriate.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;THE MEASURES AND SPECIFICATIONS ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&amp;copy; 2014 American Medical Association and American Society of Anesthesiologists. All Rights Reserved. Applicable FARS/DFARS Restrictions Apply to Government Use.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Limited proprietary coding is contained in the Measure specifications for convenience. Users of the proprietary code sets should obtain all necessary licenses from the owners of these code sets. The AMA, ASA, the PCPI and its members disclaim all liability for use or accuracy of any Current Procedural Terminology (CPT&amp;reg;) or other coding contained in the specifications.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;CPT&amp;reg; contained in the Measures specifications is copyright 2004-2013 American Medical Association. LOINC&amp;reg; copyright 2004-2013 Regenstrief Institute, Inc. SNOMED CLINICAL TERMS (SNOMED CT&amp;reg;) copyright 2004-2013 College of American Pathologists. All Rights Reserved.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society of Anesthesiologists (ASA). Perioperative temperature management (outcome). Schaumburg (IL): American Society of Anesthesiologists (ASA); 2015 Oct 1. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

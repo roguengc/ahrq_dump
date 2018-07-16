@@ -1,0 +1,245 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Caregiver satisfaction with end-of-life care: mean scale score on the &quot;Your Involvement&quot; domain on the CANHELP Caregiver Questionnaire.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK. Canadian Health Care Evaluation Project (CANHELP) caregiver questionnaire. Ontario (Canada): Canadian Researchers at the End of Life Network (CARENET); 2014 Nov 11. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Patient Experience" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the mean scale score on the &quot;Your Involvement&quot; domain on the Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A mean scale score is calculated based on the caregivers' ratings (1 = &quot;Not at All Satisfied&quot;; 2 = &quot;Not Very Satisfied&quot;; 3 = &quot;Somewhat Satisfied&quot;; 4 = &quot;Very Satisfied&quot;; 5 = &quot;Completely Satisfied&quot;) on the following questions:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you with the level of confidence you felt &lt;em&gt;during the past month&lt;/em&gt; in your ability to help your relative manage his/her illness? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you with discussions &lt;em&gt;during the past month&lt;/em&gt; with the doctor(s) about the use of life sustaining technologies (for example: CPR or cardiopulmonary resuscitation, breathing machines, dialysis)? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you that, &lt;em&gt;during the past month&lt;/em&gt;, you have come to understand what to expect at the end stage of your relative's illness (for example: in terms of symptoms and comfort measures)? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you with your role &lt;em&gt;during the past month&lt;/em&gt; in decision-making regarding your relative's medical care? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you with discussions with your relative &lt;em&gt;during the past month&lt;/em&gt; about wishes for future care in the event he or she is unable to make those decisions? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you that you were able &lt;em&gt;during the past month&lt;/em&gt; to talk comfortably with your relative about his/her illness, dying, and death? &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;How satisfied are you that your relationship with your relative was strengthened &lt;em&gt;during the past month&lt;/em&gt;? &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The &quot;Your Involvement&quot; domain is one of six domains comprising the CANHELP Caregiver Questionnaire. Mean scale scores are calculated for each domain of the questionnaire. In addition, an &quot;Overall&quot; satisfaction score is calculated. Please note that there is another version of the survey&amp;mdash;CANHELP Lite&amp;mdash;available from the &lt;a href=&quot;http://www.thecarenet.ca/index.php?option=com_content&amp;amp;view=article&amp;amp;id=173&amp;amp;Itemid=102&quot; title=&quot;CARENET Web site&quot;&gt;CARENET Web site&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Initiatives to improve satisfaction with end-of-life (EOL) care remain hampered by a nascent understanding of what quality care means to patients and their families, and how it is best measured. Several experts and professional societies have attempted to define the specific components and related areas (domains) involved in quality EOL care; in contrast, patient and family perspectives are surprisingly lacking. &lt;/p&gt;&#xA;&lt;p&gt;Most previous studies of quality have focused on outpatients and people with cancer. Researchers recently documented that most Canadians (greater than 70%) die in hospitals, and the majority of decedents are elderly patients who died from causes unrelated to cancer. The trajectory of a patient dying from cancer differs from one dying from other, chronic, end-stage medical conditions. Thus, issues deemed important to quality EOL care that were identified by previous investigators may not be generalizable to seriously ill patients with advanced disease other than cancer, who have a more uncertain prognosis. &lt;/p&gt;&#xA;&lt;p&gt;Although a &quot;quality death&quot; is an espoused right of Canadians, for many dying patients and their families it is not achieved. Recent reviews and observational studies describe considerable dissatisfaction with EOL care, indicating that there are still opportunities for improvement. Ideally, initiatives aimed at improving EOL care would be informed by the experiences and expectations of patients and their family members. However, such efforts are often hampered by inadequate definitions of quality of care and by suboptimal tools for measurement. &lt;/p&gt;&#xA;&lt;p&gt;In a recent review, few studies evaluated satisfaction with care at the EOL, and most used non-validated assessment tools. To advance this field, standardized, validated satisfaction questionnaires are needed to measure meaningful outcomes in order to evaluate the effects of various clinical, organizational, policy, and financial initiatives that influence how EOL care is delivered and experienced. By first understanding patients' and families' levels of satisfaction with key elements of EOL care, we will be in a better position to improve their individual care, and to introduce quality improvement initiatives to the health care system as needed. &lt;/p&gt;&#xA;&lt;p&gt;The Canadian Health Care Evaluation Project (CANHELP) questionnaire was designed to evaluate satisfaction with care for older patients with life threatening illnesses, and their family members.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Association of Research at the End of Life Network (CARENET). CANHELP (Canadian Health Care Evaluation Project). [internet]. Kingston (ON): Kingston General Hospital; 2015.&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Carstairs S, Beaudoin GA. Quality end of life care: the right of every Canadian. [internet]. Ottawa (ON): Senate of Canada; 2000&amp;nbsp;[accessed 2010 Jul 08]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Center to Improve Care of the Dying, Center for Gerontology and Health Care Research, Brown Medical School. Satisfaction with quality of care. In: Toolkit of instruments to measure end-of-life care [internet]. Providence (RI): Brown University[accessed 2006 Jan 26]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chochinov HM, Hack T, Hassard T, Kristjanson LJ, McClement S, Harlos M. Dignity in the terminally ill: a cross-sectional, cohort study. Lancet. 2002 Dec 21-28;360(9350):2026-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12504398&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Clark D. Between hope and acceptance: the medicalisation of dying. BMJ. 2002 Apr 13;324(7342):905-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11950744&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dy SM, Shugarman LR, Lorenz KA, Mularski RA, Lynn J, RAND-Southern California Evidence-Based Practice Center. A systematic review of satisfaction with care at the end of life. J Am Geriatr Soc. 2008 Jan;56(1):124-9. [41 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18031485&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Emanuel EJ, Emanuel LL. The promise of a good death. Lancet. 1998 May;351 Suppl :SII21-9. [62 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9606363&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Field MJ, Cassel CK, editor(s). Approaching death: improving care at the end of life. Washington (DC): National Academy Press (Institute of Medicine); 1997. 437 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Giles S, Miyasaki J. Palliative stage Parkinson's disease: patient and family experiences of health-care services. Palliat Med. 2009 Mar;23(2):120-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19098110&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Cook DJ, Rocker GM, Dodek PM, Kutsogiannis DJ, Skrobik Y, Jiang X, Day AG, Cohen SR, Canadian Researchers at the End of Life Network (CARENET). Defining priorities for improving end-of-life care in Canada. CMAJ. 2010 Nov 9;182(16):E747-52. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20921249&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Cook DJ, Rocker GM, Dodek PM, Kutsogiannis DJ, Skrobik Y, Jiang X, Day AG, Cohen SR, Canadian Researchers at the End of Life Network. The development and validation of a novel questionnaire to measure patient and family satisfaction with end-of-life care: the Canadian Health Care Evaluation Project (CANHELP) Questionnaire. Palliat Med. 2010 Oct;24(7):682-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20605850&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Dodek P, Rocker G, Groll D, Gafni A, Pichora D, Shortt S, Tranmer J, Lazar N, Kutsogiannis J, Lam M, Canadian Researchers End-of-Life Network (CARENET). What matters most in end-of-life care: perceptions of seriously ill patients and  their family members. CMAJ. 2006 Feb 28;174(5):627-33. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16505458&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Groll D, Rocker G, Dodek P, Gafni A, Tranmer J, Pichora D, Lazar N, Kutsogiannis J, Shortt S, Lam M, Canadian Researchers at the End of Life Network (CARENET). End-of-life care in acute care hospitals in Canada: a quality finish. J Palliat Care. 2005 Autumn;21(3):142-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16334968&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Lavery JV, Tranmer J, et al. The final days: an analysis of the dying experience in Ontario. Ann R Coll Physicians Surg Can. 2000;33:356-61.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Lavery JV, Tranmer JE, Shortt SE, Taylor SJ. Dying in Canada: is it an institutionalized, technologically supported experience. J Palliat Care. 2000 Oct;16 Suppl:S10-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11075528&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kristjanson LJ. Indicators of quality of palliative care from a family perspective. J Palliat Care. 1986 Apr;1(2):8-17. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2453638&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lo B. Improving care near the end of life. Why is it so hard. JAMA. 1995 Nov 22-29;274(20):1634-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7474253&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lunney JR, Foley KM, Smith TJ, et al., editors, for the National Research Council. Describing death in America: what we need to know. Washington (DC): National Academy Press; 2003. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lynn J. Measuring quality of care at the end of life: a statement of principles. J Am Geriatr Soc. 1997 Apr;45(4):526-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9100727&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Mularski RA, Dy SM, Shugarman LR, Wilkinson AM, Lynn J, Shekelle PG, Morton SC, Sun VC, Hughes RG, Hilton LK, Maglione M, Rhodes SL, Rolon C, Lorenz KA. A systematic review of measures of end-of-life care and its outcomes. Health Serv Res. 2007 Oct;42(5):1848-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17850523&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Singer PA, Martin DK, Kelner M. Quality end-of-life care: patients' perspectives. JAMA. 1999 Jan 13;281(2):163-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9917120&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinhauser KE, Christakis NA, Clipp EC, McNeilly M, McIntyre L, Tulsky JA. Factors considered important at the end of life by patients, family, physicians, and other care providers. JAMA. 2000 Nov 15;284(19):2476-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11074777&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Steinhauser KE, Clipp EC, McNeilly M, Christakis NA, McIntyre LM, Tulsky JA. In search of a good death: observations of patients, families, and providers. Ann Intern Med. 2000 May 16;132(10):825-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10819707&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Still not there. Quality end-of-life care: a progress report. [internet]. Ottawa (ON): Senate of Canada; 2005&amp;nbsp;[accessed 2010 Jul 08]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Teno JM, Casey VA, Welch LC, Edgman-Levitan S. Patient-focused, family-centered end-of-life medical care: views of the guidelines and bereaved family members. J Pain Symptom Manage. 2001 Sep;22(3):738-51. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11532587&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;TIME: toolkit of Instruments to measure end-of-life care. Satisfaction with quality of care. [internet]. 2002&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tranmer JE, Heyland D, Dudgeon D, Groll D, Squires-Graham M, Coulson K. Measuring the symptom experience of seriously ill cancer and noncancer hospitalized patients near the end of life with the memorial symptom assessment scale. J Pain Symptom Manage. 2003 May;25(5):420-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12727039&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Workman S, Mann OE. 'No control whatsoever': end-of-life care on a medical teaching unit from the perspective of family members. QJM. 2007 Jul;100(7):433-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17566011&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;End-of-life care; caregiver satisfaction; caregiver involvement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of questions answered by caregivers who completed the &quot;Your Involvement&quot; domain on the Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Caregivers' ratings on the &quot;Your Involvement&quot; domain on the Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="Focus groups" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Data were collected by a cross-sectional survey of patients who had advanced, life-limiting illnesses and their family caregivers, and who completed Canadian Health Care Evaluation Project (CANHELP), a global rating of satisfaction, and a quality of life questionnaire. Researchers conducted factor analysis, assessed internal consistency using Cronbach's alpha, and evaluated construct validity by describing the correlation amongst CANHELP, global rating of satisfaction and the quality of life questionnaire scores. There were 361 patient and 193 family questionnaires available for analysis. In the factor analysis, researchers identified six easily interpretable factors which explained 55.4% and 60.2% of the variance for the patient and caregiver questionnaire, respectively.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For the patient version, the subscales derived from these factors were Relationship with Doctors, Illness Management, Communication, Decision-Making, Role of the Family, and Your Well-being. For the family questionnaire, the factors were Relationship with Doctors, Characteristics of Doctors and Nurses, Illness Management, Communication and Decision-Making, Your Involvement, and Your Well-being. Each subscale for each questionnaire had acceptable to excellent internal consistency (Cronbach's alpha ranged from 0.69&amp;ndash;0.94). Researchers observed good correlations between the CANHELP overall satisfaction score and global rating of satisfaction (correlation coefficient 0.49 and 0.63 for patient and family, respectively) which was greater than the correlations between CANHELP and the quality of life instruments. Researchers concluded that the CANHELP Questionnaire is a valid and internally consistent instrument to measure satisfaction with end-of-life care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK, Cook DJ, Rocker GM, Dodek PM, Kutsogiannis DJ, Skrobik Y, Jiang X, Day AG, Cohen SR, Canadian Researchers at the End of Life Network. The development and validation of a novel questionnaire to measure patient and family satisfaction with end-of-life care: the Canadian Health Care Evaluation Project (CANHELP) Questionnaire. Palliat Med. 2010 Oct;24(7):682-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20605850&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Assisted Living Facilities" />
+      <FieldValue Value="Home Care" />
+      <FieldValue Value="Hospices" />
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than 55 years old&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Person- and Family-centered Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="End of Life Care" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Patient-centeredness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Number of questions answered by caregivers who completed* the &quot;Your Involvement&quot; domain on the Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*The domain scores are considered missing if more than half of the responses for that domain are missing.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Caregivers' ratings (1 = &quot;Not at All Satisfied&quot;; 2 = &quot;Not Very Satisfied&quot;; 3 = &quot;Somewhat Satisfied&quot;; 4 = &quot;Very Satisfied&quot;; 5 = &quot;Completely Satisfied&quot;) on the &quot;Your Involvement&quot; domain on the Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The &quot;Your Involvement&quot; domain score is the average of non-missing questions specific to this domain. The &quot;Overall&quot; satisfaction score is the unweighted average of all answered questions. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All scores are re-scaled to range between 0 (worst possible value) and 100 (best possible value). &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt; &lt;br /&gt;&#xD;&#xA;Unspecified &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Patient/Individual survey" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Canadian Health Care Evaluation Project (CANHELP) Caregiver Questionnaire&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Composite/Scale" />
+      <FieldValue Value="Mean/Median" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Your involvement.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Canadian Health Care Evaluation Project (CANHELP) Questionnaire" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Caregiver Questionnaire" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Heyland, Daren K., MD, MSc - Independent Author(s)" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Heyland, Daren K., MD, MSc - Independent Author(s)" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This study was supported by the Canadian Researchers at the End of Life Network (CARENET). CARENET is supported by a grant from the Canadian Institutes of Health Research and the Heart and Stroke Foundation of Canada.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Daren K. Heyland, MD, MSc; Deborah J. Cook, MD, MSc; Graeme M. Rocker, DM, MHSc; Peter M. Dodek, MD, MHSc; Demetrios J. Kutsogiannis, MD, MHS; Yoanna Skrobik, MD; Xuran Jiang, MD, MSc; Andrew G. Day, MSc; S. Robin Cohen, PhD&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None declared.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in January 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.thecarenet.ca/docs/CANHELP/CANHELP%20Patient%20Questionnaire%2011%20Nov%202014.pdf&quot; title=&quot;CARENET Web site&quot;&gt;CARENET Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Dr. Daren K. Heyland at Kingston General Hospital, 76 Stuart St., Angada 3, Kingston, ON, K7L-2V7; E-mail: &lt;a href=&quot;mailto:dkh2@queensu.ca&quot;&gt;dkh2@queensu.ca&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.thecarenet.ca/resource-center/canhelp&quot; title=&quot;CARENET Web site&quot;&gt;www.thecarenet.ca/resource-center/canhelp&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Heyland DK, Cook DJ, Rocker GM, Dodek PM, Kutsogiannis DJ, Skrobik Y, Jiang X, Day AG, Cohen SR, Canadian Researchers at the End of Life Network. The development and validation of a novel questionnaire to measure patient and family satisfaction with end-of-life care: the Canadian Health Care Evaluation Project (CANHELP) Questionnaire. Palliat Med 2010 Oct;24(7):682-95. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heyland DK, Cook DJ, Rocker GM, Dodek PM, Kutsogiannis DJ, Skrobik Y, Jiang X, Day AG, Cohen SR, Canadian Researchers at the End of Life Network (CARENET). Defining priorities for improving end-of-life care in Canada. CMAJ 2010 Nov 9;182(16):E747-52. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Heyland DK, Dodek P, Rocker G, Groll D, Gafni A, Pichora D, Shortt S, Tranmer J, Lazar N, Kutsogiannis J, Lam M, Canadian Researchers End-of-Life Network(CARENET). What matters most in end-of-life care: perceptions of seriously ill patients and their family members. CMAJ 2006 Feb 28;174(5):627-33. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on November 14, 2012. The information was verified by the measure developer on December 28, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on January 12, 2017.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heyland DK. Canadian Health Care Evaluation Project (CANHELP) caregiver questionnaire. Ontario (Canada): Canadian Researchers at the End of Life Network (CARENET); 2014 Nov 11. 8 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

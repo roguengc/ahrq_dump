@@ -1,0 +1,234 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cardiovascular implantable electronic device (CIED): infection rate following CIED device implantation, replacement, or revision.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-9: infection within 180 days of cardiac implantable electronic device (CIED) implantation, replacement, or revision. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the infection rate following cardiovascular implantable electronic device (CIED) device implantation, replacement, or revision.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is to be reported a minimum of once per reporting period for patients with a CIED device implantation, replacement, or revision performed from January 1, 2016 through June 30, 2016 of the reporting period. This measure may be reported by clinicians who perform the quality actions described in the measure based on the services provided and the measure-specific denominator coding.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Infection rates for new implants shall be calculated and reported separately from device replacements and revisions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;There are two reporting criteria for this measure:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients, regardless of age, with a new CIED &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients, regardless of age, with a replaced or revised CIED &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The rate of implantable cardioverter-defibrillator (ICD) infections has been increasing faster than that of device implantation and is associated with substantial morbidity, mortality, and financial cost. A recent study including over 200,000 ICD implant patients found 2 percent of patients undergoing ICD implantation experienced a device-related infection. Patients who developed an ICD infection were likely to have more comorbidity burden, warfarin use, and coronary sinus lead, device upgrade/malfunction as the last surgery, peri-ICD implant complications, and non-eligible professional (EP) trained operator. The evidence demonstrates the need to measure performance in this area. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In recognition that there is an absence of applicable physician-level performance measures for the profession of cardiac electrophysiology, the Heart Rhythm Society (the international professional society focused on the care of patients with heart rhythm disorders) convened a Performance Measures Development Task Force to consider and develop potential physician-level measures for cardiac electrophysiologists. The task force consisted of thought leaders in 1) implantation of cardiac implantable electronic devices (CIEDs) including pacemakers, implantable cardioverter defibrillators (ICDs), cardiac resynchronization devices (pacemaker or ICD); and implantable loop recorders (ILRs), 2) cardiovascular health policy, 3) performance measures development, 4) clinical outcomes, and 5) population science. The process for consideration of the evidence included review of the relevant literature referenced within this document and in the knowledge of the members of the task force (Voigt, Shalaby, &amp;amp; Saba, 2006; Cabell et al., 2004; Voigt, Shalaby, &amp;amp; Saba, 2010; Greenspon et al., 2011; Sohail et al., 2011; Nery et al., 2010; Ferguson et al., 1996; Uslan et al., 2007; Lee et al., 2010; Klug et al., 2007; Alter et al., 2005; Al-Khatib et al., 2008; de Oliveira et al., 2009; Uslan et al., 2012; Borleffs et al., 2010; Sohail et al., 2007; Bloom et al., 2006; Baddour et al., 2010; Le et al., 2011; Johansen et al., 2011; Al-Khatib et al., 2005; Tarakji et al., 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The number of CIED-related infections in the United States continues to increase out of proportion to the increase in the CIED implantation rates (Voigt, Shalaby, &amp;amp; Saba, 2006; Cabell et al., 2004; Voigt, Shalaby, &amp;amp; Saba, 2010). This infection burden is associated with increased mortality, prolonged hospital stays and high financial costs (Greenspon et al., 2011; Sohail et al., 2011; Ferguson et al., 1996). Collectively, the incidence of CIED infection has ranged from 0.3% to 2.9% across the literature evaluated (Greenspon et al., 2011; Sohail et al., 2011; Nery et al., 2010; Uslan et al., 2007; Lee et al., 2010; Klug et al., 2007; Alter et al., 2005; Al-Khatib et al., 2008; Uslan et al., 2012; Bloom et al., 2006; Baddour et al., 2010; Johansen et al., 2011). In the vast majority of patients, CIED infection is preventable, and an association between a higher volume of ICD implants and a lower rate of infections has been demonstrated (Tarakji et al., 2010). This is why a performance measure that could lower the risk of CIED infection is critically needed.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Al-Khatib SM, Greiner MA, Peterson ED, Hernandez AF, Schulman KA, Curtis LH. Patient and implanting physician factors associated with mortality and complications after implantable cardioverter-defibrillator implantation, 2002-2005. Circ Arrhythm Electrophysiol. 2008 Oct;1(4):240-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19169382&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Al-Khatib SM, Lucas FL, Jollis JG, Malenka DJ, Wennberg DE. The relation between patients' outcomes and the volume of cardioverter-defibrillator implantation procedures performed by physicians treating Medicare beneficiaries. J Am Coll Cardiol. 2005 Oct 18;46(8):1536-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16226180&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Alter P, Waldhans S, Plachta E, Moosdorf R, Grimm W. Complications of implantable cardioverter defibrillator therapy in 440 consecutive patients. Pacing Clin Electrophysiol. 2005 Sep;28(9):926-32. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16176531&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baddour LM, Epstein AE, Erickson CC, Knight BP, Levison ME, Lockhart PB, Masoudi FA, Okum EJ, Wilson WR, Beerman LB, Bolger AF, Estes NA 3rd, Gewitz M, Newburger JW, Schron EB, Taubert KA, American Heart Association Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in Young, Council on Cardiovascular Surgery and Anesthesia, Council on Cardiovascular Nursing, Council on Clinical Cardiology, Interdisciplinary Council on Quality of Care, American Heart Association. Update on cardiovascular implantable electronic device infections and their management: a scientific statement from the American Heart Association. Circulation. 2010 Jan 26;121(3):458-77. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20048212&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bloom H, Heeke B, Leon A, Mera F, Delurgio D, Beshai J, Langberg J. Renal insufficiency and the risk of infection from pacemaker or defibrillator surgery. Pacing Clin Electrophysiol. 2006 Feb;29(2):142-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16492298&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Borleffs CJW, Thijssen J, de Bie MK, van Rees JB, van Welsenes GH, van Erven L, Bax JJ, Cannegieter SC, Schalij MJ. Recurrent implantable cardioverter-defibrillator replacement is associated with an increasing risk of pocket-related complications. Pacing Clin Electrophysiol. 2010 Aug;33(8):1013-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20456647&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cabell CH, Heidenreich PA, Chu VH, Moore CM, Stryjewski ME, Corey GR, Fowler VG Jr. Increasing rates of cardiac device infections among Medicare beneficiaries: 1990-1999. Am Heart J. 2004 Apr;147(4):582-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15077071&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;de Oliveira JC, Martinelli M, Nishioka SA, Varejao T, Uipe D, Pedrosa AA, Costa R, D'Avila A, Danik SB. Efficacy of antibiotic prophylaxis before the implantation of pacemakers and cardioverter-defibrillators: results of a large, prospective, randomized, double-blinded, placebo-controlled trial. Circ Arrhythm Electrophysiol. 2009 Feb;2(1):29-34. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19808441&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ferguson TB Jr, Ferguson CL, Crites K, Crimmins-Reda P. The additional hospital costs generated in the management of complications of pacemaker and defibrillator implantations. J Thorac Cardiovasc Surg. 1996 Apr;111(4):742-51; discussion 751-2. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8614134&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Greenspon AJ, Patel JD, Lau E, Ochoa JA, Frisch DR, Ho RT, Pavri BB, Kurtz SM. 16-year trends in the infection burden for pacemakers and implantable cardioverter-defibrillators in the United States 1993 to 2008. J Am Coll Cardiol. 2011 Aug 30;58(10):1001-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21867833&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-9: infection within 180 days of cardiac implantable electronic device (CIED) implantation, replacement, or revision. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Johansen JB, Jørgensen OD, Møller M, Arnsbo P, Mortensen PT, Nielsen JC. Infection after pacemaker implantation: infection rates and risk factors associated with infection in a population-based cohort study of 46299 consecutive patients. Eur Heart J. 2011 Apr;32(8):991-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21252172&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Klug D, Balde M, Pavin D, Hidden-Lucet F, Clementy J, Sadoul N, Rey JL, Lande G, Lazarus A, Victor J, Barnay C, Grandbastien B, Kacet S, PEOPLE Study Group. Risk factors related to infections of implanted pacemakers and cardioverter-defibrillators: results of a large prospective study. Circulation. 2007 Sep 18;116(12):1349-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17724263&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Le KY, Sohail MR, Friedman PA, Uslan DZ, Cha SS, Hayes DL, Wilson WR, Steckelberg JM, Baddour LM, Mayo Cardiovascular Infections Study Group. Clinical predictors of cardiovascular implantable electronic device-related infective endocarditis. Pacing Clin Electrophysiol. 2011 Apr;34(4):450-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21208230&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lee DS, Krahn AD, Healey JS, Birnie D, Crystal E, Dorian P, Simpson CS, Khaykin Y, Cameron D, Janmohamed A, Yee R, Austin PC, Chen Z, Hardy J, Tu JV, Investigators of the Ontario ICD Database. Evaluation of early complications related to De Novo cardioverter defibrillator implantation insights from the Ontario ICD database. J Am Coll Cardiol. 2010 Feb 23;55(8):774-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20170816&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nery PB, Fernandes R, Nair GM, Sumner GL, Ribas CS, Menon SM, Wang X, Krahn AD, Morillo CA, Connolly SJ, Healey JS. Device-related infection among patients with pacemakers and implantable defibrillators: incidence, risk factors, and consequences. J Cardiovasc Electrophysiol. 2010 Jul;21(7):786-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20102431&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sohail MR, Henrikson CA, Braid-Forbes MJ, Forbes KF, Lerner DJ. Mortality and cost associated with cardiovascular implantable electronic device infections. Arch Intern Med. 2011 Nov 14;171(20):1821-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21911623&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sohail MR, Uslan DZ, Khan AH, Friedman PA, Hayes DL, Wilson WR, Steckelberg JM, Stoner SM, Baddour LM. Risk factor analysis of permanent pacemaker infection. Clin Infect Dis. 2007 Jul 15;45(2):166-73. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17578774&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tarakji K, Chan EJ, Cantillon DJ, Doonan AL, Hu T, Schmitt S, Fraser TG, Kim A, Gordon SM, Wilkoff BL. Cardiac implantable electronic device infections: presentation, management, and patient outcomes. Heart Rhythm. 2010 Aug;7(8):1043-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20470904&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Uslan DZ, Gleva MJ, Warren DK, Mela T, Chung MK, Gottipaty V, Borge R, Dan D, Shinn T, Mitchell K, Holcomb RG, Poole JE. Cardiovascular implantable electronic device replacement infections and prevention: results from the REPLACE Registry. Pacing Clin Electrophysiol. 2012 Jan;35(1):81-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22077194&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Uslan DZ, Sohail MR, St Sauver JL, Friedman PA, Hayes DL, Stoner SM, Wilson WR, Steckelberg JM, Baddour LM. Permanent pacemaker and implantable cardioverter defibrillator infection: a population-based study. Arch Intern Med. 2007 Apr 9;167(7):669-75. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17420425&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Voigt A, Shalaby A, Saba S. Continued rise in rates of cardiovascular implantable electronic device infections in the United States: temporal trends and causative insights. Pacing Clin Electrophysiol. 2010 Apr;33(4):414-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19793359&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Voigt A, Shalaby A, Saba S. Rising rates of cardiac rhythm management device infections in the United States: 1996 through 2003. J Am Coll Cardiol. 2006 Aug 1;48(3):590-1.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cardiovascular implantable electronic device (CIED) implantation, replacement, or revision; infection rate&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: All patients with a new cardiovascular implantable electronic device (CIED) from January 1 through June 30 of the reporting period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: All patients with replacement or revision of a CIED from January 1 through June 30 of the reporting period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Denominator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following cardiovascular implantable electronic device (CIED) implantation, replacement, or revision&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following CIED implantation, replacement, or revision&lt;/p&gt;&#xD;&#xA;&lt;p&gt;See the related &quot;Numerator Inclusions/Exclusions&quot; field.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;January 1 through June 30 of the reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Reporting Criteria 1&lt;/span&gt;&lt;/em&gt;: All patients with a new cardiovascular implantable electronic device (CIED) from January 1 through June 30 of the reporting period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases) Reporting Criteria 1&lt;/em&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients, regardless of age&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Codes for CIED implantation, replacement, or revision (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM], International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] procedure codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND/OR&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during reporting period (refer to the original measure documentation for Current Procedural Terminology [CPT] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;New CIED &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND NOT&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients undergoing heart transplantation (refer to the original measure documentation for ICD-10-PCS procedure codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Reporting Criteria 2&lt;/span&gt;&lt;/em&gt;: All patients with replacement or revision of a CIED from January 1 through June 30 of the reporting period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases) Reporting Criteria 2&lt;/em&gt;: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients, regardless of age &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Codes for CIED implantation, replacement, or revision (refer to the original measure documentation for ICD-10-CM, ICD-10-PCS procedure codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND/OR&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during reporting period (refer to the original measure documentation for CPT codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Replaced or revised CIED &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AND NOT&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patients undergoing heart transplantation (refer to the original measure documentation for ICD-10-PCS procedure codes)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;CIEDs encompassed for this measure are the following devices:&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Pacemaker devices (single or dual chamber); &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Implantable cardioverter-defibrillators (ICDs, single or dual chamber); &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Cardiac resynchronization devices (pacemaker or ICD); &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Implantable loop recorders (ILRs) &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Include only patients that have had CIED implantation, replacement, or revision performed by June 30. This timeframe allows for evaluation of infection requiring within 180 days within the reporting period. This will allow the evaluation of infection status post CIED implantation, replacement, or revision within the reporting year. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following cardiovascular implantable electronic device (CIED) implantation, replacement, or revision&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following CIED implantation, replacement, or revision&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for administrative codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;2016 Registry Individual Measure Flow: PQRS #393: HRS-9: Infection Within 180 Days of Cardiac Implantable Electronic Device (CIED) Implantation, Replacement, or Revision - Reporting Criteria One &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2016 Registry Individual Measure Flow: PQRS #393: HRS-9: Infection Within 180 Days of Cardiac Implantable Electronic Device (CIED) Implantation, Replacement, or Revision - Reporting Criteria Two &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;There are two reporting criteria for this measure:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;: Patients, regardless of age, with a new cardiovascular implantable electronic device (CIED)&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator&lt;/span&gt;: All patients with a new CIED from January 1 through June 30 of the reporting period &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator&lt;/span&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following cardiovascular CIED implantation, replacement, or revision &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;: Patients, regardless of age, with a replaced or revised CIED&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Denominator&lt;/span&gt;: All patients with replacement or revision of a CIED from January 1 through June 30 of the reporting period &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Numerator&lt;/span&gt;: The number of patients from the denominator admitted with an infection requiring device removal or surgical revision within 180 days following CIED implantation, replacement, or revision &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HRS-9: infection within 180 days of cardiac implantable electronic device (CIED) implantation, replacement, or revision.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Heart Rhythm Society - Disease Specific Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Dec" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Heart Rhythm Society (HRS) at 1325 G Street, NW, Suite 400, Washington, DC 20005; Phone: 202-464-3400; Fax: 202-464-3401; E-mail: &lt;a href=&quot;mailto:info@HRSonline.org&quot;&gt;info@HRSonline.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.hrsonline.org/&quot; title=&quot;Heart Rhythm Society (HRS) Web site&quot;&gt;www.hrsonline.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on June 21, 2016. The information was verified by the measure developer on July 7, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Heart Rhythm Society (HRS). HRS-9: infection within 180 days of cardiac implantable electronic device (CIED) implantation, replacement, or revision. Washington (DC): Heart Rhythm Society (HRS); 2015 Dec 18. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

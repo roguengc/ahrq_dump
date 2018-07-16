@@ -1,0 +1,255 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Upper gastrointestinal (UGI) endoscopy: percentage of patients with a confirmed diagnosis of Barrett's esophagus who are entered into a registry to monitor the incidence of dysplasia.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bisschops R, Areia M, Coron E, Dobru D, Kaskas B, Kuvaev R, Pech O, Ragunath K, Weusten B, Familiari P, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Senore C, Dinis-Ribeiro M, Rutter MD. Performance measures for upper gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Initiative. Endoscopy. 2016 Sep;48(9):843-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27548885&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients with a confirmed diagnosis of Barrett's esophagus who are entered into a registry to monitor the incidence of dysplasia.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;The Importance of Quality &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Tens of millions of people undergo endoscopic procedures every year in Europe. Endoscopy is the pivotal investigation in the diagnosis of gastrointestinal pathology and a powerful tool in its management. High quality endoscopy delivers better health outcomes and a better patient experience (Rutter &amp;amp; Rees, 2014), yet there is clinically significant variation in the quality of endoscopy currently delivered in endoscopy units (Rajasekhar et al., 2012; Baillie &amp;amp; Testoni, 2007; Cotton, 2011; Williams et al., &quot;Risk factors,&quot; 2007; Williams et al., &quot;Are we meeting,&quot; 2007).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An example of this is post-colonoscopy colorectal cancer (PCCRC). It is known that the majority of PCCRCs arise from missed lesions (premalignant polyps or cancers) or incomplete polypectomy (Pabby et al., 2005; Robertson et al., 2014). Back-to-back colonoscopy studies show that 22% of all adenomas are missed (van Rijn et al., 2006; Van Gelder et al., 2004; Pickhardt et al., 2003; Rockey et al., 2005; Miller &amp;amp; Lehman, 1978; Pickhardt et al., 2004), and that there is a three- to sixfold variation in adenoma detection rates between endoscopists (Barclay et al., 2006; Chen &amp;amp; Rex, 2007). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Even when polyps are found, removal may be incomplete: the Complete Adenoma REsection (CARE) study concluded that 10% of nonpedunculated polyps of 5 to 20 mm and 23% of nonpedunculated polyps of 15 to 20 mm were incompletely resected (Pohl et al., 2013). Furthermore, low cecal intubation rates and poor bowel preparation regimens may explain the relative failure of colonoscopy to protect against proximal colorectal cancer that was found in many studies (Singh et al., &quot;The reduction,&quot; 2010; Baxter et al., 2009; Brenner et al., 2010; Baxter et al., 2012; Lakoff et al., 2008; Singh et al., &quot;Rate and predictors,&quot; 2010; Brenner et al., 2006; Brenner et al., 2011). This results in clinically important differences in quality of care and patient outcomes: a recent study in the United Kingdom (UK) demonstrated a more than fourfold variation in PCCRC rates between hospitals (Valori et al., 2014). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;In the upper gastrointestinal (UGI) tract, gastric cancers and precursor lesions are frequently missed: in one series, 7.2% of patients with gastric cancer did not have the lesion detected at endoscopy performed in the preceding 1 year. Of these cases, almost three quarters were felt to be due to endoscopist error (Yalamarthi et al., 2004). Equally, in endoscopic retrograde cholangiopancreatography (ERCP), which is one of the most complex and highest risk procedures performed regularly in endoscopy practice, there is evidence of wide variation in both completion and complication rates (Raftopoulos et al., 2010; Cohen et al., 2006; Faigel et al., 2006; Park &amp;amp; Cohen, 2012; Gavin et al., 2013; Enochsson et al., 2010; Baron et al., 2006; Cotton et al., 2009).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Rationale&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Better follow-up of Barrett's patients helps to identify risk factors, and helps with an accurate incidence of neoplasia and adherence to surveillance guidelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baillie J, Testoni PA. Are we meeting the standards set for ERCP?. Gut. 2007 Jun;56(6):744-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17519478&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barclay RL, Vicari JJ, Doughty AS, Johanson JF, Greenlaw RL. Colonoscopic withdrawal times and adenoma detection during screening colonoscopy. N Engl J Med. 2006 Dec 14;355(24):2533-41. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17167136&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baron TH, Petersen BT, Mergener K, Chak A, Cohen J, Deal SE, Hoffinan B, Jacobson BC, Petrini JL, Safdi MA, Faigel DO, Pike IM, ASGE/ACG Taskforce on Quality in Endoscopy. Quality indicators for endoscopic retrograde cholangiopancreatography. Am J Gastroenterol. 2006 Apr;101(4):892-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16635233&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baxter NN, Goldwasser MA, Paszat LF, Saskin R, Urbach DR, Rabeneck L. Association of colonoscopy and death from colorectal cancer. Ann Intern Med. 2009 Jan 6;150(1):1-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19075198&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Baxter NN, Warren JL, Barrett MJ, Stukel TA, Doria-Rose VP. Association between colonoscopy and colorectal cancer mortality in a US cohort according to site of cancer and colonoscopist specialty. J Clin Oncol. 2012 Jul 20;30(21):2664-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22689809&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bisschops R, Areia M, Coron E, Dobru D, Kaskas B, Kuvaev R, Pech O, Ragunath K, Weusten B, Familiari P, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Senore C, Dinis-Ribeiro M, Rutter MD. Performance measures for upper gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Initiative. Endoscopy. 2016 Sep;48(9):843-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27548885&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brenner H, Chang-Claude J, Seiler CM, Rickert A, Hoffmeister M. Protection from colorectal cancer after colonoscopy: a population-based, case-control study. Ann Intern Med. 2011 Jan 4;154(1):22-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21200035&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brenner H, Chang-Claude J, Seiler CM, Stürmer T, Hoffmeister M. Does a negative screening colonoscopy ever need to be repeated?. Gut. 2006 Aug;55(8):1145-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16469791&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Brenner H, Hoffmeister M, Arndt V, Stegmaier C, Altenhofen L, Haug U. Protection from right- and left-sided colorectal neoplasms after colonoscopy: population-based study. J Natl Cancer Inst. 2010 Jan 20;102(2):89-95. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20042716&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chen SC, Rex DK. Endoscopist can be more powerful than age and male gender in predicting adenoma detection at colonoscopy. Am J Gastroenterol. 2007 Apr;102(4):856-61. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17222317&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cohen J, Safdi MA, Deal SE, Baron TH, Chak A, Hoffman B, Jacobson BC, Mergener K, Petersen BT, Petrini JL, Rex DK, Faigel DO, Pike IM, ASGE/ACG Taskforce on Quality in Endoscopy. Quality indicators for esophagogastroduodenoscopy. Am J Gastroenterol. 2006 Apr;101(4):886-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16635232&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cotton PB, Garrow DA, Gallagher J, Romagnuolo J. Risk factors for complications after ERCP: a multivariate analysis of 11,497 procedures over 12 years. Gastrointest Endosc. 2009 Jul;70(1):80-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19286178&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cotton PB. Are low-volume ERCPists a problem in the United States? A plea to examine and improve ERCP practice-NOW. Gastroenterol Endosc. 2011 Jul;74(1):161-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21704815&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Enochsson L, Swahn F, Arnelo U, Nilsson M, Löhr M, Persson G. Nationwide, population-based data from 11,074 ERCP procedures from the Swedish Registry for Gallstone Surgery and ERCP. Gastroenterol Endosc. 2010 Dec;72(6):1175-84. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20970787&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Faigel DO, Pike IM, Baron TH, Chak A, Cohen J, Deal SE, Hoffman B, Jacobson BC, Mergener K, Petersen BT, Petrini JL, Rex DK, Safdi MA, ASGE/ACG Taskforce on Quality in Endoscopy. Quality indicators for gastrointestinal endoscopic procedures: an introduction. Am J Gastroenterol. 2006 Apr;101(4):866-72. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16635230&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gavin DR, Valori RM, Anderson JT, Donnelly MT, Williams JG, Swarbrick ET. The national colonoscopy audit: a nationwide assessment of the quality and safety of colonoscopy in the UK. Gut. 2013 Feb;62(2):242-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22661458&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lakoff J, Paszat LF, Saskin R, Rabeneck L. Risk of developing proximal versus distal colorectal cancer after a negative colonoscopy: a population-based study. Clin Gastroenterol Hepatol. 2008 Oct;6(10):1117-21; quiz 1064. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18691942&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miller RE, Lehman G. Polypoid colonic lesions undetected by endoscopy. Radiology. 1978 Nov;129(2):295-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=704840&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pabby A,  Schoen RE, Weissfeld JL, Burt R, Kikendall JW, Lance P, Shike M, Lanza E, Schatzkin A. Analysis of colorectal cancer occurrence during surveillance colonoscopy in the dietary Polyp Prevention Trial. Gastroenterol Endosc. 2005 Mar;61(3):385-91. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15758908&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Park WG, Cohen J. Quality measurement and improvement in upper endoscopy. Gastroenterol Endosc. 2012;14:13-20.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pickhardt PJ, Choi JR, Hwang I, Butler JA, Puckett ML, Hildebrandt HA, Wong RK, Nugent PA, Mysliwiec PA, Schindler WR. Computed tomographic virtual colonoscopy to screen for colorectal neoplasia in asymptomatic adults. N Engl J Med. 2003 Dec 4;349(23):2191-200. [31 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14657426&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pickhardt PJ, Nugent PA, Mysliwiec PA, Choi JR, Schindler WR. Location of adenomas missed by optical colonoscopy. Ann Intern Med. 2004 Sep 7;141(5):352-9, W-66. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15353426&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Pohl H, Srivastava A, Bensen SP, Anderson P, Rothstein RI, Gordon SR, Levy LC, Toor A, Mackenzie TA, Rosch T, Robertson DJ. Incomplete polyp resection during colonoscopy-results of the complete adenoma resection (CARE) study. Gastroenterology. 2013 Jan;144(1):74-80. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23022496&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Raftopoulos SC, Segarajasingam DS, Burke V, Ee HC, Yusoff IF. A cohort study of missed and new cancers after esophagogastroduodenoscopy. Am J Gastroenterol. 2010 Jun;105(6):1292-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20068557&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rajasekhar PT, Rutter MD, Bramble MG, Wilson DW, East JE, Greenaway JR, Saunders BP, Lee TJ, Barton R, Hungin AP, Rees CJ. Achieving high quality colonoscopy: using graphical representation to measure performance and reset standards. Colorectal Dis. 2012 Dec;14(2):1538-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22540766&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Robertson DJ,  Lieberman DA,  Winawer SJ,  Ahnen DJ,  Baron JA,  Schatzkin A,  Cross AJ,  Zauber AG,  Church TR,  Lance P,  Greenberg ER,  Martinez ME. Colorectal cancers soon after colonoscopy: a pooled multicohort analysis. Gut. 2014 Jun;63(6):949-56. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23793224&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rockey DC, Paulson E, Niedzwiecki D, Davis W, Bosworth HB, Sanders L, Yee J, Henderson J, Hatten P, Burdick S, Sanyal A, Rubin DT, Sterling M, Akerkar G, Bhutani MS, Binmoeller K, Garvie J, Bini EJ, McQuaid K, Foster WL, Thompson WM, Dachman A, Halvorsen R. Analysis of air contrast barium enema, computed tomographic colonography, and colonoscopy: prospective comparison. Lancet. 2005 Jan 22;365(9456):305-11. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15664225&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rutter MD, Rees CJ. Quality in gastrointestinal endoscopy. Endoscopy. 2014 Jun;46(6):526-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24788539&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rutter MD, Senore C, Bisschops R, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Bellisario C, Minozzi S, Hassan C, Rees C, Dinis-Ribeiro M, Hucl T, Ponchon T, Aabakken L, Fockens P. The European Society of Gastrointestinal Endoscopy Quality Improvement Initiative: developing performance measures. Endoscopy. 2016 Jan;48(1):81-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26662057&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Singh H, Nugent Z, Demers AA, Bernstein CN. Rate and predictors of early/missed colorectal cancers after colonoscopy in Manitoba: a population-based study. Am J Gastroenterol. 2010 Dec;105(12):2588-96. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20877348&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Singh H, Nugent Z, Demers AA, Kliewer EV, Mahmud SM, Bernstein CN. The reduction in colorectal cancer mortality after colonoscopy varies by site of the cancer. Gastroenterology. 2010 Oct;139(4):1128-37. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20600026&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Valori RM, Morris JE, Thomas JD, Rutter M. Tu1485 rates of post colonoscopy colorectal cancer (PCCRC) are significantly affected by methodology, but are nevertheless declining in the English NHS. Gastrointest Endosc. 2014 May;79(5 Suppl):AB558.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Van Gelder RE, Nio CY, Florie J, Bartelsman JF, Snel P, De Jager SW, Van Deventer SJ, Laméris JS, Bossuyt PM, Stoker J. Computed tomographic colonography compared with colonoscopy in patients at increased risk for colorectal cancer. Gastroenterology. 2004 Jul;127(1):41-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15236170&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;van Rijn JC, Reitsma JB, Stoker J, Bossuyt PM, van Deventer SJ, Dekker E. Polyp miss rate determined by tandem colonoscopy: a systematic review. Am J Gastroenterol. 2006 Feb;101(2):343-50. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16454841&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Williams EJ, Taylor S, Fairclough P, Hamlyn A, Logan RF, Martin D, Riley SA, Veitch P, Wilkinson ML, Williamson PJ, Lombard M, BSG Audit of ERCP. Are we meeting the standards set for endoscopy? Results of a large-scale prospective survey of endoscopic retrograde cholangio-pancreatograph practice. Gut. 2007 Jun;56(6):821-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17145737&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Williams EJ, Taylor S, Fairclough P, Hamlyn A, Logan RF, Martin D, Riley SA, Veitch P, Wilkinson ML, Williamson PR, Lombard M. Risk factors for complication following ERCP; results of a large-scale, prospective multicenter study. Endoscopy. 2007 Sep;39(9):793-801. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17703388&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yalamarthi S, Witherspoon P, McCole D, Auld CD. Missed diagnoses in patients with upper gastrointestinal cancers. Endoscopy. 2004 Oct;36(10):874-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15452783&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Upper gastrointestinal (UGI) endoscopy; Barrett's esophagus; dysplasia; registry&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients with a diagnosis of Barrett's esophagus of at least 1 centimeter (cm) circumferential extent and histologically confirmed specialized intestinal metaplasia (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients in the denominator who are registered in a Barrett's surveillance database (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age less than or equal to 75 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every 2 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients with a diagnosis of Barrett's esophagus of at least 1 centimeter (cm) circumferential extent and histologically confirmed specialized intestinal metaplasia&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Absence of intestinal metaplasia in the biopsies &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;All patients with suspected Barrett's esophagus that is less than C1M1 according to the Prague classification &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients older than 75 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with contraindications for biopsies &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients in the denominator who are registered in a Barrett's surveillance database&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Record all patients with a diagnosis of Barrett's esophagus. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Cross-match with registration in a Barrett's registry. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Electronic health/medical record" />
+      <FieldValue Value="Paper medical record" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="71" OrdBy="570" ID="613" Name="Prescriptive Standard" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Minimum standard&lt;/strong&gt;*: 85% &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Target standard&lt;/strong&gt;**: 85% &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for additional information on standards.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;em&gt;Minimum Standard&lt;/em&gt;: A minimum defined level of performance within a performance measure.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;**&lt;em&gt;Target Standard&lt;/em&gt;: A desirable/aspirational level of performance within a performance measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="9" OrdBy="580" ID="614" Name="Evidence for Prescriptive Standard" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bisschops R, Areia M, Coron E, Dobru D, Kaskas B, Kuvaev R, Pech O, Ragunath K, Weusten B, Familiari P, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Senore C, Dinis-Ribeiro M, Rutter MD. Performance measures for upper gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Initiative. Endoscopy. 2016 Sep;48(9):843-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27548885&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Barrett's patient registry.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Upper Gastrointestinal Endoscopy Performance Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Post-procedure" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="European Society of Gastrointestinal Endoscopy - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="European Society of Gastrointestinal Endoscopy - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;European Society of Gastrointestinal Endoscopy (ESGE) and United European Gastroenterology (UEG)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Committee (QIC) membership comprises the QIC chairperson, ESGE president and president-elect, chairs of the other three ESGE committees (guidelines, education and research) and chairs of QIC working groups.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Competing Interests&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;R. Bisschops has received consultancy fees from Boston Scientific (2015); speaker's fees from Covidien (2009 to 2016) and Norgine (2015); speaker's fee and hands-on training sponsorship from Olympus Europe (2013 to 2014); consultancy fees, speaker's fee, and research support from Pentax Europe (2008 to 2016) and Fujifilm (2013 to 2016); research support from Cook Medical (2015 to 2016); hands-on training sponsorship from Erbe (2013 to 2015); and an editorial fee from Thieme Verlag as coeditor of &lt;em&gt;Endoscopy&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;E. Coron has received consultancy fees from Mauna Kea Technologies (2011 to 2015) and Covidien (2015 to 2016); speaker's fees from Olympus and Cook Medical; and receives research support from Fujifilm and Mauna Kea Technologies. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;O. Pech has received speaker's fees from Medtronic, Boston Scientific, Olympus, Fujifilm, and Norgine. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;K. Ragunath has received educational grants, speaker honorarium, and consultancy fees from Olympus; educational grants and research support from COOK; educational grants and research support from Covidien; consultancy fees and research support from Boston Scientific; research support from Astra Zeneca; research support from Pentax. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;B. Weusten has received financial support for institutional review board (IRB)-approved studies from GI Solutions and Covidien, ERBE, and C2Therapeutics. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;R. Valori is a director of Quality Solutions for Healthcare, a company providing consultancy for improving quality in healthcare, and of AnderVal Ltd., a company providing endoscopy skills training. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;C. Spada has received training support from Given Imaging (2013 and 2014). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;M. Bretthauer receives funds from Thieme Verlag for editorial work for &lt;em&gt;Endoscopy&lt;/em&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;C. Bennett owns and works for Systematic Research Ltd.; and received a consultancy fee from ESGE to provide scientific, technical, and methodological expertise for the present project. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;C. Senore's department receives PillCam Colon devices from Covidien-Given to conduct studies, and loaner Fuse systems from EndoChoice. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;M. Dinis-Ribeiro receives funds from Thieme Verlag for editorial work for Endoscopy; his department has received support from Olympus for a teaching protocol (from August 2014 to July 2015). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;M. D. Rutter's department receives research funding from Olympus for a colitis surveillance trial (2014 to present). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;M. Areia, D. Dobru, B. Kaskas, R. Kuvaev, P. Familiari, D. Domagk, and M. F. Kaminski have no competing interests. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Sep" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.esge.com/assets/downloads/pdfs/guidelines/2016_s_0042_113128.pdf&quot; title=&quot;European Society of Gastrointestinal Endoscopy (ESGE) Web site&quot;&gt;European Society of Gastrointestinal Endoscopy (ESGE) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact ESGE at c/o Hamilton Services GmbH, Landwehr Str. 9, 80336 Munich Germany; Phone: + 49 - 89 - 907 7936-11; Fax: + 49 - 89 - 907 7936-20; E-mail: &lt;a href=&quot;mailto:secretariat@esge.com&quot;&gt;secretariat@esge.com&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.esge.com/&quot; title=&quot;ESGE Web site&quot;&gt;www.esge.com&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Rutter MD, Senore C, Bisschops R, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Bellisario C, Minozzi S, Hassan C, Rees C, Dinis-Ribeiro M, Hucl T, Ponchon T, Aabakken L, Fockens P. The European Society of Gastrointestinal Endoscopy Quality Improvement Initiative: developing performance measures. Endoscopy. 2016 Jan;48(1):81-9. Available from the &lt;a href=&quot;https://www.esge.com/assets/downloads/pdfs/guidelines/qic_1.pdf&quot; title=&quot;European Society of Gastrointestinal Endoscopy (ESGE) Web site&quot;&gt;European Society of Gastrointestinal Endoscopy (ESGE) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 14, 2016. The information was verified by the measure developer on February 13, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Contact Dr. Regina Wenzel at &lt;a href=&quot;mailto:Regina.Wenzel@thieme.de&quot;&gt;Regina.Wenzel@thieme.de&lt;/a&gt; for all questions about use and reproduction.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bisschops R, Areia M, Coron E, Dobru D, Kaskas B, Kuvaev R, Pech O, Ragunath K, Weusten B, Familiari P, Domagk D, Valori R, Kaminski MF, Spada C, Bretthauer M, Bennett C, Senore C, Dinis-Ribeiro M, Rutter MD. Performance measures for upper gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Initiative. Endoscopy. 2016 Sep;48(9):843-64. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27548885&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

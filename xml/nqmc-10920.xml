@@ -1,0 +1,232 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Cervical cancer screening: age standardized incidence rate per 100,000 women of invasive cervical cancer&amp;mdash;squamous cell carcinoma diagnosed in a year.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: monitoring &amp; evaluation of quality indicators. Toronto (ON): Canadian Partnership Against Cancer; 2016 May. 81 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measures: Population Health State" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the age standardized incidence rate per 100,000 women of invasive cervical cancer&amp;mdash;squamous cell carcinoma diagnosed in a year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The introduction of cervical cancer screening using the Papanicolaou test (Pap test) has led to significant reductions in cervical cancer incidence and mortality in Canada. From 1977 to 2015, the incidence of invasive cervical cancer declined from 15.4 per 100,000 to an estimated 7.5 per 100,000 and invasive cervical cancer mortality declined from 4.8 per 100,000 to an estimated 1.6 per 100,000 (Canadian Cancer Society, Advisory Committee on Cancer Statistics, 2015). Despite this success, in 2015, an estimated 1,500 Canadian women will be diagnosed with invasive cervical cancer and 380 will die from the disease (Canadian Cancer Society, Advisory Committee on Cancer Statistics, 2015). Many of these women were not screened in the five years before their diagnosis, were not followed up appropriately after an abnormal Pap test result, or the Pap test failed to detect their cancer. Additionally, women with lower levels of income, education, new immigrants, women living in rural or remote locations, and who have limited access to screening are less likely to be screened (Canadian Partnership Against Cancer, 2014). For these reasons, it is critical to continuously monitor and evaluate cervical cancer screening to ensure that Canadian women receive high-quality cancer prevention services.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Cancer incidence is the age-standardized incidence rate per 100,000 women of invasive cervical cancer diagnosed in a year (standardized to the 2011 Canadian population). Cancer incidence reflects the ultimate goal of cervical screening&amp;mdash;a reduction in the number of women diagnosed with cervical cancer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Cancer Society, Advisory Committee on Cancer Statistics. Canadian cancer statistics 2015. Toronto (ON): Canadian Cancer Society; 2015. 151 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: monitoring &amp; evaluation of quality indicators. Toronto (ON): Canadian Partnership Against Cancer; 2016 May. 81 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Examining disparities in cancer control: a system performance special focus report. Toronto (ON): Canadian Partnership Against Cancer; 2014 Feb. 88 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cervical cancer screening; invasive cervical cancer; squamous cell carcinoma&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Provincial population for each age group (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of new cases of invasive cervical cancer&amp;mdash;squamous cell carcinoma only (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cervical cancer is caused by infection with the human papillomavirus (HPV) (Trottier &amp;amp; Franco, 2006; Dawar, Deeks, &amp;amp; Dobson, 2007). Of the more than 100 types of identified HPV, 40 infect the genital tract; of these, approximately 15 are considered high risk, with types 16 and 18 causally linked to 70% of cervical cancer cases. HPV is a highly prevalent sexually transmitted virus; peak prevalence occurs during adolescence and the early 20s after the commencement of sexual activity. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Most HPV infections are transient and are cleared by the immune system without signs or symptoms. However, a small percentage of women experience persistent infections. For these women, the average time between becoming infected with a high risk HPV type and developing a pre-cancerous lesion is 24 months, with a further eight to 12 years before the development of invasive cervical cancer. Because of this long latency period, screening is an effective strategy for the identification and treatment of pre-cancerous cervical lesions.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: monitoring &amp; evaluation of quality indicators. Toronto (ON): Canadian Partnership Against Cancer; 2016 May. 81 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dawar M, Deeks S, Dobson S. Human papillomavirus vaccines launch a new era in cervical cancer prevention. CMAJ. 2007 Aug 28;177(5):456-61.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Trottier H, Franco EL. The epidemiology of genital human papillomavirus infection. Vaccine. 2006 Mar 30;24 Suppl 1:S1-15. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16406226&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="State/Provincial Public Health Programs" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="State/Provincial" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 20 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Female (only)" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Health Promoting" />
+      <FieldValue Value="Population-centered" />
+      <FieldValue Value="Vigilant" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;January 1, 2011 to December 31, 2011 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;January 1, 2012 to December 31, 2012 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;January 1, 2013 to December 31, 2013 (if available) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Provincial population for each age group&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;This performance measure includes all women 20 years of age and older. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Age-standardized incidence rates should be calculated using the age distribution of the 2011 Canadian population. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Use Statistics Canada population data for consistency across the provinces and territories. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Define population using Statistics Canada population estimates at the mid-year. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Number of new cases of invasive cervical cancer&amp;mdash;squamous cell carcinoma only&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Invasive cervical cancers, i.e., all cases with an International Classification of Diseases for Oncology (ICD-O) C53 topography code. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Separate squamous cell carcinoma from all other morphology types (adenocarcinoma, mixed, unclassified, unknown). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;For squamous cell carcinomas, include all invasive histology codes that are within the histology range of squamous cell neoplasms (8050 to 8084). Because some of these histologies are unlikely to occur in the cervix, ICD-O topography code of C53 must also be specified. Refer to the original measure documentation for the entire squamous cell neoplasia list. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Define age as the woman's age at diagnosis (pathology/biopsy). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for the entire squamous cell neoplasia list. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="State/Province public health data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Clinically Diagnosed Condition" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Cervical Cancer Screening Pathway with Quality Indicators&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age-standardized incidence rates should be calculated using the age distribution of the 2011 Canadian population. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Age Groups&lt;/strong&gt;: 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80+&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data should be submitted so that incidence can be calculated for ages 30 to 69. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="71" OrdBy="570" ID="613" Name="Prescriptive Standard" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;5.5 cases per 100,000 by 2037 (based on 80% screening participation and 70% immunization)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="9" OrdBy="580" ID="614" Name="Evidence for Prescriptive Standard" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: monitoring &amp; evaluation of quality indicators. Toronto (ON): Canadian Partnership Against Cancer; 2016 May. 81 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;10a. Cancer incidence.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Cervical Cancer Screening Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Canadian Partnership Against Cancer - National Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Canadian Partnership Against Cancer - National Government Agency [Non-U.S.]" />
+      <FieldValue Value="Public Health Agency of Canada - National Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A financial contribution from Health Canada, through the Canadian Partnership Against Cancer&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Pan-Canadian Cervical Cancer Screening Monitoring and Evaluation Working Group &lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Kathleen Decker (&lt;em&gt;Chair&lt;/em&gt;, Monitoring and Evaluation Working Group) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Meg McLachlin (&lt;em&gt;Chair&lt;/em&gt;, Pan-Canadian Cervical Cancer Screening Network) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Monique Bertrand (Society of Obstetricians and Gynecologists of Canada) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Robert Grimshaw (Cancer Care Nova Scotia) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Erika Nicholson (Cancer Care Nova Scotia) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Dirk van Niekerk (British Columbia Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Laura Gentile (British Columbia Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Huiming Yang (Alberta Health Services) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Gordon Kliewer (Alberta Health Services) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Wanda Fiessel (Saskatchewan Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kimberly Templeton (CancerCare Manitoba) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Anna Kone (Cancer Care Ontario) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Rachel Kupets (Cancer Care Ontario) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Shirley Koch (New Brunswick Cancer Network) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;R&amp;eacute;jean Savoie (New Brunswick Cancer Network) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Ann Millar (Health PEI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Joanne Rose (Cervical Screening Initiatives Program, Newfoundland and Labrador) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kami Kandola (Department of Health and Social Services, Northwest Territories) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Verna Mai (Canadian Partnership Against Cancer) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Diane Major (Canadian Partnership Against Cancer) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Carol Irwin (Canadian Partnership Against Cancer) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pan-Canadian Cervical Cancer Screening Monitoring and Evaluation Data Group&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Jeremy Hamm (British Columbia Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Colleen Mcgahan (British Columbia Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Linan Xu (Alberta Health Services) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Tong Zhu (Saskatchewan Cancer Agency) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Natalie Biswanger (CancerCare Manitoba) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Julia Gao (Cancer Care Ontario) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Bin Zhang (New Brunswick Cancer Network) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Devbani Raha (Cancer Care Nova Scotia) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patricia Lush (Health PEI) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Jeff Dowden (Newfoundland and Labrador Centre for Health Information) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Yalda Jafari (Population Health, Northwest Territories) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 May" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in February 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://content.cancerview.ca/download/cv/prevention_and_screening/cccic_microsite/documents/cccicmonitoringevalqualityindicatorspdf&quot; title=&quot;Canadian Partnership Against Cancer Web site&quot;&gt;Canadian Partnership Against Cancer Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the Canadian Partnership Against Cancer at 1 University Ave, Suite 300, Toronto, ON, Canada M5J 2P1; Phone: 1-877-360-1665; E-mail: &lt;a href=&quot;mailto:info@cancerview.ca&quot;&gt;info@cancerview.ca&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.cancerview.ca/&quot; title=&quot;Canadian Partnership Against Cancer Web site&quot;&gt;www.cancerview.ca&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following is available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: setting targets for program performance. Toronto (ON): Canadian Partnership Against Cancer; 2013 Nov 13. 27 p. This document is available from the &lt;a href=&quot;http://www.cancerview.ca/idc/groups/public/documents/webcontent/cccic_setting_targets.pdf&quot; title=&quot;Canadian Partnership Against Cancer Web site&quot;&gt;Canadian Partnership Against Cancer Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on August 22, 2016. The information was verified by the measure developer on September 27, 2016. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on February 1, 2017. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Canadian Partnership Against Cancer. Cervical cancer screening in Canada: monitoring &amp; evaluation of quality indicators. Toronto (ON): Canadian Partnership Against Cancer; 2016 May. 81 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,228 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Maternal and newborn care: rate of episiotomy in women who had a spontaneous vaginal birth.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Maternal newborn dashboard - key performance indicator criterion reference guide, version 1.3. Ontario (Canada): Better Outcomes Registry and Network (BORN) Ontario; 2014 Jul 2. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the rate of episiotomy in women who had a spontaneous vaginal birth.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Episiotomy is an obstetric practice employed during childbirth in which the vaginal opening is enlarged by a surgical cut to the perineum with scissors or scalpel (Carroli &amp;amp; Mignini, 2009). Historically, episiotomy has been performed prophylactically to prevent severe vaginal tears and to facilitate an easier/faster birth of the baby (Carroli &amp;amp; Mignini, 2009; American College of Obstetricians and Gynecologists [ACOG], 2006). Other suggested maternal benefits include the preservation of muscle relaxation of the pelvic floor leading to improved sexual function, reduced risk of faecal and/or urinary incontinence, and improved surgical healing (i.e., subsequent to a clean surgical incision and repair, rather than a potential 3rd or 4th degree laceration). For the neonate, it is suggested that a faster birth may be protective against the risks of a prolonged second stage of labour (greater than 120 mins), which may lead to fetal asphyxia, cranial trauma, cerebral haemorrhage and mental retardation (Carroli &amp;amp; Mignini, 2009). Alternatively however, hypothesized adverse risks may include extensions of the episiotomy to 3rd or 4th degree tears, unsatisfactory anatomic results (e.g., skin tags, vaginal prolapse, recto-vaginal fistula), increased blood loss and haematoma, pain and edema of the episiotomy region, infection, sexual dysfunction, anal sphincter dysfunction, and dyspareunia (Carroli &amp;amp; Mignini, 2009; ACOG, 2006). &lt;/p&gt;&#xA;&lt;p&gt;What is interesting about episiotomy is how the procedure became routine despite limited to no data supporting its effectiveness. Although it has been cited in the literature for more than 300 years, the practice was not widely employed until the mid-20th century when there was an increased focus to have women give birth in the hospital and greater medical involvement in the birthing process (Carroli &amp;amp; Mignini, 2009; ACOG, 2006). Although knowledge surrounding the benefits and harms of episiotomy has grown substantially since then, rates of episiotomy remain highly variable (e.g., 9.7% in Sweden vs. 100% in Taiwan) (Carroli &amp;amp; Mignini, 2009). In Ontario, the rate of episiotomy ranges from 7% to 31% (Dunn et al., 2011). Given such wide practice variations, it has been suggested that the primary drivers of episiotomy use relate more to regional and individual circumstances (local professional norms, experiences in training, and individual provider preference) than specific variation in the physiology of vaginal birth (Viswanathan et al., 2005).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American College of Obstetricians-Gynecologists. ACOG Practice Bulletin. Episiotomy. Clinical Management Guidelines for Obstetrician-Gynecologists. Number 71, April 2006. Obstet Gynecol. 2006 Apr;107(4):957-62. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16582142&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Carroli G, Mignini L. Episiotomy for vaginal birth. Cochrane Database Syst Rev. 2009 Jan 21;(1):CD000081. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19160176&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Dunn S, Wise M, Johnson L, Anderson G, Ferris L, Yeritsyan N, Croxford R, Fu L, Degani N, Bierman AS. Chapter 10: reproductive and gynaecological health. In: Bierman AS, editor(s). Project for an Ontario Women's Health evidence-based report: Volume 2. Toronto (Ontario): 2011 Feb. p. 166.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Konnyu K, Grimshaw J, Moher D. What are the maternal and newborn outcomes associated with episiotomy during spontaneous vaginal delivery?. Ottawa (Canada): Ottawa Hospital Research Institute; 2011 Jul. 11 p.&amp;nbsp;(KTA Evidence Summary; no. 13).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Viswanathan M, Hartmann K, Palmieri R, Lux L, Swinson T, Lohr KN, Gartlehner G, Thorp J Jr. The use of episiotomy in obstetrical care: a systematic review. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2005 May. 297 p.&amp;nbsp;(Evidence report/technology assessment; no. 112).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spontaneous vaginal birth; episiotomy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Total number of women who had spontaneous vaginal birth (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Number of women who had an episiotomy (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Episiotomy represents a unique obstetrical practice in that it became a part of accoucheurs' repertoire of interventions based on its theoretical value rather than any demonstrated worth, and has remained a conventional practice (more or less) despite strong empirical evidence disfavoring its use. &lt;/li&gt;&#xA;    &lt;li&gt;Two systematic reviews based on thousands of women evaluated in multiple randomized controlled trials (RCTs) have unequivocally determined the practice of restrictive episiotomy during vaginal birth to be better than routine episiotomy with respect to numerous maternal outcomes. &lt;/li&gt;&#xA;    &lt;li&gt;There is insufficient evidence to support the practice of episiotomy for improving neonatal outcomes. &lt;/li&gt;&#xA;    &lt;li&gt;When episiotomy is 'indicated' there is insufficient evidence to know the relative value of midline vs. mediolateral types of incisions. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Refer to &lt;em&gt;What are the Maternal and Newborn Outcomes Associated with Episiotomy During Spontaneous Vaginal Birth?&lt;/em&gt; for a summary of evidence around the risks and benefits to mothers and newborns subsequent to practice of episiotomy during spontaneous vaginal birth. The report's intention is to support a quality improvement initiative that seeks to reduce rates of episiotomy among women who having a spontaneous vaginal birth in Ontario.&lt;/p&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Konnyu K, Grimshaw J, Moher D. What are the maternal and newborn outcomes associated with episiotomy during spontaneous vaginal delivery?. Ottawa (Canada): Ottawa Hospital Research Institute; 2011 Jul. 11 p.&amp;nbsp;(KTA Evidence Summary; no. 13).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;To validate the seven potential indicators as being appropriate for use throughout the province, the authors first extracted data from the BORN Information System (BIS) for fiscal year 2009 to 2010 to assess historical and current performance on these indicators across Ontario's 14 health regions (Local Health Integration Networks). Simultaneously, evidence summaries on each of the potential indicators were developed in collaboration with the Knowledge to Action Research Centre at the Ottawa Hospital Research Institute (Thielman et al., 2011; Konnyu, Grimshaw, &amp;amp; Moher, &quot;What are the drivers,&quot; 2010; Konnyu, Grimshaw, &amp;amp; Moher, &quot;What are the maternal,&quot; 2011; Konnyu, Grimshaw, &amp;amp; Moher, &quot;What is known,&quot; 2011; Khangura, Grimshaw, &amp;amp; Moher, 2010). This group, which has expertise in the review and synthesis of literature to support evidence-informed health care decision-making, assisted with determining the level of scientific evidence to support each indicator. For example, the evidence summary on early term repeat Caesarean section (i.e., before 39 weeks' gestation) in a defined population determined that as a result of this practice there were indeed objective risks to babies that could be reduced by delaying delivery.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Following review of the data and evidence summaries, the committee removed one indicator and refined some of the others, leaving six. In five of the six, the potential for improvement in rates was obvious. The remaining indicator (rate of screening for group B streptococcus) is currently satisfactory throughout all health regions of the province; however, the committee felt it was important at the outset to have the dashboard reflect not only performance areas requiring improvement, but also areas in which performance was good.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Khangura S, Grimshaw J, Moher D. What is known about the timing of elective repeat cesarean section?. Ottawa (Canada): Ottawa Hospital Research Institute; 2010 May. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Konnyu K, Grimshaw J, Moher D. What are the drivers of in-hospital formula supplementation in healthy term neonates and what is the effectiveness of hospital-based interventions designed to reduce formula supplementation?. Ottawa (Canada): Ottawa Hospital Research Institute; 2010 Oct. 13 p.&amp;nbsp;(KTA Evidence Summary; no. 8).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Konnyu K, Grimshaw J, Moher D. What are the maternal and newborn outcomes associated with episiotomy during spontaneous vaginal delivery?. Ottawa (Canada): Ottawa Hospital Research Institute; 2011 Jul. 11 p.&amp;nbsp;(KTA Evidence Summary; no. 13).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Konnyu K, Grimshaw J, Moher D. What is known about the maternal and newborn risks of elective induction of women at term?. Ottawa (Canada): Ottawa Hospital Research Institute; 2011 Mar. 13 p.&amp;nbsp;(KTA Evidence Summary; no. 10).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sprague AE, Dunn SI, Fell DB, Harrold J, Walker MC, Kelly S, Smith GN. Measuring quality in maternal-newborn care: developing a clinical dashboard. J Obstet Gynaecol Can. 2013 Jan;35(1):29-38. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23343794&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Thielman J, Konnyu K, Grimshaw J, Moher D. What is the evidence supporting universal versus risk-based maternal screening to prevent group B streptococcal infection in newborns?. Ottawa (Canada): Ottawa Hospital Research Institute; 2011 Oct. 11 p.&amp;nbsp;(KTA Evidence Summary; no. 14).&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Unspecified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Female (only)" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Health and Well-being of Communities&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Staying Healthy" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Three-month reporting period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Total number of women who had spontaneous vaginal birth &lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The key performance indicators (KPIs) criteria are defined by the pertinent BORN Information System (BIS) data elements that are used to calculate the rates and proportion values for the respective Maternal Newborn Dashboard KPI. As well, pick-list values for each data element, when selected, will result in a patient record to be either included or excluded for a given KPI based on the KPI criterion definition.&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;Refer to the original measure documentation for a complete list of KPI criteria.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Number of women who had an episiotomy&lt;/p&gt;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for a complete list of key performance indicator (KPI) criteria.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;BORN Information System (BIS) Maternal Newborn Dashboard (MND)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="71" OrdBy="570" ID="613" Name="Prescriptive Standard" Type="text">
+      <FieldValue Value="&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Prescriptive Standard&quot;&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Target:&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Less than 13%&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Warning: &lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;13% to 17%&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Alert:&lt;/td&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;Greater than 17%&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="9" OrdBy="580" ID="614" Name="Evidence for Prescriptive Standard" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sprague AE, Dunn SI, Fell DB, Harrold J, Walker MC, Kelly S, Smith GN. Measuring quality in maternal-newborn care: developing a clinical dashboard. J Obstet Gynaecol Can. 2013 Jan;35(1):29-38. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23343794&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;KPI 2 - Rate of episiotomy in women who had a spontaneous vaginal birth.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Maternal-Newborn Care Performance Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Better Outcomes Registry and Network (BORN) Ontario - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Better Outcomes Registry and Network (BORN) Ontario - State/Local Government Agency [Non-U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Better Outcomes Registry and Network (BORN) Ontario is funded by the Ontario Ministry of Health and Long Term Care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ann E. Sprague, RN, PhD (Better Outcomes Registry &amp;amp; Network [BORN] Ontario, Ottawa ON); Sandra I. Dunn, RN, PhD (BORN Ontario, Ottawa ON); Deshayne B. Fell, MSc (BORN Ontario, Ottawa ON); JoAnn Harrold, MD, FRCPC (Department of Pediatrics, Children's Hospital of Eastern Ontario, Ottawa ON); Mark C. Walker, MD, FRCSC (BORN Ontario, Ottawa ON; Departments of Obstetrics and Gynecology, and Epidemiology, University of Ottawa, Ottawa ON; Department of Obstetrics and Gynecology, The Ottawa Hospital and the Ottawa Hospital Research Institute, Ottawa ON); Sherrie Kelly, MSc (BORN Ontario, Ottawa ON); Graeme N. Smith, MD, PhD, FRCSC (Department of Obstetrics and Gynecology, Kingston General Hospital, Queen's University, Kingston ON), and clinical experts from the BORN Maternal Newborn Outcomes Committee &amp;ndash; Dashboard Subcommittee&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None declared.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2014 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact BORN Ontario at 401 Smyth Road, Ottawa, ON, K1H 8L1; Phone: 613-737-7600 x 6022; Web site: &lt;a href=&quot;http://www.bornontario.ca/en/&quot; title=&quot;BORN Ontario Web site&quot;&gt;www.bornontario.ca/en/&lt;/a&gt;; E-mail: &lt;a href=&quot;mailto:info@bornontario.ca&quot;&gt;info@bornontario.ca&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on January 26, 2015. The information was verified by the measure developer on April 21, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 4, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Maternal newborn dashboard - key performance indicator criterion reference guide, version 1.3. Ontario (Canada): Better Outcomes Registry and Network (BORN) Ontario; 2014 Jul 2. 12 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

@@ -1,0 +1,264 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Asthma admission: percentage of admissions with a principal diagnosis of asthma per 100,000 population, ages 2 through 17 years.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 14 technical specifications: asthma admission rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: asthma admission rate (PDI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Related Population Health Measures: Population Use of Services" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of admissions with a principal diagnosis of asthma per 100,000 population, ages 2 through 17 years.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Hospital admission for childhood asthma often represents a failure to diagnose and proactively manage asthma in the home and at school through education, early detection and preventive medicine. Structures and processes of care associated with lower hospitalization rates in children for asthma include: compliance with evidence-based interventions aimed at the control of chronic asthma symptoms, the delivery of quality outpatient healthcare, and the control of asthma triggers (such as cigarette smoke followed by dust in the home, pet dander, and preventable exposures to other children with upper respiratory infections). Important to this issue is patient/family education. Follow-up clinical care is a key because it provides opportunities to address variations in patients' symptoms and severity, exposure to allergens, adherence, the management plan, and patient self-management. Poor compliance to follow-up visits (including either delays or no follow-up care) not only has a negative impact on pediatric admissions for asthma but also impacts overall quality of life for both the patient and family.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Many parents and patients lack the information they need to manage chronic asthma symptoms and to prevent unnecessary hospitalizations for pediatric asthma. Common problems with adherence include: lack or delay in symptom recognition and action, medications not being given soon enough, running out of medications, refills not being called in to pharmacies, and failure to avoid known triggers of the child's asthma exacerbations, including exposure to cigarette smoke. An essential component of preventing asthma exacerbations includes controlling asthma triggers. Trigger reduction is a particularly high priority for preventing hospitalizations in poor inner-city children with asthma. Studies have found that among low-income urban households with a child with asthma, 47% to 50% have smokers in the home, 34% have furry pets, and 47% to 58% have high levels of cockroach allergen. Although many parents are aware of asthma triggers, more than half of environmental actions by parents do not meet current guidelines and are unlikely to control triggers effectively. Home health evaluation, smoking cessation counseling, and working closely with patients and families either during an acute hospitalization or in the outpatient arena can help to lower environmental triggers.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In addition, clinical practice guidelines suggest that asthma can be managed in the home or outpatient setting; thus hospitalizations for asthma are preventable.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is an avoidable hospitalization/ambulatory care sensitive condition (ACSC) type indicator. ACSC type indicators are not measures of hospital quality, but rather measures of potentially avoidable hospitalization if appropriate outpatient care, other healthcare services or community services were accessed and obtained (i.e., measures of the health care system broadly defined). These measures are designed to assess population access to timely, high quality outpatient and public health services in a particular geographic area, for the purpose of managing chronic disease or diagnosing acute illnesses before progressing to inpatient treatment. These measures are of most interest to comprehensive health care delivery systems, such as some health maintenance organizations (HMOs), accountable care organizations (ACOs) or public health agencies. ACSC indicators correlate with each other and they may be used in conjunction as an overall examination of outpatient care and access to care at a national, regional or county level.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The improvement in the measure equates to less hospitalizations for pediatric asthma. This result essentially means the population is experiencing greater control and better management of their asthma given the reduction in the rate acute asthma events. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: asthma admission rate (PDI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Pediatrics; asthma; ambulatory care sensitive condition (ACSC) &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Population ages 2 through 17 years in metropolitan area or county (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges, for patients ages 2 through 17 years, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for asthma (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Asthma is the most common chronic childhood illness, as well as a leading cause of childhood morbidity and one of the most common reasons for hospitalization in children (Centers for Disease Control and Prevention [CDC], n.d.; Akinbami &amp;amp; Schoendorf, 2002; Fuhlbrigge et al., 2002; Stranges, Merrill, &amp;amp; Steiner, 2008). In 2006, nearly 10% of children in the United States (U.S.) had a current diagnosis of asthma and 14% had a diagnosis at some point in their lives (Stranges, Merrill, &amp;amp; Steiner, 2008). There were approximately 335,000 asthma-related hospitalizations among children in the U.S. in 2006, comprising 13.6% of all pediatric hospitalizations, representing is a significant health care expenditure (Stranges, Merrill, &amp;amp; Steiner, 2008). Despite availability of asthma guidelines, quality of care provided to children hospitalized for asthma is suboptimal, especially with regard to initiation of chronic asthma control and prevention of asthma readmissions (Nkoy et al., 2008; Friday et al., 1997; Kattan, 2008; Cabana et al., 2003). Six-month hospital readmission rates for subsequent asthma attacks are reportedly as high as 40% (Minkovitz, Andrews, &amp;amp; Serwint, 1999; Farber, 1998).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Asthma disproportionately affects low-income and minority children. A study using the Agency for Healthcare Research and Quality (AHRQ) Pediatric Quality Indicator (PDI) for asthma hospitalizations and 2001 to 2004 Healthcare Cost and Utilization Project (HCUP) data reported hospitalization rates per 100,000 children aged 2 to 17 years varied by state ranging from 51.1 to 185.9 in the six geographically and diverse states studied (Knudson et al., 2009). Within these 6 states, authors reported that although rural children were the found to be most likely to be hospitalized for asthma, after controlling for rurality, poverty, uninsurance, and physician supply, uninsurance was the only variable to significantly impact hospitalization rates (Knudson et al., 2009). In addition, regional variation exists in the rate of hospitalizations for pediatric asthma with the Northeast being significantly higher than the West in 2011 (149.9 per 100,000 population vs 55.9 per 100,000 population, p less than .0001). Various explanations have been hypothesized for this variation, including differences in physician training, differences in practices, higher penetration of large managed care organizations or organizations that have implemented aggressive chronic disease management programs, and differences in environmental triggers. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Other studies report higher prevalence and hospitalization rates among minority children, especially those of low socioeconomic status in urban areas (Akinbami et al., 2009; Akinbami &amp;amp; CDC National Center for Health Statistics, 2006; Akinbami, Moorman, &amp;amp; Liu, 2011; Ernst et al., 1995; Gold &amp;amp; Wright, 2005; Lang &amp;amp; Polansky, 1994; Litonjua et al., 1999; Miller, 2000; Myers, 2000; Akinbami &amp;amp; Schoendorf, 2002; Nicholas et al., 2005; Stranges, Merrill, &amp;amp; Steiner, 2008; Hill, Graham, &amp;amp; Divgi, 2011; Berdahl et al., 2010). For example, a study using 2005 inpatient discharge data from the HCUP found that compared with white and Asian Pacific Islander children, black and Hispanic children were more likely to have admissions for asthma (331.394 and 138.620 per 100,000 2- to 17-year-olds, respectively vs. 91.175 and 63.705 per 100,000 2- to 17-year-olds, respectively). Black children had at least 3 times the rate of asthma admissions than white children from every income group (Berdahl et al., 2010). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Universal health insurance coverage does not completely address the issue of disparities, as one study of Department of Defense dependents enrolled in TRICARE found that black children in all age groups and Hispanic children ages 5 to 10 years were significantly more likely to have an a potentially avoidable asthma hospitalization or emergency department visit (OR=1.24 to 1.99) than white children (Stewart et al., 2010). Further studies have focused on the interrelationship among hardship (caregivers looking for work, having no one to borrow money from, not owning a car or home and being single/never married), neighborhood characteristics, socioeconomic characteristics, insurance coverage and racial disparities as explanations for higher asthma readmission rates among a subgroup of the population (Beck et al., 2014; Liu &amp;amp; Pearlman, 2009). Others have pointed to significant environmental factors (pollution, tobacco exposure, housing quality) related to exacerbations of asthma as additional explanations for income and geographic disparities in hospitalizations (Shapiro &amp;amp; Stout, 2002; Kuo et al., 2012). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Akinbami L, Centers for Disease Control and Prevention National Center for Health Statistics. The state of childhood asthma, United States, 1980-2005. Adv Data. 2006 Dec 12;(381):1-24. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17180851&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Akinbami LJ, Moorman JE, Garbe PL, Sondik EJ. Status of childhood asthma in the United States, 1980-2007. Pediatrics. 2009 Mar;123 Suppl:S131-45. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19221156&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Akinbami LJ, Moorman JE, Liu X. Asthma prevalence, health care use, and mortality: United States, 2005-2009. Natl Health Stat Report. 2011 Jan 12;(32):1-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21355352&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Akinbami LJ, Schoendorf KC. Trends in childhood asthma: prevalence, health care utilization, and mortality. Pediatrics. 2002 Aug;110(2 Pt 1):315-22. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12165584&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Beck AF, Huang B, Simmons JM, Moncrief T, Sauers HS, Chen C, Ryan PH, Newman NC, Kahn RS. Role of financial and social hardships in asthma racial disparities. Pediatrics. 2014 Mar;133(3):431-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24488745&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Berdahl T, Owens PL, Dougherty D, McCormick MC, Pylypchuk Y, Simpson LA. Annual report on health care for children and youth in the United States: racial/ethnic and socioeconomic disparities in children's health care quality. Acad Pediatr. 2010 Mar-Apr;10(2):95-118. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20206909&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Cabana MD, Bruckman D, Meister K, Bradley JF, Clark N. Documentation of asthma severity in pediatric outpatient clinics. Clin Pediatr. 2003 Mar;42(2):121-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12659384&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Disease Control and Prevention (CDC). Asthma prevalence, health care use and mortality, 2000-2001. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ernst P, Demissie K, Joseph L, Locher U, Becklake MR. Socioeconomic status and indicators of asthma in children. Am J Respir Crit Care Med. 1995 Aug;152(2):570-5. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7633709&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Farber HJ. Risk of readmission to hospital for pediatric asthma. J Asthma. 1998;35(1):95-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9513588&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Friday GA, Khine H, Lin MS, Caliguiri LA. Profile of children requiring emergency treatment for asthma. Ann Allergy Asthma Immunol. 1997 Feb;78(2):221-4. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9048532&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fuhlbrigge AL, Adams RJ, Guilbert TW, Grant E, Lozano P, Janson SL, Martinez F, Weiss KB, Weiss ST. The burden of asthma in the United States: level and distribution are dependent on interpretation of the national asthma education and prevention program guidelines. Am J Respir Crit Care Med. 2002 Oct 15;166(8):1044-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12379546&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gold DR, Wright R. Population disparities in asthma. Ann Rev Public Health. 2005;26:89-113. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15760282&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hill TD, Graham LM, Divgi V. Racial disparities in pediatric asthma: a review of the literature. Curr Allergy Asthma Rep. 2011 Feb;11(1):85-90. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21107764&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kattan M. Quality of inpatient care for asthma: challenges and opportunities. Pediatrics. 2008 Dec;122(6):1369-70. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19047258&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Knudson A, Casey M, Burlew M, Davidson G. Disparities in pediatric asthma hospitalizations. J Public Health Manag Pract. 2009 May-Jun;15(3):232-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19363403&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kuo AA, Etzel RA, Chilton LA, Watson C, Gorski PA. Primary care pediatrics and public health: meeting the needs of today's children. Am J Public Health. 2012 Dec;102(12):e17-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23078463&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lang DM, Polansky M. Patterns of asthma mortality in Philadelphia from 1969 to 1991. N Engl J Med. 1994 Dec 8;331(23):1542-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7969323&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Litonjua AA, Carey VJ, Weiss ST, Gold DR. Race, socioeconomic factors, and area of residence are associated with asthma prevalence. Pediatr Pulmonol. 1999 Dec;28(6):394-401. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10587412&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Liu SY, Pearlman DN. Hospital readmissions for childhood asthma: the role of individual and neighborhood factors. Public Health Rep. 2009 Jan-Feb;124(1):65-78. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19413029&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Miller JE. The effects of race/ethnicity and income on early childhood asthma prevalence and health care use. Am J Public Health. 2000 Mar;90(3):428-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10705865&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Minkovitz CS, Andrews JS, Serwint JR. Rehospitalization of children with asthma. Arch Pediatr Adolesc Med. 1999 Jul;153(7):727-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10401806&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Myers TR. Pediatric asthma epidemiology: incidence, morbidity, and mortality. Respir Care Clin N Am. 2000 Mar;6(1):1-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10639553&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: asthma admission rate (PDI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nicholas SW, Jean-Louis B, Ortiz B, Northridge M, Shoemaker K, Vaughan R, Rome M, Canada G, Hutchinson V. Addressing the childhood asthma crisis in Harlem: the Harlem Children's Zone Asthma Initiative. Am J Public Health. 2005 Feb;95(2):245-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15671459&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nkoy FL, Fassl BA, Simon TD, Stone BL, Srivastava R, Gesteland PH, Fletcher GM, Maloney CG. Quality of care for children hospitalized with asthma. Pediatrics. 2008 Nov;122(5):1055-63. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18977987&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shapiro GG, Stout JW. Childhood asthma in the United States: urban issues. Pediatr Pulmonol. 2002 Jan;33(1):47-55. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11747260&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stewart KA, Higgins PC, McLaughlin CG, Williams TV, Granger E, Croghan TW. Differences in prevalence, treatment, and outcomes of asthma among a diverse population of children with equal access to care: findings from a study in the military health system. Arch Pediatr Adolesc Med. 2010 Aug;164(8):720-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20530290&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stranges E, Merrill CT, Steiner CA. Hospital stays related to asthma for children, 2006: Statistical Brief #58. In: Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [internet]. Rockville (MD): Agency for Health Care Policy and Research (US); 2008 Aug&amp;nbsp;[10]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer's metric of reliability is the signal to noise ratio, which is the ratio of the between area variance (signal) to the within area variance (noise). The formula is signal / (signal + noise). There is an area-specific signal to noise ratio, which is used as an Empirical Bayes univariate shrinkage estimator. The overall signal to noise ratio is a weighted average of the area-specific signal-to-noise ratio, where the weight is [1 / (signal + noise)^2]. The signal is calculated using an iterative method. The analysis reports the reliability of the risk-adjusted rate (before applying the empirical Bayes univirate shrinkage estimator).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Overall the risk-adjusted rate is strongly reliable. Based on a norm of a signal-to-noise ratio of 0.80, 80% of areas exceed the norm. Reliability is less than the norm in areas with population less than approximately 600 persons, meaning that the performance score is reliability adjusted closer to the shrinkage target in those areas.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity Testing&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The developer conducted construct validity testing to examine the association between the risk-adjusted rate and area structural characteristics potentially associated with quality of care, including prior performance, using regression analysis. Two area structural constructs (Access to health care and Market competition) were derived from a principal components factor analysis using data from the Area Health Resource File (AHRF) 2012 to 2013. The following five variables were examined in the factor analysis: physician density defined as the number of physicians in patient care per person, excess capacity defined as percent of available short-term general hospital beds per total beds, poverty status defined as the percent of persons in poverty, insurance status defined as the percent of persons (under 65) without health insurance and population density per square mile. Access to health care is primarily defined by insurance status and poverty, followed by lower physician density and higher excess capacity, which is consistent with the hypothesis that lower physician density and excess capacity would increase utilization. The second factor, market competition, is primarily defined by poverty and higher physician density, followed by higher population density.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Given the stated rationale, the expectation for the regression analysis given the expected relationship between the &quot;Less Access to High Quality Outpatient Care&quot; construct validity measure (F1) and the area risk-adjusted rate is a positive, statistically significant coefficient. The expectation for the regression analysis given the expected relationship between the &quot;More Market Competition&quot; construct validity measure (F2) and the area risk-adjusted rate is a positive, statistically significant coefficient. The results are consistent with expectations. Also, past performance is a moderate predictor of current performance with a coefficient of 0.72.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for additional measure testing information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: asthma admission rate (PDI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Regional, County or City" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ages 2 to 17 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="700" OrdBy="304" Name="National Framework for Public Health Quality">
+    <Field FieldID="4620" OrdBy="305" ID="701" Name="Public Health Aims for Quality" Type="picklist-many">
+      <FieldValue Value="Population-centered" />
+      <FieldValue Value="Risk Reducing" />
+      <FieldValue Value="Vigilant" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Care Need" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Not within an IOM Domain" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Time window can be determined by user, but is generally one year.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Geographically defined" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Geographic Location" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Population ages 2 through 17 years in the metropolitan area (MA) or county. Discharges in the numerator are assigned to the denominator based on the MA or county of the patient residence, not the MA or county of the hospital where the discharge occurred.&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The term &quot;MA&quot; was adopted by the United States (U.S.) Census in 1990 and referred collectively to metropolitan statistical areas (MSAs), consolidated metropolitan statistical areas (CMSAs), and primary metropolitan statistical areas (PMSAs). In addition, &quot;area&quot; could refer to either 1) Federal Information Processing Standard (FIPS) county, 2) modified FIPS county, 3) 1999 Office of Management and Budget (OMB) Metropolitan Statistical Area, or 4) 2003 OMB Metropolitan Statistical Area. Micropolitan Statistical Areas are not used in the Quality Indicator (QI) software. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Discharges, for patients ages 2 through 17 years, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for asthma&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for ICD-9-CM codes. See also the &lt;em&gt;Pediatric Quality Indicators Appendices&lt;/em&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Exclude cases: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;With any-listed ICD-9-CM diagnosis codes for cystic fibrosis and anomalies of the respiratory system &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from a hospital (different facility) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from a Skilled Nursing Facility (SNF) or Intermediate Care Facility (ICF) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Transfer from another health care facility &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Major Diagnostic Categories (MDC) 14 (pregnancy, childbirth, and puerperium) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;With missing gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing), principal diagnosis (DX1=missing), or county (PSTCO=missing) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Proxy for Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The predicted value for each case is computed using a hierarchical model (logistic regression with area random effect) and covariates for gender and age (in age groups). The reference population used in the regression is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID) for the year 2010 (combined), a database consisting of 44 states and approximately 5 million pediatric discharges, and the United States (U.S.) Census data by county. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., area). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Additional information on methodology can be found in the &lt;em&gt;Empirical Methods&lt;/em&gt; document on the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicator Web site&lt;/a&gt; and in the supplemental information.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to the original measure documentation for the specific covariates for this measure.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;PDI 14: asthma admission rate.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Agency for Healthcare Research and Quality (AHRQ) Quality Indicators" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Pediatric Quality Indicators" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Agency for Healthcare Research and Quality (AHRQ)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Sep 18&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure is reviewed and updated on a yearly basis&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates previous versions: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ QI. Pediatric quality indicators #14: technical specifications. Asthma admission rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 61 p. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/TechSpecs/PDI_14_Asthma_Admission_Rate.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AHRQ QI Support Team at E-mail: &lt;a href=&quot;mailto:QIsupport@ahrq.hhs.gov&quot;&gt;QIsupport@ahrq.hhs.gov&lt;/a&gt;; Phone: 301-427-1949.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators (PDI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 98 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Parameter_Estimates_PDI_50_Final.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;ARHQ quality indicators. Pediatric quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 13 p. This document is available from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/V50/Version_50_Benchmark_Tables_PDI.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;AHRQ quality indicators. Pediatric quality indicators composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Mar. various p. This document is available in PDF from the &lt;a href=&quot;http://www.qualityindicators.ahrq.gov/Downloads/Modules/PDI/PDI_Composite_Development.pdf&quot; title=&quot;AHRQ QI Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Quality Indicators Web site&lt;/a&gt;. &amp;nbsp; &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the &lt;a href=&quot;http://hcupnet.ahrq.gov/&quot; title=&quot;AHRQ Web site&quot; target=&quot;_blank&quot;&gt;AHRQ Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on December 28, 2007. The information was verified by the measure developer on March 31, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on June 25, 2010. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was reviewed and edited by ECRI Institute on July 15, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on July 19, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 28, 2013 and again on December 1, 2015. The information was verified by the measure developer on January 19, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;AHRQ QI research version 5.0. Pediatric quality indicator 14 technical specifications: asthma admission rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 3 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: asthma admission rate (PDI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 15 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

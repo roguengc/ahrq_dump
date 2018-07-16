@@ -1,0 +1,221 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Oncology: percentage of patients, regardless of age, with a diagnosis of breast, rectal, pancreatic or lung cancer receiving 3D conformal radiation therapy who had documentation in medical record that radiation dose limits to normal tissues were established prior to the initiation of a course of 3D conformal radiation for a minimum of two tissues.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). Oncology: radiation dose limits to normal tissues. Fairfax (VA): American Society for Radiation Oncology (ASTRO); 2015 Nov 17. 7 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, with a diagnosis of breast, rectal, pancreatic or lung cancer receiving 3D conformal radiation therapy who had documentation in medical record that radiation dose limits to normal tissues were established prior to the initiation of a course of 3D conformal radiation for a minimum of two tissues.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Identifying radiation dose limits to normal tissues is an important step in the process of care for patients receiving radiation therapy treatments. Although no specific data is available, in its practice accreditation reviews, the American College of Radiation Oncology has found that radiation dose limits to normal tissues are included in the patient chart less frequently than reviewers expected. While dose constraint specification is an integral part of intensity-modulated radiation therapy (IMRT), it is not required for 3D conformal radiation therapy. Patients treated with 3D conformal radiation therapy are often subjected to dose levels that exceed normal tissue tolerance, and precise specification of maximum doses to be received by normal tissues represent both an intellectual process for the physician during radiation treatment planning, and a fail-safe point for the treating therapists. In most circumstances where facilities require specification of radiation dose limits to normal tissues prior to initiation of therapy, policies and procedures exist that prohibit exceeding those limits in the absence of written physician approval.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Clinical Recommendation Statements&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Breast Cancer&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Whole Breast Radiation&lt;/em&gt;: Target definition includes the majority of the breast tissue, and is best done by both clinical assessment and computed tomography (CT)-based treatment planning. A uniform dose distribution and minimal normal tissue toxicity are the goals and can be accomplished using compensators such as wedges, forward planning using segments, IMRT, respiratory gating, or prone positioning (National Comprehensive Cancer Network [NCCN], 2014).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Chest Wall Radiation (including breast reconstruction)&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The target includes the ipsilateral chest wall, mastectomy scar, and drain sites where possible. Depending on whether the patient has been reconstructed or not, several techniques using photons and/or electrons are appropriate. CT-based treatment planning is encouraged in order to identify lung and heart volumes, and minimize exposure of these organs. Special consideration should be given to the use of bolus material when photon fields are used, to ensure the skin dose is adequate (NCCN, 2014).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Rectal Cancer&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Radiation therapy fields should include the tumor or tumor bed, with a 2-5 cm margin, the presacral nodes, and the internal iliac nodes. The external iliac nodes should also be included for T4 tumors involving anterior structures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Multiple radiation therapy fields should be used (generally a 3- or 4-field technique). Positioning and other techniques to minimize the volume of small bowel in the fields should be encouraged (NCCN, 2016).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Pancreatic Adenocarcinoma&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;It is imperative to evaluate the dose volume histogram (DVH) of the planning target volume (PTV) and critical normal structures such as liver, kidneys, spinal cord, liver and bowel. While these limits are empirical they differ based on dose per fraction, total dose delivered, and disease status (adjuvant vs. unresectable). Studies have shown that the tolerability of radiation is largely dependent on PTV size/elective nodal irradiation, types of concurrent systemic/ targeted therapy, and whether conformal (3-D, IMRT, stereotactic body radiation therapy [SBRT]) vs. conventional radiation is used (NCCN, &quot;Pancreatic adenocarcinoma,&quot; 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Non-Small Cell Lung Cancer&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;It is essential to evaluate the DVH of critical structures and to limit the doses to the spinal cord, lungs, heart, esophagus, and brachial plexus to minimize normal tissue toxicity. These limits are mainly empirical. For patients receiving postoperative radiation therapy (RT), more strict DVH parameters should be considered for lung (NCCN, &quot;Non-small cell lung cancer,&quot; 2012).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Small Cell Lung Cancer&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Normal tissue doses will be dependent on tumor size and location (NCCN, &quot;Small cell lung cancer,&quot; 2012).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). Oncology: radiation dose limits to normal tissues. Fairfax (VA): American Society for Radiation Oncology (ASTRO); 2015 Nov 17. 7 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: breast cancer. Version 1. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: non-small cell lung cancer. Fort Washington (PA): National Comprehensive Cancer Network, Inc.; 2012 Apr 11. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: pancreatic adenocarcinoma. Fort Washington (PA): National Comprehensive Cancer Network, Inc.; 2012. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: rectal cancer. Version 1. Fort Washington (PA): National Comprehensive Cancer Network, Inc.; 2016. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: small cell lung cancer. Fort Washington (PA): National Comprehensive Cancer Network, Inc.; 2012 Jun 23. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Breast cancer; rectal cancer; pancreatic cancer; lung cancer; 3D conformal radiation therapy; radiation dose limits&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with a diagnosis of breast, rectal, pancreatic or lung cancer receiving 3D conformal radiation therapy (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients who had documentation in medical record that radiation dose limits to normal tissues were established prior to the initiation of a course of 3D conformal radiation for a minimum of two tissues (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Reliability&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Data/Sample&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Physician Consortium for Performance Improvement (PCPI) Testing Project&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Five practice sites representing various types, locations and sizes were identified to participate in testing the PCPI/American Society of Clinical Oncology (ASCO)/American Society for Radiology and Oncology (ASTRO)-developed measures. &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Site A: hospital, multi-practice sites in urban, rural and suburban settings; 21 physicians; average 9600 oncology/prostate cancer patient visits per month for medical doctor (MD)/nurse practitioner (NP) assessment, chemotherapy; submitted Physician Quality Reporting System (PQRS) claims for one measure and utilized a full-fledged electronic health record (EHR). &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Site B: physician owned private practice, suburban setting; 4 physicians; average 48 oncology/prostate cancer patients seen per day; submitted PQRS claims for one measure and utilized paper medical records. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Site C: physician owned private practice, urban setting; 41 physicians; average 2500 oncology/prostate cancer patients seen per month; submitted PQRS claims for two measures and utilized a full-fledged EHR. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Site D: academic, suburban setting; 9 physicians; average 240 oncology/prostate cancer patients seen per month; submitted PQRS claims for one measure and utilized paper and EHR. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Site E: academic, urban setting; 14 physicians; average 250 oncology/prostate cancer patients seen per month; collected PQRS data on 3 measures and utilized a full-fledged EHR. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The measurement period (data collected from patients seen) was 1/1/2010 through 12/31/2010. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Chart abstraction was performed between 8/8/2011 and 11/3/2011. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;PCPI Testing Project&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data abstracted from patient records were used to calculate inter-rater reliability for the measure. &lt;br /&gt;&#xD;&#xA;92 patient records were reviewed.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Data analysis included:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Percent agreement; and &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Kappa statistic to adjust for chance agreement. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;PCPI Testing Project&lt;/p&gt;&#xD;&#xA;&lt;p&gt;N, % Agreement, Kappa (95% Confidence Interval) &lt;br /&gt;&#xD;&#xA;Overall Reliability: 92, 98.9%, 0.935 (0.809-1.000) &lt;br /&gt;&#xD;&#xA;Denominator Reliability: 92, 100.0%, Kappa is noncalculable* &lt;br /&gt;&#xD;&#xA;Numerator Reliability: 92, 98.9%, 0.935 (0.809-1.000) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure demonstrates almost perfect reliability, as shown in results from the above analysis. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Kappa statistics cannot be calculated because of complete agreement. Confidence intervals cannot be calculated because to do so would involve dividing by zero which cannot be done.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Validity&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Analytic Method&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All PCPI performance measures are assessed for content validity by a panel of expert work group members during the development process. Additional input on the content validity of draft measures is obtained through a 30-day public comment period and by also soliciting comments from a panel of consumer, purchaser, and patient representatives convened by the PCPI specifically for this purpose. All comments received are reviewed by the expert work group and the measures adjusted as needed. Other external review groups (e.g., focus groups) may be convened if there are any remaining concerns related to the content validity of the measures.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The expert panel was used to assess face validity of the measure. This panel consisted of 31 members, with representation from the following specialties: oncology, radiation oncology, surgical oncology, urology, gastroenterology, hematology, pathology, colon and rectal surgery, otolaryngology, and pain medicine.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The aforementioned panel was asked to rate their agreement with the following statement:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The scores obtained from the measure as specified will accurately differentiate quality across providers.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Scale 1-5, where 1=Strongly Disagree; 3=Neither Disagree nor Agree; 5=Strongly Agree&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The results of the expert panel rating of the validity statement were as follows: N = 17; Mean rating = 4.18.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Percentage in the top two categories (4 and 5): 82.35%&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Frequency Distribution of Ratings&lt;/span&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;0 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;0 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;3 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;8 &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;6 &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum (NQF) measure submission form: oncology: radiation dose limit to normal tissues. Washington (DC): National Quality Forum (NQF); 2011 Oct 3. 17 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+      <FieldValue Value="Ambulatory Procedure/Imaging Center" />
+      <FieldValue Value="Hospital Outpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All patients, regardless of age, with a diagnosis of breast, rectal, pancreatic or lung cancer receiving 3D conformal radiation therapy&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases)&lt;/em&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for breast, rectal, pancreatic or lung cancer (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND NOT&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for metastatic cancer (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during the reporting period (refer to the original measure documentation for Current Procedural Terminology [CPT] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients who had documentation in medical record that radiation dose limits to normal tissues were established prior to the initiation of a course of 3D conformal radiation for a minimum of two tissues&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for Current Procedural Terminology (CPT) codes.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2016 Claims/Registry Individual Measure Flow, PQRS #156 NQF #0382: Oncology - Radiation Dose Limits to Normal Tissues&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Oncology: radiation dose limits to normal tissues.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Oncology" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Society for Radiation Oncology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Society for Radiation Oncology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patricia Ganz, MD (&lt;em&gt;Co-Chair&lt;/em&gt;); James Hayman, MD (&lt;em&gt;Co-Chair&lt;/em&gt;); Joseph Bailes, MD; Nancy Baxter, MD, PhD; Joel V. Brill, MD; Steven B. Clauser, PhD; Charles Cleeland, PhD; J. Thomas Cross, Jr. MD, MPH; Chaitanya R. Divgi, MD; Stephen B. Edge, MD; Patrick L. Fitzgibbons, MD; Sue Frechette; Myron Goldsmith, MD; Joel W. Goldwein, MD; Alecia Hathaway, MD, MPH; Kevin P. Hubbard, DO; Nora Janjan, MD, MPSA; Maria Kelly, MB, BCh; Wayne Koch, MD; Andre Konski, MD; Len Lichtenfeld, MD; Norman J. Marcus, MD; Catherine Miyamoto, RN, BSN; Michael Neuss, MD; Jean Owen, PhD; David F. Penson, MD, MPH; Louis Potters, MD; John M. Rainey, MD; Christopher M. Rose, MD; Lee Smith, MD; Lawrence A. Solberg, MD, PhD; Paul E. Wallner, MD; J. Frank Wilson, MD; Rodger Winn, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Society for Therapeutic Radiation and Oncology&lt;/em&gt;: Dave Adler; Robyn Watson, PhD; Emily Wilson&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Society of Clinical Oncologists&lt;/em&gt;: Pamela Kadlubek, MPH; Kristen McNiff, MPH; Julia Tompkins&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American College of Radiation Oncology&lt;/em&gt;: Jennifer Dreyfus&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American College of Surgeons&lt;/em&gt;: Julie Lewis&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Joseph Gave, MPH; Kendra Hanley, MS, CHE; Erin O. Kaleba, MPH; Karen Kmetik, PhD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Centers for Medicare &amp;amp; Medicaid Service&lt;/em&gt;: Tiffany Sanders, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;College of American Pathologists Staff&lt;/em&gt;: Fay Shamanski, PhD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consumer Representative&lt;/em&gt;: Catherine D. Harvey, Dr.PH&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Health Plan Representative&lt;/em&gt;: Ranae Dahlberg&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Consortium Consultant&lt;/em&gt;: Rebecca Kresowik; Timothy Kresowik, MD&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Committee for Quality Assurance&lt;/em&gt;: Donna Pillittere&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Comprehensive Cancer Network&lt;/em&gt;: Joan McClure, MS&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;reg; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Society for Therapeutic Radiology and Oncology, American Society of Clinical Oncology, Physician Consortium for Performance Improvement&amp;reg;. Oncology physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2010 Sep. 47 p. [15 references]&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source not available electronically.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Angela Kennedy at American Society for Radiation Oncology (ASTRO), 8280 Willow Oaks Corporate Drive, Suite 500, Fairfax, VA 22031; Phone: 703-839-7380; E-mail: &lt;a href=&quot;mailto:angela.kennedy@astro.org&quot;&gt;angela.kennedy@astro.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.astro.org&quot; title=&quot;ASTRO Web site&quot;&gt;www.astro.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on September 8, 2008. The information was verified by the measure developer on October 16, 2008. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on September 28, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 7, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on April 27, 2012.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stewardship for this measure was transferred from the PCPI to the ASTRO. ASTRO informed NQMC that this measure was updated. This NQMC summary was updated by ECRI Institute on May 4, 2016. The information was verified by the measure developer on May 24, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact Angela Kennedy at American Society for Radiation Oncology (ASTRO), 8280 Willow Oaks Corporate Drive, Suite 500, Fairfax, VA 22031; Phone: 703-839-7380; E-mail: &lt;a href=&quot;mailto:angela.kennedy@astro.org&quot;&gt;angela.kennedy@astro.org&lt;/a&gt;; Web site: &lt;a href=&quot;http://www.astro.org&quot; title=&quot;ASTRO Web site&quot;&gt;www.astro.org&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Society for Radiation Oncology (ASTRO). Oncology: radiation dose limits to normal tissues. Fairfax (VA): American Society for Radiation Oncology (ASTRO); 2015 Nov 17. 7 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

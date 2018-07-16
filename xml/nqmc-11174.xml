@@ -1,0 +1,215 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Melanoma: percentage of patients, regardless of age, with a current diagnosis of stage 0 through IIC melanoma or a history of melanoma of any stage, without signs or symptoms suggesting systemic spread, seen for an office visit during the one-year measurement period, for whom no diagnostic imaging studies were ordered.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Dermatology. Melanoma: overutilization of imaging studies in melanoma. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients, regardless of age, with a current diagnosis of stage 0 through IIC melanoma or a history of melanoma of any stage, without signs or symptoms suggesting systemic spread, seen for an office visit during the one-year measurement period, for whom no diagnostic imaging studies were ordered.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure is to be reported &lt;span style=&quot;text-decoration: underline;&quot;&gt;once per performance period&lt;/span&gt; for patients with a current diagnosis of stage 0 through IIC melanoma or a history of melanoma who are seen for an office visit during the performance period. This measure is intended to reflect the quality of services provided for the primary management of patients with melanoma who have an office visit during the performance period. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;There are two reporting criteria for this measure:&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients with a diagnosis of stage 0 through IIC melanoma without signs or symptoms suggesting systemic spread&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;OR&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with a history of any stage melanoma without signs or symptoms suggesting systemic spread &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p&gt;Although this measure contains two reporting criteria, there is &lt;strong&gt;only&lt;/strong&gt; one reporting rate and one performance rate for this measure. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;There is no valid indication for expensive imaging studies in early stage melanoma in the absence of signs or symptoms. There is a perception that radiologic studies are being administered for grade 0 and grade I melanoma that are clinically unnecessary and create economic burden to the patient and payer. While diagnostic imaging is also inappropriate for patients with higher stages of melanoma as well, this measure is a first step in addressing the over-utilization of diagnostic imaging studies in patients with melanoma.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnostic imaging is the fastest growing medical expenditure in the United States with an annual 9% growth rate &amp;ndash; more than twice that of general medical expenditures. Studies have found overuse of diagnostic imaging and duplication of other types of scans add little or no value. Unnecessary or inappropriate tests not only incur excess expenditures, but may also expose patients to extra risk. For example, the radiation exposure of a computed tomography (CT) scan can be several hundred times that of a chest x-ray. The advances in cardiac imaging have resulted in the inappropriate application of these imaging modalities resulting in substantial, unexplained regional variability and increased attendant costs.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Clinical Recommendation Statements&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In asymptomatic patients with localized cutaneous melanoma of any thickness, baseline blood tests and imaging studies are generally not recommended and should only be performed as clinically indicated for suspicious signs and symptoms (Bichakjian et al., 2011). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Routine cross-sectional imaging (CT, positron emission tomography [PET], magnetic resonance imaging [MRI]) is not recommended for patient with localized melanoma. For patients with stage IA melanoma, this is consistent with the National Institutes of Health guideline. For patients with stage IB to IIC, this recommendation is based on the very low yield of detection of subclinical disease. In patients with stage IIB to IIC, chest x-ray is optional. In any patient with localized melanoma, cross-sectional imaging should only be used to investigate specific signs or symptoms (National Comprehensive Cancer Network [NCCN], 2011). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Dermatology. Melanoma: overutilization of imaging studies in melanoma. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bichakjian CK, Halpern AC, Johnson TM, Foote Hood A, Grichnik JM, Swetter SM, Tsao H, Barbosa VH, Chuang TY, Duvic M, Ho VC, Sober AJ, Beutner KR, Bhushan R, Smith Begolka W, American Academy of Dermatology. Guidelines of care for the management of primary cutaneous melanoma. J Am Acad Dermatol. 2011 Nov;65(5):1032-47. [143 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21868127&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Comprehensive Cancer Network (NCCN). NCCN clinical practice guidelines in oncology: melanoma. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2011 Apr 1. 51 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Melanoma (stage 0 through IIC); diagnostic imaging studies; chest x-ray; computed tomography (CT) scan; ultrasound; magnetic resonance imaging (MRI); positron emission tomography (PET); nuclear medicine scans&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age, with a current diagnosis of stage 0 through IIC melanoma or a history of melanoma of any stage, without signs or symptoms suggesting systemic spread, seen for an office visit during the one-year measurement period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Patients for whom no diagnostic imaging studies were ordered (see the related &quot;Numerator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) in collaboration with the American Academy of Dermatology conducted a testing project to ensure that the melanoma measures were feasible to implement, valid and reliable. Overall, the measures were found to be valid and reliable.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Face Validity Testing&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Face validity of the measure score was assessed for three of the four melanoma measures. The American Academy of Dermatology Quality Metrics Committee members were asked to empirically assess face validity of these measures via online survey. The expert panel consisted of 13 members, whose specialties include oncology, melanoma, dermatology, and surgical oncology. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;After the measure was fully specified, the expert panel was asked to rate their agreement with the following statement: &quot;The scores obtained from the measure, as specified, will provide an accurate reflection of quality and can be used to distinguish good and poor quality.&quot;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Face Validity Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;table border=&quot;1&quot; summary=&quot;Face Validity Results&quot;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Measure Number and Title&lt;/th&gt;&#xD;&#xA;            &lt;th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;N&lt;/th&gt;&#xD;&#xA;            &lt;th width=&quot;15%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Mean Rating&lt;/th&gt;&#xD;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;&gt;Percentage in Top Two Categories (4 and 5)&lt;/th&gt;&#xD;&#xA;            &lt;th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;5&quot;&gt;Frequency Distribution of Ratings*&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;2&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;3&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;4&lt;/th&gt;&#xD;&#xA;            &lt;th class=&quot;Center&quot; valign=&quot;top&quot;&gt;5&lt;/th&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;#2 Melanoma Continuity of Care - Recall System&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;10&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4.60&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;100.0%&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;6&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;#3 Melanoma Coordination of Care&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;10&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4.50&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;100.0%&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;5&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;5&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;            &lt;td valign=&quot;top&quot;&gt;#4 Overutilization of Imaging Studies in Melanoma&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;10&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;4.70&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;90.0%&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;0&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;1&lt;/td&gt;&#xD;&#xA;            &lt;td class=&quot;Center&quot; valign=&quot;top&quot;&gt;8&lt;/td&gt;&#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Scale from 1-5, where 1 (Strongly Disagree); 3 (Neither Agree nor Disagree); 5 (Strongly Agree)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing &lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Inter-rater reliability testing (i.e., manual review of the patient medical record by two trained clinical abstractors and comparison of their individual findings) was conducted at three dermatology practice sites on three of the four melanoma measures (i.e., measures 2, 3 and 4). These sites represent various types, locations, and sizes. Kappa statistics were calculated at the data element level for the denominator, numerator and exceptions categories. Data element reliability was established based on the results of this analysis. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Reliability Testing Results&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The PCPI measure testing project revealed that the data elements for measure 2 demonstrated moderate to almost perfect reliability, the data elements for measure 3 demonstrated fair to almost perfect reliability and the data elements for measure 4 demonstrated moderate to almost perfect reliability in the numerator category. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Dermatology, American Medical Association (AMA)-convened Physician Consortium for Performance Improvement®, National Committee for Quality Assurance. Melanoma II physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2012 Nov. 28 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Ambulatory/Office-based Care" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Individual Clinicians or Public Health Professionals" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients, regardless of age&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The one-year measurement period&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Encounter" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Reporting Criteria 1&lt;/em&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients, regardless of age, with a current diagnosis of stage 0 through IIC melanoma, without signs or symptoms suggesting systemic spread, seen for an office visit during the one-year measurement period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases) Reporting Criteria 1&lt;/em&gt;: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for melanoma (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during the performance period (refer to the original measure documentation for Current Procedural Terminology [CPT] codes) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;WITHOUT&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Telehealth Modifier (refer to the original measure documentation for Telehealth Modifiers) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;AJCC Melanoma Cancer Stage 0 through IIC Melanoma (refer to the original measure documentation for Healthcare Common Procedure Coding System [HPCPS] codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Absence of signs of melanoma (cough, dyspnea, tenderness, localized neurologic signs such as weakness, jaundice, or any other sign suggesting systemic spread) or absence of symptoms of melanoma (pain, paresthesia, or any other symptom suggesting the possibility of systemic spread of melanoma) (refer to the original measure documentation for HPCPS codes)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Reporting Criteria 2&lt;/em&gt;&lt;/span&gt;:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All patients, regardless of age, with a history of melanoma of any stage, without signs or symptoms suggesting systemic spread, seen for an office visit during the one-year measurement period&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Denominator Criteria (Eligible Cases) Reporting Criteria 2&lt;/em&gt;: &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Diagnosis for history of melanoma (refer to the original measure documentation for ICD-10-CM codes) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Patient encounter during the performance period (refer to the original measure documentation for CPT codes) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;WITHOUT&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Telehealth Modifier (refer to the original measure documentation for Telehealth Modifiers) &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;AND&lt;/strong&gt; &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Absence of signs of melanoma (cough, dyspnea, tenderness, localized neurologic signs such as weakness, jaundice, or any other sign suggesting systemic spread) or absence of symptoms of melanoma (pain, paresthesia, or any other symptom suggesting the possibility of systemic spread of melanoma) (refer to the original measure documentation for HPCPS codes)&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;:&lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Signs&lt;/em&gt;: For the purposes of this measure, signs include tenderness, jaundice, localized neurologic signs such as weakness, or any other sign. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Symptoms&lt;/em&gt;: For the purposes of this measure, symptoms include cough, dyspnea, pain, paresthesia, or any other symptom. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exceptions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Documentation of medical reason(s) for ordering diagnostic imaging studies (e.g., patient has comorbid condition that warrants imaging, other medical reasons)&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;OR&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Documentation of system reason(s) for ordering diagnostic imaging studies (e.g., requirement for clinical trial enrollment, ordered by another provider, other system reasons) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Patients for whom no diagnostic imaging studies were ordered&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;/p&gt;&#xD;&#xA;&lt;ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;&lt;em&gt;Diagnostic Imaging Studies&lt;/em&gt;: Chest x-ray (CXR), computed tomography (CT), ultrasound, magnetic resonance imaging (MRI), positron emission tomography (PET), and nuclear medicine scans. Ordering any of these imaging studies during the one year measurement period is considered a failure of the measure, unless a justified reason is documented through use of a medical or system reason for exception. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Refer to the original measure documentation for administrative codes. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Fixed time period or point in time" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Registry data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;2017 Registry Individual Measure Flow: #224 NQF #0562: Melanoma: Overutilization of Imaging Studies in Melanoma &amp;ndash; Reporting Criteria One &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;2017 Registry Individual Measure Flow: #224 NQF #0562: Melanoma: Overutilization of Imaging Studies in Melanoma &amp;ndash; Reporting Criteria Two &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Measure #224: melanoma: overutilization of imaging studies in melanoma.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Melanoma Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="American Academy of Dermatology - Medical Specialty Society" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="American Academy of Dermatology - Medical Specialty Society" />
+      <FieldValue Value="National Committee for Quality Assurance - Health Care Accreditation Organization" />
+      <FieldValue Value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;em&gt;Melanoma Work Group&lt;/em&gt;: Dirk Elston, MD (&lt;em&gt;Co-Chair&lt;/em&gt;; dermatology); Raj Behal, MD, MPH (&lt;em&gt;Co-Chair&lt;/em&gt;; methodology); Steven D. Bines, MD (general surgery); Peter Dandalides, MD (health plan); Evan R. Farmer, MD (dermatology); Rutledge Fourney, MD (dermatology); Andrea Gelzer, MD, MS, FACP (health plan); Robert T. Gilson, MD (dermatology); Stephen E. Helms, MD (dermatology); Abrar Qureshi, MD (dermatology); Todd Schlessinger, MD (dermatology); John Schneider, MD, PhD (family medicine); Arthur Joel Sober, MD (dermatology); Steven W. Strode, MD, MEd, MPH (family medicine); Janet (Jessie) Sullivan, MD (dermatology); William Wooden, MD (plastic surgery)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Academy of Dermatology&lt;/em&gt;: Sandra Peters, MHA; Alison Shippy, MPH; Carol Sieck, RN, MSN &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;American Medical Association&lt;/em&gt;: Mark Antman, DDS, MBA; Kendra Hanley, MS; Diedra Gray, MPH; Karen S. Kmetik, PhD; Kimberly Smuk, RHIA &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;National Committee for Quality Assurance&lt;/em&gt;: Benjamin N. Hamlin, MPH; Phil Renner, MBA&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Centers for Medicare &amp;amp; Medicaid Services&lt;/em&gt;: Susan Nedza, MD, MBA, FACEP; Sylvia Publ, MBA, RHIA &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Facilitators&lt;/em&gt;: Timothy F. Kresowik, MD; Rebecca A. Kresowik&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;#174; conflict of interest policy.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Physician Quality Reporting System" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Nov" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: American Academy of Dermatology, American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Melanoma II physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2012 Nov. 28 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.aad.org/practicecenter/quality/quality-measures/2017-measures#undefined&quot; title=&quot;American Academy of Dermatology (AAD) Web site&quot;&gt;American Academy of Dermatology (AAD) Web site&lt;/a&gt;. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact the AAD at 930 E. Woodfield Road Schaumburg, IL 60173; Phone: 847-240-3376; Fax: 847-240-1859; Web site: &lt;a href=&quot;https://www.aad.org/&quot; title=&quot;AAD Web site&quot;&gt;www.aad.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on October 2, 2007. The information was verified by the measure developer on November 21, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited by ECRI Institute on September 1, 2009. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 7, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was edited again by ECRI Institute on April 27, 2012. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on September 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Stewardship for this measure was transferred from the PCPI to the American Academy of Dermatology. The American Academy of Dermatology informed NQMC that this measure was updated. This NQMC summary was updated again by ECRI Institute on April 28, 2017. The information was not verified by the measure developer.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Measure, while copyrighted, can be reproduced and distributed, without modification, &lt;strong&gt;for noncommercial purposes&lt;/strong&gt;, e.g., use by health care providers in connection with their practices. Commercial use is defined as the sale, license, or distribution of the Measure for commercial gain, or incorporation of the Measure into a product or service that is sold, licensed or distributed for commercial gain.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Commercial uses of the Measure require a license agreement between the user and the American Medical Association (AMA), [on behalf of the Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;reg;)] or American Academy of Dermatology (AAD). Neither the AMA, AAD, PCPI, nor its members shall be responsible for any use of the Measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The AMA's, PCPI's and National Committee for Quality Assurance's significant past efforts and contributions to the development and updating of the Measure is acknowledged. AAD is solely responsible for the review and enhancement (&quot;Maintenance&quot;) of the Measures as of June 30, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;AAD encourages use of the Measure by other health care professionals, where appropriate. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The Measure and Specifications are provided &quot;as is&quot; without warranty of any kind&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Academy of Dermatology. Melanoma: overutilization of imaging studies in melanoma. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 11 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

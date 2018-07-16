@@ -1,0 +1,244 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Stroke: percentage of ischemic stroke patients who develop a symptomatic intracranial hemorrhage within (less than or equal to) 36 hours after the onset of treatment with IV or IA thrombolytic (t-PA) therapy, or mechanical endovascular reperfusion procedure.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of ischemic stroke patients who develop a symptomatic intracranial hemorrhage (i.e., clinical deterioration greater than or equal to 4 point increase on National Institutes of Health Stroke Scale [NIHSS] and brain image finding of parenchymal hematoma, or subarachnoid hemorrhage, or intraventricular hemorrhage) within (less than or equal to) 36 hours after the onset of treatment with intravenous (IV) or intra-arterial (IA) thrombolytic (t-PA) therapy, or mechanical endovascular reperfusion procedure (i.e., mechanical endovascular thrombectomy with a clot retrieval device).&lt;/p&gt;&#xA;&lt;p&gt;This measure represents the overall rate. The following rates are also reported:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Hemorrhagic transformation for patients treated with intra-venous (IV) thrombolytic (t-PA) therapy only &lt;/li&gt;&#xA;    &lt;li&gt;Hemorrhagic transformation for patients treated with intra-arterial (IA) thrombolytic (t-PA) therapy or mechanical endovascular reperfusion therapy &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Intravenous (IV) thrombolytic (t-PA) therapy for acute ischemic stroke was approved by the U.S. Food and Drug Administration in 1996, following findings from the National Institute of Neurological Disorders and Stroke (NINDS) trial which demonstrated favorable outcomes in 31% to 50% of patients treated with recombinant tissue plasminogen activator (r-tPA), as compared to 20% to 38% of patients treated with placebo. Intra-arterial (IA) t-PA therapy has since been used to improve recanalization and clinical outcomes for select patients nonresponsive to IV therapy. Intracranial hemorrhage is the major risk of t-PA therapy with similar rates reported for both IV and IA routes. The NINDS trial found that 6.4% of patients treated with IV t-PA experienced symptomatic bleeding. Findings from the Prolyse in Acute Cerebral Thromboembolism (PROACT II) study found the intracranial hemorrhage with neurological deterioration within 24 hours occurred in 10% of patients treated with IA recombinant prourokinase. In addition to these agents, other available thrombolytic drugs include: streptokinase, p-anisoylated lys-plasminogen-streptokinase activator, and urokinase.&lt;/p&gt;&#xA;&lt;p&gt;Endovascular reperfusion therapy in acute ischemic stroke comprises a number of pharmacological and mechanical procedures. Mechanical endovascular thrombectomy is a treatment option for patients with large vessel occlusions in whom pharmacological thrombolysis is contraindicated or might be ineffective. A number of mechanical endovascular thrombectomy devices, also known as clot retrieval devices, are currently undergoing clinical evaluation. Mechanical endovascular thrombectomy devices are intended to improve tissue rescue and diminish reperfusion hemorrhage while broadening the population eligible for therapy. These devices may be used alone or in conjunction with chemical thrombolysis (i.e., IV or IA t-PA).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Adams HP Jr, Brott TG, Furlan AJ, Gomez CR, Grotta J, Helgason CM, Kwiatkowski T, Lyden PD, Marler JR, Torner J, Feinberg W, Mayberg M, Thies W. Guidelines for thrombolytic therapy for acute stroke: a supplement to the guidelines for the management of patients with acute ischemic stroke. A statement for healthcare professionals from a Special Writing Group of the Stroke Council. Circulation. 1996 Sep 1;94(5):1167-74. [102 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8790069&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Adams HP, del Zoppo G, Alberts MJ, Bhatt DL, Brass L, Furlan A, Grubb RL, Higashida RT, Jauch EC, Kidwell C, Lyden PD, Morgenstern LB, Qureshi AI, Rosenwasser RH, Scott PA, Wijdicks EF, American Heart Association, American Stroke Association Stroke Council, Clinical Cardiology Council, Cardiovascular Radiology and Intervention Council, Atherosclerotic Peripheral Vascular Disease and Quality of Care Outcomes in Research Interd[TRUNC]. Guidelines for the early management of adults with ischemic stroke: a guideline from the American Heart Association/American Stroke Association Stroke Council, Clinical Cardiology Council, Cardiovascular Radiology and Intervention Council, and the Atherosclerotic Peripheral Vascular Disease and Quality of Care Outcomes in Research Interdisciplinary Working Groups: the American Academy of Neurology affirms the value of this guideline as an educational tool for neurologists. Stroke. 2007 May;38(5):1655-711. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17431204&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Broderick JP, Palesch YY, Demchuk AM, Yeatts SD, Khatri P, Hill MD, Jauch EC, Jovin TG, Yan B, Silver FL, von Kummer R, Molina CA, Demaerschalk BM, Budzik R, Clark WM, Zaidat OO, Malisch TW, Goyal M, Schonewille WJ, Mazighi M, Engelter ST, Anderson C, Spilker J, Carrozzella J, Ryckborst KJ, Janis LS, Martin RH, Foster LD, Tomsick TA, Interventional Management of Stroke (IMS) III Investigators. Endovascular therapy after intravenous t-PA versus t-PA alone for stroke. N Engl J Med. 2013 Mar 7;368(10):893-903. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23390923&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ciccone A, Valvassori L, Nichelatti M, Sgoifo A, Ponzio M, Sterzi R, Boccardi E, SYNTHESIS Expansion Investigators. Endovascular treatment for acute ischemic stroke. N Engl J Med. 2013 Mar 7;368(10):904-13. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23387822&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;del Zoppo GJ, Higashida RT, Furlan AJ, Pessin MS, Gent M, Driscoll RM, PROACT Investigators. The Prolyse in Acute Cerebral Thromboembolism Trial (PROACT): results of 6 mg dose tier. Stroke. 1996;27:164.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;del Zoppo GJ, Higashida RT, Furlan AJ. The case for a phase III trial of cerebral intraarterial fibrinolysis. AJNR Am J Neuroradiol. 1994;15:1217-22.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Donnan GA, Davis SM, Chambers BR, Gates PC, Hankey GJ, McNeil JJ, Rosen D, Stewart-Wynne EG, Tuck RR. Trials of streptokinase in severe acute ischaemic stroke. Lancet. 1995 Mar 4;345(8949):578-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7776784&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fibrinolytic Therapy Trialists' (FFT) Collaborative Group. Indications for fibrinolytic therapy in suspected acute myocardial infarction: collaborative overview of early mortality and major morbidity results from all randomised trials of more than 1000 patients. Lancet. 1994 Feb 5;343(8893):311-22. [58 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7905143&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Hacke W, Kaste M, Fieschi C, Toni D, Lesaffre E, von Kummer R, Boysen G, Bluhmki E, Hoxter G, Mahagne MH, et al. Intravenous thrombolysis with recombinant tissue plasminogen activator for acute  hemispheric stroke. The European Cooperative Acute Stroke Study (ECASS). JAMA. 1995 Oct 4;274(13):1017-25. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7563451&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jauch EC, Saver JL, Adams HP, Bruno A, Connors JJ, Demaerschalk BM, Khatri P, McMullan PW, Qureshi AI, Rosenfield K, Scott PA, Summers DR, Wang DZ, Wintermark M, Yonas H, American Heart Association Stroke Council, Council on Cardiovascular Nursing, Council on Peripheral Vascular Disease, Council on Clinical Cardiology. Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2013 Mar;44(3):870-947. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23370205&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kidwell CS, Jahan R, Gornbein J, Alger JR, Nenov V, Ajani Z, Feng L, Meyer BC, Olson S, Schwamm LH, Yoo AJ, Marshall RS, Meyers PM, Yavagal DR, Wintermark M, Guzy J, Starkman S, Saver JL, MR RESCUE Investigators. A trial of imaging selection and endovascular treatment for ischemic stroke. N Engl J Med. 2013 Mar 7;368(10):914-23. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23394476&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Koh JS, Lee SJ, Ryu CW, Kim HS. Safety and efficacy of mechanical thrombectomy with solitaire stent retrieval for acute ischemic stroke: a systematic review. Neurointervention. 2012 Feb;7(1):1-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22454778&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Leifer D, Bravata DM, Connors JJ, Hinchey JA, Jauch EC, Johnston SC, Latchaw R, Likosky W, Ogilvy C, Qureshi AI, Summers D, Sung GY, Williams LS, Zorowitz R, American Heart Association Special Writing Group of the Stroke Council, Atherosclerotic Peripheral Vascular Disease Working Group, Council on Cardiovascular Surgery and Anesthesia, Council on Cardiovascular Nursing. Metrics for measuring quality of care in comprehensive stroke centers: detailed follow-up to Brain Attack Coalition comprehensive stroke center recommendations: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2011 Mar;42(3):849-77. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21233469&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Levy DE, Brott TG, Haley EC, Marler JR, Sheppard GL, Barsan W, Broderick JP. Factors related to intracranial hematoma formation in patients receiving tissue-type plasminogen activator for acute ischemic stroke. Stroke. 1994 Feb;25(2):291-7.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Marder VJ, Sherry S. Thrombolytic therapy: current status (1). N Engl J Med. 1988 Jun 9;318(23):1512-20. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3285216&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Menon BK, Saver JL, Prabhakaran S, Reeves M, Liang L, Olson DM, Peterson ED, Hernandez AF, Fonarow GC, Schwamm LH, Smith EE. Risk score for intracranial hemorrhage in patients with acute ischemic stroke treated with intravenous tissue-type plasminogen activator. Stroke. 2012 Sep;43(9):2293-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22811458&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Nogueira RG, Lutsep HL, Gupta R, Jovin TG, Albers GW, Walker GA, Liebeskind DS, Smith WS, TREVO 2 Trialists. Trevo versus Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke (TREVO 2): a randomised trial. Lancet. 2012 Oct 6;380(9849):1231-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22932714&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Randomised controlled trial of streptokinase, aspirin, and combination of both in treatment of acute ischaemic stroke. Multicentre Acute Stroke Trial--Italy (MAST-I) Group. Lancet. 1995 Dec 9;346(8989):1509-14. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7491044&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rubiera M, Ribo M, Pagola J, Coscojuela P, Rodriguez-Luna D, Maisterra O, Ibarra B, Piñeiro S, Meler P, Romero FJ, Alvarez-Sabin J, Molina CA. Bridging intravenous-intra-arterial rescue strategy increases recanalization and the likelihood of a good outcome in nonresponder intravenous tissue plasminogen activator-treated patients: a case-control study. Stroke. 2011 Apr;42(4):993-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21372307&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saver JL, Jahan R, Levy EI, Jovin TG, Baxter B, Nogueira RG, Clark W, Budzik R, Zaidat OO, SWIFT Trialists. Solitaire flow restoration device versus the Merci Retriever in patients with acute ischaemic stroke (SWIFT): a randomised, parallel-group, non-inferiority trial. Lancet. 2012 Oct 6;380(9849):1241-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22932715&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sims JR, Gharai LR, Schaefer PW, Vangel M, Rosenthal ES, Lev MH, Schwamm LH. ABC/2 for rapid clinical estimate of infarct, perfusion, and mismatch volumes. Neurology. 2009 Jun 16;72(24):2104-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19528517&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Sloan MA, Price TR, Petito CK, Randall AM, Solomon RE, Terrin ML, Gore J, Collen D, Kleiman N, Feit F, et al. Clinical features and pathogenesis of intracerebral hemorrhage after rt-PA and heparin therapy for acute myocardial infarction: the Thrombolysis in Myocardial Infarction (TIMI) II Pilot and Randomized Clinical Trial combined experience. Neurology. 1995 Apr;45(4):649-58. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7723950&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Smith WS, Sung G, Saver J, Budzik R, Duckwiler G, Liebeskind DS, Lutsep HL, Rymer MM, Higashida RT, Starkman S, Gobin YP, Multi MERCI Investigators, Frei D, Grobelny T, Hellinger F, Huddle D, Kidwell C, Koroshetz W, Marks M, Nesbit G, Silverman IE. Mechanical thrombectomy for acute ischemic stroke: final results of the Multi MERCI trial. Stroke. 2008 Apr;39(4):1205-12. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18309168&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tissue plasminogen activator for acute ischemic stroke. The National Institute of Neurological Disorders and Stroke rt-PA Stroke Study Group. N Engl J Med. 1995 Dec 14;333(24):1581-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7477192&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ischemic stroke; intracranial hemorrhage; intra-venous (IV) thrombolytic (t-PA) therapy; intra-arterial (IA) t-PA therapy; mechanical endovascular reperfusion therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ischemic stroke patients treated with intravenous (IV) thrombolytic (t-PA) therapy only (IVO) or intra-arterial (IA) t-PA therapy, or who undergo mechanical endovascular reperfusion therapy (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Ischemic stroke patients who develop a symptomatic intracranial hemorrhage less than or equal to 36 hours after the onset of treatment with intravenous (IV) thrombolytic (t-PA) therapy, or intra-arterial (IA) t-PA therapy, or mechanical endovascular reperfusion therapy&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="A systematic review of the clinical research literature (e.g., Cochrane Review)" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Age greater than or equal to 18 years&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Patient/Individual (Consumer) Characteristic" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Discharges with International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) Principal Diagnosis Code for ischemic stroke as defined in the appendices of the original measure documentation&#xD;&#xA;    &lt;p class=&quot;Indent&quot;&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with documented thrombolytic (intravenous [IV] or intra-arterial [IA] thrombolytic [t-PA]) therapy (ICD-9-CM Principal or Other Procedure Codes as defined in the appendices of the original measure documentation)&#xD;&#xA;    &lt;p class=&quot;Indent&quot;&gt;&lt;strong&gt;OR&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with documented mechanical endovascular reperfusion therapy (ICD-9 CM Principal or Other Procedure Codes as defined in the appendices of the original measure documentation) &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients less than 18 years of age &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who have a Length of Stay greater than 120 days &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients admitted for &lt;em&gt;Elective Carotid Intervention&lt;/em&gt; (as defined in the Data Elements) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients transferred to the hospital following treatment with IV t-PA therapy or IA t-PA therapy or mechanical endovascular reperfusion therapy initiated prior to arrival at the hospital &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients who hemorrhage prior to the onset of treatment with IV t-PA therapy or IA t-PA therapy or mechanical endovascular reperfusion therapy &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Ischemic stroke patients who develop a symptomatic intracranial hemorrhage less than or equal to 36 hours after the onset of treatment with intravenous (IV) thrombolytic (t-PA) therapy, or intra-arterial (IA) t-PA therapy, or mechanical endovascular reperfusion therapy&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Adverse Health State" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;The National Institutes of Health Stroke Scale (NIHSS) &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Comprehensive Stroke (CSTK) Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;CSTK-05: Hemorrhagic Transformation (Overall Rate) Flowchart &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The CSTK-05 measure is reported as an overall rate which includes ischemic stroke patients who develop a symptomatic hemorrhage after reperfusion therapy. &lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;&lt;strong&gt;CSTK-05a&lt;/strong&gt;: Ischemic stroke patients who develop a symptomatic intracranial hemorrhage less than or equal to 36 hours after the onset of treatment with IV thrombolytic (t-PA) therapy only (IVO). &lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;CSTK-05b&lt;/strong&gt;: Ischemic stroke patients who develop a symptomatic intracranial hemorrhage less than or equal to 36 hours after the onset of treatment with IA thrombolytic (t-PA) therapy or mechanical endovascular reperfusion therapy. &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;CSTK-05a and CSTK-05b are subsets of the overall rate, and stratified by the type of therapy.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Reported As&lt;/strong&gt;: Aggregate rate generated from count data reported as a proportion. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3069" OrdBy="550" ID="611" Name="Description of Allowance for Patient or Population Factors" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Risk adjustment for this measure is applied to the following data elements:&lt;/p&gt;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xA;    &lt;li&gt;Admission Date &lt;/li&gt;&#xA;    &lt;li&gt;Birthdate &lt;/li&gt;&#xA;    &lt;li&gt;Hispanic Ethnicity &lt;/li&gt;&#xA;    &lt;li&gt;International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) Other Diagnosis Codes &lt;/li&gt;&#xA;    &lt;li&gt;Intravenous (IV) Thrombolytic Therapy Prior to Intra-arterial (IA) or Mechanical Reperfusion Therapy &lt;/li&gt;&#xA;    &lt;li&gt;Initial Blood Glucose Value at Hospital Arrival &lt;/li&gt;&#xA;    &lt;li&gt;Initial Blood Pressure at Hospital Arrival &lt;/li&gt;&#xA;    &lt;li&gt;Initial National Institutes of Health Stroke Scale (NIHSS) Score at Hospital Arrival &lt;/li&gt;&#xA;    &lt;li&gt;Initial Platelet Count at Hospital Arrival &lt;/li&gt;&#xA;    &lt;li&gt;Race &lt;/li&gt;&#xA;    &lt;li&gt;Sex &lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;CSTK-05: hemorrhagic transformation (overall rate).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Advanced Certification in Disease-specific Care Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Comprehensive Stroke Standardized Performance Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's corporate sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with The Joint Commission's conflict of interest policies, copies of which are available upon written request The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Mar" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is reviewed and updated by the developing organization every 6 months.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jul&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The measure developer reaffirmed the currency of this measure in April 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://www.jointcommission.org/assets/1/6/CSTK_Manual_Mar2015.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org/default.aspx&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by ECRI Institute on May 19, 2015. The information was verified by the measure developer on June 22, 2015. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;The information was reaffirmed by the measure developer on April 6, 2016. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;The Joint Commission. Disease-specific care certification program. Comprehensive stroke: performance measurement implementation guide. Oakbrook Terrace (IL): The Joint Commission; 2015 Mar. 278 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

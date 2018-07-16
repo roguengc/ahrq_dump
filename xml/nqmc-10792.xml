@@ -1,0 +1,257 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Hospital-based inpatient psychiatric services: the percentage of patients discharged from a hospital-based inpatient psychiatric setting on two or more antipsychotic medications with appropriate justification.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Process" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percentage of patients discharged from a hospital-based inpatient psychiatric setting on two or more antipsychotic medications with appropriate justification.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure represents the overall rate. The following rates are also reported:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children age 1 through 12 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adolescent age 13 through 17 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adult age 18 through 64 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Older adult age greater than or equal to 65 years &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Research studies have found that 4% to 35% of outpatients and 30% to 50% of inpatients treated with an antipsychotic medication concurrently received 2 or more antipsychotics (Covell et al., 2002; Ganguly et al., 2004; Gilmer et al., 2007; Kreyenbuhl et al., 2006; Stahl &amp;amp; Grady, 2004). One study reported 4.6% of patients concurrently received 3 or more antipsychotics (Jaffe &amp;amp; Levine, 2003). These findings are seen across diverse sectors: state mental health authorities, the Veterans Health System and Medicaid-financed care. Antipsychotic polypharmacy can lead to greater side effects, often without improving clinical outcomes (Ananth, Parameswaran, &amp;amp; Gunatilake, 2004; Stahl &amp;amp; Grady, 2004). As a result, a range of stakeholders have called for efforts to reduce unnecessary use of multiple antipsychotics (Centorrino et al., 2004; Gilmer et al., 2007; National Association of State Mental Health Program Directors [NASMHPD], 2001; University Healthsystem Consortium, 2006). Practice guidelines recommend the use of a second antipsychotic only after multiple trials of a single antipsychotic have proven inadequate (Lehman et al., 2004). Randomized controlled trials (RCTs) provide some evidence to support augmentation with a second antipsychotic in &lt;em&gt;treatment resistant&lt;/em&gt; patients. Most of these studies were limited to augmentation of clozapine with another second-generation antipsychotic (Tranulis et al., 2008). Among patients &lt;em&gt;without&lt;/em&gt; a documented history of previous treatment failures of antipsychotic monotherapy, multiple RCTs and other controlled trials failed to show a benefit of antipsychotic polypharmacy over monotherapy (Ananth, Parameswaran, &amp;amp; Gunatilake, 2004; Centorrino et al., 2004; Potkin et al., 2002; Shim et al., 2007; Stahl &amp;amp; Grady, 2004). Clinical circumstances, such as shorter inpatient stays, may require hospitals to discharge a patient on multiple antipsychotics with an aftercare plan to transition to monotherapy. In such cases, effective communication between the inpatient and aftercare clinician is an essential element of care.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ananth J, Parameswaran S, Gunatilake S. Antipsychotic polypharmacy comparing monotherapy with polypharmacy and augmentation. Curr Med Chem. 2004;11(3):313-327.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ananth J, Parameswaran S, Gunatilake S. Antipsychotic polypharmacy comparing monotherapy with polypharmacy and augmentation. Curr Pharm Des. 2004;10(18):2231-38.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centorrino F, Goren JL, Hennen J, Salvatore P, Kelleher JP, Baldessarini RJ. Multiple versus single antipsychotic agents for hospitalized psychiatric patients: case-control study of risks versus benefits. Am J Psychiatry. 2004 Apr;161(4):700-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15056517&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Covell NH, Jackson CT, Evans AC, Essock SM. Antipsychotic prescribing practices in Connecticut's public mental health system: rates of changing medications and prescribing styles. Schizophr Bull. 2002;28(1):17-29. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12047017&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ganguly R, Kotzan JA, Miller LS, Kennedy K, Martin BC. Prevalence, trends, and factors associated with antipsychotic polypharmacy among  Medicaid-eligible schizophrenia patients, 1998-2000. J Clin Psychiatry. 2004 Oct;65(10):1377-88. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15491242&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Gilmer TP, Dolder CR, Folsom DP, Mastin W, Jeste DV. Antipsychotic polypharmacy trends among Medicaid beneficiaries with schizophrenia in San Diego County, 1999-2004. Psychiatr Serv. 2007 Jul;58(7):1007-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17602020&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Jaffe AB, Levine J. Antipsychotic medication coprescribing in a large state hospital system. Pharmacoepidemiol Drug Saf. 2003 Jan-Feb;12(1):41-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12616846&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kreyenbuhl J, Valenstein M, McCarthy JF, Ganoczy D, Blow FC. Long-term combination antipsychotic treatment in VA patients with schizophrenia. Schizophr Res. 2006 May;84(1):90-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16631354&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lehman AF, Lieberman JA, Dixon LB, McGlashan TH, Miller AL, Perkins DO, Kreyenbuhl J, American Psychiatric Association, Steering Committee on Practice Guidelines. Practice guideline for the treatment of patients with schizophrenia, second edition. Am J Psychiatry. 2004 Feb;161(2 Suppl):1-56. [642 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15000267&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Association of State Mental Health Program Directors (NASMHPD). Technical report on psychiatric polypharmacy. Alexandria (VA): NASMHPD; 2001. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Potkin SG, Thyrum PT, Alva G, Bera R, Yeh C, Arvanitis LA. The safety and pharmacokinetics of quetiapine when coadministered with haloperidol, risperidone, or thioridazine. J Clin Psychopharmacol. 2002 Apr;22(2):121-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11910256&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shim JC, Shin JG, Kelly DL, Jung DU, Seo YS, Liu KH, Shon JH, Conley RR. Adjunctive treatment with a dopamine partial agonist, aripiprazole, for antipsychotic-induced hyperprolactinemia: a placebo-controlled trial. Am J Psychiatry. 2007 Sep;164(9):1404-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17728426&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stahl SM, Grady MM. A critical review of atypical antipsychotic utilization: comparing monotherapy with polypharmacy and augmentation. Curr Med Chem. 2004 Feb;11(3):313-27. [173 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14965234&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tranulis C, Skalli L, Lalonde P, Nicole L, Stip E. Benefits and risks of antipsychotic polypharmacy: an evidence-based review of the literature. Drug Saf. 2008;31(1):7-20. [79 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18095743&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;University Healthsystem Consortium. Mental health performance measures field brief. Oakbrook (IL): University Healthsystem Consortium; 2006. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatient; antipsychotic medications; appropriate justification&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatient discharges (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Psychiatric inpatients who are discharged on two or more routinely scheduled antipsychotic medications with appropriate justification&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The practice of prescribing more than one antipsychotic medication is a major contributor to high-dose prescribing which increases the potential of adverse side effects. This practice is also of limited value in helping to establish the optimum medication maintenance regime for the patient. Practice guidelines recommend the use of a second antipsychotic only after multiple trials of a single antipsychotic have proven inadequate. The following are evidence-based justifications for prescribing more than one antipsychotic medication. One pharmacological justification for combining antipsychotic medications is to achieve greater therapeutic potential by optimizing dopamine D2 receptors; however, there are few sources of evidence to support this. Randomized controlled trials (RCTs) provide some evidence to support augmentation with a second antipsychotic in treatment resistant patients. Most of these studies were limited to augmentation of clozapine with another second-generation antipsychotic medication. Among patients without a documented history of previous treatment failures of antipsychotic monotherapy, multiple RCTs and other controlled trials failed to show a benefit of antipsychotic polypharmacy over monotherapy. Clinical circumstances, such as shorter inpatient stays, may require hospitals to discharge a patient on multiple antipsychotics with an aftercare plan to transition to monotherapy. Cross-tapering to monotherapy should generally be completed within 8 weeks; therefore, effective communication of the cross-tapering plan between the inpatient and aftercare clinician is an essential element of care. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ananth J, Parameswaran S, Gunatilake S. Antipsychotic polypharmacy comparing monotherapy with polypharmacy and augmentation. Curr Med Chem. 2004;11(3):313-327.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Ananth J, Parameswaran S, Gunatilake S. Antipsychotic polypharmacy comparing monotherapy with polypharmacy and augmentation. Curr Pharm Des. 2004;10(18):2231-38.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Barnes TR, Paton C. Antipsychotic polypharmacy in schizophrenia: benefits and risks. CNS Drugs. 2011 May;25(5):383-99. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21476610&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centorrino F, Goren JL, Hennen J, Salvatore P, Kelleher JP, Baldessarini RJ. Multiple versus single antipsychotic agents for hospitalized psychiatric patients: case-control study of risks versus benefits. Am J Psychiatry. 2004 Apr;161(4):700-6. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15056517&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Lehman AF, Lieberman JA, Dixon LB, McGlashan TH, Miller AL, Perkins DO, Kreyenbuhl J, American Psychiatric Association, Steering Committee on Practice Guidelines. Practice guideline for the treatment of patients with schizophrenia, second edition. Am J Psychiatry. 2004 Feb;161(2 Suppl):1-56. [642 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15000267&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Potkin SG, Thyrum PT, Alva G, Bera R, Yeh C, Arvanitis LA. The safety and pharmacokinetics of quetiapine when coadministered with haloperidol, risperidone, or thioridazine. J Clin Psychopharmacol. 2002 Apr;22(2):121-30. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11910256&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Shim JC, Shin JG, Kelly DL, Jung DU, Seo YS, Liu KH, Shon JH, Conley RR. Adjunctive treatment with a dopamine partial agonist, aripiprazole, for antipsychotic-induced hyperprolactinemia: a placebo-controlled trial. Am J Psychiatry. 2007 Sep;164(9):1404-10. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17728426&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stahl SM, Grady MM. A critical review of atypical antipsychotic utilization: comparing monotherapy with polypharmacy and augmentation. Curr Med Chem. 2004 Feb;11(3):313-27. [173 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14965234&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tandon R. Antipsychotic polypharmacy: update and guidelines for practice. [internet]. 2012&amp;nbsp;[accessed 2012 Mar 27]. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Tranulis C, Skalli L, Lalonde P, Nicole L, Stip E. Benefits and risks of antipsychotic polypharmacy: an evidence-based review of the literature. Drug Saf. 2008;31(1):7-20. [79 references] &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18095743&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Alpha testing was conducted during May and June 2006 at approximately 40 volunteer test sites to assess feasibility and data collection effort. A set of measures was recommended by the Technical Advisory Panel (TAP) to comprise the final test set addressing the domains of Assessment, Patient Safety and Continuity/Transitions of Care.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The Specification Manual for National Hospital Inpatient Quality Measures Hospital-Based Inpatient Psychiatric Services Test Set was finalized in September 2006. In late 2006 a total of 196 hospitals volunteered to participate in the Hospital-Based Inpatient Psychiatric Services (HBIPS) pilot test. Data collection for the test set began with January 1, 2007 discharges and continued throughout December 31, 2007.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;During the first quarter of the pilot test, a subset of 39 hospitals was randomly selected to collect and transmit monthly hospital clinical data (HCD) to help assess data quality and data reliability. The data quality study continued with data collection and transmission for the 12 months of 2007. Feedback on data quality was provided to each performance measurement systems vendor submitting HCD.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The final phase of testing consisted of site visits to a sample of participating pilot hospitals to assess the reliability of data abstracted and reported by those hospitals. Reliability test site visits were conducted at 18 randomly selected pilot hospitals. Selection of the test sites was based on multiple characteristics, including hospital demographics, populations served, bed size and type of facility.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;All of the HBIPS measures have undergone a rigorous process of public comment, alpha testing and broad-scale pilot testing and are recognized by the field as important indicators of hospital-based inpatient psychiatric care. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement. The Joint Commission. Oakbrook Terrace, IL). Personal communication. 2010 Nov 16. &amp;nbsp;1 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Hospital Inpatient" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All patients age one year and older&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Getting Better" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Discharges July 1 through December 31&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Clinical Condition" />
+      <FieldValue Value="Institutionalization" />
+      <FieldValue Value="Therapeutic Intervention" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Psychiatric inpatient discharges with &lt;em&gt;International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal or Other Diagnosis Codes&lt;/em&gt; for mental disorders (as defined in the appendices of the original measure documentation) who are discharged on two or more routinely scheduled antipsychotic medications*&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*Refer to the Antipsychotic Medications table in the appendices of the original measure documentation.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Patients who expired &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with an unplanned departure resulting in discharge due to elopement &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with an unplanned departure resulting in discharge due to failing to return from leave &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Patients with a Length of Stay (LOS) less than or equal to 3 days &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Psychiatric inpatients who are discharged on two or more routinely scheduled antipsychotic medications with appropriate justification&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;None&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+      <FieldValue Value="Paper medical record" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Hospital-Based Inpatient Psychiatric Services (HBIPS) Initial Patient Population Algorithm Flowchart &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;HBIPS-5: Patients Discharged on Multiple Antipsychotic Medications with Appropriate Justification Flowchart &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator" />
+    </Field>
+    <Field FieldID="3509" OrdBy="510" ID="607" Name="Basis for Disaggregation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is disaggregated according to the following age groups:&lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Children age 1 through 12 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adolescent age 13 through 17 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Adult age 18 through 64 years &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Older adult age greater than or equal to 65 years &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Data Reported As&lt;/strong&gt;: Aggregate rate generated from count data reported as a proportion.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a higher score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;HBIPS-5: Patients discharged on multiple antipsychotic medications with appropriate justification.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="National Quality Core Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Hospital-Based Inpatient Psychiatric Services" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="The Joint Commission - Health Care Accreditation Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All external funding for measure development has been received and used in full compliance with The Joint Commission's Corporate Sponsorship policies, which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The composition of the group that developed the measure is available at: &lt;a href=&quot;http://www.jointcommission.org/assets/1/6/HBIPS%20TAP%20Members.pdf&quot; title=&quot;The Joint Commission Web site&quot;&gt;http://www.jointcommission.org/assets/1/6/HBIPS%20TAP%20Members.pdf&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with the Joint Commission's Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2014 Feb 28&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Inpatient Psychiatric Facility Quality Reporting Program" />
+      <FieldValue Value="Quality Check®" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2016 Jul" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Every six months&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2017 Jan&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: Specifications manual for Joint Commission national quality core measures, version 2015B. Oakbrook Terrace (IL): The Joint Commission; Effective 2015 Oct 1. 327 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from &lt;a href=&quot;http://manual.jointcommission.org/bin/view/Manual/WebHome&quot; title=&quot;The Joint Commission Web site&quot;&gt;The Joint Commission Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, contact The Joint Commission at One Renaissance Blvd., Oakbrook Terrace, IL 60181; Phone: 630-792-5800; Fax: 630-792-5005; Web site: &lt;a href=&quot;http://www.jointcommission.org&quot; title=&quot;The Joint Commission Web site&quot;&gt;www.jointcommission.org&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This NQMC summary was completed by The Joint Commission on May 30, 2008 and reviewed accordingly by ECRI Institute on July 7, 2008.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on February 24, 2009. The information was verified by the measure developer on April 27, 2009.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on August 27, 2009 and reviewed accordingly by ECRI Institute on February 5, 2010.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on November 16, 2010 and reviewed accordingly by ECRI Institute on March 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 30, 2011.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on June 10, 2013 and reviewed accordingly by ECRI Institute on October 30, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on June 27, 2014 and reviewed accordingly by ECRI Institute on September 19, 2014.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was completed by The Joint Commission on July 21, 2015 and reviewed accordingly by ECRI Institute on September 21, 2015.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on June 14, 2016. The information was verified by the measure developer on June 29, 2016.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The Specifications Manual for Joint Commission National Quality Core Measures [Version 2016A, July 2016] is periodically updated by The Joint Commission. Users of the Specifications Manual for Joint Commission National Quality Core Measures must update their software and associated documentation based on the published manual production timelines.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Specifications manual for Joint Commission national quality measures, version 2016A. Oakbrook Terrace (IL): The Joint Commission; Effective 2016 Jul 1. various p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>

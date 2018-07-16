@@ -1,0 +1,251 @@
+<Version>
+  <xmlSource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlSource>
+  <Section SecID="560" OrdBy="10" Name="General">
+    <Field FieldID="11" OrdBy="20" ID="561" Name="Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_title&quot;&gt;Long-stay nursing home care: percent of residents whose need for help with activities of daily living has increased.&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="1" OrdBy="30" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="563" OrdBy="40" Name="Measure Domain">
+    <Field FieldID="3025" OrdBy="50" ID="564" Name="Primary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Clinical Quality Measures: Outcome" />
+    </Field>
+    <Field FieldID="3026" OrdBy="60" ID="565" Name="Secondary Measure Domain" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+  </Section>
+  <Section SecID="566" OrdBy="70" Name="Brief Abstract">
+    <Field FieldID="34" OrdBy="80" ID="567" Name="Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure is used to assess the percent of long-stay residents whose need for help with late-loss activities of daily living (ADLs) has increased when compared to the prior assessment.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="21" OrdBy="90" ID="568" Name="Rationale" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Increasing activities of daily living (ADL) dependence is associated with decreased quality of life. Greater functional dependency was found to be a risk factor for complications such as pressure ulcers, hospitalizations, and reduced quality of life (Centers for Medicare and Medicaid Services [CMS], n.d.; Colorado Foundation for Medical Care, 2007). Although some ADL decline may be an unavoidable consequence of an individual's clinical condition, increased functional dependency can also result from inadequate nursing care or rehabilitation therapies (Degenholtz et al., 2008; Kresevic, 2012). In general, functional dependency increases over time, but this increase is higher for residents with physical or cognitive impairment compared to residents with other medical conditions, such as heart disease (Banaszak-Holl et al., 2011). Risk factors for functional decline include injuries, medication side effects, pain, poor nutrition, weight loss, the use of restraints, prolonged bed rest, and the prolonged use of indwelling catheters (CMS, 2008; Colorado Foundation for Medical Care, 2007; American Health Care Association [AHCA], 2008; B&amp;uuml;rge et al., 2013; Kolanowski et al., 2014). These factors may be mitigated by nursing care, multidisciplinary communication, and referrals for rehabilitation therapies and nutrition services (Horn et al., 2005; Rantz et al., 2012). In addition, improved physical environmental factors (e.g., chairs with arms, improved lighting) may contribute to maintaining or improving function (B&amp;uuml;rge et al., 2013). ADL decline is also associated with substantial Medicare costs. In a study focused on a community-residing sample, 10.0% beneficiaries who declined in function accounted for more than 20.0% of hospital, outpatient, and nursing facility expenditures (Fried et al., 2001).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3500" OrdBy="100" ID="569" Name="Evidence for Rationale" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;American Health Care Association (AHCA). Trends in publicly reported nursing facility quality measures. Washington (DC): American Health Care Association (AHCA); 2008. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Banaszak-Holl J, Liang J, Quiñones A, Cigolle C, Lee IC, Verbrugge LM. Trajectories of functional change among long stayers in nursing homes: does baseline impairment matter?. J Aging Health. 2011 Aug;23(5):862-82. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21436394&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Bürge E, von Gunten A, Berchtold A. Factors favoring a degradation or an improvement in activities of daily living (ADL) performance among nursing home (NH) residents: a survival analysis. Arch Gerontol Geriatr. 2013 Jan-Feb;56(1):250-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23022056&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Centers for Medicare and Medicaid Services (CMS). CMS MDS quality measure/indicator report. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Colorado Foundation for Medical Care. Development, maintenance, and implementation of nursing home quality measures. Environmental scan: review of the literature, clinical guidelines, and other sources of information pertinent to the CMS publicly reported nursing home quality measures. Englewood (CO): Colorado Foundation for Medical Care; 2007. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Degenholtz HB, Rosen J, Castle N, Mittal V, Liu D. The association between changes in health status and nursing home resident quality of life. Gerontologist. 2008 Oct;48(5):584-92. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18981275&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fried TR, Bradley EH, Williams CS, Tinetti ME. Functional disability and health care expenditures for older persons. Arch Intern Med. 2001 Nov 26;161(21):2602-7. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11718592&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Horn SD, Buerhaus P, Bergstrom N, Smout RJ. RN staffing time and outcomes of long-stay nursing home residents: pressure ulcers and other adverse outcomes are less likely as RNs spend more time on direct patient care. Am J Nurs. 2005 Nov;105(11):58-70; quiz 71.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kolanowski A, Mogle J, Fick DM, Hill N, Mulhall P, Nadler J, Colancecco E, Behrens L. Pain, delirium, and physical function in skilled nursing home patients with dementia. J Am Med Dir Assoc. 2015 Jan;16(1):37-40. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25239018&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Kresevic DM. Assessment of physical function. In: Boltz M, Capezuti E, Fulmer T, Zwicker D, editor(s). Evidence-based geriatric nursing protocols for best practice. 4th ed. New York (NY): Springer Publishing Company; 2012. p. 89-103.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents whose need for help with activities of daily living has increased (long stay). Washington (DC): National Quality Forum (NQF); 2014 Nov 7. 26 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Rantz MJ, Zwygart-Stauffacher M, Hicks L, Mehr D, Flesner M, Petroski GF, Madsen RW, Scott-Cawiezell J. Randomized multilevel intervention to improve outcomes of residents in nursing homes in need of improvement. J Am Med Dir Assoc. 2012 Jan;13(1):60-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21816681&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3022" OrdBy="110" ID="570" Name="Primary Health Components" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Nursing home; long-stay; activities of daily living (ADLs)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="23" OrdBy="120" ID="571" Name="Denominator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All long-stay residents with a selected target and prior assessment, except those with exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="24" OrdBy="130" ID="572" Name="Numerator Description" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Long-stay residents with selected target and prior assessments that indicate the need for help with late-loss activities of daily living (ADLs) has increased when the selected assessments are compared. The four late-loss ADL items are self-performance bed mobility, self-performance transfer, self-performance eating, and self-performance toileting (see the related &quot;Numerator Inclusions/Exclusions&quot; field).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="573" OrdBy="140" Name="Evidence Supporting the Measure">
+    <Field FieldID="3027" OrdBy="150" ID="574" Name="Type of Evidence Supporting the Criterion of Quality for the Measure" Type="picklist-choice">
+      <FieldValue Value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence" />
+      <FieldValue Value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences" />
+      <FieldValue Value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal" />
+    </Field>
+    <Field FieldID="3501" OrdBy="160" ID="575" Name="Additional Information Supporting Need for the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Race&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;RTI analyses on the distribution of facility scores on this measure by race indicate that facilities with different proportions of non-white populations do not have different performance scores on this measure. In the analyses, facilities were sorted based on their percentage of non-white residents, and then divided into quartiles: Quartile 1 = 0 to 2.8% non-white (n=3,224); Quartile 2 = 2.8 to 11.7% non-white (n=3,154); Quartile 3 = 11.7 to 32.6% non-white (n=3,191), and Quartile 4 = 32.6 to 100% non-white (3,186). The percentile distributions of performance scores for facilities within these quartiles were then calculated and compared. Overall, there is very little difference in mean facility scores across quartiles, such that in Quartile 4 facilities, the group with the highest proportion of non-white residents, the mean for this quality measure was 15.2%. In comparison, 15.2% of the residents in Quartile 1 facilities, the group with the lowest proportion of non-white residents, experienced an increase in activities of daily living (ADL) dependency. Since these mean scores are virtually identical, the developer conclude that the percentage of non-white residents does not affect performance scores significantly for this measure (RTI International, 2014). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Gender&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Gender also has been linked to ADL decline for older adults. In particular, women were found to have significantly lower rates of functional impairment compared to men, even when controlling for condition or illness suggesting gender disparity, which tends to disadvantage women, is not an issue for this measure (Peek et al., 1997; Yoshino et al., 2011).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Socioeconomic Status&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Socioeconomic status has also been associated with ADL decline, such that lower status yields a higher risk for ADL decline (Chen et al., 2012; den Ouden et al., 2013; Fuller-Thomson &amp;amp; Gadalla, 2008). To examine the potential for a relationship between socioeconomic disparity and ADL decline, the developer examined the performance of this measure in facilities stratified by the proportion of residents who are Medicaid eligible, a proxy measure of low socioeconomic status. For this analysis, facilities were stratified into two groups: facilities with greater than 75% of residents who are Medicaid eligible and facilities with less than 75% of residents who were Medicaid eligible (75% of facilities have 75% or more of residents included in this measure who are Medicaid eligible). In Quarter 2 of 2014, the mean score on this measure for facilities with a higher proportion of Medicaid eligible residents was 15.5%, versus 14.9% for facilities with a smaller proportion of Medicaid eligible residents. This is a significant difference between the two groups [F(1,15101) = 12.48, p = .0004) but it represents a very small (Eta-squared = 0.000826) effect, meaning that socioeconomic status&amp;ndash;as measured by proportion of Medicaid residents&amp;ndash;explains less than 1/1000 in the variance in provider scores for this measure. Thus, the relationship between socioeconomic status, as stratified by the proportion of residents who are Medicaid eligible, and facility-level scores is quite weak (RTI International, 2014). &lt;/p&gt;&#xD;&#xA;&lt;p&gt;Although ADL function may decline over time, empirical evidence on the association between age and functional decline is inconclusive. In one study advanced age was not identified as a significant predictor of ADL decline (Yoshino et al., 2011). Another study found that the risk of functional decline increased with age (Stineman et al., 2013). A U-shape relationship between age and functional decline was also evident, indicating that people younger than 65 years and those older than 80 years are more likely to have ADL limitations (Stineman et al., 2014). &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3502" OrdBy="170" ID="576" Name="Evidence for Additional Information Supporting Need for the Measure" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Chen B, Covinsky KE, Stijacic Cenzer I, Adler N, Williams BA. Subjective social status and functional decline in older adults. J Gen Intern Med. 2012 Jun;27(6):693-9. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22215272&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;den Ouden ME, Schuurmans MJ, Mueller-Schotte S, van der Schouw YT. Identification of high-risk individuals for the development of disability in activities of daily living. A ten-year follow-up study. Exp Gerontol. 2013 Apr;48(4):437-43. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23403381&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Fuller-Thomson E, Gadalla T. Income inequality and limitations in activities of daily living: a multilevel analysis of the 2003 American Community Survey. Pub Health. 2008 Mar;122(3):221-8. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17981309&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;National Quality Forum measure information: percent of residents whose need for help with activities of daily living has increased (long stay). Washington (DC): National Quality Forum (NQF); 2014 Nov 7. 26 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Peek CW, Coward RT, Henretta JC, Duncan RP, Dougherty MC. Differences by race in the decline of health over time. J Gerontol B Psychol Sci Soc Sci. 1997 Nov;52(6):S336-44. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9403527&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. RTI analysis of MDS 3.0 data (Quarter 2, 2014). Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2014. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stineman MG, Streim JE, Pan Q, Kurichi JE, Schüssler-Fiorenza Rose SM, Xie D. Activity Limitation Stages empirically derived for Activities of Daily Living (ADL) and Instrumental ADL in the U.S. Adult community-dwelling Medicare population. PM R. 2014 Nov;6(11):976-87; quiz 987. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24798263&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Stineman MG, Zhang G, Kurichi JE, Zhang Z, Streim JE, Pan Q, Xie D. Prognosis for functional deterioration and functional improvement in late life among community-dwelling persons. PM R. 2013 May;5(5):360-71. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23454447&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Yoshino H, Sakurai T, Hasegawa K, Yokono K. Causes of decreased activity of daily life in elderly patients who need daily living care. Geriatr Gerontol Int. 2011 Jul;11(3):297-303. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21272178&quot; target=&quot;_blank&quot;&gt;PubMed&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+    <Field FieldID="3072" OrdBy="180" ID="577" Name="Extent of Measure Testing" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Refer to &lt;em&gt;Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.&lt;/em&gt; for additional information.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3007" OrdBy="190" ID="578" Name="Evidence for Extent of Measure Testing" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="580" OrdBy="210" Name="State of Use of the Measure">
+    <Field FieldID="3029" OrdBy="220" ID="581" Name="State of Use" Type="picklist-one">
+      <FieldValue Value="Current routine use" />
+    </Field>
+    <Field FieldID="3030" OrdBy="230" ID="582" Name="Current Use" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="583" OrdBy="240" Name="Application of the Measure in its Current Use">
+    <Field FieldID="3031" OrdBy="250" ID="584" Name="Measurement Setting" Type="picklist-choice">
+      <FieldValue Value="Skilled Nursing Facilities/Nursing Homes" />
+    </Field>
+    <Field FieldID="3032" OrdBy="260" ID="585" Name="Professionals Involved in Delivery of Health Services" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3033" OrdBy="270" ID="586" Name="Least Aggregated Level of Services Delivery Addressed" Type="picklist-one">
+      <FieldValue Value="Single Health Care Delivery or Public Health Organizations" />
+    </Field>
+    <Field FieldID="3505" OrdBy="280" ID="587" Name="Statement of Acceptable Minimum Sample Size" Type="picklist-one">
+      <FieldValue Value="Specified" />
+    </Field>
+    <Field FieldID="41" OrdBy="290" ID="588" Name="Target Population Age" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;All ages&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="42" OrdBy="300" ID="589" Name="Target Population Gender" Type="picklist-one">
+      <FieldValue Value="Either male or female" />
+    </Field>
+  </Section>
+  <Section SecID="660" OrdBy="310" Name="National Strategy for Quality Improvement in Health Care">
+    <Field FieldID="3522" OrdBy="320" ID="661" Name="National Quality Strategy Aim" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Better Care&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+    <Field FieldID="3525" OrdBy="330" ID="662" Name="National Quality Strategy Priority" Type="text">
+      <FieldValue Value="&lt;ul&gt;&lt;li&gt;Making Care Safer&lt;/li&gt;&lt;li&gt;Prevention and Treatment of Leading Causes of Mortality&lt;/li&gt;&lt;/ul&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="590" OrdBy="340" Name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <Field FieldID="3163" OrdBy="350" ID="591" Name="IOM Care Need" Type="picklist-choice">
+      <FieldValue Value="Living with Illness" />
+    </Field>
+    <Field FieldID="3164" OrdBy="360" ID="592" Name="IOM Domain" Type="picklist-choice">
+      <FieldValue Value="Effectiveness" />
+      <FieldValue Value="Safety" />
+    </Field>
+  </Section>
+  <Section SecID="593" OrdBy="370" Name="Data Collection for the Measure">
+    <Field FieldID="3506" OrdBy="380" ID="594" Name="Case Finding Period" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarterly&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3054" OrdBy="390" ID="595" Name="Denominator Sampling Frame" Type="picklist-one">
+      <FieldValue Value="Patients associated with provider" />
+    </Field>
+    <Field FieldID="3057" OrdBy="400" ID="598" Name="Denominator (Index) Event or Characteristic" Type="picklist-choice">
+      <FieldValue Value="Diagnostic Evaluation" />
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3058" OrdBy="410" ID="599" Name="Denominator Time Window" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="55" OrdBy="420" ID="596" Name="Denominator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;All long-stay* residents with a selected target and prior assessment, except those with exclusions&lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;*&lt;strong&gt;Long-stay&lt;/strong&gt;: An episode with cumulative days in facility (CDIF) greater than or equal to 101 days as of the end of the target period.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;/p&gt;&#xD;&#xA;&lt;ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;&gt;&#xD;&#xA;    &lt;li&gt;All four of the late-loss activities of daily living (ADLs) items indicate total dependence on the prior assessment, as indicated by&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Bed Mobility (G0110A1) = [4, 7, 8] &lt;em&gt;&lt;strong&gt;and&lt;/strong&gt;&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Transferring (G0110B1) = [4, 7, 8] &lt;em&gt;&lt;strong&gt;and&lt;/strong&gt;&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Eating (G0110H1) = [4, 7, 8] &lt;em&gt;&lt;strong&gt;and&lt;/strong&gt;&lt;/em&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Toileting (G0110I1) = [4, 7, 8] &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Three of the late-loss ADLs indicate total dependence on the prior assessment, as in #1 &lt;em&gt;&lt;strong&gt;and&lt;/strong&gt;&lt;/em&gt; the fourth late-loss ADL indicates extensive assistance (value 3) on the prior assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;If resident is comatose on the target assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Prognosis of life expectancy is less than 6 months on the target assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Hospice care on the target assessment &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;The resident is not in the numerator &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt;&#xD;&#xA;    &lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;        &lt;li&gt;Bed Mobility (G0110A1) = missing [ - ] on the prior or target assessment, &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Transferring (G0110B1) = missing [ - ] on the prior or target assessment, &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Eating (G0110H1) = missing [ - ] on the prior or target assessment, &lt;strong&gt;&lt;em&gt;or&lt;/em&gt;&lt;/strong&gt; &lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Toileting (G0110I1) = missing [ - ] on the prior or target assessment &lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;&lt;/ol&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3507" OrdBy="430" ID="597" Name="Exclusions/Exceptions" Type="picklist-choice-4">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="59" OrdBy="440" ID="600" Name="Numerator Inclusions/Exclusions" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;&lt;strong&gt;Inclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Long-stay residents with selected target and prior assessments that indicate the need for help with late-loss activities of daily living (ADLs) has increased when the selected assessments are compared. The four late-loss ADL items are self-performance bed mobility, self-performance transfer, self-performance eating, and self-performance toileting.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;An increase is defined as an increase in two or more coding points in one late-loss ADL item &lt;em&gt;&lt;strong&gt;or&lt;/strong&gt; &lt;/em&gt;one point increase in coding points in two or more late-loss ADL items. &lt;/p&gt;&#xD;&#xA;&lt;p class=&quot;Note&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: Refer to the original measure documentation for details.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Exclusions&lt;/strong&gt;&lt;br /&gt;&#xD;&#xA;Unspecified&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3061" OrdBy="450" ID="601" Name="Numerator Search Strategy" Type="picklist-one">
+      <FieldValue Value="Institutionalization" />
+    </Field>
+    <Field FieldID="3062" OrdBy="460" ID="602" Name="Data Source" Type="picklist-many">
+      <FieldValue Value="Administrative clinical data" />
+    </Field>
+    <Field FieldID="3065" OrdBy="470" ID="603" Name="Type of Health State" Type="picklist-one">
+      <FieldValue Value="Functional Status" />
+    </Field>
+    <Field FieldID="3066" OrdBy="480" ID="604" Name="Instruments Used and/or Associated with the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="605" OrdBy="490" Name="Computation of the Measure">
+    <Field FieldID="3508" OrdBy="500" ID="606" Name="Measure Specifies Disaggregation" Type="picklist-one">
+      <FieldValue Value="Does not apply to this measure" />
+    </Field>
+    <Field FieldID="3067" OrdBy="520" ID="608" Name="Scoring" Type="picklist-many">
+      <FieldValue Value="Rate/Proportion" />
+    </Field>
+    <Field FieldID="3068" OrdBy="530" ID="609" Name="Interpretation of Score" Type="picklist-one">
+      <FieldValue Value="Desired value is a lower score" />
+    </Field>
+    <Field FieldID="3090" OrdBy="540" ID="610" Name="Allowance for Patient or Population Factors" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3070" OrdBy="560" ID="612" Name="Standard of Comparison" Type="picklist-choice-3">
+      <FieldValue Value="not defined yet" />
+    </Field>
+  </Section>
+  <Section SecID="615" OrdBy="590" Name="Identifying Information">
+    <Field FieldID="73" OrdBy="600" ID="616" Name="Original Title" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Percent of residents whose need for help with activities of daily living has increased (long-stay).&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="74" OrdBy="610" ID="617" Name="Measure Collection Name" Type="text">
+      <FieldValue Value="Nursing Home Quality Initiative Measures" />
+    </Field>
+    <Field FieldID="75" OrdBy="620" ID="618" Name="Measure Set Name" Type="text">
+      <FieldValue Value="Long-stay Quality Measures" />
+    </Field>
+    <Field FieldID="16" OrdBy="650" ID="621" Name="Submitter" Type="orglist">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+    </Field>
+    <Field FieldID="17" OrdBy="660" ID="622" Name="Developer" Type="orglist-p">
+      <FieldValue Value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]" />
+      <FieldValue Value="RTI International - Nonprofit Research Organization" />
+    </Field>
+    <Field FieldID="79" OrdBy="670" ID="623" Name="Funding Source(s)" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="80" OrdBy="680" ID="624" Name="Composition of the Group that Developed the Measure" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="81" OrdBy="690" ID="625" Name="Financial Disclosures/Other Potential Conflicts of Interest" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No conflicts of interest exist.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="82" OrdBy="700" ID="626" Name="Endorser" Type="orglist">
+      <FieldValue Value="National Quality Forum - None" />
+    </Field>
+    <Field FieldID="3091" OrdBy="705" ID="696" Name="NQF Number" Type="plain-text">
+      <FieldValue Value="not defined yet" />
+    </Field>
+    <Field FieldID="3510" OrdBy="710" ID="627" Name="Date of Endorsement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;2015 Jul 7&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3083" OrdBy="720" ID="628" Name="Measure Initiative(s)" Type="picklist-many">
+      <FieldValue Value="Nursing Home Compare" />
+    </Field>
+    <Field FieldID="19" OrdBy="730" ID="629" Name="Adaptation" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This measure was not adapted from another source.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3086" OrdBy="740" ID="630" Name="Date of Most Current Version in NQMC" Type="date">
+      <FieldValue Value="2015 Oct" />
+    </Field>
+    <Field FieldID="3511" OrdBy="750" ID="631" Name="Measure Maintenance" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Annual and (every three years) endorsement&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="3512" OrdBy="760" ID="632" Name="Date of Next Anticipated Revision" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Quarter 4 2016&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="20" OrdBy="770" ID="633" Name="Measure Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;This is the current release of the measure.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="14" OrdBy="780" ID="634" Name="Measure Availability" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;Source available from the &lt;a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;For more information, refer to the CMS Web site at &lt;a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;&gt;www.cms.gov&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="15" OrdBy="790" ID="635" Name="Companion Documents" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The following are available: &lt;/p&gt;&#xD;&#xA;&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&#xD;&#xA;    &lt;li&gt;Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the &lt;a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;&gt;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the &lt;a href=&quot;http://www.medicare.gov/nursinghomecompare/search.html&quot; title=&quot;Nursing Home Compare&quot; target=&quot;_blank&quot;&gt;Medicare Web site&lt;/a&gt;. &lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="87" OrdBy="800" ID="636" Name="NQMC Status" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;The NQMC summary was completed by ECRI on July 22, 2004. The information was verified by the measure developer on August 30, 2004. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was retrofitted into the new template on June 28, 2011. &lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. &lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+    <Field FieldID="88" OrdBy="810" ID="637" Name="Copyright Statement" Type="text">
+      <FieldValue Value="&lt;div class=&quot;content_para&quot;&gt;&lt;p&gt;No copyright restrictions apply.&lt;/p&gt;&lt;/div&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="641" OrdBy="850" Name="Production">
+    <Field FieldID="1" OrdBy="1366" ID="562" Name="Source(s)" Type="citation">
+      <FieldValue Value="&lt;table&gt;&lt;tr&gt;&lt;td&gt;RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    </Field>
+  </Section>
+  <Section SecID="99999" OrdBy="99999" Name="Disclaimer">
+    <Field FieldID="99999" OrdBy="99999" ID="99999" Name="NQMC Disclaimer" Type="text">
+      <FieldValue Value="&lt;p&gt;The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the &lt;a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;&gt;NQMC Inclusion Criteria&lt;/a&gt;.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.&lt;/p&gt; &#xD;&#xA;&lt;p&gt;Readers with questions regarding measure content are directed to contact the measure developer.&lt;/p&gt;" />
+    </Field>
+  </Section>
+</Version>
